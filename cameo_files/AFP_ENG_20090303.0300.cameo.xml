@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0300">
+    <Sentences>
+      <Sentence char_offsets="189:387" id="0" />
+      <Sentence char_offsets="398:583" id="1" />
+      <Sentence char_offsets="594:753" id="2" />
+      <Sentence char_offsets="764:845" id="3" />
+      <Sentence char_offsets="856:1010" id="4" />
+      <Sentence char_offsets="1021:1222" id="5" />
+      <Sentence char_offsets="1233:1528" id="6" />
+      <Sentence char_offsets="1539:1618" id="7" />
+      <Sentence char_offsets="1629:1792" id="8" />
+      <Sentence char_offsets="1803:1950" id="9" />
+      <Sentence char_offsets="1961:2077" id="10" />
+      <Sentence char_offsets="2088:2187" id="11" />
+      <Sentence char_offsets="2198:2380" id="12" />
+      <Sentence char_offsets="2391:2470" id="13" />
+      <Sentence char_offsets="2481:2635" id="14" />
+      <Sentence char_offsets="2646:2845" id="15" />
+      <Sentence char_offsets="2856:3056" id="16" />
+      <Sentence char_offsets="3067:3246" id="17" />
+      <Sentence char_offsets="3248:3306" id="18" />
+      <Sentence char_offsets="3317:3459" id="19" />
+      <Sentence char_offsets="3470:3689" id="20" />
+      <Sentence char_offsets="3700:3779" id="21" />
+      <Sentence char_offsets="3790:4011" id="22" />
+      <Sentence char_offsets="4022:4084" id="23" />
+      <Sentence char_offsets="4095:4293" id="24" />
+      <Sentence char_offsets="4304:4407" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="53079" actor_name="African Union" role="Source" />
+        <Participant actor_id="48346" actor_name="Joao Bernardo Vieira" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="032">
+        <Participant actor_id="55902" actor_name="Muammar al-Qaddafi" role="Source" />
+        <Participant actor_id="30984" actor_name="Guinea-Bissau" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="036">
+        <Participant actor_id="34528" actor_name="Portugal" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="14643" actor_name="Carlos Gomes Junior" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

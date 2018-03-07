@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090331.0191">
+    <Sentences>
+      <Sentence char_offsets="162:315" id="0" />
+      <Sentence char_offsets="317:443" id="1" />
+      <Sentence char_offsets="454:637" id="2" />
+      <Sentence char_offsets="648:812" id="3" />
+      <Sentence char_offsets="823:906" id="4" />
+      <Sentence char_offsets="908:1111" id="5" />
+      <Sentence char_offsets="1122:1170" id="6" />
+      <Sentence char_offsets="1172:1273" id="7" />
+      <Sentence char_offsets="1284:1359" id="8" />
+      <Sentence char_offsets="1370:1542" id="9" />
+      <Sentence char_offsets="1553:1625" id="10" />
+      <Sentence char_offsets="1636:1785" id="11" />
+      <Sentence char_offsets="1796:1846" id="12" />
+      <Sentence char_offsets="1848:1933" id="13" />
+      <Sentence char_offsets="1944:2045" id="14" />
+      <Sentence char_offsets="2056:2191" id="15" />
+      <Sentence char_offsets="2202:2290" id="16" />
+      <Sentence char_offsets="2301:2458" id="17" />
+      <Sentence char_offsets="2460:2537" id="18" />
+      <Sentence char_offsets="2548:2609" id="19" />
+      <Sentence char_offsets="2611:2704" id="20" />
+      <Sentence char_offsets="2715:2960" id="21" />
+      <Sentence char_offsets="2971:3021" id="22" />
+      <Sentence char_offsets="3032:3142" id="23" />
+      <Sentence char_offsets="3153:3276" id="24" />
+      <Sentence char_offsets="3287:3492" id="25" />
+      <Sentence char_offsets="3503:3602" id="26" />
+      <Sentence char_offsets="3613:3634" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="017">
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="344" agent_name="Scientist" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="017">
+        <Participant actor_id="41262" actor_name="United States" agent_id="344" agent_name="Scientist" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="344" agent_name="Scientist" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="25" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="344" agent_name="Scientist" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

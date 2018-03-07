@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0337">
+    <Sentences>
+      <Sentence char_offsets="191:366" id="0" />
+      <Sentence char_offsets="377:583" id="1" />
+      <Sentence char_offsets="594:747" id="2" />
+      <Sentence char_offsets="758:892" id="3" />
+      <Sentence char_offsets="903:1103" id="4" />
+      <Sentence char_offsets="1114:1166" id="5" />
+      <Sentence char_offsets="1177:1356" id="6" />
+      <Sentence char_offsets="1367:1528" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="121919" actor_name="Armed Forces of the Philippines" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

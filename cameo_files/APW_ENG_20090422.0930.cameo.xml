@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0930">
+    <Sentences>
+      <Sentence char_offsets="172:383" id="0" />
+      <Sentence char_offsets="394:499" id="1" />
+      <Sentence char_offsets="501:661" id="2" />
+      <Sentence char_offsets="672:910" id="3" />
+      <Sentence char_offsets="921:1064" id="4" />
+      <Sentence char_offsets="1066:1210" id="5" />
+      <Sentence char_offsets="1221:1341" id="6" />
+      <Sentence char_offsets="1343:1482" id="7" />
+      <Sentence char_offsets="1493:1694" id="8" />
+      <Sentence char_offsets="1696:1823" id="9" />
+      <Sentence char_offsets="1834:1948" id="10" />
+      <Sentence char_offsets="1959:2106" id="11" />
+      <Sentence char_offsets="2108:2302" id="12" />
+      <Sentence char_offsets="2313:2429" id="13" />
+      <Sentence char_offsets="2431:2530" id="14" />
+      <Sentence char_offsets="2541:2818" id="15" />
+      <Sentence char_offsets="2829:2972" id="16" />
+      <Sentence char_offsets="2983:3068" id="17" />
+      <Sentence char_offsets="3070:3251" id="18" />
+      <Sentence char_offsets="3262:3375" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="current" type="010">
+        <Participant actor_id="4207" actor_name="Alexei Leonidovich Kudrin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="402" agent_name="Government Affiliated Bank" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

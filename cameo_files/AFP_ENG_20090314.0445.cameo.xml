@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0445">
+    <Sentences>
+      <Sentence char_offsets="201:321" id="0" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="180">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

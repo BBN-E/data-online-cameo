@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0338">
+    <Sentences>
+      <Sentence char_offsets="192:356" id="0" />
+      <Sentence char_offsets="367:587" id="1" />
+      <Sentence char_offsets="598:704" id="2" />
+      <Sentence char_offsets="706:753" id="3" />
+      <Sentence char_offsets="764:847" id="4" />
+      <Sentence char_offsets="858:1022" id="5" />
+      <Sentence char_offsets="1033:1239" id="6" />
+      <Sentence char_offsets="1250:1470" id="7" />
+      <Sentence char_offsets="1481:1611" id="8" />
+      <Sentence char_offsets="1613:1679" id="9" />
+      <Sentence char_offsets="1690:1825" id="10" />
+      <Sentence char_offsets="1836:2039" id="11" />
+      <Sentence char_offsets="2050:2140" id="12" />
+      <Sentence char_offsets="2151:2329" id="13" />
+      <Sentence char_offsets="2340:2344" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="020">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="932" actor_name="V. Prabhakaran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="current" type="080">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="184">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

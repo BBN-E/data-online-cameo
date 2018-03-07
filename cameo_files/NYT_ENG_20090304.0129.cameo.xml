@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090304.0129">
+    <Sentences>
+      <Sentence char_offsets="190:446" id="0" />
+      <Sentence char_offsets="457:612" id="1" />
+      <Sentence char_offsets="614:659" id="2" />
+      <Sentence char_offsets="670:946" id="3" />
+      <Sentence char_offsets="957:1155" id="4" />
+      <Sentence char_offsets="1166:1341" id="5" />
+      <Sentence char_offsets="1343:1457" id="6" />
+      <Sentence char_offsets="1468:1693" id="7" />
+      <Sentence char_offsets="1704:1868" id="8" />
+      <Sentence char_offsets="1879:2021" id="9" />
+      <Sentence char_offsets="2032:2258" id="10" />
+      <Sentence char_offsets="2269:2388" id="11" />
+      <Sentence char_offsets="2390:2447" id="12" />
+      <Sentence char_offsets="2458:2543" id="13" />
+      <Sentence char_offsets="2554:2646" id="14" />
+      <Sentence char_offsets="2657:2844" id="15" />
+      <Sentence char_offsets="2855:2988" id="16" />
+      <Sentence char_offsets="2999:3184" id="17" />
+      <Sentence char_offsets="3195:3305" id="18" />
+      <Sentence char_offsets="3307:3435" id="19" />
+      <Sentence char_offsets="3437:3537" id="20" />
+      <Sentence char_offsets="3548:3834" id="21" />
+      <Sentence char_offsets="3845:4028" id="22" />
+      <Sentence char_offsets="4039:4249" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="111">
+        <Participant actor_id="6973" actor_name="Lashkar-e-Taiba" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="6973" actor_name="Lashkar-e-Taiba" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="6973" actor_name="Lashkar-e-Taiba" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

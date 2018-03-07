@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0288">
+    <Sentences>
+      <Sentence char_offsets="195:393" id="0" />
+      <Sentence char_offsets="404:626" id="1" />
+      <Sentence char_offsets="637:743" id="2" />
+      <Sentence char_offsets="745:792" id="3" />
+      <Sentence char_offsets="803:1015" id="4" />
+      <Sentence char_offsets="1026:1181" id="5" />
+      <Sentence char_offsets="1192:1320" id="6" />
+      <Sentence char_offsets="1331:1513" id="7" />
+      <Sentence char_offsets="1524:1658" id="8" />
+      <Sentence char_offsets="1669:1890" id="9" />
+      <Sentence char_offsets="1901:1949" id="10" />
+      <Sentence char_offsets="1951:2086" id="11" />
+      <Sentence char_offsets="2097:2283" id="12" />
+      <Sentence char_offsets="2294:2408" id="13" />
+      <Sentence char_offsets="2419:2563" id="14" />
+      <Sentence char_offsets="2574:2718" id="15" />
+      <Sentence char_offsets="2729:2827" id="16" />
+      <Sentence char_offsets="2838:3064" id="17" />
+      <Sentence char_offsets="3075:3243" id="18" />
+      <Sentence char_offsets="3254:3432" id="19" />
+      <Sentence char_offsets="3443:3467" id="20" />
+      <Sentence char_offsets="3469:3527" id="21" />
+      <Sentence char_offsets="3529:3605" id="22" />
+      <Sentence char_offsets="3616:3689" id="23" />
+      <Sentence char_offsets="3700:3866" id="24" />
+      <Sentence char_offsets="3877:4044" id="25" />
+      <Sentence char_offsets="4055:4236" id="26" />
+      <Sentence char_offsets="4247:4469" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="932" actor_name="V. Prabhakaran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="neutral" type="036">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="current" type="0874">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="112">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

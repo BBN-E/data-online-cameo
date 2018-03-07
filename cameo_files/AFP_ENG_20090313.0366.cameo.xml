@@ -1,0 +1,111 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0366">
+    <Sentences>
+      <Sentence char_offsets="181:363" id="0" />
+      <Sentence char_offsets="374:583" id="1" />
+      <Sentence char_offsets="594:633" id="2" />
+      <Sentence char_offsets="635:802" id="3" />
+      <Sentence char_offsets="813:1024" id="4" />
+      <Sentence char_offsets="1035:1239" id="5" />
+      <Sentence char_offsets="1250:1387" id="6" />
+      <Sentence char_offsets="1398:1519" id="7" />
+      <Sentence char_offsets="1530:1605" id="8" />
+      <Sentence char_offsets="1607:1664" id="9" />
+      <Sentence char_offsets="1675:1851" id="10" />
+      <Sentence char_offsets="1862:1981" id="11" />
+      <Sentence char_offsets="1992:2169" id="12" />
+      <Sentence char_offsets="2180:2324" id="13" />
+      <Sentence char_offsets="2335:2436" id="14" />
+      <Sentence char_offsets="2447:2664" id="15" />
+      <Sentence char_offsets="2675:2797" id="16" />
+      <Sentence char_offsets="2808:2961" id="17" />
+      <Sentence char_offsets="2972:3145" id="18" />
+      <Sentence char_offsets="3156:3361" id="19" />
+      <Sentence char_offsets="3372:3481" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="019">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="032">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="current" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="current" type="041">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="current" type="041">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="neutral" type="046">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="neutral" type="046">
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" agent_id="340" agent_name="Chief of Staff" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="046">
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" agent_id="340" agent_name="Chief of Staff" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="10" tense="neutral" type="046">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" agent_id="340" agent_name="Chief of Staff" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="4" tense="neutral" type="060">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="4" tense="neutral" type="060">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="12" tense="neutral" type="111">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="5" tense="neutral" type="175">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="7" tense="current" type="040">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="10" tense="neutral" type="046">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="10" tense="neutral" type="046">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" agent_id="340" agent_name="Chief of Staff" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

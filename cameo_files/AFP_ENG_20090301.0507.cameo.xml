@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0507">
+    <Sentences>
+      <Sentence char_offsets="187:330" id="0" />
+      <Sentence char_offsets="341:471" id="1" />
+      <Sentence char_offsets="482:715" id="2" />
+      <Sentence char_offsets="726:1062" id="3" />
+      <Sentence char_offsets="1073:1185" id="4" />
+      <Sentence char_offsets="1196:1476" id="5" />
+      <Sentence char_offsets="1487:1695" id="6" />
+      <Sentence char_offsets="1706:1909" id="7" />
+      <Sentence char_offsets="1920:2064" id="8" />
+      <Sentence char_offsets="2075:2365" id="9" />
+      <Sentence char_offsets="2376:2509" id="10" />
+      <Sentence char_offsets="2511:2674" id="11" />
+      <Sentence char_offsets="2685:2788" id="12" />
+      <Sentence char_offsets="2799:3024" id="13" />
+      <Sentence char_offsets="3035:3179" id="14" />
+      <Sentence char_offsets="3190:3407" id="15" />
+      <Sentence char_offsets="3418:3643" id="16" />
+      <Sentence char_offsets="3654:3944" id="17" />
+      <Sentence char_offsets="3955:4157" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="current" type="032">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="21393" actor_name="Fatah" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="032">
+        <Participant actor_id="21393" actor_name="Fatah" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="13920" actor_name="Ehud Olmert" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="18" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="36648" actor_name="Middle East" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="36648" actor_name="Middle East" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

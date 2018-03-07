@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0855">
+    <Sentences>
+      <Sentence char_offsets="192:346" id="0" />
+      <Sentence char_offsets="357:610" id="1" />
+      <Sentence char_offsets="621:633" id="2" />
+      <Sentence char_offsets="635:755" id="3" />
+      <Sentence char_offsets="757:886" id="4" />
+      <Sentence char_offsets="897:959" id="5" />
+      <Sentence char_offsets="970:1156" id="6" />
+      <Sentence char_offsets="1158:1255" id="7" />
+      <Sentence char_offsets="1266:1451" id="8" />
+      <Sentence char_offsets="1462:1682" id="9" />
+      <Sentence char_offsets="1684:1764" id="10" />
+      <Sentence char_offsets="1775:1928" id="11" />
+      <Sentence char_offsets="1930:2123" id="12" />
+      <Sentence char_offsets="2134:2293" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="604" agent_name="Muslim" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="604" agent_name="Muslim" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="112">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="129" agent_name="High Ranking Military Personnel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

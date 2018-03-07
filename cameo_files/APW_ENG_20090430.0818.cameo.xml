@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.0818">
+    <Sentences>
+      <Sentence char_offsets="174:362" id="0" />
+      <Sentence char_offsets="373:543" id="1" />
+      <Sentence char_offsets="554:653" id="2" />
+      <Sentence char_offsets="655:768" id="3" />
+      <Sentence char_offsets="779:947" id="4" />
+      <Sentence char_offsets="958:1129" id="5" />
+      <Sentence char_offsets="1140:1260" id="6" />
+      <Sentence char_offsets="1271:1359" id="7" />
+      <Sentence char_offsets="1361:1473" id="8" />
+      <Sentence char_offsets="1484:1547" id="9" />
+      <Sentence char_offsets="1549:1608" id="10" />
+      <Sentence char_offsets="1619:1807" id="11" />
+      <Sentence char_offsets="1809:1910" id="12" />
+      <Sentence char_offsets="1921:2084" id="13" />
+      <Sentence char_offsets="2095:2184" id="14" />
+      <Sentence char_offsets="2195:2385" id="15" />
+      <Sentence char_offsets="2396:2501" id="16" />
+      <Sentence char_offsets="2503:2659" id="17" />
+      <Sentence char_offsets="2670:2872" id="18" />
+      <Sentence char_offsets="2883:3076" id="19" />
+      <Sentence char_offsets="3078:3184" id="20" />
+      <Sentence char_offsets="3195:3350" id="21" />
+      <Sentence char_offsets="3361:3443" id="22" />
+      <Sentence char_offsets="3454:3630" id="23" />
+      <Sentence char_offsets="3641:3807" id="24" />
+      <Sentence char_offsets="3818:4003" id="25" />
+      <Sentence char_offsets="4005:4049" id="26" />
+      <Sentence char_offsets="4060:4165" id="27" />
+      <Sentence char_offsets="4176:4181" id="28" />
+      <Sentence char_offsets="4192:4294" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="0356">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="080">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="0874">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

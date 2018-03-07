@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090303.0127">
+    <Sentences>
+      <Sentence char_offsets="163:464" id="0" />
+      <Sentence char_offsets="475:710" id="1" />
+      <Sentence char_offsets="721:811" id="2" />
+      <Sentence char_offsets="822:1083" id="3" />
+      <Sentence char_offsets="1094:1186" id="4" />
+      <Sentence char_offsets="1197:1371" id="5" />
+      <Sentence char_offsets="1382:1513" id="6" />
+      <Sentence char_offsets="1515:1589" id="7" />
+      <Sentence char_offsets="1591:1702" id="8" />
+      <Sentence char_offsets="1713:1984" id="9" />
+      <Sentence char_offsets="1995:2229" id="10" />
+      <Sentence char_offsets="2240:2535" id="11" />
+      <Sentence char_offsets="2546:2655" id="12" />
+      <Sentence char_offsets="2657:2784" id="13" />
+      <Sentence char_offsets="2795:3014" id="14" />
+      <Sentence char_offsets="3016:3100" id="15" />
+      <Sentence char_offsets="3102:3156" id="16" />
+      <Sentence char_offsets="3167:3259" id="17" />
+      <Sentence char_offsets="3261:3481" id="18" />
+      <Sentence char_offsets="3492:3723" id="19" />
+      <Sentence char_offsets="3734:3783" id="20" />
+      <Sentence char_offsets="3785:3940" id="21" />
+      <Sentence char_offsets="3951:4189" id="22" />
+      <Sentence char_offsets="4191:4255" id="23" />
+      <Sentence char_offsets="4257:4363" id="24" />
+      <Sentence char_offsets="4374:4601" id="25" />
+      <Sentence char_offsets="4603:4647" id="26" />
+      <Sentence char_offsets="4658:4817" id="27" />
+      <Sentence char_offsets="4828:5053" id="28" />
+      <Sentence char_offsets="5064:5252" id="29" />
+      <Sentence char_offsets="5254:5354" id="30" />
+      <Sentence char_offsets="5365:5548" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="111">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="50971" actor_name="Peter Richard Orszag" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="111">
+        <Participant actor_id="51943" actor_name="Mitch McConnell" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

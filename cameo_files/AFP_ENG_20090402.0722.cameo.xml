@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0722">
+    <Sentences>
+      <Sentence char_offsets="180:364" id="0" />
+      <Sentence char_offsets="375:593" id="1" />
+      <Sentence char_offsets="604:756" id="2" />
+      <Sentence char_offsets="767:932" id="3" />
+      <Sentence char_offsets="943:1117" id="4" />
+      <Sentence char_offsets="1128:1264" id="5" />
+      <Sentence char_offsets="1275:1491" id="6" />
+      <Sentence char_offsets="1502:1623" id="7" />
+      <Sentence char_offsets="1634:1803" id="8" />
+      <Sentence char_offsets="1814:1960" id="9" />
+      <Sentence char_offsets="1971:2141" id="10" />
+      <Sentence char_offsets="2152:2243" id="11" />
+      <Sentence char_offsets="2254:2474" id="12" />
+      <Sentence char_offsets="2485:2591" id="13" />
+      <Sentence char_offsets="2602:2676" id="14" />
+      <Sentence char_offsets="2687:2803" id="15" />
+      <Sentence char_offsets="2814:2975" id="16" />
+      <Sentence char_offsets="2986:3107" id="17" />
+      <Sentence char_offsets="3118:3265" id="18" />
+      <Sentence char_offsets="3276:3391" id="19" />
+      <Sentence char_offsets="3402:3603" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="26895" actor_name="Fortis" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

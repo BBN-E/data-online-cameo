@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0247">
+    <Sentences>
+      <Sentence char_offsets="185:403" id="0" />
+      <Sentence char_offsets="414:640" id="1" />
+      <Sentence char_offsets="651:790" id="2" />
+      <Sentence char_offsets="792:845" id="3" />
+      <Sentence char_offsets="856:1027" id="4" />
+      <Sentence char_offsets="1029:1084" id="5" />
+      <Sentence char_offsets="1095:1267" id="6" />
+      <Sentence char_offsets="1269:1416" id="7" />
+      <Sentence char_offsets="1427:1607" id="8" />
+      <Sentence char_offsets="1609:1723" id="9" />
+      <Sentence char_offsets="1734:1830" id="10" />
+      <Sentence char_offsets="1841:1925" id="11" />
+      <Sentence char_offsets="1927:2037" id="12" />
+      <Sentence char_offsets="2048:2191" id="13" />
+      <Sentence char_offsets="2193:2237" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="current" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0407">
+    <Sentences>
+      <Sentence char_offsets="175:284" id="0" />
+      <Sentence char_offsets="295:416" id="1" />
+      <Sentence char_offsets="427:565" id="2" />
+      <Sentence char_offsets="576:799" id="3" />
+      <Sentence char_offsets="810:984" id="4" />
+      <Sentence char_offsets="995:1109" id="5" />
+      <Sentence char_offsets="1120:1219" id="6" />
+      <Sentence char_offsets="1221:1348" id="7" />
+      <Sentence char_offsets="1359:1466" id="8" />
+      <Sentence char_offsets="1477:1556" id="9" />
+      <Sentence char_offsets="1558:1672" id="10" />
+      <Sentence char_offsets="1683:1792" id="11" />
+      <Sentence char_offsets="1803:1878" id="12" />
+      <Sentence char_offsets="1880:1974" id="13" />
+      <Sentence char_offsets="1976:2011" id="14" />
+      <Sentence char_offsets="2022:2176" id="15" />
+      <Sentence char_offsets="2178:2276" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="52850" actor_name="European Union" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="595" agent_name="Ruling Military Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="historical" type="1244">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="historical" type="163">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

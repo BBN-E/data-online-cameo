@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090315.0094">
+    <Sentences>
+      <Sentence char_offsets="154:187" id="0" />
+      <Sentence char_offsets="190:227" id="1" />
+      <Sentence char_offsets="230:269" id="2" />
+      <Sentence char_offsets="272:485" id="3" />
+      <Sentence char_offsets="488:626" id="4" />
+      <Sentence char_offsets="628:641" id="5" />
+      <Sentence char_offsets="643:699" id="6" />
+      <Sentence char_offsets="701:715" id="7" />
+      <Sentence char_offsets="718:842" id="8" />
+      <Sentence char_offsets="844:864" id="9" />
+      <Sentence char_offsets="867:959" id="10" />
+      <Sentence char_offsets="961:976" id="11" />
+      <Sentence char_offsets="978:1002" id="12" />
+      <Sentence char_offsets="1005:1202" id="13" />
+      <Sentence char_offsets="1205:1244" id="14" />
+      <Sentence char_offsets="1246:1259" id="15" />
+      <Sentence char_offsets="1262:1384" id="16" />
+      <Sentence char_offsets="1386:1398" id="17" />
+      <Sentence char_offsets="1401:1498" id="18" />
+      <Sentence char_offsets="1500:1540" id="19" />
+      <Sentence char_offsets="1543:1716" id="20" />
+      <Sentence char_offsets="1718:1756" id="21" />
+      <Sentence char_offsets="1759:1962" id="22" />
+      <Sentence char_offsets="1965:2071" id="23" />
+      <Sentence char_offsets="2074:2255" id="24" />
+      <Sentence char_offsets="2257:2265" id="25" />
+      <Sentence char_offsets="2267:2282" id="26" />
+      <Sentence char_offsets="2284:2318" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="037">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

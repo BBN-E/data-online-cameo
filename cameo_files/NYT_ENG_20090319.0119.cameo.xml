@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090319.0119">
+    <Sentences>
+      <Sentence char_offsets="171:428" id="0" />
+      <Sentence char_offsets="439:738" id="1" />
+      <Sentence char_offsets="749:971" id="2" />
+      <Sentence char_offsets="973:1052" id="3" />
+      <Sentence char_offsets="1054:1171" id="4" />
+      <Sentence char_offsets="1173:1222" id="5" />
+      <Sentence char_offsets="1233:1482" id="6" />
+      <Sentence char_offsets="1484:1797" id="7" />
+      <Sentence char_offsets="1808:2109" id="8" />
+      <Sentence char_offsets="2120:2215" id="9" />
+      <Sentence char_offsets="2217:2317" id="10" />
+      <Sentence char_offsets="2319:2436" id="11" />
+      <Sentence char_offsets="2447:2692" id="12" />
+      <Sentence char_offsets="2694:2803" id="13" />
+      <Sentence char_offsets="2814:2948" id="14" />
+      <Sentence char_offsets="2950:3130" id="15" />
+      <Sentence char_offsets="3141:3233" id="16" />
+      <Sentence char_offsets="3235:3410" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="historical" type="115">
+        <Participant actor_id="28199" actor_name="Internal Revenue Service" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="115">
+        <Participant actor_id="28199" actor_name="Internal Revenue Service" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="115">
+        <Participant actor_id="28199" actor_name="Internal Revenue Service" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

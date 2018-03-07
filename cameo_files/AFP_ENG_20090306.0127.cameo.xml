@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0127">
+    <Sentences>
+      <Sentence char_offsets="196:394" id="0" />
+      <Sentence char_offsets="405:564" id="1" />
+      <Sentence char_offsets="575:741" id="2" />
+      <Sentence char_offsets="752:919" id="3" />
+      <Sentence char_offsets="930:1161" id="4" />
+      <Sentence char_offsets="1172:1205" id="5" />
+      <Sentence char_offsets="1207:1298" id="6" />
+      <Sentence char_offsets="1309:1398" id="7" />
+      <Sentence char_offsets="1409:1546" id="8" />
+      <Sentence char_offsets="1557:1641" id="9" />
+      <Sentence char_offsets="1652:1768" id="10" />
+      <Sentence char_offsets="1779:1937" id="11" />
+      <Sentence char_offsets="1948:2045" id="12" />
+      <Sentence char_offsets="2056:2178" id="13" />
+      <Sentence char_offsets="2189:2255" id="14" />
+      <Sentence char_offsets="2257:2304" id="15" />
+      <Sentence char_offsets="2315:2557" id="16" />
+      <Sentence char_offsets="2568:2624" id="17" />
+      <Sentence char_offsets="2635:2779" id="18" />
+      <Sentence char_offsets="2790:2870" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="111">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="current" type="111">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

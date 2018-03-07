@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.1159">
+    <Sentences>
+      <Sentence char_offsets="186:243" id="0" />
+      <Sentence char_offsets="254:456" id="1" />
+      <Sentence char_offsets="458:497" id="2" />
+      <Sentence char_offsets="508:707" id="3" />
+      <Sentence char_offsets="718:875" id="4" />
+      <Sentence char_offsets="877:981" id="5" />
+      <Sentence char_offsets="992:1185" id="6" />
+      <Sentence char_offsets="1196:1305" id="7" />
+      <Sentence char_offsets="1307:1375" id="8" />
+      <Sentence char_offsets="1377:1488" id="9" />
+      <Sentence char_offsets="1499:1657" id="10" />
+      <Sentence char_offsets="1668:1752" id="11" />
+      <Sentence char_offsets="1754:1803" id="12" />
+      <Sentence char_offsets="1814:1958" id="13" />
+      <Sentence char_offsets="1969:2049" id="14" />
+      <Sentence char_offsets="2060:2173" id="15" />
+      <Sentence char_offsets="2184:2293" id="16" />
+      <Sentence char_offsets="2295:2490" id="17" />
+      <Sentence char_offsets="2501:2533" id="18" />
+      <Sentence char_offsets="2544:2696" id="19" />
+      <Sentence char_offsets="2698:2815" id="20" />
+      <Sentence char_offsets="2826:2917" id="21" />
+      <Sentence char_offsets="2919:2955" id="22" />
+      <Sentence char_offsets="2966:3130" id="23" />
+      <Sentence char_offsets="3141:3252" id="24" />
+      <Sentence char_offsets="3254:3376" id="25" />
+      <Sentence char_offsets="3378:3510" id="26" />
+      <Sentence char_offsets="3521:3669" id="27" />
+      <Sentence char_offsets="3680:3731" id="28" />
+      <Sentence char_offsets="3733:3749" id="29" />
+      <Sentence char_offsets="3760:3847" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="26896" actor_name="Merrill Lynch" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

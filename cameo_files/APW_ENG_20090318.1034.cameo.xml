@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.1034">
+    <Sentences>
+      <Sentence char_offsets="181:355" id="0" />
+      <Sentence char_offsets="366:460" id="1" />
+      <Sentence char_offsets="462:545" id="2" />
+      <Sentence char_offsets="556:658" id="3" />
+      <Sentence char_offsets="660:785" id="4" />
+      <Sentence char_offsets="787:861" id="5" />
+      <Sentence char_offsets="872:1030" id="6" />
+      <Sentence char_offsets="1032:1082" id="7" />
+      <Sentence char_offsets="1084:1136" id="8" />
+      <Sentence char_offsets="1147:1387" id="9" />
+      <Sentence char_offsets="1398:1564" id="10" />
+      <Sentence char_offsets="1575:1709" id="11" />
+      <Sentence char_offsets="1720:1869" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="022">
+        <Participant actor_id="30701" actor_name="France" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

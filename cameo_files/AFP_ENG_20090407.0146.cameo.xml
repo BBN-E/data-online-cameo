@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0146">
+    <Sentences>
+      <Sentence char_offsets="181:305" id="0" />
+      <Sentence char_offsets="316:502" id="1" />
+      <Sentence char_offsets="513:713" id="2" />
+      <Sentence char_offsets="724:891" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="1044">
+        <Participant actor_id="118238" actor_name="Kosovo" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

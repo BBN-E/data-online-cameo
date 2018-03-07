@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0485">
+    <Sentences>
+      <Sentence char_offsets="184:374" id="0" />
+      <Sentence char_offsets="385:603" id="1" />
+      <Sentence char_offsets="614:816" id="2" />
+      <Sentence char_offsets="827:992" id="3" />
+      <Sentence char_offsets="1003:1093" id="4" />
+      <Sentence char_offsets="1104:1195" id="5" />
+      <Sentence char_offsets="1206:1292" id="6" />
+      <Sentence char_offsets="1303:1402" id="7" />
+      <Sentence char_offsets="1413:1615" id="8" />
+      <Sentence char_offsets="1626:1734" id="9" />
+      <Sentence char_offsets="1745:1861" id="10" />
+      <Sentence char_offsets="1872:2054" id="11" />
+      <Sentence char_offsets="2065:2212" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="012">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="020">
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="020">
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0431">
+    <Sentences>
+      <Sentence char_offsets="180:362" id="0" />
+      <Sentence char_offsets="373:561" id="1" />
+      <Sentence char_offsets="572:676" id="2" />
+      <Sentence char_offsets="687:772" id="3" />
+      <Sentence char_offsets="783:913" id="4" />
+      <Sentence char_offsets="924:1093" id="5" />
+      <Sentence char_offsets="1104:1232" id="6" />
+      <Sentence char_offsets="1243:1399" id="7" />
+      <Sentence char_offsets="1410:1497" id="8" />
+      <Sentence char_offsets="1508:1689" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="historical" type="019">
+        <Participant actor_id="57880" actor_name="Sharif Sheikh Ahmed" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="190">
+        <Participant actor_id="17507" actor_name="Al-Shabaab" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="17507" actor_name="Al-Shabaab" agent_id="246" agent_name="Militia" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="190">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="17507" actor_name="Al-Shabaab" agent_id="246" agent_name="Militia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

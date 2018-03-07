@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1289">
+    <Sentences>
+      <Sentence char_offsets="194:428" id="0" />
+      <Sentence char_offsets="439:608" id="1" />
+      <Sentence char_offsets="610:690" id="2" />
+      <Sentence char_offsets="701:812" id="3" />
+      <Sentence char_offsets="823:1007" id="4" />
+      <Sentence char_offsets="1018:1139" id="5" />
+      <Sentence char_offsets="1150:1241" id="6" />
+      <Sentence char_offsets="1243:1295" id="7" />
+      <Sentence char_offsets="1297:1438" id="8" />
+      <Sentence char_offsets="1449:1484" id="9" />
+      <Sentence char_offsets="1495:1578" id="10" />
+      <Sentence char_offsets="1580:1765" id="11" />
+      <Sentence char_offsets="1776:1990" id="12" />
+      <Sentence char_offsets="2001:2351" id="13" />
+      <Sentence char_offsets="2362:2541" id="14" />
+      <Sentence char_offsets="2543:2554" id="15" />
+      <Sentence char_offsets="2565:2765" id="16" />
+      <Sentence char_offsets="2776:2904" id="17" />
+      <Sentence char_offsets="2906:3012" id="18" />
+      <Sentence char_offsets="3023:3087" id="19" />
+      <Sentence char_offsets="3089:3180" id="20" />
+      <Sentence char_offsets="3182:3239" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="historical" type="090">
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

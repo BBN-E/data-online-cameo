@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0404">
+    <Sentences>
+      <Sentence char_offsets="202:372" id="0" />
+      <Sentence char_offsets="383:572" id="1" />
+      <Sentence char_offsets="583:697" id="2" />
+      <Sentence char_offsets="708:837" id="3" />
+      <Sentence char_offsets="848:901" id="4" />
+      <Sentence char_offsets="912:1057" id="5" />
+      <Sentence char_offsets="1068:1128" id="6" />
+      <Sentence char_offsets="1139:1237" id="7" />
+      <Sentence char_offsets="1248:1469" id="8" />
+      <Sentence char_offsets="1480:1568" id="9" />
+      <Sentence char_offsets="1579:1799" id="10" />
+      <Sentence char_offsets="1810:1907" id="11" />
+      <Sentence char_offsets="1918:2011" id="12" />
+      <Sentence char_offsets="2013:2121" id="13" />
+      <Sentence char_offsets="2132:2278" id="14" />
+      <Sentence char_offsets="2289:2494" id="15" />
+      <Sentence char_offsets="2505:2581" id="16" />
+      <Sentence char_offsets="2592:2667" id="17" />
+      <Sentence char_offsets="2669:2690" id="18" />
+      <Sentence char_offsets="2692:2725" id="19" />
+      <Sentence char_offsets="2736:2945" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="138">
+        <Participant actor_id="27284" actor_name="Baitullah Mehsud" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="138">
+        <Participant actor_id="27284" actor_name="Baitullah Mehsud" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

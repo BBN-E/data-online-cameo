@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0061">
+    <Sentences>
+      <Sentence char_offsets="182:384" id="0" />
+      <Sentence char_offsets="395:598" id="1" />
+      <Sentence char_offsets="609:724" id="2" />
+      <Sentence char_offsets="735:896" id="3" />
+      <Sentence char_offsets="907:1097" id="4" />
+      <Sentence char_offsets="1108:1321" id="5" />
+      <Sentence char_offsets="1332:1513" id="6" />
+      <Sentence char_offsets="1524:1662" id="7" />
+      <Sentence char_offsets="1673:1901" id="8" />
+      <Sentence char_offsets="1912:2080" id="9" />
+      <Sentence char_offsets="2091:2249" id="10" />
+      <Sentence char_offsets="2260:2420" id="11" />
+      <Sentence char_offsets="2431:2561" id="12" />
+      <Sentence char_offsets="2572:2703" id="13" />
+      <Sentence char_offsets="2714:2887" id="14" />
+      <Sentence char_offsets="2898:3080" id="15" />
+      <Sentence char_offsets="3091:3178" id="16" />
+      <Sentence char_offsets="3189:3328" id="17" />
+      <Sentence char_offsets="3339:3433" id="18" />
+      <Sentence char_offsets="3444:3537" id="19" />
+      <Sentence char_offsets="3539:3583" id="20" />
+      <Sentence char_offsets="3594:3708" id="21" />
+      <Sentence char_offsets="3710:3769" id="22" />
+      <Sentence char_offsets="3780:3951" id="23" />
+      <Sentence char_offsets="3962:4167" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="39616" actor_name="Togo" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="50396" actor_name="Faure Gnassingbe" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="161">
+        <Participant actor_id="50396" actor_name="Faure Gnassingbe" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="current" type="190">
+        <Participant actor_id="39616" actor_name="Togo" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39616" actor_name="Togo" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

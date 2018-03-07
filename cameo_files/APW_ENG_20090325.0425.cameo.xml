@@ -1,0 +1,90 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0425">
+    <Sentences>
+      <Sentence char_offsets="186:389" id="0" />
+      <Sentence char_offsets="400:620" id="1" />
+      <Sentence char_offsets="622:756" id="2" />
+      <Sentence char_offsets="767:985" id="3" />
+      <Sentence char_offsets="996:1069" id="4" />
+      <Sentence char_offsets="1071:1155" id="5" />
+      <Sentence char_offsets="1157:1229" id="6" />
+      <Sentence char_offsets="1231:1465" id="7" />
+      <Sentence char_offsets="1476:1597" id="8" />
+      <Sentence char_offsets="1599:1685" id="9" />
+      <Sentence char_offsets="1696:1941" id="10" />
+      <Sentence char_offsets="1952:2178" id="11" />
+      <Sentence char_offsets="2189:2435" id="12" />
+      <Sentence char_offsets="2446:2472" id="13" />
+      <Sentence char_offsets="2474:2494" id="14" />
+      <Sentence char_offsets="2496:2540" id="15" />
+      <Sentence char_offsets="2551:2625" id="16" />
+      <Sentence char_offsets="2627:2726" id="17" />
+      <Sentence char_offsets="2728:2803" id="18" />
+      <Sentence char_offsets="2805:3036" id="19" />
+      <Sentence char_offsets="3047:3214" id="20" />
+      <Sentence char_offsets="3225:3363" id="21" />
+      <Sentence char_offsets="3374:3571" id="22" />
+      <Sentence char_offsets="3582:3596" id="23" />
+      <Sentence char_offsets="3598:3711" id="24" />
+      <Sentence char_offsets="3713:3934" id="25" />
+      <Sentence char_offsets="3945:4032" id="26" />
+      <Sentence char_offsets="4043:4133" id="27" />
+      <Sentence char_offsets="4144:4308" id="28" />
+      <Sentence char_offsets="4319:4548" id="29" />
+      <Sentence char_offsets="4559:4685" id="30" />
+      <Sentence char_offsets="4696:4867" id="31" />
+      <Sentence char_offsets="4878:4990" id="32" />
+      <Sentence char_offsets="5001:5216" id="33" />
+      <Sentence char_offsets="5227:5406" id="34" />
+      <Sentence char_offsets="5417:5530" id="35" />
+      <Sentence char_offsets="5532:5637" id="36" />
+      <Sentence char_offsets="5648:5786" id="37" />
+      <Sentence char_offsets="5788:6052" id="38" />
+      <Sentence char_offsets="6063:6290" id="39" />
+      <Sentence char_offsets="6301:6434" id="40" />
+      <Sentence char_offsets="6436:6559" id="41" />
+      <Sentence char_offsets="6570:6685" id="42" />
+      <Sentence char_offsets="6696:6786" id="43" />
+      <Sentence char_offsets="6788:6891" id="44" />
+      <Sentence char_offsets="6902:7053" id="45" />
+      <Sentence char_offsets="7055:7227" id="46" />
+      <Sentence char_offsets="7238:7341" id="47" />
+      <Sentence char_offsets="7352:7439" id="48" />
+      <Sentence char_offsets="7441:7591" id="49" />
+      <Sentence char_offsets="7602:7732" id="50" />
+      <Sentence char_offsets="7734:7834" id="51" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="022">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="33" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="39" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="31" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="50183" actor_name="American International Group Inc." role="Target" />
+      </Event>
+      <Event id="6" sentence_id="18" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

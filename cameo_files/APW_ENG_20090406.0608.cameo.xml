@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0608">
+    <Sentences>
+      <Sentence char_offsets="195:311" id="0" />
+      <Sentence char_offsets="322:510" id="1" />
+      <Sentence char_offsets="512:598" id="2" />
+      <Sentence char_offsets="600:623" id="3" />
+      <Sentence char_offsets="634:798" id="4" />
+      <Sentence char_offsets="800:861" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="343" agent_name="Armed Opposition" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="343" agent_name="Armed Opposition" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="343" agent_name="Armed Opposition" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

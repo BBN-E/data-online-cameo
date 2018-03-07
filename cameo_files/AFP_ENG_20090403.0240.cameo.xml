@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0240">
+    <Sentences>
+      <Sentence char_offsets="189:366" id="0" />
+      <Sentence char_offsets="377:609" id="1" />
+      <Sentence char_offsets="620:858" id="2" />
+      <Sentence char_offsets="869:1061" id="3" />
+      <Sentence char_offsets="1072:1324" id="4" />
+      <Sentence char_offsets="1335:1521" id="5" />
+      <Sentence char_offsets="1532:1689" id="6" />
+      <Sentence char_offsets="1700:1906" id="7" />
+      <Sentence char_offsets="1917:2167" id="8" />
+      <Sentence char_offsets="2178:2296" id="9" />
+      <Sentence char_offsets="2307:2564" id="10" />
+      <Sentence char_offsets="2575:2717" id="11" />
+      <Sentence char_offsets="2728:2932" id="12" />
+      <Sentence char_offsets="2943:3042" id="13" />
+      <Sentence char_offsets="3053:3297" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="30884" actor_name="United Nations Human Rights Council" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

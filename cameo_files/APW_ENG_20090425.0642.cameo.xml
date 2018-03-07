@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090425.0642">
+    <Sentences>
+      <Sentence char_offsets="185:448" id="0" />
+      <Sentence char_offsets="459:596" id="1" />
+      <Sentence char_offsets="607:758" id="2" />
+      <Sentence char_offsets="769:1080" id="3" />
+      <Sentence char_offsets="1091:1227" id="4" />
+      <Sentence char_offsets="1238:1471" id="5" />
+      <Sentence char_offsets="1482:1677" id="6" />
+      <Sentence char_offsets="1688:1958" id="7" />
+      <Sentence char_offsets="1969:2103" id="8" />
+      <Sentence char_offsets="2114:2261" id="9" />
+      <Sentence char_offsets="2263:2317" id="10" />
+      <Sentence char_offsets="2319:2435" id="11" />
+      <Sentence char_offsets="2446:2577" id="12" />
+      <Sentence char_offsets="2579:2766" id="13" />
+      <Sentence char_offsets="2777:2907" id="14" />
+      <Sentence char_offsets="2918:3070" id="15" />
+      <Sentence char_offsets="3081:3247" id="16" />
+      <Sentence char_offsets="3249:3385" id="17" />
+      <Sentence char_offsets="3396:3563" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

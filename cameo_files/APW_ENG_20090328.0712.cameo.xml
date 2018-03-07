@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0712">
+    <Sentences>
+      <Sentence char_offsets="189:318" id="0" />
+      <Sentence char_offsets="329:561" id="1" />
+      <Sentence char_offsets="572:718" id="2" />
+      <Sentence char_offsets="729:793" id="3" />
+      <Sentence char_offsets="804:958" id="4" />
+      <Sentence char_offsets="969:1090" id="5" />
+      <Sentence char_offsets="1101:1181" id="6" />
+      <Sentence char_offsets="1183:1261" id="7" />
+      <Sentence char_offsets="1272:1478" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="27585" actor_name="Islamic Republic News Agency" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

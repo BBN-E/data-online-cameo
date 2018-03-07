@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.1491">
+    <Sentences>
+      <Sentence char_offsets="189:420" id="0" />
+      <Sentence char_offsets="431:690" id="1" />
+      <Sentence char_offsets="701:911" id="2" />
+      <Sentence char_offsets="922:1101" id="3" />
+      <Sentence char_offsets="1112:1264" id="4" />
+      <Sentence char_offsets="1275:1491" id="5" />
+      <Sentence char_offsets="1493:1587" id="6" />
+      <Sentence char_offsets="1598:1733" id="7" />
+      <Sentence char_offsets="1744:1916" id="8" />
+      <Sentence char_offsets="1918:2041" id="9" />
+      <Sentence char_offsets="2052:2156" id="10" />
+      <Sentence char_offsets="2167:2330" id="11" />
+      <Sentence char_offsets="2341:2519" id="12" />
+      <Sentence char_offsets="2530:2792" id="13" />
+      <Sentence char_offsets="2803:2901" id="14" />
+      <Sentence char_offsets="2912:3042" id="15" />
+      <Sentence char_offsets="3053:3304" id="16" />
+      <Sentence char_offsets="3315:3539" id="17" />
+      <Sentence char_offsets="3550:3748" id="18" />
+      <Sentence char_offsets="3759:3915" id="19" />
+      <Sentence char_offsets="3926:3981" id="20" />
+      <Sentence char_offsets="3983:4123" id="21" />
+      <Sentence char_offsets="4134:4305" id="22" />
+      <Sentence char_offsets="4316:4431" id="23" />
+      <Sentence char_offsets="4433:4534" id="24" />
+      <Sentence char_offsets="4545:4782" id="25" />
+      <Sentence char_offsets="4793:4928" id="26" />
+      <Sentence char_offsets="4939:5068" id="27" />
+      <Sentence char_offsets="5070:5171" id="28" />
+      <Sentence char_offsets="5182:5264" id="29" />
+      <Sentence char_offsets="5275:5355" id="30" />
+      <Sentence char_offsets="5357:5520" id="31" />
+      <Sentence char_offsets="5522:5585" id="32" />
+      <Sentence char_offsets="5596:5820" id="33" />
+      <Sentence char_offsets="5831:5836" id="34" />
+      <Sentence char_offsets="5847:5999" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

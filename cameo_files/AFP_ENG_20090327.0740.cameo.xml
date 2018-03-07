@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0740">
+    <Sentences>
+      <Sentence char_offsets="170:404" id="0" />
+      <Sentence char_offsets="415:677" id="1" />
+      <Sentence char_offsets="688:943" id="2" />
+      <Sentence char_offsets="954:1217" id="3" />
+      <Sentence char_offsets="1228:1332" id="4" />
+      <Sentence char_offsets="1334:1410" id="5" />
+      <Sentence char_offsets="1421:1531" id="6" />
+      <Sentence char_offsets="1542:1699" id="7" />
+      <Sentence char_offsets="1710:1826" id="8" />
+      <Sentence char_offsets="1837:2082" id="9" />
+      <Sentence char_offsets="2093:2385" id="10" />
+      <Sentence char_offsets="2396:2561" id="11" />
+      <Sentence char_offsets="2572:2784" id="12" />
+      <Sentence char_offsets="2795:2971" id="13" />
+      <Sentence char_offsets="2982:3238" id="14" />
+      <Sentence char_offsets="3249:3316" id="15" />
+      <Sentence char_offsets="3318:3479" id="16" />
+      <Sentence char_offsets="3490:3643" id="17" />
+      <Sentence char_offsets="3654:3811" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="14899" actor_name="Mehmet Simsek" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="historical" type="1722">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="425" agent_name="Constitutional Court" role="Source" />
+        <Participant actor_id="53796" actor_name="Justice and Development Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

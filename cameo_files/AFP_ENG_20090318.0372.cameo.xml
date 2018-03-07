@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0372">
+    <Sentences>
+      <Sentence char_offsets="159:195" id="0" />
+      <Sentence char_offsets="198:221" id="1" />
+      <Sentence char_offsets="224:397" id="2" />
+      <Sentence char_offsets="400:433" id="3" />
+      <Sentence char_offsets="436:593" id="4" />
+      <Sentence char_offsets="596:618" id="5" />
+      <Sentence char_offsets="621:789" id="6" />
+      <Sentence char_offsets="792:827" id="7" />
+      <Sentence char_offsets="830:1021" id="8" />
+      <Sentence char_offsets="1024:1060" id="9" />
+      <Sentence char_offsets="1063:1201" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="190">
+        <Participant actor_id="37467" actor_name="Yemen" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="37467" actor_name="Yemen" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.1239">
+    <Sentences>
+      <Sentence char_offsets="186:414" id="0" />
+      <Sentence char_offsets="425:685" id="1" />
+      <Sentence char_offsets="696:1012" id="2" />
+      <Sentence char_offsets="1023:1120" id="3" />
+      <Sentence char_offsets="1131:1366" id="4" />
+      <Sentence char_offsets="1368:1512" id="5" />
+      <Sentence char_offsets="1523:1757" id="6" />
+      <Sentence char_offsets="1768:1830" id="7" />
+      <Sentence char_offsets="1832:1957" id="8" />
+      <Sentence char_offsets="1968:2140" id="9" />
+      <Sentence char_offsets="2151:2382" id="10" />
+      <Sentence char_offsets="2384:2474" id="11" />
+      <Sentence char_offsets="2485:2613" id="12" />
+      <Sentence char_offsets="2615:2702" id="13" />
+      <Sentence char_offsets="2704:2910" id="14" />
+      <Sentence char_offsets="2921:3205" id="15" />
+      <Sentence char_offsets="3216:3398" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

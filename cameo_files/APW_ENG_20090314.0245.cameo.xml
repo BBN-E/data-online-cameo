@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090314.0245">
+    <Sentences>
+      <Sentence char_offsets="186:370" id="0" />
+      <Sentence char_offsets="381:530" id="1" />
+      <Sentence char_offsets="541:598" id="2" />
+      <Sentence char_offsets="609:739" id="3" />
+      <Sentence char_offsets="741:820" id="4" />
+      <Sentence char_offsets="831:979" id="5" />
+      <Sentence char_offsets="981:1098" id="6" />
+      <Sentence char_offsets="1109:1273" id="7" />
+      <Sentence char_offsets="1284:1453" id="8" />
+      <Sentence char_offsets="1464:1534" id="9" />
+      <Sentence char_offsets="1536:1613" id="10" />
+      <Sentence char_offsets="1624:1695" id="11" />
+      <Sentence char_offsets="1706:1897" id="12" />
+      <Sentence char_offsets="1908:1933" id="13" />
+      <Sentence char_offsets="1935:1966" id="14" />
+      <Sentence char_offsets="1968:2093" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

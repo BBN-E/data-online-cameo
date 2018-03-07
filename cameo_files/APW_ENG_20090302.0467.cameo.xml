@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0467">
+    <Sentences>
+      <Sentence char_offsets="198:449" id="0" />
+      <Sentence char_offsets="460:652" id="1" />
+      <Sentence char_offsets="663:859" id="2" />
+      <Sentence char_offsets="870:1121" id="3" />
+      <Sentence char_offsets="1132:1329" id="4" />
+      <Sentence char_offsets="1340:1495" id="5" />
+      <Sentence char_offsets="1497:1698" id="6" />
+      <Sentence char_offsets="1709:1921" id="7" />
+      <Sentence char_offsets="1932:2053" id="8" />
+      <Sentence char_offsets="2064:2226" id="9" />
+      <Sentence char_offsets="2237:2451" id="10" />
+      <Sentence char_offsets="2453:2590" id="11" />
+      <Sentence char_offsets="2601:2771" id="12" />
+      <Sentence char_offsets="2782:2976" id="13" />
+      <Sentence char_offsets="2987:3085" id="14" />
+      <Sentence char_offsets="3087:3208" id="15" />
+      <Sentence char_offsets="3219:3343" id="16" />
+      <Sentence char_offsets="3354:3482" id="17" />
+      <Sentence char_offsets="3493:3704" id="18" />
+      <Sentence char_offsets="3715:3843" id="19" />
+      <Sentence char_offsets="3845:3989" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="1712">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="671" agent_name="Party President" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

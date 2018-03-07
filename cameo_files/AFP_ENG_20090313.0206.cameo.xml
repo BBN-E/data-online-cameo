@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0206">
+    <Sentences>
+      <Sentence char_offsets="199:418" id="0" />
+      <Sentence char_offsets="429:657" id="1" />
+      <Sentence char_offsets="668:872" id="2" />
+      <Sentence char_offsets="883:1131" id="3" />
+      <Sentence char_offsets="1142:1285" id="4" />
+      <Sentence char_offsets="1296:1508" id="5" />
+      <Sentence char_offsets="1519:1680" id="6" />
+      <Sentence char_offsets="1691:1899" id="7" />
+      <Sentence char_offsets="1910:2046" id="8" />
+      <Sentence char_offsets="2057:2182" id="9" />
+      <Sentence char_offsets="2193:2414" id="10" />
+      <Sentence char_offsets="2425:2592" id="11" />
+      <Sentence char_offsets="2603:2651" id="12" />
+      <Sentence char_offsets="2653:2703" id="13" />
+      <Sentence char_offsets="2705:2785" id="14" />
+      <Sentence char_offsets="2796:2932" id="15" />
+      <Sentence char_offsets="2943:3224" id="16" />
+      <Sentence char_offsets="3235:3355" id="17" />
+      <Sentence char_offsets="3366:3585" id="18" />
+      <Sentence char_offsets="3596:3816" id="19" />
+      <Sentence char_offsets="3827:3976" id="20" />
+      <Sentence char_offsets="3978:4131" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="036">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="historical" type="043">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

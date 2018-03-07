@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0229">
+    <Sentences>
+      <Sentence char_offsets="183:380" id="0" />
+      <Sentence char_offsets="391:529" id="1" />
+      <Sentence char_offsets="540:760" id="2" />
+      <Sentence char_offsets="771:982" id="3" />
+      <Sentence char_offsets="993:1158" id="4" />
+      <Sentence char_offsets="1169:1355" id="5" />
+      <Sentence char_offsets="1366:1501" id="6" />
+      <Sentence char_offsets="1503:1642" id="7" />
+      <Sentence char_offsets="1653:1841" id="8" />
+      <Sentence char_offsets="1852:1941" id="9" />
+      <Sentence char_offsets="1952:2086" id="10" />
+      <Sentence char_offsets="2097:2261" id="11" />
+      <Sentence char_offsets="2272:2462" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="current" type="040">
+        <Participant actor_id="14196" actor_name="Dimitris Christofias" role="Source" />
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="current" type="040">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="14196" actor_name="Dimitris Christofias" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

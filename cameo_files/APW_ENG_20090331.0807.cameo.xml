@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0807">
+    <Sentences>
+      <Sentence char_offsets="171:373" id="0" />
+      <Sentence char_offsets="384:593" id="1" />
+      <Sentence char_offsets="604:638" id="2" />
+      <Sentence char_offsets="640:698" id="3" />
+      <Sentence char_offsets="709:920" id="4" />
+      <Sentence char_offsets="931:1166" id="5" />
+      <Sentence char_offsets="1177:1317" id="6" />
+      <Sentence char_offsets="1328:1504" id="7" />
+      <Sentence char_offsets="1515:1605" id="8" />
+      <Sentence char_offsets="1616:1640" id="9" />
+      <Sentence char_offsets="1642:1709" id="10" />
+      <Sentence char_offsets="1711:1825" id="11" />
+      <Sentence char_offsets="1836:1909" id="12" />
+      <Sentence char_offsets="1911:1993" id="13" />
+      <Sentence char_offsets="2004:2211" id="14" />
+      <Sentence char_offsets="2222:2445" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

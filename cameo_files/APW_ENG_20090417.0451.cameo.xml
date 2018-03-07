@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0451">
+    <Sentences>
+      <Sentence char_offsets="183:393" id="0" />
+      <Sentence char_offsets="404:561" id="1" />
+      <Sentence char_offsets="572:760" id="2" />
+      <Sentence char_offsets="771:889" id="3" />
+      <Sentence char_offsets="891:1037" id="4" />
+      <Sentence char_offsets="1048:1175" id="5" />
+      <Sentence char_offsets="1177:1271" id="6" />
+      <Sentence char_offsets="1273:1391" id="7" />
+      <Sentence char_offsets="1402:1640" id="8" />
+      <Sentence char_offsets="1651:1783" id="9" />
+      <Sentence char_offsets="1785:1850" id="10" />
+      <Sentence char_offsets="1861:2141" id="11" />
+      <Sentence char_offsets="2152:2239" id="12" />
+      <Sentence char_offsets="2250:2411" id="13" />
+      <Sentence char_offsets="2413:2543" id="14" />
+      <Sentence char_offsets="2554:2719" id="15" />
+      <Sentence char_offsets="2721:2803" id="16" />
+      <Sentence char_offsets="2814:2931" id="17" />
+      <Sentence char_offsets="2942:3147" id="18" />
+      <Sentence char_offsets="3158:3390" id="19" />
+      <Sentence char_offsets="3401:3628" id="20" />
+      <Sentence char_offsets="3639:3739" id="21" />
+      <Sentence char_offsets="3741:3883" id="22" />
+      <Sentence char_offsets="3894:4096" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="113" agent_name="Oversight Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="080">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="128">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

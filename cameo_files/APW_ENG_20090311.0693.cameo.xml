@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0693">
+    <Sentences>
+      <Sentence char_offsets="189:429" id="0" />
+      <Sentence char_offsets="440:540" id="1" />
+      <Sentence char_offsets="551:653" id="2" />
+      <Sentence char_offsets="655:807" id="3" />
+      <Sentence char_offsets="818:1099" id="4" />
+      <Sentence char_offsets="1110:1206" id="5" />
+      <Sentence char_offsets="1208:1274" id="6" />
+      <Sentence char_offsets="1285:1556" id="7" />
+      <Sentence char_offsets="1567:1712" id="8" />
+      <Sentence char_offsets="1723:1987" id="9" />
+      <Sentence char_offsets="1998:2205" id="10" />
+      <Sentence char_offsets="2207:2259" id="11" />
+      <Sentence char_offsets="2270:2372" id="12" />
+      <Sentence char_offsets="2383:2461" id="13" />
+      <Sentence char_offsets="2472:2569" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="0874">
+        <Participant actor_id="40284" actor_name="Tariq Aziz" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

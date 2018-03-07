@@ -1,0 +1,107 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090301.0018">
+    <Sentences>
+      <Sentence char_offsets="181:238" id="0" />
+      <Sentence char_offsets="249:276" id="1" />
+      <Sentence char_offsets="278:303" id="2" />
+      <Sentence char_offsets="305:473" id="3" />
+      <Sentence char_offsets="484:752" id="4" />
+      <Sentence char_offsets="763:932" id="5" />
+      <Sentence char_offsets="943:974" id="6" />
+      <Sentence char_offsets="985:1067" id="7" />
+      <Sentence char_offsets="1078:1295" id="8" />
+      <Sentence char_offsets="1306:1550" id="9" />
+      <Sentence char_offsets="1552:1658" id="10" />
+      <Sentence char_offsets="1669:1774" id="11" />
+      <Sentence char_offsets="1776:1807" id="12" />
+      <Sentence char_offsets="1818:2002" id="13" />
+      <Sentence char_offsets="2004:2048" id="14" />
+      <Sentence char_offsets="2059:2227" id="15" />
+      <Sentence char_offsets="2229:2289" id="16" />
+      <Sentence char_offsets="2300:2388" id="17" />
+      <Sentence char_offsets="2390:2502" id="18" />
+      <Sentence char_offsets="2513:2632" id="19" />
+      <Sentence char_offsets="2634:2823" id="20" />
+      <Sentence char_offsets="2834:3034" id="21" />
+      <Sentence char_offsets="3045:3255" id="22" />
+      <Sentence char_offsets="3257:3413" id="23" />
+      <Sentence char_offsets="3424:3541" id="24" />
+      <Sentence char_offsets="3552:3780" id="25" />
+      <Sentence char_offsets="3782:3936" id="26" />
+      <Sentence char_offsets="3947:4201" id="27" />
+      <Sentence char_offsets="4212:4377" id="28" />
+      <Sentence char_offsets="4379:4542" id="29" />
+      <Sentence char_offsets="4553:4743" id="30" />
+      <Sentence char_offsets="4745:4810" id="31" />
+      <Sentence char_offsets="4821:4951" id="32" />
+      <Sentence char_offsets="4962:5059" id="33" />
+      <Sentence char_offsets="5061:5195" id="34" />
+      <Sentence char_offsets="5206:5389" id="35" />
+      <Sentence char_offsets="5400:5503" id="36" />
+      <Sentence char_offsets="5505:5570" id="37" />
+      <Sentence char_offsets="5572:5592" id="38" />
+      <Sentence char_offsets="5603:5764" id="39" />
+      <Sentence char_offsets="5766:5853" id="40" />
+      <Sentence char_offsets="5864:5983" id="41" />
+      <Sentence char_offsets="5994:6174" id="42" />
+      <Sentence char_offsets="6176:6266" id="43" />
+      <Sentence char_offsets="6277:6418" id="44" />
+      <Sentence char_offsets="6420:6501" id="45" />
+      <Sentence char_offsets="6512:6847" id="46" />
+      <Sentence char_offsets="6858:7025" id="47" />
+      <Sentence char_offsets="7036:7154" id="48" />
+      <Sentence char_offsets="7156:7266" id="49" />
+      <Sentence char_offsets="7277:7358" id="50" />
+      <Sentence char_offsets="7360:7466" id="51" />
+      <Sentence char_offsets="7477:7678" id="52" />
+      <Sentence char_offsets="7689:7924" id="53" />
+      <Sentence char_offsets="7935:8072" id="54" />
+      <Sentence char_offsets="8074:8197" id="55" />
+      <Sentence char_offsets="8199:8298" id="56" />
+      <Sentence char_offsets="8309:8444" id="57" />
+      <Sentence char_offsets="8455:8572" id="58" />
+      <Sentence char_offsets="8583:8588" id="59" />
+      <Sentence char_offsets="8599:8766" id="60" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="35" tense="neutral" type="010">
+        <Participant actor_id="57329" actor_name="Bollor&#233;" role="Source" />
+        <Participant actor_id="239802" actor_name="Sumitomo Corp." role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="022">
+        <Participant actor_id="32291" actor_name="Bolivia" role="Source" />
+        <Participant actor_id="239802" actor_name="Sumitomo Corp." role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="022">
+        <Participant actor_id="32291" actor_name="Bolivia" role="Source" />
+        <Participant actor_id="42186" actor_name="Mitsubishi" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="neutral" type="022">
+        <Participant actor_id="32291" actor_name="Bolivia" role="Source" />
+        <Participant actor_id="57329" actor_name="Bollor&#233;" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="historical" type="040">
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Source" />
+        <Participant actor_id="57329" actor_name="Bollor&#233;" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="35" tense="neutral" type="040">
+        <Participant actor_id="57329" actor_name="Bollor&#233;" role="Source" />
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="43" tense="neutral" type="1621">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="4" tense="historical" type="040">
+        <Participant actor_id="57329" actor_name="Bollor&#233;" role="Source" />
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="35" tense="neutral" type="040">
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Source" />
+        <Participant actor_id="57329" actor_name="Bollor&#233;" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

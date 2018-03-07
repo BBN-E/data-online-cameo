@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0308">
+    <Sentences>
+      <Sentence char_offsets="187:387" id="0" />
+      <Sentence char_offsets="398:602" id="1" />
+      <Sentence char_offsets="613:742" id="2" />
+      <Sentence char_offsets="753:880" id="3" />
+      <Sentence char_offsets="882:1015" id="4" />
+      <Sentence char_offsets="1026:1189" id="5" />
+      <Sentence char_offsets="1200:1347" id="6" />
+      <Sentence char_offsets="1358:1531" id="7" />
+      <Sentence char_offsets="1542:1724" id="8" />
+      <Sentence char_offsets="1735:1927" id="9" />
+      <Sentence char_offsets="1938:2115" id="10" />
+      <Sentence char_offsets="2126:2319" id="11" />
+      <Sentence char_offsets="2330:2542" id="12" />
+      <Sentence char_offsets="2553:2780" id="13" />
+      <Sentence char_offsets="2791:3004" id="14" />
+      <Sentence char_offsets="3015:3233" id="15" />
+      <Sentence char_offsets="3244:3462" id="16" />
+      <Sentence char_offsets="3473:3674" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0331">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="141">
+        <Participant actor_id="30701" actor_name="France" agent_id="640" agent_name="Employee" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

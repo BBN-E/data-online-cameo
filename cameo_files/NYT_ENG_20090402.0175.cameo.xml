@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090402.0175">
+    <Sentences>
+      <Sentence char_offsets="189:486" id="0" />
+      <Sentence char_offsets="497:662" id="1" />
+      <Sentence char_offsets="664:882" id="2" />
+      <Sentence char_offsets="893:1031" id="3" />
+      <Sentence char_offsets="1033:1137" id="4" />
+      <Sentence char_offsets="1139:1239" id="5" />
+      <Sentence char_offsets="1250:1514" id="6" />
+      <Sentence char_offsets="1525:1674" id="7" />
+      <Sentence char_offsets="1685:1912" id="8" />
+      <Sentence char_offsets="1923:2121" id="9" />
+      <Sentence char_offsets="2132:2278" id="10" />
+      <Sentence char_offsets="2280:2440" id="11" />
+      <Sentence char_offsets="2451:2576" id="12" />
+      <Sentence char_offsets="2578:2633" id="13" />
+      <Sentence char_offsets="2644:2775" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="411" agent_name="Drug Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

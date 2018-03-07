@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0858">
+    <Sentences>
+      <Sentence char_offsets="190:361" id="0" />
+      <Sentence char_offsets="372:602" id="1" />
+      <Sentence char_offsets="613:762" id="2" />
+      <Sentence char_offsets="764:795" id="3" />
+      <Sentence char_offsets="806:864" id="4" />
+      <Sentence char_offsets="866:930" id="5" />
+      <Sentence char_offsets="941:1158" id="6" />
+      <Sentence char_offsets="1169:1228" id="7" />
+      <Sentence char_offsets="1230:1346" id="8" />
+      <Sentence char_offsets="1357:1559" id="9" />
+      <Sentence char_offsets="1570:1748" id="10" />
+      <Sentence char_offsets="1759:1861" id="11" />
+      <Sentence char_offsets="1872:2047" id="12" />
+      <Sentence char_offsets="2058:2250" id="13" />
+      <Sentence char_offsets="2261:2430" id="14" />
+      <Sentence char_offsets="2441:2578" id="15" />
+      <Sentence char_offsets="2589:2656" id="16" />
+      <Sentence char_offsets="2658:2784" id="17" />
+      <Sentence char_offsets="2795:2884" id="18" />
+      <Sentence char_offsets="2895:2995" id="19" />
+      <Sentence char_offsets="3006:3044" id="20" />
+      <Sentence char_offsets="3046:3177" id="21" />
+      <Sentence char_offsets="3188:3300" id="22" />
+      <Sentence char_offsets="3311:3399" id="23" />
+      <Sentence char_offsets="3410:3634" id="24" />
+      <Sentence char_offsets="3645:3851" id="25" />
+      <Sentence char_offsets="3862:3990" id="26" />
+      <Sentence char_offsets="4001:4104" id="27" />
+      <Sentence char_offsets="4115:4210" id="28" />
+      <Sentence char_offsets="4212:4391" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="016">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="181">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="29" tense="neutral" type="181">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="182">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

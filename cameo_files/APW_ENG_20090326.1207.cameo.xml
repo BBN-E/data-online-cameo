@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.1207">
+    <Sentences>
+      <Sentence char_offsets="181:388" id="0" />
+      <Sentence char_offsets="399:646" id="1" />
+      <Sentence char_offsets="657:891" id="2" />
+      <Sentence char_offsets="902:1014" id="3" />
+      <Sentence char_offsets="1025:1132" id="4" />
+      <Sentence char_offsets="1143:1326" id="5" />
+      <Sentence char_offsets="1337:1534" id="6" />
+      <Sentence char_offsets="1545:1677" id="7" />
+      <Sentence char_offsets="1688:1820" id="8" />
+      <Sentence char_offsets="1831:1984" id="9" />
+      <Sentence char_offsets="1986:2069" id="10" />
+      <Sentence char_offsets="2080:2208" id="11" />
+      <Sentence char_offsets="2219:2362" id="12" />
+      <Sentence char_offsets="2364:2448" id="13" />
+      <Sentence char_offsets="2459:2639" id="14" />
+      <Sentence char_offsets="2641:2822" id="15" />
+      <Sentence char_offsets="2833:2936" id="16" />
+      <Sentence char_offsets="2938:3034" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="54261" actor_name="Hilda Lucia Solis" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

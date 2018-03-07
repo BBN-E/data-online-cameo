@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0727">
+    <Sentences>
+      <Sentence char_offsets="170:367" id="0" />
+      <Sentence char_offsets="378:581" id="1" />
+      <Sentence char_offsets="592:805" id="2" />
+      <Sentence char_offsets="816:1010" id="3" />
+      <Sentence char_offsets="1021:1148" id="4" />
+      <Sentence char_offsets="1159:1412" id="5" />
+      <Sentence char_offsets="1423:1524" id="6" />
+      <Sentence char_offsets="1526:1619" id="7" />
+      <Sentence char_offsets="1630:1857" id="8" />
+      <Sentence char_offsets="1868:2092" id="9" />
+      <Sentence char_offsets="2103:2295" id="10" />
+      <Sentence char_offsets="2306:2522" id="11" />
+      <Sentence char_offsets="2533:2722" id="12" />
+      <Sentence char_offsets="2733:2923" id="13" />
+      <Sentence char_offsets="2934:3083" id="14" />
+      <Sentence char_offsets="3094:3311" id="15" />
+      <Sentence char_offsets="3322:3564" id="16" />
+      <Sentence char_offsets="3575:3733" id="17" />
+      <Sentence char_offsets="3744:3768" id="18" />
+      <Sentence char_offsets="3770:3834" id="19" />
+      <Sentence char_offsets="3836:3939" id="20" />
+      <Sentence char_offsets="3950:4165" id="21" />
+      <Sentence char_offsets="4176:4364" id="22" />
+      <Sentence char_offsets="4375:4478" id="23" />
+      <Sentence char_offsets="4480:4577" id="24" />
+      <Sentence char_offsets="4588:4694" id="25" />
+      <Sentence char_offsets="4705:4773" id="26" />
+      <Sentence char_offsets="4775:4858" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="235631" actor_name="Great Indonesia Movement Party" role="Source" />
+        <Participant actor_id="235595" actor_name="Prabowo Subianto" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="235595" actor_name="Prabowo Subianto" role="Source" />
+        <Participant actor_id="235631" actor_name="Great Indonesia Movement Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

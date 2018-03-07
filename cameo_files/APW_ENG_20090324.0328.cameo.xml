@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0328">
+    <Sentences>
+      <Sentence char_offsets="188:358" id="0" />
+      <Sentence char_offsets="369:554" id="1" />
+      <Sentence char_offsets="556:652" id="2" />
+      <Sentence char_offsets="663:781" id="3" />
+      <Sentence char_offsets="783:822" id="4" />
+      <Sentence char_offsets="833:972" id="5" />
+      <Sentence char_offsets="983:1045" id="6" />
+      <Sentence char_offsets="1047:1171" id="7" />
+      <Sentence char_offsets="1173:1273" id="8" />
+      <Sentence char_offsets="1284:1357" id="9" />
+      <Sentence char_offsets="1359:1460" id="10" />
+      <Sentence char_offsets="1471:1660" id="11" />
+      <Sentence char_offsets="1671:1818" id="12" />
+      <Sentence char_offsets="1829:1960" id="13" />
+      <Sentence char_offsets="1962:2064" id="14" />
+      <Sentence char_offsets="2075:2257" id="15" />
+      <Sentence char_offsets="2268:2343" id="16" />
+      <Sentence char_offsets="2345:2454" id="17" />
+      <Sentence char_offsets="2456:2546" id="18" />
+      <Sentence char_offsets="2557:2691" id="19" />
+      <Sentence char_offsets="2702:2883" id="20" />
+      <Sentence char_offsets="2885:2999" id="21" />
+      <Sentence char_offsets="3010:3183" id="22" />
+      <Sentence char_offsets="3185:3312" id="23" />
+      <Sentence char_offsets="3323:3470" id="24" />
+      <Sentence char_offsets="3472:3590" id="25" />
+      <Sentence char_offsets="3601:3677" id="26" />
+      <Sentence char_offsets="3679:3870" id="27" />
+      <Sentence char_offsets="3881:4015" id="28" />
+      <Sentence char_offsets="4026:4161" id="29" />
+      <Sentence char_offsets="4163:4206" id="30" />
+      <Sentence char_offsets="4217:4305" id="31" />
+      <Sentence char_offsets="4307:4360" id="32" />
+      <Sentence char_offsets="4362:4472" id="33" />
+      <Sentence char_offsets="4483:4539" id="34" />
+      <Sentence char_offsets="4541:4651" id="35" />
+      <Sentence char_offsets="4662:4711" id="36" />
+      <Sentence char_offsets="4713:4863" id="37" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Source" />
+        <Participant actor_id="4482" actor_name="Likud" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="057">
+        <Participant actor_id="4482" actor_name="Likud" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="22" tense="neutral" type="057">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="4482" actor_name="Likud" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

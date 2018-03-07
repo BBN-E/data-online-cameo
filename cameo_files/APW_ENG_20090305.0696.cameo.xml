@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0696">
+    <Sentences>
+      <Sentence char_offsets="184:351" id="0" />
+      <Sentence char_offsets="362:549" id="1" />
+      <Sentence char_offsets="560:641" id="2" />
+      <Sentence char_offsets="643:730" id="3" />
+      <Sentence char_offsets="741:901" id="4" />
+      <Sentence char_offsets="903:954" id="5" />
+      <Sentence char_offsets="965:1069" id="6" />
+      <Sentence char_offsets="1071:1136" id="7" />
+      <Sentence char_offsets="1147:1350" id="8" />
+      <Sentence char_offsets="1352:1397" id="9" />
+      <Sentence char_offsets="1408:1490" id="10" />
+      <Sentence char_offsets="1501:1616" id="11" />
+      <Sentence char_offsets="1618:1705" id="12" />
+      <Sentence char_offsets="1707:1794" id="13" />
+      <Sentence char_offsets="1805:1961" id="14" />
+      <Sentence char_offsets="1963:2048" id="15" />
+      <Sentence char_offsets="2050:2119" id="16" />
+      <Sentence char_offsets="2130:2195" id="17" />
+      <Sentence char_offsets="2197:2237" id="18" />
+      <Sentence char_offsets="2248:2397" id="19" />
+      <Sentence char_offsets="2408:2471" id="20" />
+      <Sentence char_offsets="2473:2552" id="21" />
+      <Sentence char_offsets="2563:2697" id="22" />
+      <Sentence char_offsets="2699:2772" id="23" />
+      <Sentence char_offsets="2783:2788" id="24" />
+      <Sentence char_offsets="2799:2809" id="25" />
+      <Sentence char_offsets="2820:2859" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="239047" actor_name="Jim McGrath" role="Source" />
+        <Participant actor_id="215384" actor_name="Barbara Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="719" agent_name="Healthcare Facility" role="Source" />
+        <Participant actor_id="215384" actor_name="Barbara Bush" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="239047" actor_name="Jim McGrath" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

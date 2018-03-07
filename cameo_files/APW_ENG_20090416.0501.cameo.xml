@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0501">
+    <Sentences>
+      <Sentence char_offsets="195:356" id="0" />
+      <Sentence char_offsets="367:535" id="1" />
+      <Sentence char_offsets="537:576" id="2" />
+      <Sentence char_offsets="587:698" id="3" />
+      <Sentence char_offsets="709:779" id="4" />
+      <Sentence char_offsets="790:838" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="53110" actor_name="Soeharto" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

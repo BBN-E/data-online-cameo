@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0355">
+    <Sentences>
+      <Sentence char_offsets="184:383" id="0" />
+      <Sentence char_offsets="394:601" id="1" />
+      <Sentence char_offsets="603:669" id="2" />
+      <Sentence char_offsets="680:837" id="3" />
+      <Sentence char_offsets="839:917" id="4" />
+      <Sentence char_offsets="928:1076" id="5" />
+      <Sentence char_offsets="1078:1232" id="6" />
+      <Sentence char_offsets="1234:1274" id="7" />
+      <Sentence char_offsets="1285:1411" id="8" />
+      <Sentence char_offsets="1413:1541" id="9" />
+      <Sentence char_offsets="1543:1601" id="10" />
+      <Sentence char_offsets="1612:1719" id="11" />
+      <Sentence char_offsets="1730:1883" id="12" />
+      <Sentence char_offsets="1894:2067" id="13" />
+      <Sentence char_offsets="2078:2201" id="14" />
+      <Sentence char_offsets="2212:2428" id="15" />
+      <Sentence char_offsets="2439:2548" id="16" />
+      <Sentence char_offsets="2550:2700" id="17" />
+      <Sentence char_offsets="2711:2992" id="18" />
+      <Sentence char_offsets="3003:3223" id="19" />
+      <Sentence char_offsets="3234:3328" id="20" />
+      <Sentence char_offsets="3339:3507" id="21" />
+      <Sentence char_offsets="3518:3523" id="22" />
+      <Sentence char_offsets="3534:3606" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="current" type="010">
+        <Participant actor_id="27143" actor_name="Xinhua" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="405" agent_name="Communist Party" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0506">
+    <Sentences>
+      <Sentence char_offsets="182:371" id="0" />
+      <Sentence char_offsets="382:613" id="1" />
+      <Sentence char_offsets="624:813" id="2" />
+      <Sentence char_offsets="824:899" id="3" />
+      <Sentence char_offsets="910:1066" id="4" />
+      <Sentence char_offsets="1077:1295" id="5" />
+      <Sentence char_offsets="1306:1454" id="6" />
+      <Sentence char_offsets="1465:1663" id="7" />
+      <Sentence char_offsets="1674:1888" id="8" />
+      <Sentence char_offsets="1899:2045" id="9" />
+      <Sentence char_offsets="2056:2222" id="10" />
+      <Sentence char_offsets="2233:2433" id="11" />
+      <Sentence char_offsets="2444:2641" id="12" />
+      <Sentence char_offsets="2652:2779" id="13" />
+      <Sentence char_offsets="2790:2984" id="14" />
+      <Sentence char_offsets="2995:3188" id="15" />
+      <Sentence char_offsets="3199:3268" id="16" />
+      <Sentence char_offsets="3279:3351" id="17" />
+      <Sentence char_offsets="3353:3393" id="18" />
+      <Sentence char_offsets="3395:3470" id="19" />
+      <Sentence char_offsets="3481:3609" id="20" />
+      <Sentence char_offsets="3620:3757" id="21" />
+      <Sentence char_offsets="3768:3788" id="22" />
+      <Sentence char_offsets="3799:4025" id="23" />
+      <Sentence char_offsets="4036:4215" id="24" />
+      <Sentence char_offsets="4226:4362" id="25" />
+      <Sentence char_offsets="4373:4516" id="26" />
+      <Sentence char_offsets="4527:4714" id="27" />
+      <Sentence char_offsets="4725:4947" id="28" />
+      <Sentence char_offsets="4958:5017" id="29" />
+      <Sentence char_offsets="5028:5114" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="neutral" type="111">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="611" agent_name="Regulator" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

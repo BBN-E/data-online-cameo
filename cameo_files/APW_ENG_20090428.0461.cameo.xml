@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0461">
+    <Sentences>
+      <Sentence char_offsets="189:455" id="0" />
+      <Sentence char_offsets="466:696" id="1" />
+      <Sentence char_offsets="707:767" id="2" />
+      <Sentence char_offsets="769:905" id="3" />
+      <Sentence char_offsets="907:975" id="4" />
+      <Sentence char_offsets="986:1209" id="5" />
+      <Sentence char_offsets="1220:1360" id="6" />
+      <Sentence char_offsets="1362:1446" id="7" />
+      <Sentence char_offsets="1457:1510" id="8" />
+      <Sentence char_offsets="1512:1545" id="9" />
+      <Sentence char_offsets="1547:1679" id="10" />
+      <Sentence char_offsets="1690:1858" id="11" />
+      <Sentence char_offsets="1860:1916" id="12" />
+      <Sentence char_offsets="1927:2148" id="13" />
+      <Sentence char_offsets="2159:2312" id="14" />
+      <Sentence char_offsets="2323:2482" id="15" />
+      <Sentence char_offsets="2493:2644" id="16" />
+      <Sentence char_offsets="2646:2745" id="17" />
+      <Sentence char_offsets="2756:2954" id="18" />
+      <Sentence char_offsets="2965:3052" id="19" />
+      <Sentence char_offsets="3054:3140" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="current" type="010">
+        <Participant actor_id="11687" actor_name="Rehman Malik" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="235994" actor_name="Mian Iftikhar Hussain" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

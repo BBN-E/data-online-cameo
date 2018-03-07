@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0018">
+    <Sentences>
+      <Sentence char_offsets="196:392" id="0" />
+      <Sentence char_offsets="403:595" id="1" />
+      <Sentence char_offsets="606:655" id="2" />
+      <Sentence char_offsets="666:843" id="3" />
+      <Sentence char_offsets="854:917" id="4" />
+      <Sentence char_offsets="928:1005" id="5" />
+      <Sentence char_offsets="1016:1158" id="6" />
+      <Sentence char_offsets="1169:1299" id="7" />
+      <Sentence char_offsets="1310:1487" id="8" />
+      <Sentence char_offsets="1498:1604" id="9" />
+      <Sentence char_offsets="1615:1696" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="0331">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="historical" type="127">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

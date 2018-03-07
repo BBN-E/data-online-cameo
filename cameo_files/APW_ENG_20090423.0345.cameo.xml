@@ -1,0 +1,87 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0345">
+    <Sentences>
+      <Sentence char_offsets="198:404" id="0" />
+      <Sentence char_offsets="415:558" id="1" />
+      <Sentence char_offsets="560:718" id="2" />
+      <Sentence char_offsets="729:976" id="3" />
+      <Sentence char_offsets="987:1076" id="4" />
+      <Sentence char_offsets="1078:1156" id="5" />
+      <Sentence char_offsets="1167:1371" id="6" />
+      <Sentence char_offsets="1382:1504" id="7" />
+      <Sentence char_offsets="1515:1601" id="8" />
+      <Sentence char_offsets="1603:1788" id="9" />
+      <Sentence char_offsets="1799:1901" id="10" />
+      <Sentence char_offsets="1903:2005" id="11" />
+      <Sentence char_offsets="2016:2164" id="12" />
+      <Sentence char_offsets="2175:2258" id="13" />
+      <Sentence char_offsets="2260:2420" id="14" />
+      <Sentence char_offsets="2431:2626" id="15" />
+      <Sentence char_offsets="2628:2745" id="16" />
+      <Sentence char_offsets="2756:2889" id="17" />
+      <Sentence char_offsets="2891:2965" id="18" />
+      <Sentence char_offsets="2976:3090" id="19" />
+      <Sentence char_offsets="3101:3178" id="20" />
+      <Sentence char_offsets="3180:3323" id="21" />
+      <Sentence char_offsets="3334:3597" id="22" />
+      <Sentence char_offsets="3608:3770" id="23" />
+      <Sentence char_offsets="3781:3857" id="24" />
+      <Sentence char_offsets="3868:3929" id="25" />
+      <Sentence char_offsets="3931:4106" id="26" />
+      <Sentence char_offsets="4117:4324" id="27" />
+      <Sentence char_offsets="4326:4412" id="28" />
+      <Sentence char_offsets="4423:4547" id="29" />
+      <Sentence char_offsets="4549:4678" id="30" />
+      <Sentence char_offsets="4689:4694" id="31" />
+      <Sentence char_offsets="4705:4777" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="25556" actor_name="Muhammad al-Baradei" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="35118" actor_name="Korean Central News Agency" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="current" type="036">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="111">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="29" tense="neutral" type="111">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="27" tense="neutral" type="1243">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="27" tense="neutral" type="1243">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

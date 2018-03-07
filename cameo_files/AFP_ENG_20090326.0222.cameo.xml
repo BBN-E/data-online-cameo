@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0222">
+    <Sentences>
+      <Sentence char_offsets="177:366" id="0" />
+      <Sentence char_offsets="377:519" id="1" />
+      <Sentence char_offsets="521:604" id="2" />
+      <Sentence char_offsets="615:816" id="3" />
+      <Sentence char_offsets="827:858" id="4" />
+      <Sentence char_offsets="860:922" id="5" />
+      <Sentence char_offsets="933:1010" id="6" />
+      <Sentence char_offsets="1012:1099" id="7" />
+      <Sentence char_offsets="1110:1292" id="8" />
+      <Sentence char_offsets="1303:1526" id="9" />
+      <Sentence char_offsets="1537:1757" id="10" />
+      <Sentence char_offsets="1768:1953" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

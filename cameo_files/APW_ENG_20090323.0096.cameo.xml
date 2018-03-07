@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0096">
+    <Sentences>
+      <Sentence char_offsets="201:394" id="0" />
+      <Sentence char_offsets="405:556" id="1" />
+      <Sentence char_offsets="567:813" id="2" />
+      <Sentence char_offsets="824:969" id="3" />
+      <Sentence char_offsets="980:1091" id="4" />
+      <Sentence char_offsets="1093:1138" id="5" />
+      <Sentence char_offsets="1140:1240" id="6" />
+      <Sentence char_offsets="1251:1504" id="7" />
+      <Sentence char_offsets="1515:1758" id="8" />
+      <Sentence char_offsets="1769:1898" id="9" />
+      <Sentence char_offsets="1909:2100" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="historical" type="057">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="historical" type="057">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

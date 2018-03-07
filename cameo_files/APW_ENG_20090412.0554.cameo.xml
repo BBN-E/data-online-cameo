@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090412.0554">
+    <Sentences>
+      <Sentence char_offsets="189:247" id="0" />
+      <Sentence char_offsets="258:379" id="1" />
+      <Sentence char_offsets="390:550" id="2" />
+      <Sentence char_offsets="561:709" id="3" />
+      <Sentence char_offsets="720:857" id="4" />
+      <Sentence char_offsets="859:980" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,82 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0105">
+    <Sentences>
+      <Sentence char_offsets="185:446" id="0" />
+      <Sentence char_offsets="457:562" id="1" />
+      <Sentence char_offsets="573:704" id="2" />
+      <Sentence char_offsets="706:801" id="3" />
+      <Sentence char_offsets="812:1045" id="4" />
+      <Sentence char_offsets="1056:1198" id="5" />
+      <Sentence char_offsets="1209:1323" id="6" />
+      <Sentence char_offsets="1325:1419" id="7" />
+      <Sentence char_offsets="1430:1657" id="8" />
+      <Sentence char_offsets="1668:1905" id="9" />
+      <Sentence char_offsets="1916:2056" id="10" />
+      <Sentence char_offsets="2067:2139" id="11" />
+      <Sentence char_offsets="2141:2262" id="12" />
+      <Sentence char_offsets="2273:2369" id="13" />
+      <Sentence char_offsets="2371:2422" id="14" />
+      <Sentence char_offsets="2424:2517" id="15" />
+      <Sentence char_offsets="2528:2648" id="16" />
+      <Sentence char_offsets="2650:2855" id="17" />
+      <Sentence char_offsets="2866:2958" id="18" />
+      <Sentence char_offsets="2960:3076" id="19" />
+      <Sentence char_offsets="3087:3256" id="20" />
+      <Sentence char_offsets="3258:3315" id="21" />
+      <Sentence char_offsets="3326:3393" id="22" />
+      <Sentence char_offsets="3395:3511" id="23" />
+      <Sentence char_offsets="3522:3693" id="24" />
+      <Sentence char_offsets="3695:3817" id="25" />
+      <Sentence char_offsets="3828:3904" id="26" />
+      <Sentence char_offsets="3906:3972" id="27" />
+      <Sentence char_offsets="3974:4133" id="28" />
+      <Sentence char_offsets="4144:4186" id="29" />
+      <Sentence char_offsets="4188:4351" id="30" />
+      <Sentence char_offsets="4362:4504" id="31" />
+      <Sentence char_offsets="4515:4667" id="32" />
+      <Sentence char_offsets="4678:4746" id="33" />
+      <Sentence char_offsets="4748:4936" id="34" />
+      <Sentence char_offsets="4947:5127" id="35" />
+      <Sentence char_offsets="5129:5223" id="36" />
+      <Sentence char_offsets="5234:5406" id="37" />
+      <Sentence char_offsets="5417:5631" id="38" />
+      <Sentence char_offsets="5642:5679" id="39" />
+      <Sentence char_offsets="5681:5835" id="40" />
+      <Sentence char_offsets="5846:6015" id="41" />
+      <Sentence char_offsets="6017:6104" id="42" />
+      <Sentence char_offsets="6106:6191" id="43" />
+      <Sentence char_offsets="6202:6417" id="44" />
+      <Sentence char_offsets="6428:6562" id="45" />
+      <Sentence char_offsets="6573:6578" id="46" />
+      <Sentence char_offsets="6589:6662" id="47" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="012">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="historical" type="0356">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="39" tense="neutral" type="120">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="164">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="180">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="193">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

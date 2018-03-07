@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0127">
+    <Sentences>
+      <Sentence char_offsets="186:359" id="0" />
+      <Sentence char_offsets="370:512" id="1" />
+      <Sentence char_offsets="523:708" id="2" />
+      <Sentence char_offsets="719:1009" id="3" />
+      <Sentence char_offsets="1011:1105" id="4" />
+      <Sentence char_offsets="1116:1192" id="5" />
+      <Sentence char_offsets="1194:1267" id="6" />
+      <Sentence char_offsets="1278:1418" id="7" />
+      <Sentence char_offsets="1420:1481" id="8" />
+      <Sentence char_offsets="1483:1540" id="9" />
+      <Sentence char_offsets="1551:1751" id="10" />
+      <Sentence char_offsets="1753:1855" id="11" />
+      <Sentence char_offsets="1866:2054" id="12" />
+      <Sentence char_offsets="2065:2161" id="13" />
+      <Sentence char_offsets="2163:2256" id="14" />
+      <Sentence char_offsets="2267:2408" id="15" />
+      <Sentence char_offsets="2419:2548" id="16" />
+      <Sentence char_offsets="2559:2677" id="17" />
+      <Sentence char_offsets="2688:2919" id="18" />
+      <Sentence char_offsets="2921:2944" id="19" />
+      <Sentence char_offsets="2955:3060" id="20" />
+      <Sentence char_offsets="3071:3177" id="21" />
+      <Sentence char_offsets="3179:3324" id="22" />
+      <Sentence char_offsets="3335:3461" id="23" />
+      <Sentence char_offsets="3463:3505" id="24" />
+      <Sentence char_offsets="3516:3622" id="25" />
+      <Sentence char_offsets="3633:3684" id="26" />
+      <Sentence char_offsets="3686:3725" id="27" />
+      <Sentence char_offsets="3736:3741" id="28" />
+      <Sentence char_offsets="3752:3762" id="29" />
+      <Sentence char_offsets="3773:3849" id="30" />
+      <Sentence char_offsets="3860:3902" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

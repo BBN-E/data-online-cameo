@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0156">
+    <Sentences>
+      <Sentence char_offsets="182:376" id="0" />
+      <Sentence char_offsets="387:604" id="1" />
+      <Sentence char_offsets="615:785" id="2" />
+      <Sentence char_offsets="796:981" id="3" />
+      <Sentence char_offsets="992:1009" id="4" />
+      <Sentence char_offsets="1011:1096" id="5" />
+      <Sentence char_offsets="1107:1161" id="6" />
+      <Sentence char_offsets="1163:1316" id="7" />
+      <Sentence char_offsets="1327:1458" id="8" />
+      <Sentence char_offsets="1469:1609" id="9" />
+      <Sentence char_offsets="1620:1761" id="10" />
+      <Sentence char_offsets="1772:1939" id="11" />
+      <Sentence char_offsets="1950:1988" id="12" />
+      <Sentence char_offsets="1990:2101" id="13" />
+      <Sentence char_offsets="2112:2239" id="14" />
+      <Sentence char_offsets="2250:2386" id="15" />
+      <Sentence char_offsets="2397:2608" id="16" />
+      <Sentence char_offsets="2619:2836" id="17" />
+      <Sentence char_offsets="2847:3056" id="18" />
+      <Sentence char_offsets="3067:3272" id="19" />
+      <Sentence char_offsets="3283:3467" id="20" />
+      <Sentence char_offsets="3478:3639" id="21" />
+      <Sentence char_offsets="3650:3853" id="22" />
+      <Sentence char_offsets="3864:3995" id="23" />
+      <Sentence char_offsets="4006:4208" id="24" />
+      <Sentence char_offsets="4219:4488" id="25" />
+      <Sentence char_offsets="4499:4739" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="19" tense="neutral" type="020">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="22" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="19" tense="neutral" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="historical" type="051">
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="113">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="19" tense="neutral" type="042">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

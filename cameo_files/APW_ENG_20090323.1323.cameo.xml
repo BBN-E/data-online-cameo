@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.1323">
+    <Sentences>
+      <Sentence char_offsets="192:430" id="0" />
+      <Sentence char_offsets="441:644" id="1" />
+      <Sentence char_offsets="655:766" id="2" />
+      <Sentence char_offsets="768:1000" id="3" />
+      <Sentence char_offsets="1011:1188" id="4" />
+      <Sentence char_offsets="1199:1301" id="5" />
+      <Sentence char_offsets="1303:1484" id="6" />
+      <Sentence char_offsets="1495:1626" id="7" />
+      <Sentence char_offsets="1628:1847" id="8" />
+      <Sentence char_offsets="1858:1925" id="9" />
+      <Sentence char_offsets="1936:2072" id="10" />
+      <Sentence char_offsets="2074:2136" id="11" />
+      <Sentence char_offsets="2147:2211" id="12" />
+      <Sentence char_offsets="2213:2302" id="13" />
+      <Sentence char_offsets="2313:2484" id="14" />
+      <Sentence char_offsets="2495:2596" id="15" />
+      <Sentence char_offsets="2607:2778" id="16" />
+      <Sentence char_offsets="2789:2891" id="17" />
+      <Sentence char_offsets="2893:3110" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="237932" actor_name="Sk&#235;nder Hyseni" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="4753" actor_name="Vitaly Ivanovich Churkin" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="14714" actor_name="Boris Tadic" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="237932" actor_name="Sk&#235;nder Hyseni" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="237932" actor_name="Sk&#235;nder Hyseni" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="237932" actor_name="Sk&#235;nder Hyseni" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="14714" actor_name="Boris Tadic" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" agent_id="721" agent_name="Organized Crime" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="18" tense="historical" type="120">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

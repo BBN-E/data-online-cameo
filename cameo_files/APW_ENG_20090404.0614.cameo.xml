@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0614">
+    <Sentences>
+      <Sentence char_offsets="105:121" id="0" />
+      <Sentence char_offsets="132:175" id="1" />
+      <Sentence char_offsets="186:222" id="2" />
+      <Sentence char_offsets="224:247" id="3" />
+      <Sentence char_offsets="258:267" id="4" />
+      <Sentence char_offsets="269:272" id="5" />
+      <Sentence char_offsets="274:544" id="6" />
+      <Sentence char_offsets="555:666" id="7" />
+      <Sentence char_offsets="668:795" id="8" />
+      <Sentence char_offsets="806:952" id="9" />
+      <Sentence char_offsets="963:1250" id="10" />
+      <Sentence char_offsets="1261:1397" id="11" />
+      <Sentence char_offsets="1399:1506" id="12" />
+      <Sentence char_offsets="1508:1617" id="13" />
+      <Sentence char_offsets="1628:1791" id="14" />
+      <Sentence char_offsets="1793:1889" id="15" />
+      <Sentence char_offsets="1891:2034" id="16" />
+      <Sentence char_offsets="2045:2114" id="17" />
+      <Sentence char_offsets="2116:2297" id="18" />
+      <Sentence char_offsets="2299:2400" id="19" />
+      <Sentence char_offsets="2411:2520" id="20" />
+      <Sentence char_offsets="2531:2916" id="21" />
+      <Sentence char_offsets="2927:3284" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="historical" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

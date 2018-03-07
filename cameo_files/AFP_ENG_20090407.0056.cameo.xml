@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0056">
+    <Sentences>
+      <Sentence char_offsets="182:337" id="0" />
+      <Sentence char_offsets="348:635" id="1" />
+      <Sentence char_offsets="646:776" id="2" />
+      <Sentence char_offsets="787:996" id="3" />
+      <Sentence char_offsets="1007:1257" id="4" />
+      <Sentence char_offsets="1268:1440" id="5" />
+      <Sentence char_offsets="1451:1585" id="6" />
+      <Sentence char_offsets="1596:1767" id="7" />
+      <Sentence char_offsets="1778:1987" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="32084" actor_name="Central African Republic" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="32084" actor_name="Central African Republic" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="051">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

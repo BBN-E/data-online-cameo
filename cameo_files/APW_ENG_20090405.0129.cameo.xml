@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090405.0129">
+    <Sentences>
+      <Sentence char_offsets="187:365" id="0" />
+      <Sentence char_offsets="376:478" id="1" />
+      <Sentence char_offsets="489:701" id="2" />
+      <Sentence char_offsets="712:884" id="3" />
+      <Sentence char_offsets="895:1044" id="4" />
+      <Sentence char_offsets="1055:1141" id="5" />
+      <Sentence char_offsets="1143:1254" id="6" />
+      <Sentence char_offsets="1265:1402" id="7" />
+      <Sentence char_offsets="1413:1645" id="8" />
+      <Sentence char_offsets="1656:1826" id="9" />
+      <Sentence char_offsets="1828:1868" id="10" />
+      <Sentence char_offsets="1879:2023" id="11" />
+      <Sentence char_offsets="2025:2186" id="12" />
+      <Sentence char_offsets="2197:2312" id="13" />
+      <Sentence char_offsets="2314:2385" id="14" />
+      <Sentence char_offsets="2396:2438" id="15" />
+      <Sentence char_offsets="2449:2535" id="16" />
+      <Sentence char_offsets="2537:2723" id="17" />
+      <Sentence char_offsets="2734:2739" id="18" />
+      <Sentence char_offsets="2750:2838" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="032">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="032">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0202">
+    <Sentences>
+      <Sentence char_offsets="197:371" id="0" />
+      <Sentence char_offsets="382:480" id="1" />
+      <Sentence char_offsets="482:625" id="2" />
+      <Sentence char_offsets="636:735" id="3" />
+      <Sentence char_offsets="746:838" id="4" />
+      <Sentence char_offsets="849:1046" id="5" />
+      <Sentence char_offsets="1057:1190" id="6" />
+      <Sentence char_offsets="1192:1231" id="7" />
+      <Sentence char_offsets="1233:1333" id="8" />
+      <Sentence char_offsets="1344:1428" id="9" />
+      <Sentence char_offsets="1439:1575" id="10" />
+      <Sentence char_offsets="1577:1620" id="11" />
+      <Sentence char_offsets="1622:1687" id="12" />
+      <Sentence char_offsets="1698:1778" id="13" />
+      <Sentence char_offsets="1780:1856" id="14" />
+      <Sentence char_offsets="1867:1994" id="15" />
+      <Sentence char_offsets="2005:2101" id="16" />
+      <Sentence char_offsets="2103:2148" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="145">
+        <Participant actor_id="30701" actor_name="France" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="175">
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

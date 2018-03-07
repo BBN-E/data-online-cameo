@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0314">
+    <Sentences>
+      <Sentence char_offsets="184:408" id="0" />
+      <Sentence char_offsets="419:677" id="1" />
+      <Sentence char_offsets="688:879" id="2" />
+      <Sentence char_offsets="881:1017" id="3" />
+      <Sentence char_offsets="1019:1043" id="4" />
+      <Sentence char_offsets="1054:1292" id="5" />
+      <Sentence char_offsets="1303:1479" id="6" />
+      <Sentence char_offsets="1490:1633" id="7" />
+      <Sentence char_offsets="1635:1754" id="8" />
+      <Sentence char_offsets="1765:1979" id="9" />
+      <Sentence char_offsets="1981:2039" id="10" />
+      <Sentence char_offsets="2050:2333" id="11" />
+      <Sentence char_offsets="2344:2412" id="12" />
+      <Sentence char_offsets="2423:2578" id="13" />
+      <Sentence char_offsets="2580:2653" id="14" />
+      <Sentence char_offsets="2664:2809" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="90" agent_name="Farm Worker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="037">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

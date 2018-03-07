@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.1069">
+    <Sentences>
+      <Sentence char_offsets="190:373" id="0" />
+      <Sentence char_offsets="384:494" id="1" />
+      <Sentence char_offsets="505:633" id="2" />
+      <Sentence char_offsets="635:744" id="3" />
+      <Sentence char_offsets="755:834" id="4" />
+      <Sentence char_offsets="836:1020" id="5" />
+      <Sentence char_offsets="1031:1247" id="6" />
+      <Sentence char_offsets="1258:1399" id="7" />
+      <Sentence char_offsets="1410:1531" id="8" />
+      <Sentence char_offsets="1542:1664" id="9" />
+      <Sentence char_offsets="1666:1794" id="10" />
+      <Sentence char_offsets="1805:1917" id="11" />
+      <Sentence char_offsets="1928:2078" id="12" />
+      <Sentence char_offsets="2080:2345" id="13" />
+      <Sentence char_offsets="2356:2555" id="14" />
+      <Sentence char_offsets="2566:2698" id="15" />
+      <Sentence char_offsets="2700:2881" id="16" />
+      <Sentence char_offsets="2892:2993" id="17" />
+      <Sentence char_offsets="2995:3122" id="18" />
+      <Sentence char_offsets="3124:3212" id="19" />
+      <Sentence char_offsets="3223:3334" id="20" />
+      <Sentence char_offsets="3345:3604" id="21" />
+      <Sentence char_offsets="3615:3770" id="22" />
+      <Sentence char_offsets="3772:3939" id="23" />
+      <Sentence char_offsets="3950:4068" id="24" />
+      <Sentence char_offsets="4070:4167" id="25" />
+      <Sentence char_offsets="4178:4183" id="26" />
+      <Sentence char_offsets="4194:4204" id="27" />
+      <Sentence char_offsets="4215:4292" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="ongoing" type="013">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

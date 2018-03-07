@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0344">
+    <Sentences>
+      <Sentence char_offsets="185:349" id="0" />
+      <Sentence char_offsets="360:444" id="1" />
+      <Sentence char_offsets="455:587" id="2" />
+      <Sentence char_offsets="598:738" id="3" />
+      <Sentence char_offsets="749:809" id="4" />
+      <Sentence char_offsets="811:860" id="5" />
+      <Sentence char_offsets="871:927" id="6" />
+      <Sentence char_offsets="938:1072" id="7" />
+      <Sentence char_offsets="1083:1201" id="8" />
+      <Sentence char_offsets="1203:1295" id="9" />
+      <Sentence char_offsets="1306:1423" id="10" />
+      <Sentence char_offsets="1434:1522" id="11" />
+      <Sentence char_offsets="1533:1637" id="12" />
+      <Sentence char_offsets="1648:1773" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="173">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="173">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="180">
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

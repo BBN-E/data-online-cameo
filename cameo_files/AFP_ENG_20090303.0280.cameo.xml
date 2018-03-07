@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0280">
+    <Sentences>
+      <Sentence char_offsets="196:373" id="0" />
+      <Sentence char_offsets="384:588" id="1" />
+      <Sentence char_offsets="599:764" id="2" />
+      <Sentence char_offsets="775:839" id="3" />
+      <Sentence char_offsets="850:1035" id="4" />
+      <Sentence char_offsets="1046:1108" id="5" />
+      <Sentence char_offsets="1119:1341" id="6" />
+      <Sentence char_offsets="1352:1543" id="7" />
+      <Sentence char_offsets="1554:1620" id="8" />
+      <Sentence char_offsets="1622:1716" id="9" />
+      <Sentence char_offsets="1727:1868" id="10" />
+      <Sentence char_offsets="1879:2024" id="11" />
+      <Sentence char_offsets="2035:2200" id="12" />
+      <Sentence char_offsets="2202:2256" id="13" />
+      <Sentence char_offsets="2267:2333" id="14" />
+      <Sentence char_offsets="2344:2568" id="15" />
+      <Sentence char_offsets="2579:2643" id="16" />
+      <Sentence char_offsets="2654:2772" id="17" />
+      <Sentence char_offsets="2783:2955" id="18" />
+      <Sentence char_offsets="2966:3107" id="19" />
+      <Sentence char_offsets="3118:3260" id="20" />
+      <Sentence char_offsets="3271:3448" id="21" />
+      <Sentence char_offsets="3459:3621" id="22" />
+      <Sentence char_offsets="3632:3821" id="23" />
+      <Sentence char_offsets="3832:4002" id="24" />
+      <Sentence char_offsets="4004:4069" id="25" />
+      <Sentence char_offsets="4080:4224" id="26" />
+      <Sentence char_offsets="4235:4418" id="27" />
+      <Sentence char_offsets="4429:4576" id="28" />
+      <Sentence char_offsets="4587:4673" id="29" />
+      <Sentence char_offsets="4684:4824" id="30" />
+      <Sentence char_offsets="4835:4886" id="31" />
+      <Sentence char_offsets="4897:5072" id="32" />
+      <Sentence char_offsets="5083:5268" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="018">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="690" agent_name="Attacker" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="960" actor_name="Tamil Rebel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="27" tense="neutral" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="960" actor_name="Tamil Rebel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

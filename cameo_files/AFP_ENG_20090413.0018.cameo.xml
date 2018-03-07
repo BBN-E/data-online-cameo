@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0018">
+    <Sentences>
+      <Sentence char_offsets="189:398" id="0" />
+      <Sentence char_offsets="409:628" id="1" />
+      <Sentence char_offsets="639:744" id="2" />
+      <Sentence char_offsets="755:824" id="3" />
+      <Sentence char_offsets="835:1161" id="4" />
+      <Sentence char_offsets="1172:1466" id="5" />
+      <Sentence char_offsets="1477:1627" id="6" />
+      <Sentence char_offsets="1638:1759" id="7" />
+      <Sentence char_offsets="1770:2010" id="8" />
+      <Sentence char_offsets="2021:2247" id="9" />
+      <Sentence char_offsets="2258:2387" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="ongoing" type="016">
+        <Participant actor_id="34248" actor_name="Polisario Front" role="Source" />
+        <Participant actor_id="36716" actor_name="Morocco" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="ongoing" type="111">
+        <Participant actor_id="34248" actor_name="Polisario Front" role="Source" />
+        <Participant actor_id="36716" actor_name="Morocco" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="1123">
+        <Participant actor_id="28667" actor_name="Ahmed Boukhari" role="Source" />
+        <Participant actor_id="36716" actor_name="Morocco" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="128">
+        <Participant actor_id="36716" actor_name="Morocco" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="141">
+        <Participant actor_id="48264" actor_name="Sahrawi people" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

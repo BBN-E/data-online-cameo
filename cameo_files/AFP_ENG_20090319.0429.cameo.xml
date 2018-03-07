@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0429">
+    <Sentences>
+      <Sentence char_offsets="184:378" id="0" />
+      <Sentence char_offsets="389:598" id="1" />
+      <Sentence char_offsets="609:828" id="2" />
+      <Sentence char_offsets="839:1034" id="3" />
+      <Sentence char_offsets="1045:1270" id="4" />
+      <Sentence char_offsets="1281:1314" id="5" />
+      <Sentence char_offsets="1316:1442" id="6" />
+      <Sentence char_offsets="1453:1485" id="7" />
+      <Sentence char_offsets="1487:1611" id="8" />
+      <Sentence char_offsets="1622:1794" id="9" />
+      <Sentence char_offsets="1805:1893" id="10" />
+      <Sentence char_offsets="1895:2022" id="11" />
+      <Sentence char_offsets="2033:2235" id="12" />
+      <Sentence char_offsets="2246:2454" id="13" />
+      <Sentence char_offsets="2465:2558" id="14" />
+      <Sentence char_offsets="2560:2646" id="15" />
+      <Sentence char_offsets="2657:2790" id="16" />
+      <Sentence char_offsets="2801:2965" id="17" />
+      <Sentence char_offsets="2976:3212" id="18" />
+      <Sentence char_offsets="3223:3370" id="19" />
+      <Sentence char_offsets="3381:3607" id="20" />
+      <Sentence char_offsets="3618:3837" id="21" />
+      <Sentence char_offsets="3848:4079" id="22" />
+      <Sentence char_offsets="4090:4295" id="23" />
+      <Sentence char_offsets="4306:4508" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="362" agent_name="House of Representatives" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="53805" actor_name="John Boehner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="305" agent_name="Treasury/Finance Ministry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="020">
+        <Participant actor_id="53805" actor_name="John Boehner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

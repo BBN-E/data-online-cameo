@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0646">
+    <Sentences>
+      <Sentence char_offsets="180:353" id="0" />
+      <Sentence char_offsets="364:557" id="1" />
+      <Sentence char_offsets="568:778" id="2" />
+      <Sentence char_offsets="789:1014" id="3" />
+      <Sentence char_offsets="1025:1181" id="4" />
+      <Sentence char_offsets="1192:1355" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="120">
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

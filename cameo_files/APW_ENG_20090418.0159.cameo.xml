@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0159">
+    <Sentences>
+      <Sentence char_offsets="188:417" id="0" />
+      <Sentence char_offsets="428:572" id="1" />
+      <Sentence char_offsets="583:749" id="2" />
+      <Sentence char_offsets="760:974" id="3" />
+      <Sentence char_offsets="985:1126" id="4" />
+      <Sentence char_offsets="1137:1498" id="5" />
+      <Sentence char_offsets="1509:1711" id="6" />
+      <Sentence char_offsets="1722:1952" id="7" />
+      <Sentence char_offsets="1963:2185" id="8" />
+      <Sentence char_offsets="2196:2368" id="9" />
+      <Sentence char_offsets="2379:2517" id="10" />
+      <Sentence char_offsets="2519:2605" id="11" />
+      <Sentence char_offsets="2616:2817" id="12" />
+      <Sentence char_offsets="2828:3129" id="13" />
+      <Sentence char_offsets="3140:3304" id="14" />
+      <Sentence char_offsets="3315:3510" id="15" />
+      <Sentence char_offsets="3512:3626" id="16" />
+      <Sentence char_offsets="3637:3794" id="17" />
+      <Sentence char_offsets="3805:4010" id="18" />
+      <Sentence char_offsets="4021:4263" id="19" />
+      <Sentence char_offsets="4274:4475" id="20" />
+      <Sentence char_offsets="4486:4619" id="21" />
+      <Sentence char_offsets="4621:4793" id="22" />
+      <Sentence char_offsets="4804:4945" id="23" />
+      <Sentence char_offsets="4956:5075" id="24" />
+      <Sentence char_offsets="5077:5200" id="25" />
+      <Sentence char_offsets="5211:5389" id="26" />
+      <Sentence char_offsets="5391:5485" id="27" />
+      <Sentence char_offsets="5487:5613" id="28" />
+      <Sentence char_offsets="5624:5693" id="29" />
+      <Sentence char_offsets="5704:5914" id="30" />
+      <Sentence char_offsets="5925:6032" id="31" />
+      <Sentence char_offsets="6034:6128" id="32" />
+      <Sentence char_offsets="6139:6144" id="33" />
+      <Sentence char_offsets="6155:6266" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="14679" actor_name="Bruce Golding" role="Source" />
+        <Participant actor_id="23970" actor_name="Caribbean Community" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="49710" actor_name="Lisa Perez Jackson" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="30" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="0331">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="223976" actor_name="Central America" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="081">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="12" tense="neutral" type="081">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="223976" actor_name="Central America" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

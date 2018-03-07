@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0804">
+    <Sentences>
+      <Sentence char_offsets="181:368" id="0" />
+      <Sentence char_offsets="379:605" id="1" />
+      <Sentence char_offsets="616:829" id="2" />
+      <Sentence char_offsets="840:1059" id="3" />
+      <Sentence char_offsets="1070:1279" id="4" />
+      <Sentence char_offsets="1290:1488" id="5" />
+      <Sentence char_offsets="1499:1694" id="6" />
+      <Sentence char_offsets="1705:1788" id="7" />
+      <Sentence char_offsets="1799:1988" id="8" />
+      <Sentence char_offsets="1999:2208" id="9" />
+      <Sentence char_offsets="2219:2327" id="10" />
+      <Sentence char_offsets="2329:2425" id="11" />
+      <Sentence char_offsets="2436:2615" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="112">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="19355" actor_name="Prem Tinsulanonda" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="154">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="neutral" type="154">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

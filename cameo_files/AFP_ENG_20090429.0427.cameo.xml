@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0427">
+    <Sentences>
+      <Sentence char_offsets="177:358" id="0" />
+      <Sentence char_offsets="369:516" id="1" />
+      <Sentence char_offsets="527:669" id="2" />
+      <Sentence char_offsets="680:886" id="3" />
+      <Sentence char_offsets="897:1073" id="4" />
+      <Sentence char_offsets="1084:1223" id="5" />
+      <Sentence char_offsets="1234:1357" id="6" />
+      <Sentence char_offsets="1368:1389" id="7" />
+      <Sentence char_offsets="1391:1517" id="8" />
+      <Sentence char_offsets="1528:1615" id="9" />
+      <Sentence char_offsets="1626:1781" id="10" />
+      <Sentence char_offsets="1792:1835" id="11" />
+      <Sentence char_offsets="1837:1843" id="12" />
+      <Sentence char_offsets="1845:1905" id="13" />
+      <Sentence char_offsets="1907:1923" id="14" />
+      <Sentence char_offsets="1934:2017" id="15" />
+      <Sentence char_offsets="2028:2126" id="16" />
+      <Sentence char_offsets="2137:2307" id="17" />
+      <Sentence char_offsets="2318:2460" id="18" />
+      <Sentence char_offsets="2471:2681" id="19" />
+      <Sentence char_offsets="2692:2818" id="20" />
+      <Sentence char_offsets="2829:2928" id="21" />
+      <Sentence char_offsets="2939:3166" id="22" />
+      <Sentence char_offsets="3177:3242" id="23" />
+      <Sentence char_offsets="3253:3451" id="24" />
+      <Sentence char_offsets="3462:3499" id="25" />
+      <Sentence char_offsets="3501:3515" id="26" />
+      <Sentence char_offsets="3517:3568" id="27" />
+      <Sentence char_offsets="3579:3733" id="28" />
+      <Sentence char_offsets="3744:3867" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="current" type="010">
+        <Participant actor_id="40495" actor_name="World Health Organization" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="381" agent_name="Health Ministry/Department" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

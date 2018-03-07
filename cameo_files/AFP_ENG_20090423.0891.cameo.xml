@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0891">
+    <Sentences>
+      <Sentence char_offsets="179:371" id="0" />
+      <Sentence char_offsets="382:625" id="1" />
+      <Sentence char_offsets="636:857" id="2" />
+      <Sentence char_offsets="868:1100" id="3" />
+      <Sentence char_offsets="1111:1201" id="4" />
+      <Sentence char_offsets="1212:1358" id="5" />
+      <Sentence char_offsets="1369:1582" id="6" />
+      <Sentence char_offsets="1593:1723" id="7" />
+      <Sentence char_offsets="1734:1919" id="8" />
+      <Sentence char_offsets="1921:1946" id="9" />
+      <Sentence char_offsets="1957:2111" id="10" />
+      <Sentence char_offsets="2122:2231" id="11" />
+      <Sentence char_offsets="2242:2478" id="12" />
+      <Sentence char_offsets="2489:2744" id="13" />
+      <Sentence char_offsets="2755:2937" id="14" />
+      <Sentence char_offsets="2948:3143" id="15" />
+      <Sentence char_offsets="3154:3288" id="16" />
+      <Sentence char_offsets="3299:3444" id="17" />
+      <Sentence char_offsets="3455:3677" id="18" />
+      <Sentence char_offsets="3688:3908" id="19" />
+      <Sentence char_offsets="3919:4088" id="20" />
+      <Sentence char_offsets="4099:4238" id="21" />
+      <Sentence char_offsets="4249:4319" id="22" />
+      <Sentence char_offsets="4330:4554" id="23" />
+      <Sentence char_offsets="4565:4810" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="50711" actor_name="Rahm Israel Emanuel" agent_id="340" agent_name="Chief of Staff" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="current" type="020">
+        <Participant actor_id="28120" actor_name="American Civil Liberties Union" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

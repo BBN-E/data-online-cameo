@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090320.0085">
+    <Sentences>
+      <Sentence char_offsets="174:225" id="0" />
+      <Sentence char_offsets="227:289" id="1" />
+      <Sentence char_offsets="300:402" id="2" />
+      <Sentence char_offsets="404:604" id="3" />
+      <Sentence char_offsets="615:707" id="4" />
+      <Sentence char_offsets="709:788" id="5" />
+      <Sentence char_offsets="799:1073" id="6" />
+      <Sentence char_offsets="1075:1193" id="7" />
+      <Sentence char_offsets="1204:1250" id="8" />
+      <Sentence char_offsets="1252:1442" id="9" />
+      <Sentence char_offsets="1444:1553" id="10" />
+      <Sentence char_offsets="1555:1621" id="11" />
+      <Sentence char_offsets="1632:1749" id="12" />
+      <Sentence char_offsets="1760:1887" id="13" />
+      <Sentence char_offsets="1889:1964" id="14" />
+      <Sentence char_offsets="1975:2060" id="15" />
+      <Sentence char_offsets="2071:2218" id="16" />
+      <Sentence char_offsets="2220:2265" id="17" />
+      <Sentence char_offsets="2276:2377" id="18" />
+      <Sentence char_offsets="2379:2526" id="19" />
+      <Sentence char_offsets="2537:2674" id="20" />
+      <Sentence char_offsets="2685:2837" id="21" />
+      <Sentence char_offsets="2839:2962" id="22" />
+      <Sentence char_offsets="2973:3052" id="23" />
+      <Sentence char_offsets="3063:3278" id="24" />
+      <Sentence char_offsets="3280:3366" id="25" />
+      <Sentence char_offsets="3377:3473" id="26" />
+      <Sentence char_offsets="3475:3571" id="27" />
+      <Sentence char_offsets="3582:3739" id="28" />
+      <Sentence char_offsets="3750:3819" id="29" />
+      <Sentence char_offsets="3821:3965" id="30" />
+      <Sentence char_offsets="3976:4095" id="31" />
+      <Sentence char_offsets="4097:4154" id="32" />
+      <Sentence char_offsets="4156:4203" id="33" />
+      <Sentence char_offsets="4214:4344" id="34" />
+      <Sentence char_offsets="4346:4467" id="35" />
+      <Sentence char_offsets="4478:4643" id="36" />
+      <Sentence char_offsets="4654:4730" id="37" />
+      <Sentence char_offsets="4732:4916" id="38" />
+      <Sentence char_offsets="4927:4983" id="39" />
+      <Sentence char_offsets="4985:5085" id="40" />
+      <Sentence char_offsets="5087:5227" id="41" />
+      <Sentence char_offsets="5238:5362" id="42" />
+      <Sentence char_offsets="5373:5492" id="43" />
+      <Sentence char_offsets="5494:5585" id="44" />
+      <Sentence char_offsets="5596:5673" id="45" />
+      <Sentence char_offsets="5675:5754" id="46" />
+      <Sentence char_offsets="5765:5935" id="47" />
+      <Sentence char_offsets="5946:6058" id="48" />
+      <Sentence char_offsets="6060:6154" id="49" />
+      <Sentence char_offsets="6156:6173" id="50" />
+      <Sentence char_offsets="6184:6221" id="51" />
+      <Sentence char_offsets="6223:6258" id="52" />
+      <Sentence char_offsets="6269:6348" id="53" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="47" tense="neutral" type="145">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

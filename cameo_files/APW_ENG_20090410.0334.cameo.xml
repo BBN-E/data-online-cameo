@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0334">
+    <Sentences>
+      <Sentence char_offsets="189:271" id="0" />
+      <Sentence char_offsets="282:384" id="1" />
+      <Sentence char_offsets="395:542" id="2" />
+      <Sentence char_offsets="553:611" id="3" />
+      <Sentence char_offsets="622:780" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

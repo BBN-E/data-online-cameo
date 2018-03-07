@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090301.0108">
+    <Sentences>
+      <Sentence char_offsets="179:382" id="0" />
+      <Sentence char_offsets="393:564" id="1" />
+      <Sentence char_offsets="566:727" id="2" />
+      <Sentence char_offsets="738:939" id="3" />
+      <Sentence char_offsets="950:1101" id="4" />
+      <Sentence char_offsets="1112:1273" id="5" />
+      <Sentence char_offsets="1284:1491" id="6" />
+      <Sentence char_offsets="1502:1585" id="7" />
+      <Sentence char_offsets="1587:1733" id="8" />
+      <Sentence char_offsets="1735:1839" id="9" />
+      <Sentence char_offsets="1850:2126" id="10" />
+      <Sentence char_offsets="2137:2267" id="11" />
+      <Sentence char_offsets="2278:2473" id="12" />
+      <Sentence char_offsets="2484:2620" id="13" />
+      <Sentence char_offsets="2622:2692" id="14" />
+      <Sentence char_offsets="2703:2929" id="15" />
+      <Sentence char_offsets="2931:2970" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="112">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="138">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="14605" actor_name="Benazir Bhutto" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="historical" type="138">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

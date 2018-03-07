@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0860">
+    <Sentences>
+      <Sentence char_offsets="202:426" id="0" />
+      <Sentence char_offsets="437:624" id="1" />
+      <Sentence char_offsets="635:875" id="2" />
+      <Sentence char_offsets="886:1058" id="3" />
+      <Sentence char_offsets="1069:1224" id="4" />
+      <Sentence char_offsets="1226:1409" id="5" />
+      <Sentence char_offsets="1420:1521" id="6" />
+      <Sentence char_offsets="1532:1661" id="7" />
+      <Sentence char_offsets="1672:1824" id="8" />
+      <Sentence char_offsets="1835:1997" id="9" />
+      <Sentence char_offsets="2008:2304" id="10" />
+      <Sentence char_offsets="2315:2579" id="11" />
+      <Sentence char_offsets="2590:2707" id="12" />
+      <Sentence char_offsets="2718:2854" id="13" />
+      <Sentence char_offsets="2865:3033" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="39547" actor_name="Turkmenistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="111">
+        <Participant actor_id="39547" actor_name="Turkmenistan" role="Source" />
+        <Participant actor_id="3838" actor_name="Gazprom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="111">
+        <Participant actor_id="3838" actor_name="Gazprom" role="Source" />
+        <Participant actor_id="39547" actor_name="Turkmenistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="112">
+        <Participant actor_id="39547" actor_name="Turkmenistan" role="Source" />
+        <Participant actor_id="3838" actor_name="Gazprom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="39547" actor_name="Turkmenistan" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0193">
+    <Sentences>
+      <Sentence char_offsets="152:187" id="0" />
+      <Sentence char_offsets="190:234" id="1" />
+      <Sentence char_offsets="237:432" id="2" />
+      <Sentence char_offsets="435:448" id="3" />
+      <Sentence char_offsets="451:668" id="4" />
+      <Sentence char_offsets="671:693" id="5" />
+      <Sentence char_offsets="696:892" id="6" />
+      <Sentence char_offsets="895:934" id="7" />
+      <Sentence char_offsets="937:1136" id="8" />
+      <Sentence char_offsets="1139:1165" id="9" />
+      <Sentence char_offsets="1168:1316" id="10" />
+      <Sentence char_offsets="1319:1350" id="11" />
+      <Sentence char_offsets="1353:1512" id="12" />
+      <Sentence char_offsets="1515:1537" id="13" />
+      <Sentence char_offsets="1540:1726" id="14" />
+      <Sentence char_offsets="1729:1761" id="15" />
+      <Sentence char_offsets="1764:1956" id="16" />
+      <Sentence char_offsets="1959:1988" id="17" />
+      <Sentence char_offsets="1991:2166" id="18" />
+      <Sentence char_offsets="2169:2201" id="19" />
+      <Sentence char_offsets="2204:2363" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="020">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

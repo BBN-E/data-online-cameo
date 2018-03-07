@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0088">
+    <Sentences>
+      <Sentence char_offsets="154:187" id="0" />
+      <Sentence char_offsets="190:224" id="1" />
+      <Sentence char_offsets="227:263" id="2" />
+      <Sentence char_offsets="266:307" id="3" />
+      <Sentence char_offsets="310:474" id="4" />
+      <Sentence char_offsets="477:633" id="5" />
+      <Sentence char_offsets="636:804" id="6" />
+      <Sentence char_offsets="806:841" id="7" />
+      <Sentence char_offsets="844:929" id="8" />
+      <Sentence char_offsets="931:1007" id="9" />
+      <Sentence char_offsets="1010:1158" id="10" />
+      <Sentence char_offsets="1160:1190" id="11" />
+      <Sentence char_offsets="1193:1278" id="12" />
+      <Sentence char_offsets="1281:1470" id="13" />
+      <Sentence char_offsets="1473:1660" id="14" />
+      <Sentence char_offsets="1662:1723" id="15" />
+      <Sentence char_offsets="1726:1863" id="16" />
+      <Sentence char_offsets="1866:1932" id="17" />
+      <Sentence char_offsets="1934:1970" id="18" />
+      <Sentence char_offsets="1973:2134" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

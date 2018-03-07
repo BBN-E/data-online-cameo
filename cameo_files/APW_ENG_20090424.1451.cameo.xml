@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.1451">
+    <Sentences>
+      <Sentence char_offsets="183:317" id="0" />
+      <Sentence char_offsets="328:584" id="1" />
+      <Sentence char_offsets="595:825" id="2" />
+      <Sentence char_offsets="836:948" id="3" />
+      <Sentence char_offsets="959:1059" id="4" />
+      <Sentence char_offsets="1061:1193" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="063">
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="173">
+        <Participant actor_id="32659" actor_name="Colombia" role="Source" />
+        <Participant actor_id="54104" actor_name="Administrative Department of Security" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

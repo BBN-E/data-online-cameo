@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0477">
+    <Sentences>
+      <Sentence char_offsets="195:422" id="0" />
+      <Sentence char_offsets="433:557" id="1" />
+      <Sentence char_offsets="568:728" id="2" />
+      <Sentence char_offsets="730:866" id="3" />
+      <Sentence char_offsets="868:882" id="4" />
+      <Sentence char_offsets="884:920" id="5" />
+      <Sentence char_offsets="922:988" id="6" />
+      <Sentence char_offsets="999:1160" id="7" />
+      <Sentence char_offsets="1171:1318" id="8" />
+      <Sentence char_offsets="1329:1559" id="9" />
+      <Sentence char_offsets="1570:1715" id="10" />
+      <Sentence char_offsets="1726:1812" id="11" />
+      <Sentence char_offsets="1823:1882" id="12" />
+      <Sentence char_offsets="1884:1947" id="13" />
+      <Sentence char_offsets="1949:2018" id="14" />
+      <Sentence char_offsets="2020:2116" id="15" />
+      <Sentence char_offsets="2127:2239" id="16" />
+      <Sentence char_offsets="2250:2480" id="17" />
+      <Sentence char_offsets="2491:2724" id="18" />
+      <Sentence char_offsets="2735:2800" id="19" />
+      <Sentence char_offsets="2802:2938" id="20" />
+      <Sentence char_offsets="2949:3192" id="21" />
+      <Sentence char_offsets="3203:3345" id="22" />
+      <Sentence char_offsets="3347:3470" id="23" />
+      <Sentence char_offsets="3481:3678" id="24" />
+      <Sentence char_offsets="3680:3727" id="25" />
+      <Sentence char_offsets="3729:3752" id="26" />
+      <Sentence char_offsets="3763:3902" id="27" />
+      <Sentence char_offsets="3913:4031" id="28" />
+      <Sentence char_offsets="4033:4177" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="180">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

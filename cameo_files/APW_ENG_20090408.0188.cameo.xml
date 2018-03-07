@@ -1,0 +1,92 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.0188">
+    <Sentences>
+      <Sentence char_offsets="195:406" id="0" />
+      <Sentence char_offsets="417:629" id="1" />
+      <Sentence char_offsets="640:766" id="2" />
+      <Sentence char_offsets="768:948" id="3" />
+      <Sentence char_offsets="959:1195" id="4" />
+      <Sentence char_offsets="1206:1310" id="5" />
+      <Sentence char_offsets="1321:1407" id="6" />
+      <Sentence char_offsets="1418:1538" id="7" />
+      <Sentence char_offsets="1549:1640" id="8" />
+      <Sentence char_offsets="1642:1736" id="9" />
+      <Sentence char_offsets="1747:1846" id="10" />
+      <Sentence char_offsets="1857:2095" id="11" />
+      <Sentence char_offsets="2106:2239" id="12" />
+      <Sentence char_offsets="2241:2358" id="13" />
+      <Sentence char_offsets="2369:2398" id="14" />
+      <Sentence char_offsets="2400:2497" id="15" />
+      <Sentence char_offsets="2499:2624" id="16" />
+      <Sentence char_offsets="2635:2748" id="17" />
+      <Sentence char_offsets="2750:2810" id="18" />
+      <Sentence char_offsets="2821:2958" id="19" />
+      <Sentence char_offsets="2969:3053" id="20" />
+      <Sentence char_offsets="3055:3153" id="21" />
+      <Sentence char_offsets="3155:3320" id="22" />
+      <Sentence char_offsets="3331:3441" id="23" />
+      <Sentence char_offsets="3452:3664" id="24" />
+      <Sentence char_offsets="3666:3839" id="25" />
+      <Sentence char_offsets="3850:3990" id="26" />
+      <Sentence char_offsets="3992:4198" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="042">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="042">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="27" tense="neutral" type="042">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="neutral" type="042">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="27" tense="neutral" type="042">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="4" tense="current" type="141">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="neutral" type="145">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="11" tense="current" type="145">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="9" sentence_id="27" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="27" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="27" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="27" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="27" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

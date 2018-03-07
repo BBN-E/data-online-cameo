@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090324.0046">
+    <Sentences>
+      <Sentence char_offsets="105:265" id="0" />
+      <Sentence char_offsets="267:407" id="1" />
+      <Sentence char_offsets="409:681" id="2" />
+      <Sentence char_offsets="692:744" id="3" />
+      <Sentence char_offsets="746:862" id="4" />
+      <Sentence char_offsets="864:953" id="5" />
+      <Sentence char_offsets="955:1057" id="6" />
+      <Sentence char_offsets="1059:1159" id="7" />
+      <Sentence char_offsets="1170:1433" id="8" />
+      <Sentence char_offsets="1435:1545" id="9" />
+      <Sentence char_offsets="1547:1611" id="10" />
+      <Sentence char_offsets="1613:1721" id="11" />
+      <Sentence char_offsets="1732:1937" id="12" />
+      <Sentence char_offsets="1939:2067" id="13" />
+      <Sentence char_offsets="2069:2215" id="14" />
+      <Sentence char_offsets="2226:2452" id="15" />
+      <Sentence char_offsets="2454:2821" id="16" />
+      <Sentence char_offsets="2832:2952" id="17" />
+      <Sentence char_offsets="2954:3122" id="18" />
+      <Sentence char_offsets="3124:3218" id="19" />
+      <Sentence char_offsets="3220:3337" id="20" />
+      <Sentence char_offsets="3348:3432" id="21" />
+      <Sentence char_offsets="3434:3549" id="22" />
+      <Sentence char_offsets="3551:3715" id="23" />
+      <Sentence char_offsets="3717:3754" id="24" />
+      <Sentence char_offsets="3765:3862" id="25" />
+      <Sentence char_offsets="3864:3940" id="26" />
+      <Sentence char_offsets="3942:4000" id="27" />
+      <Sentence char_offsets="4002:4154" id="28" />
+      <Sentence char_offsets="4156:4222" id="29" />
+      <Sentence char_offsets="4224:4262" id="30" />
+      <Sentence char_offsets="4264:4310" id="31" />
+      <Sentence char_offsets="4321:4423" id="32" />
+      <Sentence char_offsets="4434:4488" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="014">
+        <Participant actor_id="49710" actor_name="Lisa Perez Jackson" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

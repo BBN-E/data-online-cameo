@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0855">
+    <Sentences>
+      <Sentence char_offsets="197:372" id="0" />
+      <Sentence char_offsets="383:554" id="1" />
+      <Sentence char_offsets="565:725" id="2" />
+      <Sentence char_offsets="736:949" id="3" />
+      <Sentence char_offsets="960:1120" id="4" />
+      <Sentence char_offsets="1131:1355" id="5" />
+      <Sentence char_offsets="1366:1586" id="6" />
+      <Sentence char_offsets="1597:1819" id="7" />
+      <Sentence char_offsets="1830:1937" id="8" />
+      <Sentence char_offsets="1948:2104" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="31299" actor_name="International Crisis Group" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="061">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="historical" type="057">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.0552">
+    <Sentences>
+      <Sentence char_offsets="185:368" id="0" />
+      <Sentence char_offsets="379:568" id="1" />
+      <Sentence char_offsets="570:645" id="2" />
+      <Sentence char_offsets="656:816" id="3" />
+      <Sentence char_offsets="827:1022" id="4" />
+      <Sentence char_offsets="1033:1105" id="5" />
+      <Sentence char_offsets="1107:1277" id="6" />
+      <Sentence char_offsets="1288:1400" id="7" />
+      <Sentence char_offsets="1411:1498" id="8" />
+      <Sentence char_offsets="1500:1512" id="9" />
+      <Sentence char_offsets="1514:1548" id="10" />
+      <Sentence char_offsets="1559:1587" id="11" />
+      <Sentence char_offsets="1589:1640" id="12" />
+      <Sentence char_offsets="1651:1778" id="13" />
+      <Sentence char_offsets="1789:1858" id="14" />
+      <Sentence char_offsets="1869:1999" id="15" />
+      <Sentence char_offsets="2001:2198" id="16" />
+      <Sentence char_offsets="2209:2362" id="17" />
+      <Sentence char_offsets="2373:2478" id="18" />
+      <Sentence char_offsets="2489:2615" id="19" />
+      <Sentence char_offsets="2617:2826" id="20" />
+      <Sentence char_offsets="2837:2984" id="21" />
+      <Sentence char_offsets="2986:3033" id="22" />
+      <Sentence char_offsets="3044:3246" id="23" />
+      <Sentence char_offsets="3248:3275" id="24" />
+      <Sentence char_offsets="3286:3293" id="25" />
+      <Sentence char_offsets="3304:3420" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="111">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="111">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="55339" actor_name="Turkish Kurds" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="120">
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="neutral" type="164">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

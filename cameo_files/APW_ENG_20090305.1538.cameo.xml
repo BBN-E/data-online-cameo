@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1538">
+    <Sentences>
+      <Sentence char_offsets="176:216" id="0" />
+      <Sentence char_offsets="218:270" id="1" />
+      <Sentence char_offsets="272:306" id="2" />
+      <Sentence char_offsets="317:518" id="3" />
+      <Sentence char_offsets="529:539" id="4" />
+      <Sentence char_offsets="541:713" id="5" />
+      <Sentence char_offsets="724:818" id="6" />
+      <Sentence char_offsets="820:1029" id="7" />
+      <Sentence char_offsets="1040:1319" id="8" />
+      <Sentence char_offsets="1330:1455" id="9" />
+      <Sentence char_offsets="1466:1533" id="10" />
+      <Sentence char_offsets="1544:1860" id="11" />
+      <Sentence char_offsets="1871:2050" id="12" />
+      <Sentence char_offsets="2061:2126" id="13" />
+      <Sentence char_offsets="2128:2166" id="14" />
+      <Sentence char_offsets="2168:2170" id="15" />
+      <Sentence char_offsets="2172:2208" id="16" />
+      <Sentence char_offsets="2219:2364" id="17" />
+      <Sentence char_offsets="2366:2495" id="18" />
+      <Sentence char_offsets="2497:2547" id="19" />
+      <Sentence char_offsets="2549:2583" id="20" />
+      <Sentence char_offsets="2594:2844" id="21" />
+      <Sentence char_offsets="2855:2973" id="22" />
+      <Sentence char_offsets="2984:3201" id="23" />
+      <Sentence char_offsets="3212:3440" id="24" />
+      <Sentence char_offsets="3451:3518" id="25" />
+      <Sentence char_offsets="3529:3631" id="26" />
+      <Sentence char_offsets="3642:3647" id="27" />
+      <Sentence char_offsets="3658:3719" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="237690" actor_name="Brad Pitt" role="Source" />
+        <Participant actor_id="51803" actor_name="Patty Murray" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="51803" actor_name="Patty Murray" role="Source" />
+        <Participant actor_id="237690" actor_name="Brad Pitt" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

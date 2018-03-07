@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0087">
+    <Sentences>
+      <Sentence char_offsets="186:431" id="0" />
+      <Sentence char_offsets="442:601" id="1" />
+      <Sentence char_offsets="612:717" id="2" />
+      <Sentence char_offsets="728:963" id="3" />
+      <Sentence char_offsets="974:1176" id="4" />
+      <Sentence char_offsets="1187:1332" id="5" />
+      <Sentence char_offsets="1343:1479" id="6" />
+      <Sentence char_offsets="1490:1686" id="7" />
+      <Sentence char_offsets="1697:1881" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="current" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Source" />
+        <Participant actor_id="12675" actor_name="Abdullah bin Abdulaziz al-Saud" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="12675" actor_name="Abdullah bin Abdulaziz al-Saud" role="Source" />
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Source" />
+        <Participant actor_id="12675" actor_name="Abdullah bin Abdulaziz al-Saud" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

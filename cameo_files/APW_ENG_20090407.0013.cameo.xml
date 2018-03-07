@@ -1,0 +1,90 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0013">
+    <Sentences>
+      <Sentence char_offsets="200:399" id="0" />
+      <Sentence char_offsets="410:569" id="1" />
+      <Sentence char_offsets="571:626" id="2" />
+      <Sentence char_offsets="637:918" id="3" />
+      <Sentence char_offsets="929:1013" id="4" />
+      <Sentence char_offsets="1015:1112" id="5" />
+      <Sentence char_offsets="1114:1246" id="6" />
+      <Sentence char_offsets="1257:1411" id="7" />
+      <Sentence char_offsets="1422:1544" id="8" />
+      <Sentence char_offsets="1555:1752" id="9" />
+      <Sentence char_offsets="1763:1837" id="10" />
+      <Sentence char_offsets="1839:1913" id="11" />
+      <Sentence char_offsets="1924:2092" id="12" />
+      <Sentence char_offsets="2103:2189" id="13" />
+      <Sentence char_offsets="2191:2261" id="14" />
+      <Sentence char_offsets="2263:2288" id="15" />
+      <Sentence char_offsets="2299:2601" id="16" />
+      <Sentence char_offsets="2612:2725" id="17" />
+      <Sentence char_offsets="2727:2811" id="18" />
+      <Sentence char_offsets="2822:2993" id="19" />
+      <Sentence char_offsets="3004:3149" id="20" />
+      <Sentence char_offsets="3151:3264" id="21" />
+      <Sentence char_offsets="3275:3552" id="22" />
+      <Sentence char_offsets="3563:3649" id="23" />
+      <Sentence char_offsets="3651:3851" id="24" />
+      <Sentence char_offsets="3862:4031" id="25" />
+      <Sentence char_offsets="4033:4183" id="26" />
+      <Sentence char_offsets="4194:4344" id="27" />
+      <Sentence char_offsets="4346:4451" id="28" />
+      <Sentence char_offsets="4453:4486" id="29" />
+      <Sentence char_offsets="4497:4607" id="30" />
+      <Sentence char_offsets="4609:4685" id="31" />
+      <Sentence char_offsets="4696:4803" id="32" />
+      <Sentence char_offsets="4805:4897" id="33" />
+      <Sentence char_offsets="4899:4954" id="34" />
+      <Sentence char_offsets="4965:5104" id="35" />
+      <Sentence char_offsets="5115:5241" id="36" />
+      <Sentence char_offsets="5252:5560" id="37" />
+      <Sentence char_offsets="5571:5576" id="38" />
+      <Sentence char_offsets="5587:5698" id="39" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="12957" actor_name="Gwede Mantashe" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="current" type="010">
+        <Participant actor_id="238452" actor_name="Mokotedi Mpshe" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="238452" actor_name="Mokotedi Mpshe" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="current" type="010">
+        <Participant actor_id="238452" actor_name="Mokotedi Mpshe" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="238452" actor_name="Mokotedi Mpshe" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="37" tense="neutral" type="010">
+        <Participant actor_id="12834" actor_name="South African Chamber of Commerce and Industry" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="544" agent_name="Company - Owner or Operator" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="35" tense="neutral" type="020">
+        <Participant actor_id="6625" actor_name="University of Johannesburg" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="current" type="081">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="31" tense="historical" type="1041">
+        <Participant actor_id="45897" actor_name="African National Congress" role="Source" />
+        <Participant actor_id="29562" actor_name="Thabo Mvuyelwa Mbeki" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1318">
+    <Sentences>
+      <Sentence char_offsets="191:355" id="0" />
+      <Sentence char_offsets="366:547" id="1" />
+      <Sentence char_offsets="549:626" id="2" />
+      <Sentence char_offsets="637:859" id="3" />
+      <Sentence char_offsets="870:1034" id="4" />
+      <Sentence char_offsets="1045:1193" id="5" />
+      <Sentence char_offsets="1204:1222" id="6" />
+      <Sentence char_offsets="1224:1246" id="7" />
+      <Sentence char_offsets="1257:1480" id="8" />
+      <Sentence char_offsets="1482:1568" id="9" />
+      <Sentence char_offsets="1579:1664" id="10" />
+      <Sentence char_offsets="1675:1849" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="455" agent_name="Royal Administration" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="12225" actor_name="Bill Ritter" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

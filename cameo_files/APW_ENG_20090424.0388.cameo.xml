@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0388">
+    <Sentences>
+      <Sentence char_offsets="181:408" id="0" />
+      <Sentence char_offsets="419:585" id="1" />
+      <Sentence char_offsets="587:766" id="2" />
+      <Sentence char_offsets="777:956" id="3" />
+      <Sentence char_offsets="958:1084" id="4" />
+      <Sentence char_offsets="1095:1278" id="5" />
+      <Sentence char_offsets="1289:1397" id="6" />
+      <Sentence char_offsets="1399:1568" id="7" />
+      <Sentence char_offsets="1579:1752" id="8" />
+      <Sentence char_offsets="1754:1851" id="9" />
+      <Sentence char_offsets="1862:1972" id="10" />
+      <Sentence char_offsets="1974:2060" id="11" />
+      <Sentence char_offsets="2071:2234" id="12" />
+      <Sentence char_offsets="2245:2369" id="13" />
+      <Sentence char_offsets="2380:2430" id="14" />
+      <Sentence char_offsets="2432:2507" id="15" />
+      <Sentence char_offsets="2518:2767" id="16" />
+      <Sentence char_offsets="2778:2876" id="17" />
+      <Sentence char_offsets="2887:3060" id="18" />
+      <Sentence char_offsets="3071:3318" id="19" />
+      <Sentence char_offsets="3329:3479" id="20" />
+      <Sentence char_offsets="3490:3652" id="21" />
+      <Sentence char_offsets="3654:3780" id="22" />
+      <Sentence char_offsets="3791:3991" id="23" />
+      <Sentence char_offsets="3993:4098" id="24" />
+      <Sentence char_offsets="4100:4221" id="25" />
+      <Sentence char_offsets="4232:4237" id="26" />
+      <Sentence char_offsets="4248:4310" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="current" type="010">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="132" agent_name="Information Ministry" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="1041">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="112">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="ongoing" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="11" tense="neutral" type="190">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="36205" actor_name="Liberia" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

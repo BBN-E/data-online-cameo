@@ -1,0 +1,96 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0026">
+    <Sentences>
+      <Sentence char_offsets="180:360" id="0" />
+      <Sentence char_offsets="371:606" id="1" />
+      <Sentence char_offsets="617:686" id="2" />
+      <Sentence char_offsets="697:889" id="3" />
+      <Sentence char_offsets="900:1007" id="4" />
+      <Sentence char_offsets="1018:1194" id="5" />
+      <Sentence char_offsets="1205:1371" id="6" />
+      <Sentence char_offsets="1382:1630" id="7" />
+      <Sentence char_offsets="1641:1886" id="8" />
+      <Sentence char_offsets="1897:2042" id="9" />
+      <Sentence char_offsets="2053:2298" id="10" />
+      <Sentence char_offsets="2309:2497" id="11" />
+      <Sentence char_offsets="2508:2741" id="12" />
+      <Sentence char_offsets="2752:2874" id="13" />
+      <Sentence char_offsets="2885:3102" id="14" />
+      <Sentence char_offsets="3113:3290" id="15" />
+      <Sentence char_offsets="3301:3547" id="16" />
+      <Sentence char_offsets="3558:3802" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="53038" actor_name="Barbara Lee" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="current" type="010">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="ongoing" type="010">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="022">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="current" type="036">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="53038" actor_name="Barbara Lee" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="17" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="10" tense="neutral" type="050">
+        <Participant actor_id="32385" actor_name="Cuba" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="17" tense="neutral" type="081">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="16" tense="neutral" type="120">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Source" />
+        <Participant actor_id="53038" actor_name="Barbara Lee" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="17" tense="neutral" type="043">
+        <Participant actor_id="32385" actor_name="Cuba" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

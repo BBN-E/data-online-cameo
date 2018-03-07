@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0494">
+    <Sentences>
+      <Sentence char_offsets="193:377" id="0" />
+      <Sentence char_offsets="388:594" id="1" />
+      <Sentence char_offsets="605:807" id="2" />
+      <Sentence char_offsets="818:992" id="3" />
+      <Sentence char_offsets="1003:1189" id="4" />
+      <Sentence char_offsets="1200:1333" id="5" />
+      <Sentence char_offsets="1344:1538" id="6" />
+      <Sentence char_offsets="1549:1679" id="7" />
+      <Sentence char_offsets="1690:1891" id="8" />
+      <Sentence char_offsets="1902:2040" id="9" />
+      <Sentence char_offsets="2051:2261" id="10" />
+      <Sentence char_offsets="2272:2423" id="11" />
+      <Sentence char_offsets="2434:2692" id="12" />
+      <Sentence char_offsets="2703:2858" id="13" />
+      <Sentence char_offsets="2869:3039" id="14" />
+      <Sentence char_offsets="3050:3205" id="15" />
+      <Sentence char_offsets="3216:3307" id="16" />
+      <Sentence char_offsets="3318:3515" id="17" />
+      <Sentence char_offsets="3526:3608" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="120" agent_name="Oil Tanker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

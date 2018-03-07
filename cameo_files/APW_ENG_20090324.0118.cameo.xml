@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0118">
+    <Sentences>
+      <Sentence char_offsets="189:317" id="0" />
+      <Sentence char_offsets="328:466" id="1" />
+      <Sentence char_offsets="477:610" id="2" />
+      <Sentence char_offsets="621:776" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="711" agent_name="Thief" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="182" agent_name="Local Media" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="711" agent_name="Thief" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

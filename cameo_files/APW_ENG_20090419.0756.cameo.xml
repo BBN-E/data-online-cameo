@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0756">
+    <Sentences>
+      <Sentence char_offsets="171:363" id="0" />
+      <Sentence char_offsets="374:485" id="1" />
+      <Sentence char_offsets="496:553" id="2" />
+      <Sentence char_offsets="564:859" id="3" />
+      <Sentence char_offsets="870:1189" id="4" />
+      <Sentence char_offsets="1200:1242" id="5" />
+      <Sentence char_offsets="1253:1422" id="6" />
+      <Sentence char_offsets="1433:1602" id="7" />
+      <Sentence char_offsets="1613:1710" id="8" />
+      <Sentence char_offsets="1712:1775" id="9" />
+      <Sentence char_offsets="1786:1987" id="10" />
+      <Sentence char_offsets="1998:2223" id="11" />
+      <Sentence char_offsets="2234:2325" id="12" />
+      <Sentence char_offsets="2336:2429" id="13" />
+      <Sentence char_offsets="2431:2479" id="14" />
+      <Sentence char_offsets="2490:2581" id="15" />
+      <Sentence char_offsets="2583:2682" id="16" />
+      <Sentence char_offsets="2693:2744" id="17" />
+      <Sentence char_offsets="2755:2840" id="18" />
+      <Sentence char_offsets="2842:2923" id="19" />
+      <Sentence char_offsets="2934:3089" id="20" />
+      <Sentence char_offsets="3100:3201" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="36771" actor_name="Malta" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36771" actor_name="Malta" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

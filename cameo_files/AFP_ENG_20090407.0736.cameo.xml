@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0736">
+    <Sentences>
+      <Sentence char_offsets="183:376" id="0" />
+      <Sentence char_offsets="387:615" id="1" />
+      <Sentence char_offsets="626:859" id="2" />
+      <Sentence char_offsets="870:1026" id="3" />
+      <Sentence char_offsets="1037:1238" id="4" />
+      <Sentence char_offsets="1249:1441" id="5" />
+      <Sentence char_offsets="1452:1649" id="6" />
+      <Sentence char_offsets="1660:1880" id="7" />
+      <Sentence char_offsets="1891:2125" id="8" />
+      <Sentence char_offsets="2136:2352" id="9" />
+      <Sentence char_offsets="2363:2442" id="10" />
+      <Sentence char_offsets="2444:2511" id="11" />
+      <Sentence char_offsets="2522:2755" id="12" />
+      <Sentence char_offsets="2766:2985" id="13" />
+      <Sentence char_offsets="2996:3222" id="14" />
+      <Sentence char_offsets="3233:3370" id="15" />
+      <Sentence char_offsets="3381:3606" id="16" />
+      <Sentence char_offsets="3617:3759" id="17" />
+      <Sentence char_offsets="3770:3978" id="18" />
+      <Sentence char_offsets="3989:4058" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

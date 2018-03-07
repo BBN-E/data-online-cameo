@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0792">
+    <Sentences>
+      <Sentence char_offsets="174:315" id="0" />
+      <Sentence char_offsets="326:538" id="1" />
+      <Sentence char_offsets="549:775" id="2" />
+      <Sentence char_offsets="786:1007" id="3" />
+      <Sentence char_offsets="1018:1128" id="4" />
+      <Sentence char_offsets="1139:1236" id="5" />
+      <Sentence char_offsets="1247:1427" id="6" />
+      <Sentence char_offsets="1438:1627" id="7" />
+      <Sentence char_offsets="1638:1788" id="8" />
+      <Sentence char_offsets="1799:1929" id="9" />
+      <Sentence char_offsets="1940:2120" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="182">
+        <Participant actor_id="32631" actor_name="China" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="1822">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

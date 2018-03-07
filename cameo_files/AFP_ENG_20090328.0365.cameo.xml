@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0365">
+    <Sentences>
+      <Sentence char_offsets="175:366" id="0" />
+      <Sentence char_offsets="377:604" id="1" />
+      <Sentence char_offsets="615:830" id="2" />
+      <Sentence char_offsets="841:908" id="3" />
+      <Sentence char_offsets="919:1121" id="4" />
+      <Sentence char_offsets="1132:1181" id="5" />
+      <Sentence char_offsets="1183:1305" id="6" />
+      <Sentence char_offsets="1316:1525" id="7" />
+      <Sentence char_offsets="1536:1710" id="8" />
+      <Sentence char_offsets="1721:1873" id="9" />
+      <Sentence char_offsets="1884:2085" id="10" />
+      <Sentence char_offsets="2096:2220" id="11" />
+      <Sentence char_offsets="2231:2408" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="22011" actor_name="Bharatiya Janata" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,99 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090301.0757">
+    <Sentences>
+      <Sentence char_offsets="182:412" id="0" />
+      <Sentence char_offsets="423:650" id="1" />
+      <Sentence char_offsets="661:863" id="2" />
+      <Sentence char_offsets="874:1076" id="3" />
+      <Sentence char_offsets="1087:1271" id="4" />
+      <Sentence char_offsets="1282:1388" id="5" />
+      <Sentence char_offsets="1399:1612" id="6" />
+      <Sentence char_offsets="1614:1701" id="7" />
+      <Sentence char_offsets="1712:1959" id="8" />
+      <Sentence char_offsets="1970:2037" id="9" />
+      <Sentence char_offsets="2039:2172" id="10" />
+      <Sentence char_offsets="2183:2284" id="11" />
+      <Sentence char_offsets="2295:2494" id="12" />
+      <Sentence char_offsets="2505:2652" id="13" />
+      <Sentence char_offsets="2663:2885" id="14" />
+      <Sentence char_offsets="2896:3024" id="15" />
+      <Sentence char_offsets="3035:3175" id="16" />
+      <Sentence char_offsets="3177:3252" id="17" />
+      <Sentence char_offsets="3263:3416" id="18" />
+      <Sentence char_offsets="3427:3545" id="19" />
+      <Sentence char_offsets="3547:3802" id="20" />
+      <Sentence char_offsets="3813:3898" id="21" />
+      <Sentence char_offsets="3909:4090" id="22" />
+      <Sentence char_offsets="4092:4179" id="23" />
+      <Sentence char_offsets="4190:4297" id="24" />
+      <Sentence char_offsets="4299:4416" id="25" />
+      <Sentence char_offsets="4427:4500" id="26" />
+      <Sentence char_offsets="4511:4631" id="27" />
+      <Sentence char_offsets="4633:4772" id="28" />
+      <Sentence char_offsets="4783:4973" id="29" />
+      <Sentence char_offsets="4984:5239" id="30" />
+      <Sentence char_offsets="5250:5255" id="31" />
+      <Sentence char_offsets="5266:5378" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="31408" actor_name="Hungary" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="31408" actor_name="Hungary" role="Source" />
+        <Participant actor_id="39892" actor_name="Slovakia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="31408" actor_name="Hungary" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="31408" actor_name="Hungary" role="Source" />
+        <Participant actor_id="32218" actor_name="Bulgaria" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="31408" actor_name="Hungary" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="20" tense="neutral" type="051">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="10" tense="neutral" type="071">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="10" tense="neutral" type="071">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="36446" actor_name="Latvia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

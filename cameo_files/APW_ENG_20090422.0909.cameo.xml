@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0909">
+    <Sentences>
+      <Sentence char_offsets="192:403" id="0" />
+      <Sentence char_offsets="414:559" id="1" />
+      <Sentence char_offsets="561:727" id="2" />
+      <Sentence char_offsets="738:916" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

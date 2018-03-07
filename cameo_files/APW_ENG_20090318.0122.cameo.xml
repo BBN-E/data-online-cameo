@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0122">
+    <Sentences>
+      <Sentence char_offsets="188:352" id="0" />
+      <Sentence char_offsets="354:377" id="1" />
+      <Sentence char_offsets="388:571" id="2" />
+      <Sentence char_offsets="573:736" id="3" />
+      <Sentence char_offsets="747:868" id="4" />
+      <Sentence char_offsets="870:974" id="5" />
+      <Sentence char_offsets="985:1070" id="6" />
+      <Sentence char_offsets="1072:1135" id="7" />
+      <Sentence char_offsets="1146:1357" id="8" />
+      <Sentence char_offsets="1368:1494" id="9" />
+      <Sentence char_offsets="1496:1597" id="10" />
+      <Sentence char_offsets="1608:1701" id="11" />
+      <Sentence char_offsets="1703:1793" id="12" />
+      <Sentence char_offsets="1804:1988" id="13" />
+      <Sentence char_offsets="1999:2186" id="14" />
+      <Sentence char_offsets="2197:2319" id="15" />
+      <Sentence char_offsets="2330:2600" id="16" />
+      <Sentence char_offsets="2611:2791" id="17" />
+      <Sentence char_offsets="2802:2899" id="18" />
+      <Sentence char_offsets="2910:3069" id="19" />
+      <Sentence char_offsets="3071:3168" id="20" />
+      <Sentence char_offsets="3179:3292" id="21" />
+      <Sentence char_offsets="3303:3476" id="22" />
+      <Sentence char_offsets="3487:3626" id="23" />
+      <Sentence char_offsets="3628:3845" id="24" />
+      <Sentence char_offsets="3856:3977" id="25" />
+      <Sentence char_offsets="3988:4131" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="51884" actor_name="Nancy Pelosi" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="362" agent_name="House of Representatives" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="current" type="020">
+        <Participant actor_id="51884" actor_name="Nancy Pelosi" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="413" agent_name="Justice Department/Ministery" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090421.0133">
+    <Sentences>
+      <Sentence char_offsets="167:284" id="0" />
+      <Sentence char_offsets="295:459" id="1" />
+      <Sentence char_offsets="461:696" id="2" />
+      <Sentence char_offsets="707:828" id="3" />
+      <Sentence char_offsets="830:968" id="4" />
+      <Sentence char_offsets="970:1044" id="5" />
+      <Sentence char_offsets="1055:1250" id="6" />
+      <Sentence char_offsets="1261:1280" id="7" />
+      <Sentence char_offsets="1282:1349" id="8" />
+      <Sentence char_offsets="1351:1675" id="9" />
+      <Sentence char_offsets="1686:1822" id="10" />
+      <Sentence char_offsets="1824:1896" id="11" />
+      <Sentence char_offsets="1907:2010" id="12" />
+      <Sentence char_offsets="2012:2178" id="13" />
+      <Sentence char_offsets="2180:2236" id="14" />
+      <Sentence char_offsets="2247:2495" id="15" />
+      <Sentence char_offsets="2497:2708" id="16" />
+      <Sentence char_offsets="2719:2929" id="17" />
+      <Sentence char_offsets="2931:3046" id="18" />
+      <Sentence char_offsets="3057:3225" id="19" />
+      <Sentence char_offsets="3227:3384" id="20" />
+      <Sentence char_offsets="3395:3526" id="21" />
+      <Sentence char_offsets="3528:3607" id="22" />
+      <Sentence char_offsets="3618:3809" id="23" />
+      <Sentence char_offsets="3820:4084" id="24" />
+      <Sentence char_offsets="4086:4199" id="25" />
+      <Sentence char_offsets="4210:4431" id="26" />
+      <Sentence char_offsets="4442:4647" id="27" />
+      <Sentence char_offsets="4658:4807" id="28" />
+      <Sentence char_offsets="4818:4873" id="29" />
+      <Sentence char_offsets="4875:5089" id="30" />
+      <Sentence char_offsets="5100:5270" id="31" />
+      <Sentence char_offsets="5272:5491" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="52935" actor_name="John Paul Stevens" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

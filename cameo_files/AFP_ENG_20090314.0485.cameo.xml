@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0485">
+    <Sentences>
+      <Sentence char_offsets="184:368" id="0" />
+      <Sentence char_offsets="379:411" id="1" />
+      <Sentence char_offsets="413:435" id="2" />
+      <Sentence char_offsets="437:511" id="3" />
+      <Sentence char_offsets="522:707" id="4" />
+      <Sentence char_offsets="718:893" id="5" />
+      <Sentence char_offsets="904:1062" id="6" />
+      <Sentence char_offsets="1073:1153" id="7" />
+      <Sentence char_offsets="1164:1250" id="8" />
+      <Sentence char_offsets="1261:1382" id="9" />
+      <Sentence char_offsets="1393:1592" id="10" />
+      <Sentence char_offsets="1603:1744" id="11" />
+      <Sentence char_offsets="1755:1894" id="12" />
+      <Sentence char_offsets="1905:2066" id="13" />
+      <Sentence char_offsets="2077:2250" id="14" />
+      <Sentence char_offsets="2261:2368" id="15" />
+      <Sentence char_offsets="2379:2500" id="16" />
+      <Sentence char_offsets="2511:2754" id="17" />
+      <Sentence char_offsets="2765:3049" id="18" />
+      <Sentence char_offsets="3060:3185" id="19" />
+      <Sentence char_offsets="3196:3392" id="20" />
+      <Sentence char_offsets="3403:3583" id="21" />
+      <Sentence char_offsets="3594:3699" id="22" />
+      <Sentence char_offsets="3710:3787" id="23" />
+      <Sentence char_offsets="3789:3823" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="current" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="597" agent_name="Governor" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="020">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="36891" actor_name="Doctors Without Borders" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="36891" actor_name="Doctors Without Borders" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

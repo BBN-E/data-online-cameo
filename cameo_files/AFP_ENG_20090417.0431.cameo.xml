@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0431">
+    <Sentences>
+      <Sentence char_offsets="195:366" id="0" />
+      <Sentence char_offsets="377:602" id="1" />
+      <Sentence char_offsets="613:807" id="2" />
+      <Sentence char_offsets="818:1062" id="3" />
+      <Sentence char_offsets="1073:1248" id="4" />
+      <Sentence char_offsets="1259:1532" id="5" />
+      <Sentence char_offsets="1543:1716" id="6" />
+      <Sentence char_offsets="1727:1780" id="7" />
+      <Sentence char_offsets="1782:1868" id="8" />
+      <Sentence char_offsets="1879:2133" id="9" />
+      <Sentence char_offsets="2144:2397" id="10" />
+      <Sentence char_offsets="2408:2648" id="11" />
+      <Sentence char_offsets="2659:2844" id="12" />
+      <Sentence char_offsets="2855:2951" id="13" />
+      <Sentence char_offsets="2962:3114" id="14" />
+      <Sentence char_offsets="3125:3187" id="15" />
+      <Sentence char_offsets="3198:3261" id="16" />
+      <Sentence char_offsets="3272:3511" id="17" />
+      <Sentence char_offsets="3522:3595" id="18" />
+      <Sentence char_offsets="3597:3749" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="40956" actor_name="Venezuela" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

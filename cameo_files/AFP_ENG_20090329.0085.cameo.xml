@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0085">
+    <Sentences>
+      <Sentence char_offsets="186:376" id="0" />
+      <Sentence char_offsets="387:595" id="1" />
+      <Sentence char_offsets="606:753" id="2" />
+      <Sentence char_offsets="764:996" id="3" />
+      <Sentence char_offsets="1007:1222" id="4" />
+      <Sentence char_offsets="1233:1371" id="5" />
+      <Sentence char_offsets="1382:1539" id="6" />
+      <Sentence char_offsets="1550:1752" id="7" />
+      <Sentence char_offsets="1763:1916" id="8" />
+      <Sentence char_offsets="1927:2073" id="9" />
+      <Sentence char_offsets="2084:2192" id="10" />
+      <Sentence char_offsets="2203:2323" id="11" />
+      <Sentence char_offsets="2334:2455" id="12" />
+      <Sentence char_offsets="2457:2515" id="13" />
+      <Sentence char_offsets="2517:2581" id="14" />
+      <Sentence char_offsets="2592:2807" id="15" />
+      <Sentence char_offsets="2818:3025" id="16" />
+      <Sentence char_offsets="3036:3147" id="17" />
+      <Sentence char_offsets="3158:3295" id="18" />
+      <Sentence char_offsets="3306:3480" id="19" />
+      <Sentence char_offsets="3491:3650" id="20" />
+      <Sentence char_offsets="3652:3695" id="21" />
+      <Sentence char_offsets="3706:3907" id="22" />
+      <Sentence char_offsets="3918:3981" id="23" />
+      <Sentence char_offsets="3983:4210" id="24" />
+      <Sentence char_offsets="4221:4462" id="25" />
+      <Sentence char_offsets="4473:4537" id="26" />
+      <Sentence char_offsets="4548:4651" id="27" />
+      <Sentence char_offsets="4662:4876" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="28" tense="neutral" type="090">
+        <Participant actor_id="41262" actor_name="United States" agent_id="688" agent_name="Secret Agent" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="171">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

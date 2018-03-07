@@ -1,0 +1,67 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090328.0070">
+    <Sentences>
+      <Sentence char_offsets="187:422" id="0" />
+      <Sentence char_offsets="433:566" id="1" />
+      <Sentence char_offsets="577:612" id="2" />
+      <Sentence char_offsets="623:691" id="3" />
+      <Sentence char_offsets="693:730" id="4" />
+      <Sentence char_offsets="741:1021" id="5" />
+      <Sentence char_offsets="1023:1209" id="6" />
+      <Sentence char_offsets="1220:1490" id="7" />
+      <Sentence char_offsets="1492:1587" id="8" />
+      <Sentence char_offsets="1598:1846" id="9" />
+      <Sentence char_offsets="1857:2013" id="10" />
+      <Sentence char_offsets="2024:2223" id="11" />
+      <Sentence char_offsets="2234:2383" id="12" />
+      <Sentence char_offsets="2385:2617" id="13" />
+      <Sentence char_offsets="2628:2778" id="14" />
+      <Sentence char_offsets="2780:2867" id="15" />
+      <Sentence char_offsets="2878:3019" id="16" />
+      <Sentence char_offsets="3021:3151" id="17" />
+      <Sentence char_offsets="3162:3295" id="18" />
+      <Sentence char_offsets="3297:3341" id="19" />
+      <Sentence char_offsets="3343:3433" id="20" />
+      <Sentence char_offsets="3444:3622" id="21" />
+      <Sentence char_offsets="3624:3730" id="22" />
+      <Sentence char_offsets="3741:3829" id="23" />
+      <Sentence char_offsets="3840:3912" id="24" />
+      <Sentence char_offsets="3914:4046" id="25" />
+      <Sentence char_offsets="4057:4191" id="26" />
+      <Sentence char_offsets="4193:4248" id="27" />
+      <Sentence char_offsets="4259:4390" id="28" />
+      <Sentence char_offsets="4401:4533" id="29" />
+      <Sentence char_offsets="4544:4629" id="30" />
+      <Sentence char_offsets="4640:4751" id="31" />
+      <Sentence char_offsets="4762:4872" id="32" />
+      <Sentence char_offsets="4883:4926" id="33" />
+      <Sentence char_offsets="4928:5069" id="34" />
+      <Sentence char_offsets="5071:5120" id="35" />
+      <Sentence char_offsets="5122:5169" id="36" />
+      <Sentence char_offsets="5180:5230" id="37" />
+      <Sentence char_offsets="5241:5400" id="38" />
+      <Sentence char_offsets="5402:5442" id="39" />
+      <Sentence char_offsets="5444:5598" id="40" />
+      <Sentence char_offsets="5609:5752" id="41" />
+      <Sentence char_offsets="5754:5824" id="42" />
+      <Sentence char_offsets="5835:5904" id="43" />
+      <Sentence char_offsets="5906:5944" id="44" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="120">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="neutral" type="120">
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

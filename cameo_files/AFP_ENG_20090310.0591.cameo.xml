@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0591">
+    <Sentences>
+      <Sentence char_offsets="185:363" id="0" />
+      <Sentence char_offsets="374:491" id="1" />
+      <Sentence char_offsets="502:614" id="2" />
+      <Sentence char_offsets="625:687" id="3" />
+      <Sentence char_offsets="689:796" id="4" />
+      <Sentence char_offsets="807:881" id="5" />
+      <Sentence char_offsets="892:1103" id="6" />
+      <Sentence char_offsets="1114:1178" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="130">
+        <Participant actor_id="22606" actor_name="Prime Minister bin Ibrahim" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="634" agent_name="Ruling Coalition" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

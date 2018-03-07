@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0209">
+    <Sentences>
+      <Sentence char_offsets="184:377" id="0" />
+      <Sentence char_offsets="388:620" id="1" />
+      <Sentence char_offsets="631:828" id="2" />
+      <Sentence char_offsets="839:1140" id="3" />
+      <Sentence char_offsets="1151:1312" id="4" />
+      <Sentence char_offsets="1323:1491" id="5" />
+      <Sentence char_offsets="1502:1585" id="6" />
+      <Sentence char_offsets="1596:1724" id="7" />
+      <Sentence char_offsets="1735:1841" id="8" />
+      <Sentence char_offsets="1852:1890" id="9" />
+      <Sentence char_offsets="1901:2058" id="10" />
+      <Sentence char_offsets="2069:2303" id="11" />
+      <Sentence char_offsets="2314:2458" id="12" />
+      <Sentence char_offsets="2469:2578" id="13" />
+      <Sentence char_offsets="2589:2741" id="14" />
+      <Sentence char_offsets="2752:2832" id="15" />
+      <Sentence char_offsets="2843:2942" id="16" />
+      <Sentence char_offsets="2953:3123" id="17" />
+      <Sentence char_offsets="3134:3256" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="102">
+        <Participant actor_id="46635" actor_name="Jean-Marie Le Pen" role="Source" />
+        <Participant actor_id="237807" actor_name="Martin Schulz" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="237807" actor_name="Martin Schulz" role="Source" />
+        <Participant actor_id="46635" actor_name="Jean-Marie Le Pen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

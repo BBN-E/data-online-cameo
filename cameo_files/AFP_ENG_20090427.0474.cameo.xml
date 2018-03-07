@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0474">
+    <Sentences>
+      <Sentence char_offsets="178:368" id="0" />
+      <Sentence char_offsets="379:601" id="1" />
+      <Sentence char_offsets="612:762" id="2" />
+      <Sentence char_offsets="773:981" id="3" />
+      <Sentence char_offsets="992:1111" id="4" />
+      <Sentence char_offsets="1122:1323" id="5" />
+      <Sentence char_offsets="1334:1468" id="6" />
+      <Sentence char_offsets="1479:1666" id="7" />
+      <Sentence char_offsets="1677:1857" id="8" />
+      <Sentence char_offsets="1868:1937" id="9" />
+      <Sentence char_offsets="1948:2053" id="10" />
+      <Sentence char_offsets="2055:2110" id="11" />
+      <Sentence char_offsets="2112:2148" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="127">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="120860" actor_name="The Democratic Party of Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

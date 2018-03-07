@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090309.0151">
+    <Sentences>
+      <Sentence char_offsets="173:411" id="0" />
+      <Sentence char_offsets="422:631" id="1" />
+      <Sentence char_offsets="642:736" id="2" />
+      <Sentence char_offsets="738:926" id="3" />
+      <Sentence char_offsets="937:1133" id="4" />
+      <Sentence char_offsets="1144:1283" id="5" />
+      <Sentence char_offsets="1285:1335" id="6" />
+      <Sentence char_offsets="1346:1389" id="7" />
+      <Sentence char_offsets="1400:1552" id="8" />
+      <Sentence char_offsets="1554:1733" id="9" />
+      <Sentence char_offsets="1744:1797" id="10" />
+      <Sentence char_offsets="1808:1894" id="11" />
+      <Sentence char_offsets="1896:2068" id="12" />
+      <Sentence char_offsets="2070:2242" id="13" />
+      <Sentence char_offsets="2253:2378" id="14" />
+      <Sentence char_offsets="2389:2569" id="15" />
+      <Sentence char_offsets="2571:2604" id="16" />
+      <Sentence char_offsets="2615:2784" id="17" />
+      <Sentence char_offsets="2786:2944" id="18" />
+      <Sentence char_offsets="2955:3168" id="19" />
+      <Sentence char_offsets="3179:3293" id="20" />
+      <Sentence char_offsets="3295:3419" id="21" />
+      <Sentence char_offsets="3430:3662" id="22" />
+      <Sentence char_offsets="3664:3814" id="23" />
+      <Sentence char_offsets="3825:3849" id="24" />
+      <Sentence char_offsets="3851:3934" id="25" />
+      <Sentence char_offsets="3936:3956" id="26" />
+      <Sentence char_offsets="3958:4001" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="173">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="174">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0098">
+    <Sentences>
+      <Sentence char_offsets="185:370" id="0" />
+      <Sentence char_offsets="381:485" id="1" />
+      <Sentence char_offsets="496:586" id="2" />
+      <Sentence char_offsets="588:624" id="3" />
+      <Sentence char_offsets="626:715" id="4" />
+      <Sentence char_offsets="726:936" id="5" />
+      <Sentence char_offsets="947:1158" id="6" />
+      <Sentence char_offsets="1169:1323" id="7" />
+      <Sentence char_offsets="1334:1458" id="8" />
+      <Sentence char_offsets="1469:1670" id="9" />
+      <Sentence char_offsets="1681:1825" id="10" />
+      <Sentence char_offsets="1836:1951" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="231" agent_name="Presidential Press Service" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="historical" type="010">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

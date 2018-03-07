@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090410.0016">
+    <Sentences>
+      <Sentence char_offsets="239:484" id="0" />
+      <Sentence char_offsets="495:643" id="1" />
+      <Sentence char_offsets="645:763" id="2" />
+      <Sentence char_offsets="774:980" id="3" />
+      <Sentence char_offsets="991:1142" id="4" />
+      <Sentence char_offsets="1144:1179" id="5" />
+      <Sentence char_offsets="1190:1308" id="6" />
+      <Sentence char_offsets="1310:1381" id="7" />
+      <Sentence char_offsets="1383:1468" id="8" />
+      <Sentence char_offsets="1479:1565" id="9" />
+      <Sentence char_offsets="1576:1766" id="10" />
+      <Sentence char_offsets="1768:1905" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="580" agent_name="Opposition Supporter" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="120">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="1411">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

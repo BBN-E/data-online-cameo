@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.1196">
+    <Sentences>
+      <Sentence char_offsets="187:410" id="0" />
+      <Sentence char_offsets="421:563" id="1" />
+      <Sentence char_offsets="565:598" id="2" />
+      <Sentence char_offsets="609:821" id="3" />
+      <Sentence char_offsets="823:898" id="4" />
+      <Sentence char_offsets="909:1028" id="5" />
+      <Sentence char_offsets="1039:1119" id="6" />
+      <Sentence char_offsets="1121:1191" id="7" />
+      <Sentence char_offsets="1202:1334" id="8" />
+      <Sentence char_offsets="1345:1565" id="9" />
+      <Sentence char_offsets="1576:1709" id="10" />
+      <Sentence char_offsets="1720:1818" id="11" />
+      <Sentence char_offsets="1829:1937" id="12" />
+      <Sentence char_offsets="1948:2083" id="13" />
+      <Sentence char_offsets="2094:2270" id="14" />
+      <Sentence char_offsets="2281:2446" id="15" />
+      <Sentence char_offsets="2457:2586" id="16" />
+      <Sentence char_offsets="2597:2653" id="17" />
+      <Sentence char_offsets="2664:2820" id="18" />
+      <Sentence char_offsets="2831:2935" id="19" />
+      <Sentence char_offsets="2946:3160" id="20" />
+      <Sentence char_offsets="3171:3334" id="21" />
+      <Sentence char_offsets="3345:3402" id="22" />
+      <Sentence char_offsets="3413:3646" id="23" />
+      <Sentence char_offsets="3657:3797" id="24" />
+      <Sentence char_offsets="3799:3966" id="25" />
+      <Sentence char_offsets="3977:4206" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Source" />
+        <Participant actor_id="37677" actor_name="Royal Caribbean" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

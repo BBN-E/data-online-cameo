@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0238">
+    <Sentences>
+      <Sentence char_offsets="188:359" id="0" />
+      <Sentence char_offsets="370:534" id="1" />
+      <Sentence char_offsets="545:755" id="2" />
+      <Sentence char_offsets="766:935" id="3" />
+      <Sentence char_offsets="946:1124" id="4" />
+      <Sentence char_offsets="1135:1285" id="5" />
+      <Sentence char_offsets="1296:1486" id="6" />
+      <Sentence char_offsets="1497:1702" id="7" />
+      <Sentence char_offsets="1713:1758" id="8" />
+      <Sentence char_offsets="1769:1939" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="153">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="180">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="175">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="7" tense="neutral" type="180">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

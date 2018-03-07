@@ -1,0 +1,75 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0426">
+    <Sentences>
+      <Sentence char_offsets="188:433" id="0" />
+      <Sentence char_offsets="444:668" id="1" />
+      <Sentence char_offsets="679:844" id="2" />
+      <Sentence char_offsets="846:1031" id="3" />
+      <Sentence char_offsets="1042:1147" id="4" />
+      <Sentence char_offsets="1149:1235" id="5" />
+      <Sentence char_offsets="1237:1292" id="6" />
+      <Sentence char_offsets="1303:1371" id="7" />
+      <Sentence char_offsets="1373:1569" id="8" />
+      <Sentence char_offsets="1580:1745" id="9" />
+      <Sentence char_offsets="1747:1909" id="10" />
+      <Sentence char_offsets="1920:2088" id="11" />
+      <Sentence char_offsets="2099:2343" id="12" />
+      <Sentence char_offsets="2354:2444" id="13" />
+      <Sentence char_offsets="2446:2503" id="14" />
+      <Sentence char_offsets="2514:2627" id="15" />
+      <Sentence char_offsets="2629:2700" id="16" />
+      <Sentence char_offsets="2711:2856" id="17" />
+      <Sentence char_offsets="2867:3094" id="18" />
+      <Sentence char_offsets="3096:3167" id="19" />
+      <Sentence char_offsets="3178:3265" id="20" />
+      <Sentence char_offsets="3267:3392" id="21" />
+      <Sentence char_offsets="3403:3590" id="22" />
+      <Sentence char_offsets="3601:3631" id="23" />
+      <Sentence char_offsets="3633:3749" id="24" />
+      <Sentence char_offsets="3760:3969" id="25" />
+      <Sentence char_offsets="3980:4171" id="26" />
+      <Sentence char_offsets="4182:4415" id="27" />
+      <Sentence char_offsets="4426:4498" id="28" />
+      <Sentence char_offsets="4509:4566" id="29" />
+      <Sentence char_offsets="4577:4741" id="30" />
+      <Sentence char_offsets="4752:4954" id="31" />
+      <Sentence char_offsets="4965:5058" id="32" />
+      <Sentence char_offsets="5069:5197" id="33" />
+      <Sentence char_offsets="5208:5427" id="34" />
+      <Sentence char_offsets="5438:5443" id="35" />
+      <Sentence char_offsets="5454:5578" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="121793" actor_name="Farhatullah Babar" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="11687" actor_name="Rehman Malik" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="34" tense="current" type="042">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="25" tense="neutral" type="071">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="26" tense="neutral" type="100">
+        <Participant actor_id="34826" actor_name="David Petraeus" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="192">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="34" tense="current" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

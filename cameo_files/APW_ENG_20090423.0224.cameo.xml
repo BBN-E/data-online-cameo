@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0224">
+    <Sentences>
+      <Sentence char_offsets="183:352" id="0" />
+      <Sentence char_offsets="363:470" id="1" />
+      <Sentence char_offsets="472:595" id="2" />
+      <Sentence char_offsets="606:792" id="3" />
+      <Sentence char_offsets="794:883" id="4" />
+      <Sentence char_offsets="894:1082" id="5" />
+      <Sentence char_offsets="1093:1398" id="6" />
+      <Sentence char_offsets="1409:1647" id="7" />
+      <Sentence char_offsets="1658:1895" id="8" />
+      <Sentence char_offsets="1906:2242" id="9" />
+      <Sentence char_offsets="2253:2497" id="10" />
+      <Sentence char_offsets="2499:2582" id="11" />
+      <Sentence char_offsets="2593:2761" id="12" />
+      <Sentence char_offsets="2763:3039" id="13" />
+      <Sentence char_offsets="3050:3237" id="14" />
+      <Sentence char_offsets="3248:3340" id="15" />
+      <Sentence char_offsets="3342:3479" id="16" />
+      <Sentence char_offsets="3490:3685" id="17" />
+      <Sentence char_offsets="3687:3813" id="18" />
+      <Sentence char_offsets="3824:3971" id="19" />
+      <Sentence char_offsets="3973:4272" id="20" />
+      <Sentence char_offsets="4283:4454" id="21" />
+      <Sentence char_offsets="4456:4664" id="22" />
+      <Sentence char_offsets="4675:4943" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="012">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="352" agent_name="Armed Band" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

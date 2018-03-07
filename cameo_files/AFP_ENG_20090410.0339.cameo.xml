@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0339">
+    <Sentences>
+      <Sentence char_offsets="179:374" id="0" />
+      <Sentence char_offsets="385:457" id="1" />
+      <Sentence char_offsets="459:581" id="2" />
+      <Sentence char_offsets="592:790" id="3" />
+      <Sentence char_offsets="801:919" id="4" />
+      <Sentence char_offsets="930:1097" id="5" />
+      <Sentence char_offsets="1108:1378" id="6" />
+      <Sentence char_offsets="1389:1574" id="7" />
+      <Sentence char_offsets="1585:1737" id="8" />
+      <Sentence char_offsets="1739:1763" id="9" />
+      <Sentence char_offsets="1774:1816" id="10" />
+      <Sentence char_offsets="1818:1849" id="11" />
+      <Sentence char_offsets="1860:2039" id="12" />
+      <Sentence char_offsets="2050:2133" id="13" />
+      <Sentence char_offsets="2144:2252" id="14" />
+      <Sentence char_offsets="2254:2311" id="15" />
+      <Sentence char_offsets="2313:2375" id="16" />
+      <Sentence char_offsets="2386:2567" id="17" />
+      <Sentence char_offsets="2578:2775" id="18" />
+      <Sentence char_offsets="2786:2953" id="19" />
+      <Sentence char_offsets="2964:3179" id="20" />
+      <Sentence char_offsets="3190:3402" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="112">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="1411">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

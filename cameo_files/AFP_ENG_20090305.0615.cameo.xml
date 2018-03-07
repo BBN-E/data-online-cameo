@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0615">
+    <Sentences>
+      <Sentence char_offsets="182:334" id="0" />
+      <Sentence char_offsets="345:506" id="1" />
+      <Sentence char_offsets="517:667" id="2" />
+      <Sentence char_offsets="669:762" id="3" />
+      <Sentence char_offsets="773:845" id="4" />
+      <Sentence char_offsets="856:1018" id="5" />
+      <Sentence char_offsets="1029:1158" id="6" />
+      <Sentence char_offsets="1169:1281" id="7" />
+      <Sentence char_offsets="1283:1371" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="046">
+        <Participant actor_id="52676" actor_name="Antonis Samaras" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="31038" actor_name="Greece" agent_id="640" agent_name="Employee" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="current" type="046">
+        <Participant actor_id="31038" actor_name="Greece" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="52676" actor_name="Antonis Samaras" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

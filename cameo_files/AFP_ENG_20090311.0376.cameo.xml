@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0376">
+    <Sentences>
+      <Sentence char_offsets="192:388" id="0" />
+      <Sentence char_offsets="399:607" id="1" />
+      <Sentence char_offsets="618:818" id="2" />
+      <Sentence char_offsets="829:968" id="3" />
+      <Sentence char_offsets="979:1147" id="4" />
+      <Sentence char_offsets="1158:1368" id="5" />
+      <Sentence char_offsets="1379:1521" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="55712" actor_name="Mirko Cvetkovic" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="historical" type="0331">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

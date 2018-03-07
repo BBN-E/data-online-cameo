@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0295">
+    <Sentences>
+      <Sentence char_offsets="185:374" id="0" />
+      <Sentence char_offsets="385:592" id="1" />
+      <Sentence char_offsets="603:755" id="2" />
+      <Sentence char_offsets="766:958" id="3" />
+      <Sentence char_offsets="969:1055" id="4" />
+      <Sentence char_offsets="1057:1108" id="5" />
+      <Sentence char_offsets="1119:1291" id="6" />
+      <Sentence char_offsets="1302:1464" id="7" />
+      <Sentence char_offsets="1475:1699" id="8" />
+      <Sentence char_offsets="1710:1792" id="9" />
+      <Sentence char_offsets="1803:1987" id="10" />
+      <Sentence char_offsets="1998:2088" id="11" />
+      <Sentence char_offsets="2099:2278" id="12" />
+      <Sentence char_offsets="2289:2406" id="13" />
+      <Sentence char_offsets="2417:2616" id="14" />
+      <Sentence char_offsets="2627:2769" id="15" />
+      <Sentence char_offsets="2780:3006" id="16" />
+      <Sentence char_offsets="3017:3193" id="17" />
+      <Sentence char_offsets="3204:3344" id="18" />
+      <Sentence char_offsets="3355:3476" id="19" />
+      <Sentence char_offsets="3487:3694" id="20" />
+      <Sentence char_offsets="3705:3842" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="28102" actor_name="Wall Street Journal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

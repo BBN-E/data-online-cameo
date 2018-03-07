@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0304">
+    <Sentences>
+      <Sentence char_offsets="182:356" id="0" />
+      <Sentence char_offsets="367:519" id="1" />
+      <Sentence char_offsets="521:577" id="2" />
+      <Sentence char_offsets="588:813" id="3" />
+      <Sentence char_offsets="824:951" id="4" />
+      <Sentence char_offsets="953:1007" id="5" />
+      <Sentence char_offsets="1018:1197" id="6" />
+      <Sentence char_offsets="1208:1406" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="719" agent_name="Healthcare Facility" role="Source" />
+        <Participant actor_id="44084" actor_name="British Airways" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

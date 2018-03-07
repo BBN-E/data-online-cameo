@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0669">
+    <Sentences>
+      <Sentence char_offsets="185:398" id="0" />
+      <Sentence char_offsets="409:675" id="1" />
+      <Sentence char_offsets="686:878" id="2" />
+      <Sentence char_offsets="880:929" id="3" />
+      <Sentence char_offsets="940:1106" id="4" />
+      <Sentence char_offsets="1117:1268" id="5" />
+      <Sentence char_offsets="1279:1378" id="6" />
+      <Sentence char_offsets="1389:1425" id="7" />
+      <Sentence char_offsets="1436:1561" id="8" />
+      <Sentence char_offsets="1563:1609" id="9" />
+      <Sentence char_offsets="1620:1800" id="10" />
+      <Sentence char_offsets="1811:2061" id="11" />
+      <Sentence char_offsets="2072:2247" id="12" />
+      <Sentence char_offsets="2258:2402" id="13" />
+      <Sentence char_offsets="2404:2459" id="14" />
+      <Sentence char_offsets="2470:2707" id="15" />
+      <Sentence char_offsets="2718:2803" id="16" />
+      <Sentence char_offsets="2814:2926" id="17" />
+      <Sentence char_offsets="2928:3005" id="18" />
+      <Sentence char_offsets="3016:3021" id="19" />
+      <Sentence char_offsets="3032:3110" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="090">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="130">
+        <Participant actor_id="28482" actor_name="Zalmay Mamozy Khalilzad" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

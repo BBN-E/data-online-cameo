@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0636">
+    <Sentences>
+      <Sentence char_offsets="198:378" id="0" />
+      <Sentence char_offsets="389:686" id="1" />
+      <Sentence char_offsets="697:845" id="2" />
+      <Sentence char_offsets="856:1017" id="3" />
+      <Sentence char_offsets="1028:1219" id="4" />
+      <Sentence char_offsets="1230:1503" id="5" />
+      <Sentence char_offsets="1514:1690" id="6" />
+      <Sentence char_offsets="1701:1804" id="7" />
+      <Sentence char_offsets="1806:1864" id="8" />
+      <Sentence char_offsets="1875:1995" id="9" />
+      <Sentence char_offsets="2006:2150" id="10" />
+      <Sentence char_offsets="2161:2355" id="11" />
+      <Sentence char_offsets="2366:2455" id="12" />
+      <Sentence char_offsets="2466:2673" id="13" />
+      <Sentence char_offsets="2684:2820" id="14" />
+      <Sentence char_offsets="2822:2909" id="15" />
+      <Sentence char_offsets="2920:3047" id="16" />
+      <Sentence char_offsets="3058:3209" id="17" />
+      <Sentence char_offsets="3220:3427" id="18" />
+      <Sentence char_offsets="3438:3687" id="19" />
+      <Sentence char_offsets="3698:3823" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="57997" actor_name="Milo Djukanovic" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="235744" actor_name="Olli Rehn" role="Source" />
+        <Participant actor_id="118369" actor_name="Montenegro" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="57997" actor_name="Milo Djukanovic" role="Source" />
+        <Participant actor_id="118369" actor_name="Montenegro" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="historical" type="190">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

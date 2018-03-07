@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0792">
+    <Sentences>
+      <Sentence char_offsets="196:388" id="0" />
+      <Sentence char_offsets="399:603" id="1" />
+      <Sentence char_offsets="614:797" id="2" />
+      <Sentence char_offsets="808:1107" id="3" />
+      <Sentence char_offsets="1118:1183" id="4" />
+      <Sentence char_offsets="1185:1333" id="5" />
+      <Sentence char_offsets="1344:1398" id="6" />
+      <Sentence char_offsets="1400:1481" id="7" />
+      <Sentence char_offsets="1483:1558" id="8" />
+      <Sentence char_offsets="1569:1795" id="9" />
+      <Sentence char_offsets="1806:2004" id="10" />
+      <Sentence char_offsets="2015:2239" id="11" />
+      <Sentence char_offsets="2250:2436" id="12" />
+      <Sentence char_offsets="2447:2641" id="13" />
+      <Sentence char_offsets="2652:2850" id="14" />
+      <Sentence char_offsets="2861:2940" id="15" />
+      <Sentence char_offsets="2942:2982" id="16" />
+      <Sentence char_offsets="2984:3102" id="17" />
+      <Sentence char_offsets="3113:3316" id="18" />
+      <Sentence char_offsets="3327:3396" id="19" />
+      <Sentence char_offsets="3398:3457" id="20" />
+      <Sentence char_offsets="3468:3556" id="21" />
+      <Sentence char_offsets="3567:3760" id="22" />
+      <Sentence char_offsets="3771:3805" id="23" />
+      <Sentence char_offsets="3807:3893" id="24" />
+      <Sentence char_offsets="3895:3988" id="25" />
+      <Sentence char_offsets="3999:4222" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="current" type="010">
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="111">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

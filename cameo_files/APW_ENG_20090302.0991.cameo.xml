@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0991">
+    <Sentences>
+      <Sentence char_offsets="205:402" id="0" />
+      <Sentence char_offsets="413:566" id="1" />
+      <Sentence char_offsets="577:740" id="2" />
+      <Sentence char_offsets="751:902" id="3" />
+      <Sentence char_offsets="904:985" id="4" />
+      <Sentence char_offsets="996:1082" id="5" />
+      <Sentence char_offsets="1093:1212" id="6" />
+      <Sentence char_offsets="1223:1432" id="7" />
+      <Sentence char_offsets="1443:1548" id="8" />
+      <Sentence char_offsets="1559:1669" id="9" />
+      <Sentence char_offsets="1680:1722" id="10" />
+      <Sentence char_offsets="1733:1917" id="11" />
+      <Sentence char_offsets="1928:2124" id="12" />
+      <Sentence char_offsets="2135:2212" id="13" />
+      <Sentence char_offsets="2223:2368" id="14" />
+      <Sentence char_offsets="2370:2430" id="15" />
+      <Sentence char_offsets="2441:2699" id="16" />
+      <Sentence char_offsets="2701:2814" id="17" />
+      <Sentence char_offsets="2825:2880" id="18" />
+      <Sentence char_offsets="2882:2963" id="19" />
+      <Sentence char_offsets="2965:3069" id="20" />
+      <Sentence char_offsets="3080:3276" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="29720" actor_name="Nortel Networks Corporation" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="29720" actor_name="Nortel Networks Corporation" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

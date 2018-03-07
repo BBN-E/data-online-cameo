@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0972">
+    <Sentences>
+      <Sentence char_offsets="185:397" id="0" />
+      <Sentence char_offsets="408:566" id="1" />
+      <Sentence char_offsets="577:729" id="2" />
+      <Sentence char_offsets="731:782" id="3" />
+      <Sentence char_offsets="793:908" id="4" />
+      <Sentence char_offsets="919:1052" id="5" />
+      <Sentence char_offsets="1054:1195" id="6" />
+      <Sentence char_offsets="1206:1305" id="7" />
+      <Sentence char_offsets="1316:1394" id="8" />
+      <Sentence char_offsets="1396:1481" id="9" />
+      <Sentence char_offsets="1492:1628" id="10" />
+      <Sentence char_offsets="1630:1715" id="11" />
+      <Sentence char_offsets="1726:1824" id="12" />
+      <Sentence char_offsets="1835:1982" id="13" />
+      <Sentence char_offsets="1993:2114" id="14" />
+      <Sentence char_offsets="2125:2201" id="15" />
+      <Sentence char_offsets="2212:2365" id="16" />
+      <Sentence char_offsets="2376:2533" id="17" />
+      <Sentence char_offsets="2544:2664" id="18" />
+      <Sentence char_offsets="2675:2835" id="19" />
+      <Sentence char_offsets="2846:2984" id="20" />
+      <Sentence char_offsets="2995:3176" id="21" />
+      <Sentence char_offsets="3187:3343" id="22" />
+      <Sentence char_offsets="3345:3458" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="010">
+        <Participant actor_id="4207" actor_name="Alexei Leonidovich Kudrin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="4207" actor_name="Alexei Leonidovich Kudrin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="current" type="010">
+        <Participant actor_id="4207" actor_name="Alexei Leonidovich Kudrin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="236526" actor_name="Arkady Dvorkovich" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="neutral" type="020">
+        <Participant actor_id="236526" actor_name="Arkady Dvorkovich" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0223">
+    <Sentences>
+      <Sentence char_offsets="200:415" id="0" />
+      <Sentence char_offsets="426:659" id="1" />
+      <Sentence char_offsets="670:907" id="2" />
+      <Sentence char_offsets="918:1115" id="3" />
+      <Sentence char_offsets="1126:1310" id="4" />
+      <Sentence char_offsets="1321:1466" id="5" />
+      <Sentence char_offsets="1477:1618" id="6" />
+      <Sentence char_offsets="1620:1677" id="7" />
+      <Sentence char_offsets="1688:1835" id="8" />
+      <Sentence char_offsets="1846:2050" id="9" />
+      <Sentence char_offsets="2061:2239" id="10" />
+      <Sentence char_offsets="2250:2408" id="11" />
+      <Sentence char_offsets="2419:2639" id="12" />
+      <Sentence char_offsets="2650:2873" id="13" />
+      <Sentence char_offsets="2884:3196" id="14" />
+      <Sentence char_offsets="3207:3328" id="15" />
+      <Sentence char_offsets="3339:3525" id="16" />
+      <Sentence char_offsets="3536:3748" id="17" />
+      <Sentence char_offsets="3759:3899" id="18" />
+      <Sentence char_offsets="3910:4055" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="091">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

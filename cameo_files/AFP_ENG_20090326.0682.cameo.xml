@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0682">
+    <Sentences>
+      <Sentence char_offsets="183:326" id="0" />
+      <Sentence char_offsets="337:515" id="1" />
+      <Sentence char_offsets="526:714" id="2" />
+      <Sentence char_offsets="725:781" id="3" />
+      <Sentence char_offsets="792:984" id="4" />
+      <Sentence char_offsets="995:1202" id="5" />
+      <Sentence char_offsets="1213:1350" id="6" />
+      <Sentence char_offsets="1361:1458" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="173">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

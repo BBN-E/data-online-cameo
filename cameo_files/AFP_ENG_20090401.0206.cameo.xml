@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0206">
+    <Sentences>
+      <Sentence char_offsets="191:372" id="0" />
+      <Sentence char_offsets="383:549" id="1" />
+      <Sentence char_offsets="560:684" id="2" />
+      <Sentence char_offsets="695:850" id="3" />
+      <Sentence char_offsets="861:1063" id="4" />
+      <Sentence char_offsets="1074:1320" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="0253">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

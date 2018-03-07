@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0611">
+    <Sentences>
+      <Sentence char_offsets="182:382" id="0" />
+      <Sentence char_offsets="393:603" id="1" />
+      <Sentence char_offsets="614:710" id="2" />
+      <Sentence char_offsets="712:821" id="3" />
+      <Sentence char_offsets="832:954" id="4" />
+      <Sentence char_offsets="965:1162" id="5" />
+      <Sentence char_offsets="1173:1401" id="6" />
+      <Sentence char_offsets="1412:1497" id="7" />
+      <Sentence char_offsets="1499:1595" id="8" />
+      <Sentence char_offsets="1606:1781" id="9" />
+      <Sentence char_offsets="1792:2013" id="10" />
+      <Sentence char_offsets="2024:2205" id="11" />
+      <Sentence char_offsets="2216:2307" id="12" />
+      <Sentence char_offsets="2309:2448" id="13" />
+      <Sentence char_offsets="2459:2661" id="14" />
+      <Sentence char_offsets="2672:2679" id="15" />
+      <Sentence char_offsets="2690:2776" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="historical" type="120">
+        <Participant actor_id="52840" actor_name="European Commission" role="Source" />
+        <Participant actor_id="47315" actor_name="OMV" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

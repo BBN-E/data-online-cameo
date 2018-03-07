@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0079">
+    <Sentences>
+      <Sentence char_offsets="185:344" id="0" />
+      <Sentence char_offsets="355:562" id="1" />
+      <Sentence char_offsets="573:785" id="2" />
+      <Sentence char_offsets="796:948" id="3" />
+      <Sentence char_offsets="959:1192" id="4" />
+      <Sentence char_offsets="1203:1464" id="5" />
+      <Sentence char_offsets="1475:1558" id="6" />
+      <Sentence char_offsets="1569:1764" id="7" />
+      <Sentence char_offsets="1775:1958" id="8" />
+      <Sentence char_offsets="1969:2079" id="9" />
+      <Sentence char_offsets="2090:2342" id="10" />
+      <Sentence char_offsets="2353:2470" id="11" />
+      <Sentence char_offsets="2481:2684" id="12" />
+      <Sentence char_offsets="2695:2779" id="13" />
+      <Sentence char_offsets="2790:2936" id="14" />
+      <Sentence char_offsets="2947:3137" id="15" />
+      <Sentence char_offsets="3148:3311" id="16" />
+      <Sentence char_offsets="3313:3365" id="17" />
+      <Sentence char_offsets="3376:3591" id="18" />
+      <Sentence char_offsets="3602:3716" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="39194" actor_name="Freedom House" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="39194" actor_name="Freedom House" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="39194" actor_name="Freedom House" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

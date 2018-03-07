@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0462">
+    <Sentences>
+      <Sentence char_offsets="188:399" id="0" />
+      <Sentence char_offsets="410:485" id="1" />
+      <Sentence char_offsets="487:625" id="2" />
+      <Sentence char_offsets="636:794" id="3" />
+      <Sentence char_offsets="805:959" id="4" />
+      <Sentence char_offsets="970:1088" id="5" />
+      <Sentence char_offsets="1099:1252" id="6" />
+      <Sentence char_offsets="1263:1367" id="7" />
+      <Sentence char_offsets="1378:1559" id="8" />
+      <Sentence char_offsets="1570:1701" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="013">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

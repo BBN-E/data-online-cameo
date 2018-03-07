@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0919">
+    <Sentences>
+      <Sentence char_offsets="188:346" id="0" />
+      <Sentence char_offsets="357:578" id="1" />
+      <Sentence char_offsets="589:836" id="2" />
+      <Sentence char_offsets="847:1037" id="3" />
+      <Sentence char_offsets="1048:1155" id="4" />
+      <Sentence char_offsets="1166:1357" id="5" />
+      <Sentence char_offsets="1368:1532" id="6" />
+      <Sentence char_offsets="1543:1750" id="7" />
+      <Sentence char_offsets="1752:1878" id="8" />
+      <Sentence char_offsets="1889:2132" id="9" />
+      <Sentence char_offsets="2143:2333" id="10" />
+      <Sentence char_offsets="2344:2465" id="11" />
+      <Sentence char_offsets="2476:2544" id="12" />
+      <Sentence char_offsets="2546:2694" id="13" />
+      <Sentence char_offsets="2696:2777" id="14" />
+      <Sentence char_offsets="2788:2911" id="15" />
+      <Sentence char_offsets="2913:3100" id="16" />
+      <Sentence char_offsets="3111:3231" id="17" />
+      <Sentence char_offsets="3242:3415" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="current" type="036">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="20884" actor_name="Tarja Halonen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="20884" actor_name="Tarja Halonen" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="20884" actor_name="Tarja Halonen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="20884" actor_name="Tarja Halonen" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

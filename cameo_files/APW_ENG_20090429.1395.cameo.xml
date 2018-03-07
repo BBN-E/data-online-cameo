@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.1395">
+    <Sentences>
+      <Sentence char_offsets="191:380" id="0" />
+      <Sentence char_offsets="391:590" id="1" />
+      <Sentence char_offsets="601:743" id="2" />
+      <Sentence char_offsets="754:1031" id="3" />
+      <Sentence char_offsets="1042:1258" id="4" />
+      <Sentence char_offsets="1269:1497" id="5" />
+      <Sentence char_offsets="1508:1708" id="6" />
+      <Sentence char_offsets="1719:1943" id="7" />
+      <Sentence char_offsets="1945:2142" id="8" />
+      <Sentence char_offsets="2144:2278" id="9" />
+      <Sentence char_offsets="2289:2533" id="10" />
+      <Sentence char_offsets="2544:2655" id="11" />
+      <Sentence char_offsets="2657:2871" id="12" />
+      <Sentence char_offsets="2882:3099" id="13" />
+      <Sentence char_offsets="3110:3203" id="14" />
+      <Sentence char_offsets="3205:3341" id="15" />
+      <Sentence char_offsets="3352:3490" id="16" />
+      <Sentence char_offsets="3501:3640" id="17" />
+      <Sentence char_offsets="3651:3760" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="26823" actor_name="JPMorgan Chase" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

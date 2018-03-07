@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0294">
+    <Sentences>
+      <Sentence char_offsets="174:345" id="0" />
+      <Sentence char_offsets="356:531" id="1" />
+      <Sentence char_offsets="542:680" id="2" />
+      <Sentence char_offsets="691:921" id="3" />
+      <Sentence char_offsets="932:990" id="4" />
+      <Sentence char_offsets="1001:1175" id="5" />
+      <Sentence char_offsets="1186:1367" id="6" />
+      <Sentence char_offsets="1378:1521" id="7" />
+      <Sentence char_offsets="1532:1668" id="8" />
+      <Sentence char_offsets="1679:1824" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="32981" actor_name="Hans-Rudolf Merz" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="32981" actor_name="Hans-Rudolf Merz" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

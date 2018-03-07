@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0097">
+    <Sentences>
+      <Sentence char_offsets="179:377" id="0" />
+      <Sentence char_offsets="388:598" id="1" />
+      <Sentence char_offsets="609:786" id="2" />
+      <Sentence char_offsets="797:994" id="3" />
+      <Sentence char_offsets="1005:1071" id="4" />
+      <Sentence char_offsets="1082:1336" id="5" />
+      <Sentence char_offsets="1347:1496" id="6" />
+      <Sentence char_offsets="1507:1635" id="7" />
+      <Sentence char_offsets="1646:1698" id="8" />
+      <Sentence char_offsets="1709:1799" id="9" />
+      <Sentence char_offsets="1810:1941" id="10" />
+      <Sentence char_offsets="1952:2114" id="11" />
+      <Sentence char_offsets="2125:2316" id="12" />
+      <Sentence char_offsets="2327:2500" id="13" />
+      <Sentence char_offsets="2511:2712" id="14" />
+      <Sentence char_offsets="2723:2774" id="15" />
+      <Sentence char_offsets="2785:2943" id="16" />
+      <Sentence char_offsets="2954:3065" id="17" />
+      <Sentence char_offsets="3076:3150" id="18" />
+      <Sentence char_offsets="3161:3308" id="19" />
+      <Sentence char_offsets="3319:3439" id="20" />
+      <Sentence char_offsets="3450:3669" id="21" />
+      <Sentence char_offsets="3680:3839" id="22" />
+      <Sentence char_offsets="3850:3910" id="23" />
+      <Sentence char_offsets="3912:4079" id="24" />
+      <Sentence char_offsets="4090:4114" id="25" />
+      <Sentence char_offsets="4116:4282" id="26" />
+      <Sentence char_offsets="4293:4489" id="27" />
+      <Sentence char_offsets="4500:4656" id="28" />
+      <Sentence char_offsets="4667:4854" id="29" />
+      <Sentence char_offsets="4865:5085" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="current" type="040">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="127" agent_name="Religion" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="48178" actor_name="Giorgio Napolitano" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="current" type="040">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="127" agent_name="Religion" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="41" agent_name="Archbishop" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="37071" actor_name="Nigeria" role="Source" />
+        <Participant actor_id="48178" actor_name="Giorgio Napolitano" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

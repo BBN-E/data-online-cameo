@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0449">
+    <Sentences>
+      <Sentence char_offsets="180:323" id="0" />
+      <Sentence char_offsets="334:613" id="1" />
+      <Sentence char_offsets="624:684" id="2" />
+      <Sentence char_offsets="686:850" id="3" />
+      <Sentence char_offsets="861:1059" id="4" />
+      <Sentence char_offsets="1070:1263" id="5" />
+      <Sentence char_offsets="1274:1411" id="6" />
+      <Sentence char_offsets="1422:1617" id="7" />
+      <Sentence char_offsets="1628:1796" id="8" />
+      <Sentence char_offsets="1807:1912" id="9" />
+      <Sentence char_offsets="1914:2014" id="10" />
+      <Sentence char_offsets="2025:2240" id="11" />
+      <Sentence char_offsets="2251:2339" id="12" />
+      <Sentence char_offsets="2350:2550" id="13" />
+      <Sentence char_offsets="2561:2742" id="14" />
+      <Sentence char_offsets="2753:2961" id="15" />
+      <Sentence char_offsets="2972:3115" id="16" />
+      <Sentence char_offsets="3126:3295" id="17" />
+      <Sentence char_offsets="3306:3381" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="021">
+        <Participant actor_id="29099" actor_name="Albania" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

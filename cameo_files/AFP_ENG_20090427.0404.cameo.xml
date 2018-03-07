@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0404">
+    <Sentences>
+      <Sentence char_offsets="182:378" id="0" />
+      <Sentence char_offsets="389:491" id="1" />
+      <Sentence char_offsets="502:654" id="2" />
+      <Sentence char_offsets="665:868" id="3" />
+      <Sentence char_offsets="870:937" id="4" />
+      <Sentence char_offsets="948:1111" id="5" />
+      <Sentence char_offsets="1122:1271" id="6" />
+      <Sentence char_offsets="1282:1454" id="7" />
+      <Sentence char_offsets="1465:1662" id="8" />
+      <Sentence char_offsets="1673:1788" id="9" />
+      <Sentence char_offsets="1799:1932" id="10" />
+      <Sentence char_offsets="1943:2119" id="11" />
+      <Sentence char_offsets="2130:2205" id="12" />
+      <Sentence char_offsets="2216:2321" id="13" />
+      <Sentence char_offsets="2332:2432" id="14" />
+      <Sentence char_offsets="2434:2502" id="15" />
+      <Sentence char_offsets="2513:2644" id="16" />
+      <Sentence char_offsets="2655:2796" id="17" />
+      <Sentence char_offsets="2807:3037" id="18" />
+      <Sentence char_offsets="3048:3113" id="19" />
+      <Sentence char_offsets="3124:3217" id="20" />
+      <Sentence char_offsets="3228:3407" id="21" />
+      <Sentence char_offsets="3418:3618" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

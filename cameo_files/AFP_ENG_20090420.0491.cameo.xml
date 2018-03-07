@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0491">
+    <Sentences>
+      <Sentence char_offsets="178:344" id="0" />
+      <Sentence char_offsets="355:379" id="1" />
+      <Sentence char_offsets="381:558" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

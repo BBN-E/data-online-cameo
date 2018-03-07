@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0779">
+    <Sentences>
+      <Sentence char_offsets="185:361" id="0" />
+      <Sentence char_offsets="372:522" id="1" />
+      <Sentence char_offsets="533:781" id="2" />
+      <Sentence char_offsets="792:954" id="3" />
+      <Sentence char_offsets="965:1128" id="4" />
+      <Sentence char_offsets="1139:1268" id="5" />
+      <Sentence char_offsets="1270:1332" id="6" />
+      <Sentence char_offsets="1334:1399" id="7" />
+      <Sentence char_offsets="1410:1484" id="8" />
+      <Sentence char_offsets="1486:1595" id="9" />
+      <Sentence char_offsets="1606:1814" id="10" />
+      <Sentence char_offsets="1825:1891" id="11" />
+      <Sentence char_offsets="1902:2081" id="12" />
+      <Sentence char_offsets="2092:2238" id="13" />
+      <Sentence char_offsets="2240:2280" id="14" />
+      <Sentence char_offsets="2291:2395" id="15" />
+      <Sentence char_offsets="2397:2493" id="16" />
+      <Sentence char_offsets="2504:2672" id="17" />
+      <Sentence char_offsets="2683:2798" id="18" />
+      <Sentence char_offsets="2800:2902" id="19" />
+      <Sentence char_offsets="2904:2968" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

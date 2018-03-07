@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0076">
+    <Sentences>
+      <Sentence char_offsets="153:186" id="0" />
+      <Sentence char_offsets="189:228" id="1" />
+      <Sentence char_offsets="231:264" id="2" />
+      <Sentence char_offsets="267:337" id="3" />
+      <Sentence char_offsets="339:394" id="4" />
+      <Sentence char_offsets="396:425" id="5" />
+      <Sentence char_offsets="427:458" id="6" />
+      <Sentence char_offsets="460:667" id="7" />
+      <Sentence char_offsets="670:857" id="8" />
+      <Sentence char_offsets="860:1017" id="9" />
+      <Sentence char_offsets="1019:1132" id="10" />
+      <Sentence char_offsets="1135:1386" id="11" />
+      <Sentence char_offsets="1389:1591" id="12" />
+      <Sentence char_offsets="1594:1799" id="13" />
+      <Sentence char_offsets="1802:1995" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="090">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

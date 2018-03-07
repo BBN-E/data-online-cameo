@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.0511">
+    <Sentences>
+      <Sentence char_offsets="191:401" id="0" />
+      <Sentence char_offsets="412:680" id="1" />
+      <Sentence char_offsets="691:828" id="2" />
+      <Sentence char_offsets="839:911" id="3" />
+      <Sentence char_offsets="922:974" id="4" />
+      <Sentence char_offsets="976:1074" id="5" />
+      <Sentence char_offsets="1085:1177" id="6" />
+      <Sentence char_offsets="1188:1421" id="7" />
+      <Sentence char_offsets="1432:1728" id="8" />
+      <Sentence char_offsets="1739:1940" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="022">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="120">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="120">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

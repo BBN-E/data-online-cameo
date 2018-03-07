@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0734">
+    <Sentences>
+      <Sentence char_offsets="204:335" id="0" />
+      <Sentence char_offsets="346:455" id="1" />
+      <Sentence char_offsets="466:542" id="2" />
+      <Sentence char_offsets="553:686" id="3" />
+      <Sentence char_offsets="697:791" id="4" />
+      <Sentence char_offsets="802:886" id="5" />
+      <Sentence char_offsets="897:945" id="6" />
+      <Sentence char_offsets="947:1095" id="7" />
+      <Sentence char_offsets="1106:1246" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="28901" actor_name="Austria" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

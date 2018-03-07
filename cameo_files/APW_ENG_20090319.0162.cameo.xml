@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.0162">
+    <Sentences>
+      <Sentence char_offsets="187:370" id="0" />
+      <Sentence char_offsets="381:540" id="1" />
+      <Sentence char_offsets="542:647" id="2" />
+      <Sentence char_offsets="658:846" id="3" />
+      <Sentence char_offsets="857:1011" id="4" />
+      <Sentence char_offsets="1022:1140" id="5" />
+      <Sentence char_offsets="1142:1295" id="6" />
+      <Sentence char_offsets="1306:1551" id="7" />
+      <Sentence char_offsets="1562:1757" id="8" />
+      <Sentence char_offsets="1759:1885" id="9" />
+      <Sentence char_offsets="1896:2037" id="10" />
+      <Sentence char_offsets="2048:2111" id="11" />
+      <Sentence char_offsets="2113:2253" id="12" />
+      <Sentence char_offsets="2255:2336" id="13" />
+      <Sentence char_offsets="2347:2482" id="14" />
+      <Sentence char_offsets="2493:2603" id="15" />
+      <Sentence char_offsets="2614:2785" id="16" />
+      <Sentence char_offsets="2796:2902" id="17" />
+      <Sentence char_offsets="2904:3075" id="18" />
+      <Sentence char_offsets="3086:3217" id="19" />
+      <Sentence char_offsets="3228:3383" id="20" />
+      <Sentence char_offsets="3394:3494" id="21" />
+      <Sentence char_offsets="3496:3557" id="22" />
+      <Sentence char_offsets="3568:3703" id="23" />
+      <Sentence char_offsets="3705:3845" id="24" />
+      <Sentence char_offsets="3856:4039" id="25" />
+      <Sentence char_offsets="4050:4055" id="26" />
+      <Sentence char_offsets="4066:4146" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

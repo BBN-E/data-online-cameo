@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0353">
+    <Sentences>
+      <Sentence char_offsets="190:298" id="0" />
+      <Sentence char_offsets="309:488" id="1" />
+      <Sentence char_offsets="499:623" id="2" />
+      <Sentence char_offsets="634:693" id="3" />
+      <Sentence char_offsets="695:757" id="4" />
+      <Sentence char_offsets="768:867" id="5" />
+      <Sentence char_offsets="878:998" id="6" />
+      <Sentence char_offsets="1000:1059" id="7" />
+      <Sentence char_offsets="1070:1278" id="8" />
+      <Sentence char_offsets="1289:1442" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39014" actor_name="Islamic School" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

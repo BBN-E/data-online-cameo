@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0956">
+    <Sentences>
+      <Sentence char_offsets="187:351" id="0" />
+      <Sentence char_offsets="362:456" id="1" />
+      <Sentence char_offsets="458:595" id="2" />
+      <Sentence char_offsets="606:719" id="3" />
+      <Sentence char_offsets="721:877" id="4" />
+      <Sentence char_offsets="888:966" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

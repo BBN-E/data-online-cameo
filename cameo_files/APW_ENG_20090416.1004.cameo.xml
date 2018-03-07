@@ -1,0 +1,76 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.1004">
+    <Sentences>
+      <Sentence char_offsets="187:419" id="0" />
+      <Sentence char_offsets="430:670" id="1" />
+      <Sentence char_offsets="681:944" id="2" />
+      <Sentence char_offsets="946:1011" id="3" />
+      <Sentence char_offsets="1022:1173" id="4" />
+      <Sentence char_offsets="1184:1317" id="5" />
+      <Sentence char_offsets="1319:1353" id="6" />
+      <Sentence char_offsets="1364:1484" id="7" />
+      <Sentence char_offsets="1495:1690" id="8" />
+      <Sentence char_offsets="1701:1768" id="9" />
+      <Sentence char_offsets="1770:1837" id="10" />
+      <Sentence char_offsets="1848:2050" id="11" />
+      <Sentence char_offsets="2061:2214" id="12" />
+      <Sentence char_offsets="2216:2258" id="13" />
+      <Sentence char_offsets="2269:2418" id="14" />
+      <Sentence char_offsets="2420:2568" id="15" />
+      <Sentence char_offsets="2579:2769" id="16" />
+      <Sentence char_offsets="2771:2907" id="17" />
+      <Sentence char_offsets="2918:2975" id="18" />
+      <Sentence char_offsets="2986:3210" id="19" />
+      <Sentence char_offsets="3221:3316" id="20" />
+      <Sentence char_offsets="3327:3574" id="21" />
+      <Sentence char_offsets="3585:3645" id="22" />
+      <Sentence char_offsets="3656:3899" id="23" />
+      <Sentence char_offsets="3910:3967" id="24" />
+      <Sentence char_offsets="3978:4068" id="25" />
+      <Sentence char_offsets="4070:4119" id="26" />
+      <Sentence char_offsets="4130:4249" id="27" />
+      <Sentence char_offsets="4260:4476" id="28" />
+      <Sentence char_offsets="4478:4534" id="29" />
+      <Sentence char_offsets="4545:4733" id="30" />
+      <Sentence char_offsets="4735:4782" id="31" />
+      <Sentence char_offsets="4793:4798" id="32" />
+      <Sentence char_offsets="4809:4928" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="30" tense="neutral" type="020">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="53662" actor_name="Vijay Nambiar" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="current" type="042">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="53662" actor_name="Vijay Nambiar" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="11" tense="current" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

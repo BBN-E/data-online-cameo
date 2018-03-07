@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0679">
+    <Sentences>
+      <Sentence char_offsets="195:436" id="0" />
+      <Sentence char_offsets="447:643" id="1" />
+      <Sentence char_offsets="645:822" id="2" />
+      <Sentence char_offsets="833:956" id="3" />
+      <Sentence char_offsets="958:1099" id="4" />
+      <Sentence char_offsets="1110:1363" id="5" />
+      <Sentence char_offsets="1374:1449" id="6" />
+      <Sentence char_offsets="1451:1640" id="7" />
+      <Sentence char_offsets="1651:1718" id="8" />
+      <Sentence char_offsets="1720:1793" id="9" />
+      <Sentence char_offsets="1804:1923" id="10" />
+      <Sentence char_offsets="1925:2064" id="11" />
+      <Sentence char_offsets="2066:2269" id="12" />
+      <Sentence char_offsets="2280:2479" id="13" />
+      <Sentence char_offsets="2481:2519" id="14" />
+      <Sentence char_offsets="2530:2671" id="15" />
+      <Sentence char_offsets="2673:2828" id="16" />
+      <Sentence char_offsets="2839:2936" id="17" />
+      <Sentence char_offsets="2938:3088" id="18" />
+      <Sentence char_offsets="3099:3395" id="19" />
+      <Sentence char_offsets="3406:3720" id="20" />
+      <Sentence char_offsets="3722:3768" id="21" />
+      <Sentence char_offsets="3779:3940" id="22" />
+      <Sentence char_offsets="3951:4145" id="23" />
+      <Sentence char_offsets="4156:4315" id="24" />
+      <Sentence char_offsets="4317:4481" id="25" />
+      <Sentence char_offsets="4483:4666" id="26" />
+      <Sentence char_offsets="4677:4858" id="27" />
+      <Sentence char_offsets="4869:5066" id="28" />
+      <Sentence char_offsets="5068:5192" id="29" />
+      <Sentence char_offsets="5194:5346" id="30" />
+      <Sentence char_offsets="5357:5418" id="31" />
+      <Sentence char_offsets="5420:5532" id="32" />
+      <Sentence char_offsets="5534:5634" id="33" />
+      <Sentence char_offsets="5645:5652" id="34" />
+      <Sentence char_offsets="5663:5748" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="221" agent_name="State Media" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="042">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="31977" actor_name="Botswana" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="31977" actor_name="Botswana" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="current" type="043">
+        <Participant actor_id="31977" actor_name="Botswana" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

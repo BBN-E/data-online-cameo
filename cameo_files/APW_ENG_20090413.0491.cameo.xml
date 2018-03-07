@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0491">
+    <Sentences>
+      <Sentence char_offsets="185:343" id="0" />
+      <Sentence char_offsets="345:416" id="1" />
+      <Sentence char_offsets="427:530" id="2" />
+      <Sentence char_offsets="532:607" id="3" />
+      <Sentence char_offsets="618:759" id="4" />
+      <Sentence char_offsets="770:957" id="5" />
+      <Sentence char_offsets="959:1021" id="6" />
+      <Sentence char_offsets="1032:1168" id="7" />
+      <Sentence char_offsets="1170:1321" id="8" />
+      <Sentence char_offsets="1332:1418" id="9" />
+      <Sentence char_offsets="1429:1586" id="10" />
+      <Sentence char_offsets="1588:1731" id="11" />
+      <Sentence char_offsets="1742:1778" id="12" />
+      <Sentence char_offsets="1789:1954" id="13" />
+      <Sentence char_offsets="1956:2044" id="14" />
+      <Sentence char_offsets="2055:2267" id="15" />
+      <Sentence char_offsets="2278:2439" id="16" />
+      <Sentence char_offsets="2441:2630" id="17" />
+      <Sentence char_offsets="2641:2829" id="18" />
+      <Sentence char_offsets="2840:2948" id="19" />
+      <Sentence char_offsets="2950:2977" id="20" />
+      <Sentence char_offsets="2988:3123" id="21" />
+      <Sentence char_offsets="3125:3219" id="22" />
+      <Sentence char_offsets="3230:3358" id="23" />
+      <Sentence char_offsets="3369:3463" id="24" />
+      <Sentence char_offsets="3474:3573" id="25" />
+      <Sentence char_offsets="3575:3672" id="26" />
+      <Sentence char_offsets="3683:3780" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="current" type="195">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0988">
+    <Sentences>
+      <Sentence char_offsets="189:333" id="0" />
+      <Sentence char_offsets="344:583" id="1" />
+      <Sentence char_offsets="594:687" id="2" />
+      <Sentence char_offsets="689:721" id="3" />
+      <Sentence char_offsets="732:856" id="4" />
+      <Sentence char_offsets="858:896" id="5" />
+      <Sentence char_offsets="898:975" id="6" />
+      <Sentence char_offsets="986:1091" id="7" />
+      <Sentence char_offsets="1102:1370" id="8" />
+      <Sentence char_offsets="1372:1476" id="9" />
+      <Sentence char_offsets="1487:1588" id="10" />
+      <Sentence char_offsets="1590:1649" id="11" />
+      <Sentence char_offsets="1660:1741" id="12" />
+      <Sentence char_offsets="1743:1752" id="13" />
+      <Sentence char_offsets="1754:1772" id="14" />
+      <Sentence char_offsets="1783:1971" id="15" />
+      <Sentence char_offsets="1982:2182" id="16" />
+      <Sentence char_offsets="2184:2230" id="17" />
+      <Sentence char_offsets="2241:2390" id="18" />
+      <Sentence char_offsets="2392:2420" id="19" />
+      <Sentence char_offsets="2422:2534" id="20" />
+      <Sentence char_offsets="2545:2707" id="21" />
+      <Sentence char_offsets="2718:2885" id="22" />
+      <Sentence char_offsets="2896:3130" id="23" />
+      <Sentence char_offsets="3141:3340" id="24" />
+      <Sentence char_offsets="3351:3619" id="25" />
+      <Sentence char_offsets="3630:3739" id="26" />
+      <Sentence char_offsets="3741:3870" id="27" />
+      <Sentence char_offsets="3881:3886" id="28" />
+      <Sentence char_offsets="3897:3961" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="40286" actor_name="World Bank" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

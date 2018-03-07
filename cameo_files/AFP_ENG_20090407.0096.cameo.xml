@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0096">
+    <Sentences>
+      <Sentence char_offsets="186:356" id="0" />
+      <Sentence char_offsets="367:563" id="1" />
+      <Sentence char_offsets="574:836" id="2" />
+      <Sentence char_offsets="847:963" id="3" />
+      <Sentence char_offsets="974:1185" id="4" />
+      <Sentence char_offsets="1196:1289" id="5" />
+      <Sentence char_offsets="1300:1434" id="6" />
+      <Sentence char_offsets="1445:1633" id="7" />
+      <Sentence char_offsets="1644:1822" id="8" />
+      <Sentence char_offsets="1833:1872" id="9" />
+      <Sentence char_offsets="1874:2019" id="10" />
+      <Sentence char_offsets="2030:2147" id="11" />
+      <Sentence char_offsets="2158:2336" id="12" />
+      <Sentence char_offsets="2347:2543" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="7701" actor_name="Boeing" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0792">
+    <Sentences>
+      <Sentence char_offsets="193:354" id="0" />
+      <Sentence char_offsets="365:559" id="1" />
+      <Sentence char_offsets="570:729" id="2" />
+      <Sentence char_offsets="740:839" id="3" />
+      <Sentence char_offsets="850:913" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="55902" actor_name="Muammar al-Qaddafi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="112">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="55902" actor_name="Muammar al-Qaddafi" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="36206" actor_name="Libya" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0115">
+    <Sentences>
+      <Sentence char_offsets="190:324" id="0" />
+      <Sentence char_offsets="335:493" id="1" />
+      <Sentence char_offsets="504:601" id="2" />
+      <Sentence char_offsets="612:772" id="3" />
+      <Sentence char_offsets="783:877" id="4" />
+      <Sentence char_offsets="888:959" id="5" />
+      <Sentence char_offsets="961:1086" id="6" />
+      <Sentence char_offsets="1088:1135" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

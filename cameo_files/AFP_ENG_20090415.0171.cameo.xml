@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0171">
+    <Sentences>
+      <Sentence char_offsets="200:391" id="0" />
+      <Sentence char_offsets="402:580" id="1" />
+      <Sentence char_offsets="591:861" id="2" />
+      <Sentence char_offsets="872:1063" id="3" />
+      <Sentence char_offsets="1074:1325" id="4" />
+      <Sentence char_offsets="1336:1553" id="5" />
+      <Sentence char_offsets="1564:1708" id="6" />
+      <Sentence char_offsets="1710:1819" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="053">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="8570" actor_name="Aung San" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="053">
+        <Participant actor_id="27475" actor_name="Ibrahim Agboola Gambari" role="Source" />
+        <Participant actor_id="8570" actor_name="Aung San" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

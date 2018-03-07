@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0240">
+    <Sentences>
+      <Sentence char_offsets="179:329" id="0" />
+      <Sentence char_offsets="340:588" id="1" />
+      <Sentence char_offsets="599:868" id="2" />
+      <Sentence char_offsets="879:1187" id="3" />
+      <Sentence char_offsets="1198:1311" id="4" />
+      <Sentence char_offsets="1322:1513" id="5" />
+      <Sentence char_offsets="1524:1757" id="6" />
+      <Sentence char_offsets="1768:1839" id="7" />
+      <Sentence char_offsets="1850:1999" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="032">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41241" actor_name="Uruguay" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="223976" actor_name="Central America" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="32725" actor_name="Costa Rica" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="223976" actor_name="Central America" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="32725" actor_name="Costa Rica" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

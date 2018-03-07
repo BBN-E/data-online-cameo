@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090405.0854">
+    <Sentences>
+      <Sentence char_offsets="193:296" id="0" />
+      <Sentence char_offsets="307:401" id="1" />
+      <Sentence char_offsets="403:467" id="2" />
+      <Sentence char_offsets="478:583" id="3" />
+      <Sentence char_offsets="585:616" id="4" />
+      <Sentence char_offsets="627:717" id="5" />
+      <Sentence char_offsets="719:791" id="6" />
+      <Sentence char_offsets="802:867" id="7" />
+      <Sentence char_offsets="869:1019" id="8" />
+      <Sentence char_offsets="1030:1126" id="9" />
+      <Sentence char_offsets="1128:1243" id="10" />
+      <Sentence char_offsets="1254:1384" id="11" />
+      <Sentence char_offsets="1395:1513" id="12" />
+      <Sentence char_offsets="1524:1574" id="13" />
+      <Sentence char_offsets="1585:1721" id="14" />
+      <Sentence char_offsets="1723:1862" id="15" />
+      <Sentence char_offsets="1873:2021" id="16" />
+      <Sentence char_offsets="2023:2131" id="17" />
+      <Sentence char_offsets="2142:2279" id="18" />
+      <Sentence char_offsets="2290:2492" id="19" />
+      <Sentence char_offsets="2503:2572" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="36630" actor_name="Moldova" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="405" agent_name="Communist Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

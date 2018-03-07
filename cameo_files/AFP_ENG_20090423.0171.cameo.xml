@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0171">
+    <Sentences>
+      <Sentence char_offsets="172:321" id="0" />
+      <Sentence char_offsets="332:510" id="1" />
+      <Sentence char_offsets="521:772" id="2" />
+      <Sentence char_offsets="783:857" id="3" />
+      <Sentence char_offsets="868:1071" id="4" />
+      <Sentence char_offsets="1082:1221" id="5" />
+      <Sentence char_offsets="1232:1333" id="6" />
+      <Sentence char_offsets="1344:1505" id="7" />
+      <Sentence char_offsets="1516:1679" id="8" />
+      <Sentence char_offsets="1690:1844" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="036">
+        <Participant actor_id="21695" actor_name="Moussa Dadis Camara" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="036">
+        <Participant actor_id="21695" actor_name="Moussa Dadis Camara" role="Source" />
+        <Participant actor_id="55902" actor_name="Muammar al-Qaddafi" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="30469" actor_name="Guinea" role="Source" />
+        <Participant actor_id="30469" actor_name="Guinea" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

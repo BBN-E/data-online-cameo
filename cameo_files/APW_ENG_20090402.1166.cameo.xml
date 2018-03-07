@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1166">
+    <Sentences>
+      <Sentence char_offsets="187:431" id="0" />
+      <Sentence char_offsets="442:653" id="1" />
+      <Sentence char_offsets="664:837" id="2" />
+      <Sentence char_offsets="848:987" id="3" />
+      <Sentence char_offsets="998:1171" id="4" />
+      <Sentence char_offsets="1173:1332" id="5" />
+      <Sentence char_offsets="1343:1550" id="6" />
+      <Sentence char_offsets="1561:1652" id="7" />
+      <Sentence char_offsets="1663:1735" id="8" />
+      <Sentence char_offsets="1737:1749" id="9" />
+      <Sentence char_offsets="1751:1786" id="10" />
+      <Sentence char_offsets="1788:1830" id="11" />
+      <Sentence char_offsets="1832:1842" id="12" />
+      <Sentence char_offsets="1844:1861" id="13" />
+      <Sentence char_offsets="1863:1886" id="14" />
+      <Sentence char_offsets="1897:2082" id="15" />
+      <Sentence char_offsets="2093:2442" id="16" />
+      <Sentence char_offsets="2453:2512" id="17" />
+      <Sentence char_offsets="2523:2668" id="18" />
+      <Sentence char_offsets="2670:2771" id="19" />
+      <Sentence char_offsets="2782:2913" id="20" />
+      <Sentence char_offsets="2924:3108" id="21" />
+      <Sentence char_offsets="3119:3374" id="22" />
+      <Sentence char_offsets="3385:3746" id="23" />
+      <Sentence char_offsets="3757:3863" id="24" />
+      <Sentence char_offsets="3865:4039" id="25" />
+      <Sentence char_offsets="4050:4318" id="26" />
+      <Sentence char_offsets="4320:4375" id="27" />
+      <Sentence char_offsets="4386:4517" id="28" />
+      <Sentence char_offsets="4519:4677" id="29" />
+      <Sentence char_offsets="4688:4693" id="30" />
+      <Sentence char_offsets="4704:4714" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="25494" actor_name="Jean-Claude Trichet" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="402" agent_name="Government Affiliated Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

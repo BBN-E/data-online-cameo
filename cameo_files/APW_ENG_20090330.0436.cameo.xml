@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0436">
+    <Sentences>
+      <Sentence char_offsets="195:429" id="0" />
+      <Sentence char_offsets="440:621" id="1" />
+      <Sentence char_offsets="632:867" id="2" />
+      <Sentence char_offsets="878:947" id="3" />
+      <Sentence char_offsets="958:1147" id="4" />
+      <Sentence char_offsets="1149:1240" id="5" />
+      <Sentence char_offsets="1251:1498" id="6" />
+      <Sentence char_offsets="1509:1644" id="7" />
+      <Sentence char_offsets="1655:1806" id="8" />
+      <Sentence char_offsets="1817:1922" id="9" />
+      <Sentence char_offsets="1933:2122" id="10" />
+      <Sentence char_offsets="2133:2295" id="11" />
+      <Sentence char_offsets="2306:2498" id="12" />
+      <Sentence char_offsets="2500:2586" id="13" />
+      <Sentence char_offsets="2597:2747" id="14" />
+      <Sentence char_offsets="2749:2780" id="15" />
+      <Sentence char_offsets="2791:2964" id="16" />
+      <Sentence char_offsets="2975:3106" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="017">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

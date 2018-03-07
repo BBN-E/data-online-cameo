@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0104">
+    <Sentences>
+      <Sentence char_offsets="188:401" id="0" />
+      <Sentence char_offsets="412:499" id="1" />
+      <Sentence char_offsets="501:576" id="2" />
+      <Sentence char_offsets="587:809" id="3" />
+      <Sentence char_offsets="820:995" id="4" />
+      <Sentence char_offsets="1006:1081" id="5" />
+      <Sentence char_offsets="1092:1238" id="6" />
+      <Sentence char_offsets="1249:1409" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="112">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="37071" actor_name="Nigeria" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="37071" actor_name="Nigeria" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

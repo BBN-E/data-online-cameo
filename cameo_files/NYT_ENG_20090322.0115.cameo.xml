@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090322.0115">
+    <Sentences>
+      <Sentence char_offsets="102:120" id="0" />
+      <Sentence char_offsets="129:209" id="1" />
+      <Sentence char_offsets="218:233" id="2" />
+      <Sentence char_offsets="244:328" id="3" />
+      <Sentence char_offsets="339:630" id="4" />
+      <Sentence char_offsets="641:885" id="5" />
+      <Sentence char_offsets="887:956" id="6" />
+      <Sentence char_offsets="967:1028" id="7" />
+      <Sentence char_offsets="1030:1072" id="8" />
+      <Sentence char_offsets="1074:1337" id="9" />
+      <Sentence char_offsets="1348:1533" id="10" />
+      <Sentence char_offsets="1544:1732" id="11" />
+      <Sentence char_offsets="1743:1813" id="12" />
+      <Sentence char_offsets="1815:1883" id="13" />
+      <Sentence char_offsets="1885:1991" id="14" />
+      <Sentence char_offsets="2002:2119" id="15" />
+      <Sentence char_offsets="2121:2235" id="16" />
+      <Sentence char_offsets="2246:2319" id="17" />
+      <Sentence char_offsets="2321:2382" id="18" />
+      <Sentence char_offsets="2384:2469" id="19" />
+      <Sentence char_offsets="2480:2543" id="20" />
+      <Sentence char_offsets="2545:2733" id="21" />
+      <Sentence char_offsets="2744:2905" id="22" />
+      <Sentence char_offsets="2907:3015" id="23" />
+      <Sentence char_offsets="3017:3104" id="24" />
+      <Sentence char_offsets="3115:3243" id="25" />
+      <Sentence char_offsets="3254:3512" id="26" />
+      <Sentence char_offsets="3523:3683" id="27" />
+      <Sentence char_offsets="3685:3766" id="28" />
+      <Sentence char_offsets="3777:3865" id="29" />
+      <Sentence char_offsets="3867:3992" id="30" />
+      <Sentence char_offsets="3994:4023" id="31" />
+      <Sentence char_offsets="4034:4227" id="32" />
+      <Sentence char_offsets="4238:4255" id="33" />
+      <Sentence char_offsets="4266:4350" id="34" />
+      <Sentence char_offsets="4352:4396" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

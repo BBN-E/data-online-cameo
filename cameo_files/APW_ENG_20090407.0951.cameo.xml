@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0951">
+    <Sentences>
+      <Sentence char_offsets="179:448" id="0" />
+      <Sentence char_offsets="459:595" id="1" />
+      <Sentence char_offsets="606:797" id="2" />
+      <Sentence char_offsets="808:992" id="3" />
+      <Sentence char_offsets="1003:1125" id="4" />
+      <Sentence char_offsets="1127:1233" id="5" />
+      <Sentence char_offsets="1244:1297" id="6" />
+      <Sentence char_offsets="1308:1413" id="7" />
+      <Sentence char_offsets="1415:1520" id="8" />
+      <Sentence char_offsets="1531:1726" id="9" />
+      <Sentence char_offsets="1728:1849" id="10" />
+      <Sentence char_offsets="1860:1911" id="11" />
+      <Sentence char_offsets="1922:2099" id="12" />
+      <Sentence char_offsets="2101:2249" id="13" />
+      <Sentence char_offsets="2260:2439" id="14" />
+      <Sentence char_offsets="2441:2567" id="15" />
+      <Sentence char_offsets="2578:2733" id="16" />
+      <Sentence char_offsets="2744:2894" id="17" />
+      <Sentence char_offsets="2905:2987" id="18" />
+      <Sentence char_offsets="2998:3156" id="19" />
+      <Sentence char_offsets="3158:3261" id="20" />
+      <Sentence char_offsets="3272:3426" id="21" />
+      <Sentence char_offsets="3437:3508" id="22" />
+      <Sentence char_offsets="3510:3573" id="23" />
+      <Sentence char_offsets="3584:3712" id="24" />
+      <Sentence char_offsets="3714:3752" id="25" />
+      <Sentence char_offsets="3763:3948" id="26" />
+      <Sentence char_offsets="3959:4149" id="27" />
+      <Sentence char_offsets="4160:4353" id="28" />
+      <Sentence char_offsets="4355:4461" id="29" />
+      <Sentence char_offsets="4463:4561" id="30" />
+      <Sentence char_offsets="4572:4808" id="31" />
+      <Sentence char_offsets="4810:4845" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="neutral" type="051">
+        <Participant actor_id="37205" actor_name="al-Qaeda in Iraq" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="111">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="111">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="112">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="28" tense="neutral" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0034">
+    <Sentences>
+      <Sentence char_offsets="142:190" id="0" />
+      <Sentence char_offsets="192:227" id="1" />
+      <Sentence char_offsets="230:264" id="2" />
+      <Sentence char_offsets="267:383" id="3" />
+      <Sentence char_offsets="386:560" id="4" />
+      <Sentence char_offsets="563:628" id="5" />
+      <Sentence char_offsets="631:754" id="6" />
+      <Sentence char_offsets="757:894" id="7" />
+      <Sentence char_offsets="897:969" id="8" />
+      <Sentence char_offsets="972:1099" id="9" />
+      <Sentence char_offsets="1102:1236" id="10" />
+      <Sentence char_offsets="1239:1306" id="11" />
+      <Sentence char_offsets="1309:1397" id="12" />
+      <Sentence char_offsets="1400:1488" id="13" />
+      <Sentence char_offsets="1491:1589" id="14" />
+      <Sentence char_offsets="1592:1708" id="15" />
+      <Sentence char_offsets="1710:1752" id="16" />
+      <Sentence char_offsets="1755:1879" id="17" />
+      <Sentence char_offsets="1882:1988" id="18" />
+      <Sentence char_offsets="1991:2120" id="19" />
+      <Sentence char_offsets="2123:2348" id="20" />
+      <Sentence char_offsets="2351:2524" id="21" />
+      <Sentence char_offsets="2527:2651" id="22" />
+      <Sentence char_offsets="2654:2880" id="23" />
+      <Sentence char_offsets="2882:2959" id="24" />
+      <Sentence char_offsets="2962:3111" id="25" />
+      <Sentence char_offsets="3114:3273" id="26" />
+      <Sentence char_offsets="3276:3450" id="27" />
+      <Sentence char_offsets="3452:3475" id="28" />
+      <Sentence char_offsets="3477:3613" id="29" />
+      <Sentence char_offsets="3615:3647" id="30" />
+      <Sentence char_offsets="3650:3757" id="31" />
+      <Sentence char_offsets="3760:3896" id="32" />
+      <Sentence char_offsets="3899:4029" id="33" />
+      <Sentence char_offsets="4031:4186" id="34" />
+      <Sentence char_offsets="4189:4399" id="35" />
+      <Sentence char_offsets="4402:4559" id="36" />
+      <Sentence char_offsets="4562:4772" id="37" />
+      <Sentence char_offsets="4775:4990" id="38" />
+      <Sentence char_offsets="4993:5010" id="39" />
+      <Sentence char_offsets="5013:5316" id="40" />
+      <Sentence char_offsets="5319:5336" id="41" />
+      <Sentence char_offsets="5339:5511" id="42" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="historical" type="010">
+        <Participant actor_id="29560" actor_name="Frederik Willem De Klerk" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="historical" type="152">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="historical" type="163">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="35" tense="historical" type="173">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="37" tense="historical" type="173">
+        <Participant actor_id="41262" actor_name="United States" agent_id="621" agent_name="Military Judge" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="174">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="4" tense="neutral" type="174">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="27" tense="historical" type="181">
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

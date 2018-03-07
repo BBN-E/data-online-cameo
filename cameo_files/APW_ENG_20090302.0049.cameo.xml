@@ -1,0 +1,87 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0049">
+    <Sentences>
+      <Sentence char_offsets="189:402" id="0" />
+      <Sentence char_offsets="413:556" id="1" />
+      <Sentence char_offsets="567:691" id="2" />
+      <Sentence char_offsets="693:844" id="3" />
+      <Sentence char_offsets="855:1010" id="4" />
+      <Sentence char_offsets="1021:1262" id="5" />
+      <Sentence char_offsets="1264:1322" id="6" />
+      <Sentence char_offsets="1333:1468" id="7" />
+      <Sentence char_offsets="1470:1620" id="8" />
+      <Sentence char_offsets="1631:1844" id="9" />
+      <Sentence char_offsets="1855:1932" id="10" />
+      <Sentence char_offsets="1943:2088" id="11" />
+      <Sentence char_offsets="2090:2211" id="12" />
+      <Sentence char_offsets="2222:2345" id="13" />
+      <Sentence char_offsets="2356:2546" id="14" />
+      <Sentence char_offsets="2557:2744" id="15" />
+      <Sentence char_offsets="2746:2853" id="16" />
+      <Sentence char_offsets="2864:3043" id="17" />
+      <Sentence char_offsets="3054:3072" id="18" />
+      <Sentence char_offsets="3074:3133" id="19" />
+      <Sentence char_offsets="3135:3219" id="20" />
+      <Sentence char_offsets="3221:3344" id="21" />
+      <Sentence char_offsets="3355:3477" id="22" />
+      <Sentence char_offsets="3479:3653" id="23" />
+      <Sentence char_offsets="3664:3880" id="24" />
+      <Sentence char_offsets="3891:4008" id="25" />
+      <Sentence char_offsets="4010:4101" id="26" />
+      <Sentence char_offsets="4112:4320" id="27" />
+      <Sentence char_offsets="4331:4467" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="51578" actor_name="Paul Kagame" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="32647" actor_name="Congo" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35390" actor_name="Rwanda" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="35390" actor_name="Rwanda" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="historical" type="080">
+        <Participant actor_id="32647" actor_name="Congo" role="Source" />
+        <Participant actor_id="35390" actor_name="Rwanda" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="080">
+        <Participant actor_id="32647" actor_name="Congo" role="Source" />
+        <Participant actor_id="35390" actor_name="Rwanda" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="130">
+        <Participant actor_id="35390" actor_name="Rwanda" role="Source" />
+        <Participant actor_id="28573" actor_name="Laurent Nkunda" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="12" tense="historical" type="173">
+        <Participant actor_id="35390" actor_name="Rwanda" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="28573" actor_name="Laurent Nkunda" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="14" tense="historical" type="173">
+        <Participant actor_id="32647" actor_name="Congo" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="28573" actor_name="Laurent Nkunda" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="4" tense="historical" type="192">
+        <Participant actor_id="35390" actor_name="Rwanda" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="12" tense="historical" type="192">
+        <Participant actor_id="35390" actor_name="Rwanda" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="15" tense="neutral" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

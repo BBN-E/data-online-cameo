@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0741">
+    <Sentences>
+      <Sentence char_offsets="187:381" id="0" />
+      <Sentence char_offsets="392:622" id="1" />
+      <Sentence char_offsets="633:805" id="2" />
+      <Sentence char_offsets="816:1030" id="3" />
+      <Sentence char_offsets="1041:1166" id="4" />
+      <Sentence char_offsets="1177:1319" id="5" />
+      <Sentence char_offsets="1330:1383" id="6" />
+      <Sentence char_offsets="1385:1495" id="7" />
+      <Sentence char_offsets="1506:1687" id="8" />
+      <Sentence char_offsets="1698:1847" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

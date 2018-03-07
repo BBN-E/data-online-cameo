@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090307.0310">
+    <Sentences>
+      <Sentence char_offsets="185:373" id="0" />
+      <Sentence char_offsets="384:536" id="1" />
+      <Sentence char_offsets="547:640" id="2" />
+      <Sentence char_offsets="651:878" id="3" />
+      <Sentence char_offsets="889:1092" id="4" />
+      <Sentence char_offsets="1103:1328" id="5" />
+      <Sentence char_offsets="1339:1534" id="6" />
+      <Sentence char_offsets="1545:1721" id="7" />
+      <Sentence char_offsets="1732:2012" id="8" />
+      <Sentence char_offsets="2023:2247" id="9" />
+      <Sentence char_offsets="2258:2455" id="10" />
+      <Sentence char_offsets="2466:2691" id="11" />
+      <Sentence char_offsets="2702:2791" id="12" />
+      <Sentence char_offsets="2802:3020" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="118435" actor_name="Taieb Fassi Fihri" role="Source" />
+        <Participant actor_id="32235" actor_name="Bahrain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

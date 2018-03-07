@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0969">
+    <Sentences>
+      <Sentence char_offsets="185:394" id="0" />
+      <Sentence char_offsets="405:576" id="1" />
+      <Sentence char_offsets="587:709" id="2" />
+      <Sentence char_offsets="711:809" id="3" />
+      <Sentence char_offsets="820:919" id="4" />
+      <Sentence char_offsets="921:1020" id="5" />
+      <Sentence char_offsets="1031:1140" id="6" />
+      <Sentence char_offsets="1142:1210" id="7" />
+      <Sentence char_offsets="1221:1410" id="8" />
+      <Sentence char_offsets="1421:1576" id="9" />
+      <Sentence char_offsets="1587:1768" id="10" />
+      <Sentence char_offsets="1770:1862" id="11" />
+      <Sentence char_offsets="1873:2045" id="12" />
+      <Sentence char_offsets="2056:2156" id="13" />
+      <Sentence char_offsets="2167:2250" id="14" />
+      <Sentence char_offsets="2252:2348" id="15" />
+      <Sentence char_offsets="2359:2504" id="16" />
+      <Sentence char_offsets="2515:2615" id="17" />
+      <Sentence char_offsets="2617:2706" id="18" />
+      <Sentence char_offsets="2717:2865" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="14789" actor_name="Ed Miliband" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.1455">
+    <Sentences>
+      <Sentence char_offsets="189:444" id="0" />
+      <Sentence char_offsets="455:662" id="1" />
+      <Sentence char_offsets="673:981" id="2" />
+      <Sentence char_offsets="992:1260" id="3" />
+      <Sentence char_offsets="1271:1417" id="4" />
+      <Sentence char_offsets="1428:1620" id="5" />
+      <Sentence char_offsets="1631:1845" id="6" />
+      <Sentence char_offsets="1856:2070" id="7" />
+      <Sentence char_offsets="2072:2106" id="8" />
+      <Sentence char_offsets="2117:2303" id="9" />
+      <Sentence char_offsets="2314:2493" id="10" />
+      <Sentence char_offsets="2495:2641" id="11" />
+      <Sentence char_offsets="2652:2813" id="12" />
+      <Sentence char_offsets="2824:3052" id="13" />
+      <Sentence char_offsets="3063:3306" id="14" />
+      <Sentence char_offsets="3317:3445" id="15" />
+      <Sentence char_offsets="3456:3530" id="16" />
+      <Sentence char_offsets="3532:3695" id="17" />
+      <Sentence char_offsets="3706:3852" id="18" />
+      <Sentence char_offsets="3854:3926" id="19" />
+      <Sentence char_offsets="3937:4069" id="20" />
+      <Sentence char_offsets="4080:4210" id="21" />
+      <Sentence char_offsets="4212:4279" id="22" />
+      <Sentence char_offsets="4290:4448" id="23" />
+      <Sentence char_offsets="4459:4602" id="24" />
+      <Sentence char_offsets="4604:4663" id="25" />
+      <Sentence char_offsets="4674:4798" id="26" />
+      <Sentence char_offsets="4809:4871" id="27" />
+      <Sentence char_offsets="4873:4997" id="28" />
+      <Sentence char_offsets="5008:5117" id="29" />
+      <Sentence char_offsets="5128:5215" id="30" />
+      <Sentence char_offsets="5226:5489" id="31" />
+      <Sentence char_offsets="5500:5505" id="32" />
+      <Sentence char_offsets="5516:5595" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="30" tense="neutral" type="012">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

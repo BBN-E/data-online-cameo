@@ -1,0 +1,76 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0595">
+    <Sentences>
+      <Sentence char_offsets="191:468" id="0" />
+      <Sentence char_offsets="479:673" id="1" />
+      <Sentence char_offsets="675:732" id="2" />
+      <Sentence char_offsets="743:901" id="3" />
+      <Sentence char_offsets="912:1064" id="4" />
+      <Sentence char_offsets="1066:1241" id="5" />
+      <Sentence char_offsets="1243:1381" id="6" />
+      <Sentence char_offsets="1392:1546" id="7" />
+      <Sentence char_offsets="1548:1655" id="8" />
+      <Sentence char_offsets="1666:1687" id="9" />
+      <Sentence char_offsets="1689:1720" id="10" />
+      <Sentence char_offsets="1722:1828" id="11" />
+      <Sentence char_offsets="1839:1923" id="12" />
+      <Sentence char_offsets="1925:1977" id="13" />
+      <Sentence char_offsets="1988:2097" id="14" />
+      <Sentence char_offsets="2099:2137" id="15" />
+      <Sentence char_offsets="2148:2369" id="16" />
+      <Sentence char_offsets="2380:2429" id="17" />
+      <Sentence char_offsets="2440:2593" id="18" />
+      <Sentence char_offsets="2595:2615" id="19" />
+      <Sentence char_offsets="2626:2738" id="20" />
+      <Sentence char_offsets="2749:2940" id="21" />
+      <Sentence char_offsets="2942:3005" id="22" />
+      <Sentence char_offsets="3016:3163" id="23" />
+      <Sentence char_offsets="3174:3283" id="24" />
+      <Sentence char_offsets="3285:3350" id="25" />
+      <Sentence char_offsets="3361:3498" id="26" />
+      <Sentence char_offsets="3500:3612" id="27" />
+      <Sentence char_offsets="3623:3781" id="28" />
+      <Sentence char_offsets="3792:4014" id="29" />
+      <Sentence char_offsets="4025:4144" id="30" />
+      <Sentence char_offsets="4155:4253" id="31" />
+      <Sentence char_offsets="4255:4380" id="32" />
+      <Sentence char_offsets="4391:4447" id="33" />
+      <Sentence char_offsets="4449:4641" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="010">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="21428" actor_name="Bilen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="32" tense="neutral" type="010">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="34" tense="neutral" type="010">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="33" tense="neutral" type="046">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="24" tense="neutral" type="141">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="21" tense="current" type="190">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="33" tense="neutral" type="046">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

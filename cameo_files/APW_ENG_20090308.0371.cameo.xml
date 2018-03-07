@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0371">
+    <Sentences>
+      <Sentence char_offsets="187:413" id="0" />
+      <Sentence char_offsets="424:656" id="1" />
+      <Sentence char_offsets="667:824" id="2" />
+      <Sentence char_offsets="835:1044" id="3" />
+      <Sentence char_offsets="1055:1169" id="4" />
+      <Sentence char_offsets="1171:1212" id="5" />
+      <Sentence char_offsets="1214:1392" id="6" />
+      <Sentence char_offsets="1403:1627" id="7" />
+      <Sentence char_offsets="1638:1846" id="8" />
+      <Sentence char_offsets="1857:2022" id="9" />
+      <Sentence char_offsets="2033:2201" id="10" />
+      <Sentence char_offsets="2212:2443" id="11" />
+      <Sentence char_offsets="2454:2459" id="12" />
+      <Sentence char_offsets="2470:2480" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="37822" actor_name="Oxfam International" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="37822" actor_name="Oxfam International" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

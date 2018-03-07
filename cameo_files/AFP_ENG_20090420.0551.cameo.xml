@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0551">
+    <Sentences>
+      <Sentence char_offsets="186:363" id="0" />
+      <Sentence char_offsets="374:534" id="1" />
+      <Sentence char_offsets="545:561" id="2" />
+      <Sentence char_offsets="563:582" id="3" />
+      <Sentence char_offsets="584:644" id="4" />
+      <Sentence char_offsets="646:686" id="5" />
+      <Sentence char_offsets="697:795" id="6" />
+      <Sentence char_offsets="806:1011" id="7" />
+      <Sentence char_offsets="1022:1132" id="8" />
+      <Sentence char_offsets="1143:1289" id="9" />
+      <Sentence char_offsets="1300:1391" id="10" />
+      <Sentence char_offsets="1402:1551" id="11" />
+      <Sentence char_offsets="1562:1629" id="12" />
+      <Sentence char_offsets="1631:1703" id="13" />
+      <Sentence char_offsets="1714:1790" id="14" />
+      <Sentence char_offsets="1801:1871" id="15" />
+      <Sentence char_offsets="1882:1996" id="16" />
+      <Sentence char_offsets="2007:2063" id="17" />
+      <Sentence char_offsets="2065:2120" id="18" />
+      <Sentence char_offsets="2131:2334" id="19" />
+      <Sentence char_offsets="2345:2541" id="20" />
+      <Sentence char_offsets="2552:2687" id="21" />
+      <Sentence char_offsets="2698:2820" id="22" />
+      <Sentence char_offsets="2822:2915" id="23" />
+      <Sentence char_offsets="2926:3109" id="24" />
+      <Sentence char_offsets="3120:3301" id="25" />
+      <Sentence char_offsets="3312:3479" id="26" />
+      <Sentence char_offsets="3490:3670" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="016">
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="182">
+        <Participant actor_id="15254" actor_name="Duch" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="historical" type="193">
+        <Participant actor_id="15254" actor_name="Duch" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="193">
+        <Participant actor_id="15254" actor_name="Duch" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

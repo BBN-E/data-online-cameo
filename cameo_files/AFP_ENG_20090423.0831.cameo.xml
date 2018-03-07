@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0831">
+    <Sentences>
+      <Sentence char_offsets="185:345" id="0" />
+      <Sentence char_offsets="356:566" id="1" />
+      <Sentence char_offsets="577:776" id="2" />
+      <Sentence char_offsets="787:852" id="3" />
+      <Sentence char_offsets="854:989" id="4" />
+      <Sentence char_offsets="1000:1075" id="5" />
+      <Sentence char_offsets="1086:1267" id="6" />
+      <Sentence char_offsets="1278:1437" id="7" />
+      <Sentence char_offsets="1448:1517" id="8" />
+      <Sentence char_offsets="1528:1737" id="9" />
+      <Sentence char_offsets="1748:1950" id="10" />
+      <Sentence char_offsets="1961:2109" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="141">
+        <Participant actor_id="492" actor_name="People's Alliance for Democracy" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="180">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="19399" actor_name="Sondhi Limthongkul" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

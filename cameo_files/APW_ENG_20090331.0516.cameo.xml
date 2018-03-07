@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0516">
+    <Sentences>
+      <Sentence char_offsets="191:355" id="0" />
+      <Sentence char_offsets="366:586" id="1" />
+      <Sentence char_offsets="597:843" id="2" />
+      <Sentence char_offsets="854:1013" id="3" />
+      <Sentence char_offsets="1015:1132" id="4" />
+      <Sentence char_offsets="1143:1200" id="5" />
+      <Sentence char_offsets="1202:1311" id="6" />
+      <Sentence char_offsets="1322:1434" id="7" />
+      <Sentence char_offsets="1445:1479" id="8" />
+      <Sentence char_offsets="1490:1564" id="9" />
+      <Sentence char_offsets="1566:1672" id="10" />
+      <Sentence char_offsets="1683:1813" id="11" />
+      <Sentence char_offsets="1824:1952" id="12" />
+      <Sentence char_offsets="1954:1992" id="13" />
+      <Sentence char_offsets="2003:2168" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="236169" actor_name="Tassaduq Hussain Jillani" role="Source" />
+        <Participant actor_id="121805" actor_name="Shahbaz Sharif" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="032">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="635" agent_name="Chief Court Judge" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="051">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="121805" actor_name="Shahbaz Sharif" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

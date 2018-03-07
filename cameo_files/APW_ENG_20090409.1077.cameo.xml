@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.1077">
+    <Sentences>
+      <Sentence char_offsets="180:302" id="0" />
+      <Sentence char_offsets="313:378" id="1" />
+      <Sentence char_offsets="389:451" id="2" />
+      <Sentence char_offsets="453:534" id="3" />
+      <Sentence char_offsets="545:622" id="4" />
+      <Sentence char_offsets="633:664" id="5" />
+      <Sentence char_offsets="666:719" id="6" />
+      <Sentence char_offsets="730:801" id="7" />
+      <Sentence char_offsets="803:867" id="8" />
+      <Sentence char_offsets="878:1031" id="9" />
+      <Sentence char_offsets="1042:1140" id="10" />
+      <Sentence char_offsets="1142:1187" id="11" />
+      <Sentence char_offsets="1189:1257" id="12" />
+      <Sentence char_offsets="1268:1354" id="13" />
+      <Sentence char_offsets="1365:1438" id="14" />
+      <Sentence char_offsets="1440:1500" id="15" />
+      <Sentence char_offsets="1511:1622" id="16" />
+      <Sentence char_offsets="1624:1805" id="17" />
+      <Sentence char_offsets="1816:1938" id="18" />
+      <Sentence char_offsets="1940:2083" id="19" />
+      <Sentence char_offsets="2094:2186" id="20" />
+      <Sentence char_offsets="2197:2262" id="21" />
+      <Sentence char_offsets="2264:2424" id="22" />
+      <Sentence char_offsets="2435:2584" id="23" />
+      <Sentence char_offsets="2586:2678" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="36254" actor_name="Stephen Harper" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="36254" actor_name="Stephen Harper" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

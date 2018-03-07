@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0767">
+    <Sentences>
+      <Sentence char_offsets="183:263" id="0" />
+      <Sentence char_offsets="274:405" id="1" />
+      <Sentence char_offsets="416:475" id="2" />
+      <Sentence char_offsets="486:606" id="3" />
+      <Sentence char_offsets="617:676" id="4" />
+      <Sentence char_offsets="678:862" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="1212">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="1212">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="historical" type="190">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

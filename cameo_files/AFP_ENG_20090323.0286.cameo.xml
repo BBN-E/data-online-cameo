@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0286">
+    <Sentences>
+      <Sentence char_offsets="181:373" id="0" />
+      <Sentence char_offsets="384:560" id="1" />
+      <Sentence char_offsets="571:788" id="2" />
+      <Sentence char_offsets="799:862" id="3" />
+      <Sentence char_offsets="864:998" id="4" />
+      <Sentence char_offsets="1009:1114" id="5" />
+      <Sentence char_offsets="1125:1342" id="6" />
+      <Sentence char_offsets="1353:1580" id="7" />
+      <Sentence char_offsets="1591:1749" id="8" />
+      <Sentence char_offsets="1760:1966" id="9" />
+      <Sentence char_offsets="1977:2180" id="10" />
+      <Sentence char_offsets="2191:2355" id="11" />
+      <Sentence char_offsets="2366:2575" id="12" />
+      <Sentence char_offsets="2586:2814" id="13" />
+      <Sentence char_offsets="2825:2935" id="14" />
+      <Sentence char_offsets="2937:2999" id="15" />
+      <Sentence char_offsets="3010:3075" id="16" />
+      <Sentence char_offsets="3086:3286" id="17" />
+      <Sentence char_offsets="3297:3389" id="18" />
+      <Sentence char_offsets="3391:3479" id="19" />
+      <Sentence char_offsets="3490:3689" id="20" />
+      <Sentence char_offsets="3700:3859" id="21" />
+      <Sentence char_offsets="3870:4004" id="22" />
+      <Sentence char_offsets="4015:4064" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="current" type="010">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="044">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="044">
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

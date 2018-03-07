@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0455">
+    <Sentences>
+      <Sentence char_offsets="191:393" id="0" />
+      <Sentence char_offsets="404:564" id="1" />
+      <Sentence char_offsets="566:590" id="2" />
+      <Sentence char_offsets="601:696" id="3" />
+      <Sentence char_offsets="698:788" id="4" />
+      <Sentence char_offsets="799:911" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="193">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

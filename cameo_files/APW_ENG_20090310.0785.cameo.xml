@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0785">
+    <Sentences>
+      <Sentence char_offsets="183:291" id="0" />
+      <Sentence char_offsets="302:468" id="1" />
+      <Sentence char_offsets="479:649" id="2" />
+      <Sentence char_offsets="660:809" id="3" />
+      <Sentence char_offsets="811:932" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

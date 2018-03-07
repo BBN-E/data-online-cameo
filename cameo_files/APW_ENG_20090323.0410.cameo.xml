@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0410">
+    <Sentences>
+      <Sentence char_offsets="188:356" id="0" />
+      <Sentence char_offsets="367:542" id="1" />
+      <Sentence char_offsets="553:622" id="2" />
+      <Sentence char_offsets="624:662" id="3" />
+      <Sentence char_offsets="664:721" id="4" />
+      <Sentence char_offsets="732:910" id="5" />
+      <Sentence char_offsets="921:1202" id="6" />
+      <Sentence char_offsets="1213:1284" id="7" />
+      <Sentence char_offsets="1295:1408" id="8" />
+      <Sentence char_offsets="1410:1497" id="9" />
+      <Sentence char_offsets="1508:1654" id="10" />
+      <Sentence char_offsets="1665:1775" id="11" />
+      <Sentence char_offsets="1777:1908" id="12" />
+      <Sentence char_offsets="1919:2000" id="13" />
+      <Sentence char_offsets="2011:2062" id="14" />
+      <Sentence char_offsets="2073:2161" id="15" />
+      <Sentence char_offsets="2163:2220" id="16" />
+      <Sentence char_offsets="2222:2246" id="17" />
+      <Sentence char_offsets="2257:2412" id="18" />
+      <Sentence char_offsets="2414:2514" id="19" />
+      <Sentence char_offsets="2525:2624" id="20" />
+      <Sentence char_offsets="2635:2701" id="21" />
+      <Sentence char_offsets="2703:2886" id="22" />
+      <Sentence char_offsets="2897:3060" id="23" />
+      <Sentence char_offsets="3062:3208" id="24" />
+      <Sentence char_offsets="3219:3323" id="25" />
+      <Sentence char_offsets="3334:3519" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="050">
+        <Participant actor_id="36776" actor_name="Macedonia" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="050">
+        <Participant actor_id="36776" actor_name="Macedonia" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

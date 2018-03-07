@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0180">
+    <Sentences>
+      <Sentence char_offsets="180:337" id="0" />
+      <Sentence char_offsets="348:523" id="1" />
+      <Sentence char_offsets="534:645" id="2" />
+      <Sentence char_offsets="656:794" id="3" />
+      <Sentence char_offsets="805:941" id="4" />
+      <Sentence char_offsets="952:1047" id="5" />
+      <Sentence char_offsets="1058:1199" id="6" />
+      <Sentence char_offsets="1210:1363" id="7" />
+      <Sentence char_offsets="1374:1520" id="8" />
+      <Sentence char_offsets="1531:1645" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="91" agent_name="Representative to the United Nations" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="91" agent_name="Representative to the United Nations" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="120">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

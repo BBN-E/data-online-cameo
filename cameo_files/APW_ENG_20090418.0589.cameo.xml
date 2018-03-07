@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0589">
+    <Sentences>
+      <Sentence char_offsets="176:323" id="0" />
+      <Sentence char_offsets="334:496" id="1" />
+      <Sentence char_offsets="498:637" id="2" />
+      <Sentence char_offsets="648:733" id="3" />
+      <Sentence char_offsets="735:832" id="4" />
+      <Sentence char_offsets="843:1090" id="5" />
+      <Sentence char_offsets="1092:1135" id="6" />
+      <Sentence char_offsets="1137:1163" id="7" />
+      <Sentence char_offsets="1174:1283" id="8" />
+      <Sentence char_offsets="1285:1318" id="9" />
+      <Sentence char_offsets="1329:1481" id="10" />
+      <Sentence char_offsets="1492:1578" id="11" />
+      <Sentence char_offsets="1589:1772" id="12" />
+      <Sentence char_offsets="1783:1980" id="13" />
+      <Sentence char_offsets="1991:2130" id="14" />
+      <Sentence char_offsets="2132:2274" id="15" />
+      <Sentence char_offsets="2285:2405" id="16" />
+      <Sentence char_offsets="2416:2605" id="17" />
+      <Sentence char_offsets="2616:2725" id="18" />
+      <Sentence char_offsets="2736:3011" id="19" />
+      <Sentence char_offsets="3022:3027" id="20" />
+      <Sentence char_offsets="3038:3159" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="672" agent_name="Reserve Personnel" role="Source" />
+        <Participant actor_id="36771" actor_name="Malta" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="36771" actor_name="Malta" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36771" actor_name="Malta" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="36771" actor_name="Malta" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="041">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="672" agent_name="Reserve Personnel" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="672" agent_name="Reserve Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

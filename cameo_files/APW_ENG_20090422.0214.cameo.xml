@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0214">
+    <Sentences>
+      <Sentence char_offsets="187:365" id="0" />
+      <Sentence char_offsets="376:525" id="1" />
+      <Sentence char_offsets="527:663" id="2" />
+      <Sentence char_offsets="674:803" id="3" />
+      <Sentence char_offsets="814:962" id="4" />
+      <Sentence char_offsets="964:1097" id="5" />
+      <Sentence char_offsets="1108:1223" id="6" />
+      <Sentence char_offsets="1225:1375" id="7" />
+      <Sentence char_offsets="1386:1595" id="8" />
+      <Sentence char_offsets="1597:1717" id="9" />
+      <Sentence char_offsets="1728:1891" id="10" />
+      <Sentence char_offsets="1893:2054" id="11" />
+      <Sentence char_offsets="2065:2230" id="12" />
+      <Sentence char_offsets="2232:2360" id="13" />
+      <Sentence char_offsets="2371:2467" id="14" />
+      <Sentence char_offsets="2469:2576" id="15" />
+      <Sentence char_offsets="2587:2760" id="16" />
+      <Sentence char_offsets="2771:3004" id="17" />
+      <Sentence char_offsets="3015:3196" id="18" />
+      <Sentence char_offsets="3198:3487" id="19" />
+      <Sentence char_offsets="3498:3602" id="20" />
+      <Sentence char_offsets="3613:3811" id="21" />
+      <Sentence char_offsets="3813:4024" id="22" />
+      <Sentence char_offsets="4035:4228" id="23" />
+      <Sentence char_offsets="4230:4355" id="24" />
+      <Sentence char_offsets="4366:4489" id="25" />
+      <Sentence char_offsets="4500:4515" id="26" />
+      <Sentence char_offsets="4517:4621" id="27" />
+      <Sentence char_offsets="4632:4637" id="28" />
+      <Sentence char_offsets="4648:4675" id="29" />
+      <Sentence char_offsets="4686:4696" id="30" />
+      <Sentence char_offsets="4707:4737" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

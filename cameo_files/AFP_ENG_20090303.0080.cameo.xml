@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0080">
+    <Sentences>
+      <Sentence char_offsets="182:401" id="0" />
+      <Sentence char_offsets="412:648" id="1" />
+      <Sentence char_offsets="659:772" id="2" />
+      <Sentence char_offsets="774:908" id="3" />
+      <Sentence char_offsets="919:1121" id="4" />
+      <Sentence char_offsets="1132:1353" id="5" />
+      <Sentence char_offsets="1364:1567" id="6" />
+      <Sentence char_offsets="1578:1711" id="7" />
+      <Sentence char_offsets="1722:1793" id="8" />
+      <Sentence char_offsets="1795:1904" id="9" />
+      <Sentence char_offsets="1906:1937" id="10" />
+      <Sentence char_offsets="1948:2117" id="11" />
+      <Sentence char_offsets="2128:2223" id="12" />
+      <Sentence char_offsets="2234:2349" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="340" agent_name="Chief of Staff" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="340" agent_name="Chief of Staff" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="340" agent_name="Chief of Staff" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

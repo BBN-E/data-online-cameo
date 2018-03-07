@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1158">
+    <Sentences>
+      <Sentence char_offsets="187:364" id="0" />
+      <Sentence char_offsets="375:594" id="1" />
+      <Sentence char_offsets="605:911" id="2" />
+      <Sentence char_offsets="913:995" id="3" />
+      <Sentence char_offsets="1006:1247" id="4" />
+      <Sentence char_offsets="1258:1455" id="5" />
+      <Sentence char_offsets="1466:1626" id="6" />
+      <Sentence char_offsets="1637:1844" id="7" />
+      <Sentence char_offsets="1855:2011" id="8" />
+      <Sentence char_offsets="2022:2223" id="9" />
+      <Sentence char_offsets="2234:2384" id="10" />
+      <Sentence char_offsets="2395:2640" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="current" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="current" type="040">
+        <Participant actor_id="30701" actor_name="France" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

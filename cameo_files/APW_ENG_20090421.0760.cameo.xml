@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0760">
+    <Sentences>
+      <Sentence char_offsets="201:390" id="0" />
+      <Sentence char_offsets="401:636" id="1" />
+      <Sentence char_offsets="647:777" id="2" />
+      <Sentence char_offsets="788:1023" id="3" />
+      <Sentence char_offsets="1034:1209" id="4" />
+      <Sentence char_offsets="1211:1481" id="5" />
+      <Sentence char_offsets="1492:1617" id="6" />
+      <Sentence char_offsets="1628:1858" id="7" />
+      <Sentence char_offsets="1860:2026" id="8" />
+      <Sentence char_offsets="2037:2203" id="9" />
+      <Sentence char_offsets="2214:2322" id="10" />
+      <Sentence char_offsets="2324:2382" id="11" />
+      <Sentence char_offsets="2393:2556" id="12" />
+      <Sentence char_offsets="2567:2671" id="13" />
+      <Sentence char_offsets="2673:2836" id="14" />
+      <Sentence char_offsets="2847:3017" id="15" />
+      <Sentence char_offsets="3028:3185" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

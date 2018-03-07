@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0316">
+    <Sentences>
+      <Sentence char_offsets="176:341" id="0" />
+      <Sentence char_offsets="352:557" id="1" />
+      <Sentence char_offsets="568:730" id="2" />
+      <Sentence char_offsets="741:962" id="3" />
+      <Sentence char_offsets="973:1153" id="4" />
+      <Sentence char_offsets="1164:1379" id="5" />
+      <Sentence char_offsets="1390:1613" id="6" />
+      <Sentence char_offsets="1624:1790" id="7" />
+      <Sentence char_offsets="1801:1978" id="8" />
+      <Sentence char_offsets="1989:2218" id="9" />
+      <Sentence char_offsets="2229:2411" id="10" />
+      <Sentence char_offsets="2422:2637" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="39971" actor_name="Reporters Without Borders" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="0256">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="081">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="519" agent_name="Opposition Newspaper" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="0841">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

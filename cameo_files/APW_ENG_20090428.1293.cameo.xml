@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1293">
+    <Sentences>
+      <Sentence char_offsets="183:320" id="0" />
+      <Sentence char_offsets="331:530" id="1" />
+      <Sentence char_offsets="541:615" id="2" />
+      <Sentence char_offsets="626:775" id="3" />
+      <Sentence char_offsets="777:831" id="4" />
+      <Sentence char_offsets="842:977" id="5" />
+      <Sentence char_offsets="979:1052" id="6" />
+      <Sentence char_offsets="1054:1175" id="7" />
+      <Sentence char_offsets="1186:1337" id="8" />
+      <Sentence char_offsets="1339:1463" id="9" />
+      <Sentence char_offsets="1474:1552" id="10" />
+      <Sentence char_offsets="1554:1624" id="11" />
+      <Sentence char_offsets="1635:1713" id="12" />
+      <Sentence char_offsets="1724:1805" id="13" />
+      <Sentence char_offsets="1807:1963" id="14" />
+      <Sentence char_offsets="1974:2119" id="15" />
+      <Sentence char_offsets="2130:2319" id="16" />
+      <Sentence char_offsets="2330:2536" id="17" />
+      <Sentence char_offsets="2547:2685" id="18" />
+      <Sentence char_offsets="2696:2887" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="28118" actor_name="Centers for Disease Control and Prevention" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

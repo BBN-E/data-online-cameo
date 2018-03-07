@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.0552">
+    <Sentences>
+      <Sentence char_offsets="186:299" id="0" />
+      <Sentence char_offsets="310:491" id="1" />
+      <Sentence char_offsets="502:655" id="2" />
+      <Sentence char_offsets="666:796" id="3" />
+      <Sentence char_offsets="807:985" id="4" />
+      <Sentence char_offsets="996:1155" id="5" />
+      <Sentence char_offsets="1166:1284" id="6" />
+      <Sentence char_offsets="1295:1469" id="7" />
+      <Sentence char_offsets="1480:1590" id="8" />
+      <Sentence char_offsets="1592:1712" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="057">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="057">
+        <Participant actor_id="231949" actor_name="Abkhazia" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="057">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="231949" actor_name="Abkhazia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="057">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="22036" actor_name="Sergey Bagapsh" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="057">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="ongoing" type="190">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="ongoing" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="neutral" type="057">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="7" tense="neutral" type="057">
+        <Participant actor_id="22036" actor_name="Sergey Bagapsh" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="7" tense="neutral" type="057">
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

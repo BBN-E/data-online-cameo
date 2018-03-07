@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0435">
+    <Sentences>
+      <Sentence char_offsets="194:433" id="0" />
+      <Sentence char_offsets="444:558" id="1" />
+      <Sentence char_offsets="569:787" id="2" />
+      <Sentence char_offsets="789:861" id="3" />
+      <Sentence char_offsets="872:1084" id="4" />
+      <Sentence char_offsets="1095:1285" id="5" />
+      <Sentence char_offsets="1296:1463" id="6" />
+      <Sentence char_offsets="1474:1583" id="7" />
+      <Sentence char_offsets="1585:1810" id="8" />
+      <Sentence char_offsets="1821:1965" id="9" />
+      <Sentence char_offsets="1976:2146" id="10" />
+      <Sentence char_offsets="2157:2232" id="11" />
+      <Sentence char_offsets="2234:2387" id="12" />
+      <Sentence char_offsets="2398:2550" id="13" />
+      <Sentence char_offsets="2561:2656" id="14" />
+      <Sentence char_offsets="2667:2828" id="15" />
+      <Sentence char_offsets="2830:2872" id="16" />
+      <Sentence char_offsets="2883:2943" id="17" />
+      <Sentence char_offsets="2954:3095" id="18" />
+      <Sentence char_offsets="3097:3199" id="19" />
+      <Sentence char_offsets="3210:3323" id="20" />
+      <Sentence char_offsets="3334:3421" id="21" />
+      <Sentence char_offsets="3432:3538" id="22" />
+      <Sentence char_offsets="3540:3734" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

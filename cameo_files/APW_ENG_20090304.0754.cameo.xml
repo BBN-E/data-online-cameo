@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.0754">
+    <Sentences>
+      <Sentence char_offsets="185:348" id="0" />
+      <Sentence char_offsets="359:535" id="1" />
+      <Sentence char_offsets="546:666" id="2" />
+      <Sentence char_offsets="677:833" id="3" />
+      <Sentence char_offsets="844:957" id="4" />
+      <Sentence char_offsets="968:1120" id="5" />
+      <Sentence char_offsets="1131:1274" id="6" />
+      <Sentence char_offsets="1276:1350" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="046">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="046">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="046">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="046">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="046">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="046">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

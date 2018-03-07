@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090422.0185">
+    <Sentences>
+      <Sentence char_offsets="126:336" id="0" />
+      <Sentence char_offsets="338:585" id="1" />
+      <Sentence char_offsets="596:717" id="2" />
+      <Sentence char_offsets="719:888" id="3" />
+      <Sentence char_offsets="890:997" id="4" />
+      <Sentence char_offsets="1008:1136" id="5" />
+      <Sentence char_offsets="1138:1210" id="6" />
+      <Sentence char_offsets="1212:1365" id="7" />
+      <Sentence char_offsets="1376:1501" id="8" />
+      <Sentence char_offsets="1503:1628" id="9" />
+      <Sentence char_offsets="1630:1745" id="10" />
+      <Sentence char_offsets="1756:2088" id="11" />
+      <Sentence char_offsets="2099:2187" id="12" />
+      <Sentence char_offsets="2189:2240" id="13" />
+      <Sentence char_offsets="2242:2554" id="14" />
+      <Sentence char_offsets="2565:2679" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="0874">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

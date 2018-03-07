@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0133">
+    <Sentences>
+      <Sentence char_offsets="183:365" id="0" />
+      <Sentence char_offsets="376:571" id="1" />
+      <Sentence char_offsets="582:788" id="2" />
+      <Sentence char_offsets="799:965" id="3" />
+      <Sentence char_offsets="976:1192" id="4" />
+      <Sentence char_offsets="1203:1394" id="5" />
+      <Sentence char_offsets="1405:1566" id="6" />
+      <Sentence char_offsets="1577:1690" id="7" />
+      <Sentence char_offsets="1701:1912" id="8" />
+      <Sentence char_offsets="1923:2109" id="9" />
+      <Sentence char_offsets="2120:2321" id="10" />
+      <Sentence char_offsets="2332:2522" id="11" />
+      <Sentence char_offsets="2533:2728" id="12" />
+      <Sentence char_offsets="2739:2861" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="032">
+        <Participant actor_id="767" actor_name="The Advisory Board Company" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

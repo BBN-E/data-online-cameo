@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0957">
+    <Sentences>
+      <Sentence char_offsets="174:334" id="0" />
+      <Sentence char_offsets="345:515" id="1" />
+      <Sentence char_offsets="526:732" id="2" />
+      <Sentence char_offsets="743:975" id="3" />
+      <Sentence char_offsets="986:1010" id="4" />
+      <Sentence char_offsets="1012:1140" id="5" />
+      <Sentence char_offsets="1151:1282" id="6" />
+      <Sentence char_offsets="1293:1471" id="7" />
+      <Sentence char_offsets="1482:1614" id="8" />
+      <Sentence char_offsets="1625:1753" id="9" />
+      <Sentence char_offsets="1764:1959" id="10" />
+      <Sentence char_offsets="1970:2022" id="11" />
+      <Sentence char_offsets="2024:2131" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="40089" actor_name="Singapore" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="40089" actor_name="Singapore" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="40089" actor_name="Singapore" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="40089" actor_name="Singapore" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

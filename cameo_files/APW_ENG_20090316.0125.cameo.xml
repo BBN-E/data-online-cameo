@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0125">
+    <Sentences>
+      <Sentence char_offsets="204:456" id="0" />
+      <Sentence char_offsets="467:763" id="1" />
+      <Sentence char_offsets="774:988" id="2" />
+      <Sentence char_offsets="990:1076" id="3" />
+      <Sentence char_offsets="1087:1263" id="4" />
+      <Sentence char_offsets="1274:1387" id="5" />
+      <Sentence char_offsets="1389:1477" id="6" />
+      <Sentence char_offsets="1488:1522" id="7" />
+      <Sentence char_offsets="1533:1675" id="8" />
+      <Sentence char_offsets="1677:1722" id="9" />
+      <Sentence char_offsets="1733:1887" id="10" />
+      <Sentence char_offsets="1889:1992" id="11" />
+      <Sentence char_offsets="2003:2197" id="12" />
+      <Sentence char_offsets="2208:2381" id="13" />
+      <Sentence char_offsets="2383:2492" id="14" />
+      <Sentence char_offsets="2503:2697" id="15" />
+      <Sentence char_offsets="2708:2932" id="16" />
+      <Sentence char_offsets="2943:3097" id="17" />
+      <Sentence char_offsets="3108:3215" id="18" />
+      <Sentence char_offsets="3217:3359" id="19" />
+      <Sentence char_offsets="3370:3466" id="20" />
+      <Sentence char_offsets="3468:3668" id="21" />
+      <Sentence char_offsets="3679:3806" id="22" />
+      <Sentence char_offsets="3808:3858" id="23" />
+      <Sentence char_offsets="3860:3893" id="24" />
+      <Sentence char_offsets="3904:4045" id="25" />
+      <Sentence char_offsets="4056:4116" id="26" />
+      <Sentence char_offsets="4118:4283" id="27" />
+      <Sentence char_offsets="4294:4332" id="28" />
+      <Sentence char_offsets="4334:4369" id="29" />
+      <Sentence char_offsets="4371:4611" id="30" />
+      <Sentence char_offsets="4622:4627" id="31" />
+      <Sentence char_offsets="4638:4733" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="20920" actor_name="Mauricio Funes" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="111">
+        <Participant actor_id="14294" actor_name="Daniel Ortega" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="20920" actor_name="Mauricio Funes" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

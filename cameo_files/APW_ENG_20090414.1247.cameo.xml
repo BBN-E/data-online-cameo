@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.1247">
+    <Sentences>
+      <Sentence char_offsets="182:327" id="0" />
+      <Sentence char_offsets="338:475" id="1" />
+      <Sentence char_offsets="477:536" id="2" />
+      <Sentence char_offsets="547:714" id="3" />
+      <Sentence char_offsets="716:767" id="4" />
+      <Sentence char_offsets="778:970" id="5" />
+      <Sentence char_offsets="981:1064" id="6" />
+      <Sentence char_offsets="1075:1220" id="7" />
+      <Sentence char_offsets="1231:1374" id="8" />
+      <Sentence char_offsets="1385:1495" id="9" />
+      <Sentence char_offsets="1506:1609" id="10" />
+      <Sentence char_offsets="1611:1676" id="11" />
+      <Sentence char_offsets="1687:1882" id="12" />
+      <Sentence char_offsets="1893:2049" id="13" />
+      <Sentence char_offsets="2060:2195" id="14" />
+      <Sentence char_offsets="2206:2311" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="historical" type="010">
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="057">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="12720" actor_name="Nelson Azevedo Jobim" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="057">
+        <Participant actor_id="12720" actor_name="Nelson Azevedo Jobim" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

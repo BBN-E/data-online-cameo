@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.0814">
+    <Sentences>
+      <Sentence char_offsets="189:332" id="0" />
+      <Sentence char_offsets="343:447" id="1" />
+      <Sentence char_offsets="449:550" id="2" />
+      <Sentence char_offsets="561:707" id="3" />
+      <Sentence char_offsets="718:995" id="4" />
+      <Sentence char_offsets="1006:1186" id="5" />
+      <Sentence char_offsets="1188:1296" id="6" />
+      <Sentence char_offsets="1307:1383" id="7" />
+      <Sentence char_offsets="1385:1530" id="8" />
+      <Sentence char_offsets="1532:1568" id="9" />
+      <Sentence char_offsets="1579:1705" id="10" />
+      <Sentence char_offsets="1716:1951" id="11" />
+      <Sentence char_offsets="1962:2099" id="12" />
+      <Sentence char_offsets="2110:2303" id="13" />
+      <Sentence char_offsets="2305:2418" id="14" />
+      <Sentence char_offsets="2429:2481" id="15" />
+      <Sentence char_offsets="2483:2577" id="16" />
+      <Sentence char_offsets="2588:2651" id="17" />
+      <Sentence char_offsets="2653:2756" id="18" />
+      <Sentence char_offsets="2758:2856" id="19" />
+      <Sentence char_offsets="2867:3148" id="20" />
+      <Sentence char_offsets="3159:3306" id="21" />
+      <Sentence char_offsets="3317:3544" id="22" />
+      <Sentence char_offsets="3555:3671" id="23" />
+      <Sentence char_offsets="3682:3755" id="24" />
+      <Sentence char_offsets="3757:3828" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="030">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="030">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

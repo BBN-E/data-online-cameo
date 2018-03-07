@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0868">
+    <Sentences>
+      <Sentence char_offsets="200:435" id="0" />
+      <Sentence char_offsets="446:770" id="1" />
+      <Sentence char_offsets="781:1026" id="2" />
+      <Sentence char_offsets="1037:1343" id="3" />
+      <Sentence char_offsets="1354:1461" id="4" />
+      <Sentence char_offsets="1472:1734" id="5" />
+      <Sentence char_offsets="1745:1917" id="6" />
+      <Sentence char_offsets="1919:2069" id="7" />
+      <Sentence char_offsets="2080:2139" id="8" />
+      <Sentence char_offsets="2150:2344" id="9" />
+      <Sentence char_offsets="2346:2406" id="10" />
+      <Sentence char_offsets="2417:2640" id="11" />
+      <Sentence char_offsets="2651:2689" id="12" />
+      <Sentence char_offsets="2691:2835" id="13" />
+      <Sentence char_offsets="2837:2899" id="14" />
+      <Sentence char_offsets="2901:3015" id="15" />
+      <Sentence char_offsets="3026:3169" id="16" />
+      <Sentence char_offsets="3171:3333" id="17" />
+      <Sentence char_offsets="3344:3544" id="18" />
+      <Sentence char_offsets="3555:3787" id="19" />
+      <Sentence char_offsets="3798:3984" id="20" />
+      <Sentence char_offsets="3995:4210" id="21" />
+      <Sentence char_offsets="4221:4464" id="22" />
+      <Sentence char_offsets="4475:4705" id="23" />
+      <Sentence char_offsets="4707:4770" id="24" />
+      <Sentence char_offsets="4781:5019" id="25" />
+      <Sentence char_offsets="5030:5256" id="26" />
+      <Sentence char_offsets="5267:5355" id="27" />
+      <Sentence char_offsets="5357:5520" id="28" />
+      <Sentence char_offsets="5531:5674" id="29" />
+      <Sentence char_offsets="5676:5835" id="30" />
+      <Sentence char_offsets="5846:5851" id="31" />
+      <Sentence char_offsets="5862:5942" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="107">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="125">
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

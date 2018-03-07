@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0439">
+    <Sentences>
+      <Sentence char_offsets="175:361" id="0" />
+      <Sentence char_offsets="372:648" id="1" />
+      <Sentence char_offsets="659:807" id="2" />
+      <Sentence char_offsets="818:935" id="3" />
+      <Sentence char_offsets="946:1111" id="4" />
+      <Sentence char_offsets="1122:1185" id="5" />
+      <Sentence char_offsets="1196:1296" id="6" />
+      <Sentence char_offsets="1307:1351" id="7" />
+      <Sentence char_offsets="1362:1548" id="8" />
+      <Sentence char_offsets="1559:1671" id="9" />
+      <Sentence char_offsets="1682:1836" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

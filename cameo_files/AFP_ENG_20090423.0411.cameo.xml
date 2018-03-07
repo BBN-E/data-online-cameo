@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0411">
+    <Sentences>
+      <Sentence char_offsets="178:367" id="0" />
+      <Sentence char_offsets="378:599" id="1" />
+      <Sentence char_offsets="610:676" id="2" />
+      <Sentence char_offsets="687:866" id="3" />
+      <Sentence char_offsets="877:942" id="4" />
+      <Sentence char_offsets="953:1128" id="5" />
+      <Sentence char_offsets="1139:1371" id="6" />
+      <Sentence char_offsets="1382:1495" id="7" />
+      <Sentence char_offsets="1506:1643" id="8" />
+      <Sentence char_offsets="1654:1736" id="9" />
+      <Sentence char_offsets="1738:1802" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="013">
+        <Participant actor_id="1488" actor_name="Islamic Action Front" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="1488" actor_name="Islamic Action Front" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="1488" actor_name="Islamic Action Front" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0124">
+    <Sentences>
+      <Sentence char_offsets="190:370" id="0" />
+      <Sentence char_offsets="381:670" id="1" />
+      <Sentence char_offsets="681:784" id="2" />
+      <Sentence char_offsets="786:818" id="3" />
+      <Sentence char_offsets="829:968" id="4" />
+      <Sentence char_offsets="979:1143" id="5" />
+      <Sentence char_offsets="1154:1258" id="6" />
+      <Sentence char_offsets="1260:1341" id="7" />
+      <Sentence char_offsets="1352:1573" id="8" />
+      <Sentence char_offsets="1584:1747" id="9" />
+      <Sentence char_offsets="1758:1960" id="10" />
+      <Sentence char_offsets="1971:2147" id="11" />
+      <Sentence char_offsets="2158:2355" id="12" />
+      <Sentence char_offsets="2366:2531" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="3636" actor_name="Vano Merabishvili" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="0256">
+        <Participant actor_id="4321" actor_name="Irakli Ghudushauri-Shiolashvili" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="173">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

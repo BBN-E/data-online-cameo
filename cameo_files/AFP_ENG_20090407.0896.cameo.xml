@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0896">
+    <Sentences>
+      <Sentence char_offsets="163:354" id="0" />
+      <Sentence char_offsets="365:576" id="1" />
+      <Sentence char_offsets="587:803" id="2" />
+      <Sentence char_offsets="814:1029" id="3" />
+      <Sentence char_offsets="1040:1163" id="4" />
+      <Sentence char_offsets="1174:1226" id="5" />
+      <Sentence char_offsets="1228:1387" id="6" />
+      <Sentence char_offsets="1398:1494" id="7" />
+      <Sentence char_offsets="1505:1561" id="8" />
+      <Sentence char_offsets="1563:1693" id="9" />
+      <Sentence char_offsets="1704:1901" id="10" />
+      <Sentence char_offsets="1912:2116" id="11" />
+      <Sentence char_offsets="2127:2333" id="12" />
+      <Sentence char_offsets="2344:2566" id="13" />
+      <Sentence char_offsets="2577:2650" id="14" />
+      <Sentence char_offsets="2661:2735" id="15" />
+      <Sentence char_offsets="2737:2806" id="16" />
+      <Sentence char_offsets="2817:3009" id="17" />
+      <Sentence char_offsets="3020:3215" id="18" />
+      <Sentence char_offsets="3226:3393" id="19" />
+      <Sentence char_offsets="3404:3597" id="20" />
+      <Sentence char_offsets="3608:3771" id="21" />
+      <Sentence char_offsets="3782:3948" id="22" />
+      <Sentence char_offsets="3959:4066" id="23" />
+      <Sentence char_offsets="4077:4199" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

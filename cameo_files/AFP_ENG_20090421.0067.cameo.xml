@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0067">
+    <Sentences>
+      <Sentence char_offsets="188:367" id="0" />
+      <Sentence char_offsets="378:502" id="1" />
+      <Sentence char_offsets="513:684" id="2" />
+      <Sentence char_offsets="695:859" id="3" />
+      <Sentence char_offsets="870:1057" id="4" />
+      <Sentence char_offsets="1068:1170" id="5" />
+      <Sentence char_offsets="1181:1358" id="6" />
+      <Sentence char_offsets="1360:1412" id="7" />
+      <Sentence char_offsets="1423:1555" id="8" />
+      <Sentence char_offsets="1566:1656" id="9" />
+      <Sentence char_offsets="1667:1805" id="10" />
+      <Sentence char_offsets="1807:1906" id="11" />
+      <Sentence char_offsets="1917:2045" id="12" />
+      <Sentence char_offsets="2047:2203" id="13" />
+      <Sentence char_offsets="2214:2336" id="14" />
+      <Sentence char_offsets="2338:2430" id="15" />
+      <Sentence char_offsets="2441:2702" id="16" />
+      <Sentence char_offsets="2713:2756" id="17" />
+      <Sentence char_offsets="2758:2925" id="18" />
+      <Sentence char_offsets="2927:2977" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="0331">
+        <Participant actor_id="38615" actor_name="Department of the Treasury" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

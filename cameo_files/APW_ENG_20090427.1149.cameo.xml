@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.1149">
+    <Sentences>
+      <Sentence char_offsets="198:468" id="0" />
+      <Sentence char_offsets="479:762" id="1" />
+      <Sentence char_offsets="773:1079" id="2" />
+      <Sentence char_offsets="1090:1234" id="3" />
+      <Sentence char_offsets="1236:1356" id="4" />
+      <Sentence char_offsets="1367:1498" id="5" />
+      <Sentence char_offsets="1500:1560" id="6" />
+      <Sentence char_offsets="1571:1733" id="7" />
+      <Sentence char_offsets="1744:1790" id="8" />
+      <Sentence char_offsets="1792:1914" id="9" />
+      <Sentence char_offsets="1916:1946" id="10" />
+      <Sentence char_offsets="1957:2007" id="11" />
+      <Sentence char_offsets="2009:2156" id="12" />
+      <Sentence char_offsets="2167:2348" id="13" />
+      <Sentence char_offsets="2359:2576" id="14" />
+      <Sentence char_offsets="2578:2713" id="15" />
+      <Sentence char_offsets="2724:2843" id="16" />
+      <Sentence char_offsets="2845:2909" id="17" />
+      <Sentence char_offsets="2920:3123" id="18" />
+      <Sentence char_offsets="3134:3183" id="19" />
+      <Sentence char_offsets="3194:3321" id="20" />
+      <Sentence char_offsets="3332:3487" id="21" />
+      <Sentence char_offsets="3498:3621" id="22" />
+      <Sentence char_offsets="3623:3780" id="23" />
+      <Sentence char_offsets="3791:3796" id="24" />
+      <Sentence char_offsets="3807:3868" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="current" type="042">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="120">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="current" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

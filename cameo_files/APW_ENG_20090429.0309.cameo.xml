@@ -1,0 +1,107 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0309">
+    <Sentences>
+      <Sentence char_offsets="187:320" id="0" />
+      <Sentence char_offsets="322:377" id="1" />
+      <Sentence char_offsets="388:656" id="2" />
+      <Sentence char_offsets="667:743" id="3" />
+      <Sentence char_offsets="745:873" id="4" />
+      <Sentence char_offsets="884:981" id="5" />
+      <Sentence char_offsets="992:1198" id="6" />
+      <Sentence char_offsets="1209:1428" id="7" />
+      <Sentence char_offsets="1439:1590" id="8" />
+      <Sentence char_offsets="1592:1720" id="9" />
+      <Sentence char_offsets="1731:1909" id="10" />
+      <Sentence char_offsets="1920:2215" id="11" />
+      <Sentence char_offsets="2226:2323" id="12" />
+      <Sentence char_offsets="2334:2516" id="13" />
+      <Sentence char_offsets="2527:2875" id="14" />
+      <Sentence char_offsets="2877:2973" id="15" />
+      <Sentence char_offsets="2984:3144" id="16" />
+      <Sentence char_offsets="3146:3290" id="17" />
+      <Sentence char_offsets="3301:3395" id="18" />
+      <Sentence char_offsets="3406:3497" id="19" />
+      <Sentence char_offsets="3499:3684" id="20" />
+      <Sentence char_offsets="3695:3873" id="21" />
+      <Sentence char_offsets="3884:4000" id="22" />
+      <Sentence char_offsets="4002:4082" id="23" />
+      <Sentence char_offsets="4084:4157" id="24" />
+      <Sentence char_offsets="4168:4217" id="25" />
+      <Sentence char_offsets="4219:4245" id="26" />
+      <Sentence char_offsets="4256:4261" id="27" />
+      <Sentence char_offsets="4272:4333" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="neutral" type="041">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="6" tense="neutral" type="041">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="16" tense="neutral" type="041">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="16" tense="neutral" type="041">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="24" tense="neutral" type="041">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="24" tense="neutral" type="041">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="13" tense="historical" type="051">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="2" tense="neutral" type="160">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

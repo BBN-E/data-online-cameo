@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0332">
+    <Sentences>
+      <Sentence char_offsets="183:368" id="0" />
+      <Sentence char_offsets="379:590" id="1" />
+      <Sentence char_offsets="601:677" id="2" />
+      <Sentence char_offsets="688:811" id="3" />
+      <Sentence char_offsets="822:959" id="4" />
+      <Sentence char_offsets="961:1077" id="5" />
+      <Sentence char_offsets="1088:1194" id="6" />
+      <Sentence char_offsets="1205:1387" id="7" />
+      <Sentence char_offsets="1398:1555" id="8" />
+      <Sentence char_offsets="1566:1650" id="9" />
+      <Sentence char_offsets="1661:1742" id="10" />
+      <Sentence char_offsets="1744:1836" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

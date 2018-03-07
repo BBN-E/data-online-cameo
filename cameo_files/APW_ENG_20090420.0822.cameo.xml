@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0822">
+    <Sentences>
+      <Sentence char_offsets="204:371" id="0" />
+      <Sentence char_offsets="382:564" id="1" />
+      <Sentence char_offsets="575:831" id="2" />
+      <Sentence char_offsets="833:864" id="3" />
+      <Sentence char_offsets="875:959" id="4" />
+      <Sentence char_offsets="961:1049" id="5" />
+      <Sentence char_offsets="1051:1145" id="6" />
+      <Sentence char_offsets="1156:1231" id="7" />
+      <Sentence char_offsets="1242:1438" id="8" />
+      <Sentence char_offsets="1449:1556" id="9" />
+      <Sentence char_offsets="1558:1694" id="10" />
+      <Sentence char_offsets="1705:1897" id="11" />
+      <Sentence char_offsets="1908:2145" id="12" />
+      <Sentence char_offsets="2156:2367" id="13" />
+      <Sentence char_offsets="2378:2479" id="14" />
+      <Sentence char_offsets="2481:2602" id="15" />
+      <Sentence char_offsets="2613:2741" id="16" />
+      <Sentence char_offsets="2743:2872" id="17" />
+      <Sentence char_offsets="2883:3040" id="18" />
+      <Sentence char_offsets="3042:3179" id="19" />
+      <Sentence char_offsets="3190:3355" id="20" />
+      <Sentence char_offsets="3366:3577" id="21" />
+      <Sentence char_offsets="3588:3669" id="22" />
+      <Sentence char_offsets="3680:3792" id="23" />
+      <Sentence char_offsets="3803:3898" id="24" />
+      <Sentence char_offsets="3900:4015" id="25" />
+      <Sentence char_offsets="4026:4255" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

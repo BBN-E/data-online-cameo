@@ -1,0 +1,88 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0098">
+    <Sentences>
+      <Sentence char_offsets="185:384" id="0" />
+      <Sentence char_offsets="395:520" id="1" />
+      <Sentence char_offsets="522:668" id="2" />
+      <Sentence char_offsets="679:819" id="3" />
+      <Sentence char_offsets="830:1101" id="4" />
+      <Sentence char_offsets="1103:1162" id="5" />
+      <Sentence char_offsets="1173:1277" id="6" />
+      <Sentence char_offsets="1288:1351" id="7" />
+      <Sentence char_offsets="1362:1494" id="8" />
+      <Sentence char_offsets="1505:1599" id="9" />
+      <Sentence char_offsets="1610:1782" id="10" />
+      <Sentence char_offsets="1784:1874" id="11" />
+      <Sentence char_offsets="1885:2090" id="12" />
+      <Sentence char_offsets="2092:2124" id="13" />
+      <Sentence char_offsets="2135:2229" id="14" />
+      <Sentence char_offsets="2240:2350" id="15" />
+      <Sentence char_offsets="2352:2419" id="16" />
+      <Sentence char_offsets="2430:2476" id="17" />
+      <Sentence char_offsets="2487:2845" id="18" />
+      <Sentence char_offsets="2856:3055" id="19" />
+      <Sentence char_offsets="3057:3184" id="20" />
+      <Sentence char_offsets="3195:3318" id="21" />
+      <Sentence char_offsets="3329:3444" id="22" />
+      <Sentence char_offsets="3446:3558" id="23" />
+      <Sentence char_offsets="3569:3609" id="24" />
+      <Sentence char_offsets="3611:3710" id="25" />
+      <Sentence char_offsets="3712:3831" id="26" />
+      <Sentence char_offsets="3842:4021" id="27" />
+      <Sentence char_offsets="4023:4199" id="28" />
+      <Sentence char_offsets="4210:4288" id="29" />
+      <Sentence char_offsets="4299:4535" id="30" />
+      <Sentence char_offsets="4546:4710" id="31" />
+      <Sentence char_offsets="4721:4750" id="32" />
+      <Sentence char_offsets="4752:4888" id="33" />
+      <Sentence char_offsets="4890:4988" id="34" />
+      <Sentence char_offsets="4999:5088" id="35" />
+      <Sentence char_offsets="5090:5247" id="36" />
+      <Sentence char_offsets="5249:5315" id="37" />
+      <Sentence char_offsets="5317:5427" id="38" />
+      <Sentence char_offsets="5438:5555" id="39" />
+      <Sentence char_offsets="5557:5623" id="40" />
+      <Sentence char_offsets="5634:5760" id="41" />
+      <Sentence char_offsets="5762:5910" id="42" />
+      <Sentence char_offsets="5921:5949" id="43" />
+      <Sentence char_offsets="5951:6138" id="44" />
+      <Sentence char_offsets="6149:6331" id="45" />
+      <Sentence char_offsets="6342:6524" id="46" />
+      <Sentence char_offsets="6535:6672" id="47" />
+      <Sentence char_offsets="6683:6862" id="48" />
+      <Sentence char_offsets="6864:6908" id="49" />
+      <Sentence char_offsets="6919:7050" id="50" />
+      <Sentence char_offsets="7052:7108" id="51" />
+      <Sentence char_offsets="7119:7231" id="52" />
+      <Sentence char_offsets="7242:7401" id="53" />
+      <Sentence char_offsets="7403:7511" id="54" />
+      <Sentence char_offsets="7522:7645" id="55" />
+      <Sentence char_offsets="7647:7678" id="56" />
+      <Sentence char_offsets="7689:7905" id="57" />
+      <Sentence char_offsets="7916:7952" id="58" />
+      <Sentence char_offsets="7954:8005" id="59" />
+      <Sentence char_offsets="8007:8093" id="60" />
+      <Sentence char_offsets="8095:8118" id="61" />
+      <Sentence char_offsets="8120:8146" id="62" />
+      <Sentence char_offsets="8148:8188" id="63" />
+      <Sentence char_offsets="8199:8204" id="64" />
+      <Sentence char_offsets="8215:8561" id="65" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="28118" actor_name="Centers for Disease Control and Prevention" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="238614" actor_name="Tom Frieden" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="50" tense="neutral" type="010">
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

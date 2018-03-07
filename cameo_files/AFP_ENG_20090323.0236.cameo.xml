@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0236">
+    <Sentences>
+      <Sentence char_offsets="185:342" id="0" />
+      <Sentence char_offsets="353:567" id="1" />
+      <Sentence char_offsets="578:791" id="2" />
+      <Sentence char_offsets="802:1013" id="3" />
+      <Sentence char_offsets="1024:1161" id="4" />
+      <Sentence char_offsets="1172:1389" id="5" />
+      <Sentence char_offsets="1400:1629" id="6" />
+      <Sentence char_offsets="1640:1784" id="7" />
+      <Sentence char_offsets="1786:1865" id="8" />
+      <Sentence char_offsets="1876:2030" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="022">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="54172" actor_name="James Steinberg" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="154">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

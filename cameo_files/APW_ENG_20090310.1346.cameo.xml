@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.1346">
+    <Sentences>
+      <Sentence char_offsets="192:348" id="0" />
+      <Sentence char_offsets="359:498" id="1" />
+      <Sentence char_offsets="500:556" id="2" />
+      <Sentence char_offsets="567:738" id="3" />
+      <Sentence char_offsets="740:967" id="4" />
+      <Sentence char_offsets="978:1112" id="5" />
+      <Sentence char_offsets="1123:1360" id="6" />
+      <Sentence char_offsets="1371:1499" id="7" />
+      <Sentence char_offsets="1501:1657" id="8" />
+      <Sentence char_offsets="1668:1811" id="9" />
+      <Sentence char_offsets="1822:2033" id="10" />
+      <Sentence char_offsets="2044:2150" id="11" />
+      <Sentence char_offsets="2161:2343" id="12" />
+      <Sentence char_offsets="2354:2490" id="13" />
+      <Sentence char_offsets="2492:2632" id="14" />
+      <Sentence char_offsets="2643:2828" id="15" />
+      <Sentence char_offsets="2830:2927" id="16" />
+      <Sentence char_offsets="2938:3131" id="17" />
+      <Sentence char_offsets="3133:3249" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

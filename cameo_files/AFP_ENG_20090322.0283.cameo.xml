@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0283">
+    <Sentences>
+      <Sentence char_offsets="169:345" id="0" />
+      <Sentence char_offsets="356:455" id="1" />
+      <Sentence char_offsets="457:635" id="2" />
+      <Sentence char_offsets="646:795" id="3" />
+      <Sentence char_offsets="797:935" id="4" />
+      <Sentence char_offsets="946:1153" id="5" />
+      <Sentence char_offsets="1164:1316" id="6" />
+      <Sentence char_offsets="1318:1381" id="7" />
+      <Sentence char_offsets="1392:1485" id="8" />
+      <Sentence char_offsets="1496:1528" id="9" />
+      <Sentence char_offsets="1530:1711" id="10" />
+      <Sentence char_offsets="1722:1853" id="11" />
+      <Sentence char_offsets="1864:2022" id="12" />
+      <Sentence char_offsets="2033:2153" id="13" />
+      <Sentence char_offsets="2164:2295" id="14" />
+      <Sentence char_offsets="2306:2457" id="15" />
+      <Sentence char_offsets="2468:2598" id="16" />
+      <Sentence char_offsets="2600:2752" id="17" />
+      <Sentence char_offsets="2763:2889" id="18" />
+      <Sentence char_offsets="2891:3040" id="19" />
+      <Sentence char_offsets="3051:3179" id="20" />
+      <Sentence char_offsets="3181:3250" id="21" />
+      <Sentence char_offsets="3261:3396" id="22" />
+      <Sentence char_offsets="3398:3584" id="23" />
+      <Sentence char_offsets="3595:3798" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="40055" actor_name="Senegal" agent_id="291" agent_name="Election Commission" role="Source" />
+        <Participant actor_id="40055" actor_name="Senegal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="40055" actor_name="Senegal" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="40055" actor_name="Senegal" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0541">
+    <Sentences>
+      <Sentence char_offsets="197:364" id="0" />
+      <Sentence char_offsets="375:597" id="1" />
+      <Sentence char_offsets="608:877" id="2" />
+      <Sentence char_offsets="888:1154" id="3" />
+      <Sentence char_offsets="1165:1339" id="4" />
+      <Sentence char_offsets="1350:1488" id="5" />
+      <Sentence char_offsets="1499:1602" id="6" />
+      <Sentence char_offsets="1613:1774" id="7" />
+      <Sentence char_offsets="1785:1938" id="8" />
+      <Sentence char_offsets="1949:2178" id="9" />
+      <Sentence char_offsets="2189:2344" id="10" />
+      <Sentence char_offsets="2355:2549" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="historical" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="043">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

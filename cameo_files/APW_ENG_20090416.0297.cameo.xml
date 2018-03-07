@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0297">
+    <Sentences>
+      <Sentence char_offsets="193:359" id="0" />
+      <Sentence char_offsets="370:594" id="1" />
+      <Sentence char_offsets="596:645" id="2" />
+      <Sentence char_offsets="656:726" id="3" />
+      <Sentence char_offsets="728:830" id="4" />
+      <Sentence char_offsets="841:974" id="5" />
+      <Sentence char_offsets="985:1095" id="6" />
+      <Sentence char_offsets="1106:1202" id="7" />
+      <Sentence char_offsets="1213:1329" id="8" />
+      <Sentence char_offsets="1331:1457" id="9" />
+      <Sentence char_offsets="1459:1574" id="10" />
+      <Sentence char_offsets="1585:1734" id="11" />
+      <Sentence char_offsets="1736:1828" id="12" />
+      <Sentence char_offsets="1839:2134" id="13" />
+      <Sentence char_offsets="2145:2377" id="14" />
+      <Sentence char_offsets="2388:2449" id="15" />
+      <Sentence char_offsets="2451:2532" id="16" />
+      <Sentence char_offsets="2543:2690" id="17" />
+      <Sentence char_offsets="2701:2821" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="277" agent_name="Transport" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

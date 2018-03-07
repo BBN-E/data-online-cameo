@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0645">
+    <Sentences>
+      <Sentence char_offsets="192:358" id="0" />
+      <Sentence char_offsets="369:522" id="1" />
+      <Sentence char_offsets="524:614" id="2" />
+      <Sentence char_offsets="625:751" id="3" />
+      <Sentence char_offsets="762:967" id="4" />
+      <Sentence char_offsets="969:1135" id="5" />
+      <Sentence char_offsets="1146:1333" id="6" />
+      <Sentence char_offsets="1344:1515" id="7" />
+      <Sentence char_offsets="1526:1747" id="8" />
+      <Sentence char_offsets="1758:1851" id="9" />
+      <Sentence char_offsets="1853:1889" id="10" />
+      <Sentence char_offsets="1891:1970" id="11" />
+      <Sentence char_offsets="1981:2116" id="12" />
+      <Sentence char_offsets="2118:2213" id="13" />
+      <Sentence char_offsets="2224:2360" id="14" />
+      <Sentence char_offsets="2371:2617" id="15" />
+      <Sentence char_offsets="2619:2775" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="historical" type="145">
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="historical" type="175">
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

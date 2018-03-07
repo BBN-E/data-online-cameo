@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0449">
+    <Sentences>
+      <Sentence char_offsets="182:369" id="0" />
+      <Sentence char_offsets="380:457" id="1" />
+      <Sentence char_offsets="459:638" id="2" />
+      <Sentence char_offsets="649:868" id="3" />
+      <Sentence char_offsets="879:936" id="4" />
+      <Sentence char_offsets="938:975" id="5" />
+      <Sentence char_offsets="986:1068" id="6" />
+      <Sentence char_offsets="1070:1118" id="7" />
+      <Sentence char_offsets="1129:1252" id="8" />
+      <Sentence char_offsets="1263:1510" id="9" />
+      <Sentence char_offsets="1521:1619" id="10" />
+      <Sentence char_offsets="1630:1777" id="11" />
+      <Sentence char_offsets="1788:1965" id="12" />
+      <Sentence char_offsets="1976:2153" id="13" />
+      <Sentence char_offsets="2164:2343" id="14" />
+      <Sentence char_offsets="2354:2397" id="15" />
+      <Sentence char_offsets="2408:2580" id="16" />
+      <Sentence char_offsets="2591:2747" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="historical" type="010">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="527" agent_name="Army Personnel" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

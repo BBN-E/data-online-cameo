@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0517">
+    <Sentences>
+      <Sentence char_offsets="177:358" id="0" />
+      <Sentence char_offsets="369:523" id="1" />
+      <Sentence char_offsets="534:633" id="2" />
+      <Sentence char_offsets="644:832" id="3" />
+      <Sentence char_offsets="843:982" id="4" />
+      <Sentence char_offsets="993:1093" id="5" />
+      <Sentence char_offsets="1104:1125" id="6" />
+      <Sentence char_offsets="1127:1253" id="7" />
+      <Sentence char_offsets="1264:1352" id="8" />
+      <Sentence char_offsets="1363:1511" id="9" />
+      <Sentence char_offsets="1522:1565" id="10" />
+      <Sentence char_offsets="1567:1573" id="11" />
+      <Sentence char_offsets="1575:1636" id="12" />
+      <Sentence char_offsets="1638:1654" id="13" />
+      <Sentence char_offsets="1665:1850" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0521">
+    <Sentences>
+      <Sentence char_offsets="190:359" id="0" />
+      <Sentence char_offsets="370:488" id="1" />
+      <Sentence char_offsets="499:606" id="2" />
+      <Sentence char_offsets="608:684" id="3" />
+      <Sentence char_offsets="695:844" id="4" />
+      <Sentence char_offsets="846:887" id="5" />
+      <Sentence char_offsets="898:1090" id="6" />
+      <Sentence char_offsets="1101:1225" id="7" />
+      <Sentence char_offsets="1227:1315" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="303" agent_name="Member of Legislative (Govt)" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="042">
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="043">
+        <Participant actor_id="36630" actor_name="Moldova" role="Source" />
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

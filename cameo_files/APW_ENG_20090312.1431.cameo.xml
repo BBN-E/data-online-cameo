@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.1431">
+    <Sentences>
+      <Sentence char_offsets="187:347" id="0" />
+      <Sentence char_offsets="358:526" id="1" />
+      <Sentence char_offsets="537:632" id="2" />
+      <Sentence char_offsets="634:742" id="3" />
+      <Sentence char_offsets="753:893" id="4" />
+      <Sentence char_offsets="895:1016" id="5" />
+      <Sentence char_offsets="1027:1134" id="6" />
+      <Sentence char_offsets="1136:1202" id="7" />
+      <Sentence char_offsets="1213:1296" id="8" />
+      <Sentence char_offsets="1298:1413" id="9" />
+      <Sentence char_offsets="1424:1483" id="10" />
+      <Sentence char_offsets="1485:1592" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="115">
+        <Participant actor_id="32631" actor_name="China" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="237860" actor_name="Lehman Brothers" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="115">
+        <Participant actor_id="32631" actor_name="China" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="26768" actor_name="HSBC Holdings" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

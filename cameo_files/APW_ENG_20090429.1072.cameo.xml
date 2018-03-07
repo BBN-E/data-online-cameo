@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.1072">
+    <Sentences>
+      <Sentence char_offsets="182:384" id="0" />
+      <Sentence char_offsets="395:477" id="1" />
+      <Sentence char_offsets="479:732" id="2" />
+      <Sentence char_offsets="743:867" id="3" />
+      <Sentence char_offsets="878:1138" id="4" />
+      <Sentence char_offsets="1149:1233" id="5" />
+      <Sentence char_offsets="1244:1396" id="6" />
+      <Sentence char_offsets="1398:1493" id="7" />
+      <Sentence char_offsets="1504:1660" id="8" />
+      <Sentence char_offsets="1671:1807" id="9" />
+      <Sentence char_offsets="1809:1926" id="10" />
+      <Sentence char_offsets="1937:2111" id="11" />
+      <Sentence char_offsets="2113:2208" id="12" />
+      <Sentence char_offsets="2219:2431" id="13" />
+      <Sentence char_offsets="2442:2534" id="14" />
+      <Sentence char_offsets="2545:2554" id="15" />
+      <Sentence char_offsets="2565:2575" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="historical" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="historical" type="043">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

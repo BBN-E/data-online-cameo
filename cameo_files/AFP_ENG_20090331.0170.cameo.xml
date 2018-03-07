@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0170">
+    <Sentences>
+      <Sentence char_offsets="201:347" id="0" />
+      <Sentence char_offsets="358:546" id="1" />
+      <Sentence char_offsets="557:758" id="2" />
+      <Sentence char_offsets="769:892" id="3" />
+      <Sentence char_offsets="903:962" id="4" />
+      <Sentence char_offsets="973:1165" id="5" />
+      <Sentence char_offsets="1176:1385" id="6" />
+      <Sentence char_offsets="1396:1446" id="7" />
+      <Sentence char_offsets="1457:1505" id="8" />
+      <Sentence char_offsets="1516:1690" id="9" />
+      <Sentence char_offsets="1701:1865" id="10" />
+      <Sentence char_offsets="1876:1951" id="11" />
+      <Sentence char_offsets="1962:2175" id="12" />
+      <Sentence char_offsets="2186:2348" id="13" />
+      <Sentence char_offsets="2359:2483" id="14" />
+      <Sentence char_offsets="2494:2675" id="15" />
+      <Sentence char_offsets="2686:2821" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="current" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="0213">
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="30701" actor_name="France" agent_id="108" agent_name="Rights Activist" role="Source" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="141">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="neutral" type="153">
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

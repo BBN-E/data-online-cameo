@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0497">
+    <Sentences>
+      <Sentence char_offsets="180:338" id="0" />
+      <Sentence char_offsets="349:502" id="1" />
+      <Sentence char_offsets="513:686" id="2" />
+      <Sentence char_offsets="697:868" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="1831">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

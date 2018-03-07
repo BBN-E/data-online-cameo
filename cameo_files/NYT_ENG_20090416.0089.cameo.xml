@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090416.0089">
+    <Sentences>
+      <Sentence char_offsets="164:322" id="0" />
+      <Sentence char_offsets="333:541" id="1" />
+      <Sentence char_offsets="552:668" id="2" />
+      <Sentence char_offsets="679:874" id="3" />
+      <Sentence char_offsets="885:978" id="4" />
+      <Sentence char_offsets="980:1077" id="5" />
+      <Sentence char_offsets="1088:1194" id="6" />
+      <Sentence char_offsets="1205:1382" id="7" />
+      <Sentence char_offsets="1393:1550" id="8" />
+      <Sentence char_offsets="1552:1757" id="9" />
+      <Sentence char_offsets="1768:1928" id="10" />
+      <Sentence char_offsets="1939:2056" id="11" />
+      <Sentence char_offsets="2067:2187" id="12" />
+      <Sentence char_offsets="2189:2261" id="13" />
+      <Sentence char_offsets="2272:2413" id="14" />
+      <Sentence char_offsets="2424:2565" id="15" />
+      <Sentence char_offsets="2576:2628" id="16" />
+      <Sentence char_offsets="2639:2811" id="17" />
+      <Sentence char_offsets="2813:2912" id="18" />
+      <Sentence char_offsets="2914:3000" id="19" />
+      <Sentence char_offsets="3002:3108" id="20" />
+      <Sentence char_offsets="3119:3293" id="21" />
+      <Sentence char_offsets="3295:3462" id="22" />
+      <Sentence char_offsets="3473:3647" id="23" />
+      <Sentence char_offsets="3658:3781" id="24" />
+      <Sentence char_offsets="3792:3934" id="25" />
+      <Sentence char_offsets="3936:4015" id="26" />
+      <Sentence char_offsets="4026:4228" id="27" />
+      <Sentence char_offsets="4239:4306" id="28" />
+      <Sentence char_offsets="4317:4419" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35000" actor_name="Chris Dodd" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

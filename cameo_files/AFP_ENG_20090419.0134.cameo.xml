@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0134">
+    <Sentences>
+      <Sentence char_offsets="184:377" id="0" />
+      <Sentence char_offsets="388:607" id="1" />
+      <Sentence char_offsets="618:839" id="2" />
+      <Sentence char_offsets="850:948" id="3" />
+      <Sentence char_offsets="959:1087" id="4" />
+      <Sentence char_offsets="1098:1291" id="5" />
+      <Sentence char_offsets="1302:1476" id="6" />
+      <Sentence char_offsets="1487:1674" id="7" />
+      <Sentence char_offsets="1685:1859" id="8" />
+      <Sentence char_offsets="1870:1952" id="9" />
+      <Sentence char_offsets="1963:2138" id="10" />
+      <Sentence char_offsets="2149:2285" id="11" />
+      <Sentence char_offsets="2296:2446" id="12" />
+      <Sentence char_offsets="2457:2638" id="13" />
+      <Sentence char_offsets="2649:2854" id="14" />
+      <Sentence char_offsets="2865:3051" id="15" />
+      <Sentence char_offsets="3062:3287" id="16" />
+      <Sentence char_offsets="3298:3474" id="17" />
+      <Sentence char_offsets="3485:3621" id="18" />
+      <Sentence char_offsets="3632:3776" id="19" />
+      <Sentence char_offsets="3787:3935" id="20" />
+      <Sentence char_offsets="3946:4107" id="21" />
+      <Sentence char_offsets="4118:4347" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="current" type="010">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="historical" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="ongoing" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="current" type="173">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="current" type="173">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

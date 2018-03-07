@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090301.0120">
+    <Sentences>
+      <Sentence char_offsets="187:432" id="0" />
+      <Sentence char_offsets="443:557" id="1" />
+      <Sentence char_offsets="559:686" id="2" />
+      <Sentence char_offsets="697:738" id="3" />
+      <Sentence char_offsets="740:862" id="4" />
+      <Sentence char_offsets="864:1101" id="5" />
+      <Sentence char_offsets="1112:1305" id="6" />
+      <Sentence char_offsets="1307:1413" id="7" />
+      <Sentence char_offsets="1424:1600" id="8" />
+      <Sentence char_offsets="1611:1684" id="9" />
+      <Sentence char_offsets="1686:1801" id="10" />
+      <Sentence char_offsets="1812:2018" id="11" />
+      <Sentence char_offsets="2020:2207" id="12" />
+      <Sentence char_offsets="2218:2426" id="13" />
+      <Sentence char_offsets="2428:2505" id="14" />
+      <Sentence char_offsets="2516:2670" id="15" />
+      <Sentence char_offsets="2681:2891" id="16" />
+      <Sentence char_offsets="2902:3253" id="17" />
+      <Sentence char_offsets="3264:3357" id="18" />
+      <Sentence char_offsets="3359:3471" id="19" />
+      <Sentence char_offsets="3482:3593" id="20" />
+      <Sentence char_offsets="3595:3681" id="21" />
+      <Sentence char_offsets="3683:3858" id="22" />
+      <Sentence char_offsets="3869:4062" id="23" />
+      <Sentence char_offsets="4073:4371" id="24" />
+      <Sentence char_offsets="4382:4476" id="25" />
+      <Sentence char_offsets="4478:4789" id="26" />
+      <Sentence char_offsets="4800:5037" id="27" />
+      <Sentence char_offsets="5039:5094" id="28" />
+      <Sentence char_offsets="5105:5255" id="29" />
+      <Sentence char_offsets="5257:5504" id="30" />
+      <Sentence char_offsets="5515:5520" id="31" />
+      <Sentence char_offsets="5531:5541" id="32" />
+      <Sentence char_offsets="5552:5589" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="032">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="32187" actor_name="Belgium" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="111">
+        <Participant actor_id="31716" actor_name="Hamas" agent_id="193" agent_name="Islamic Militant" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="13" tense="current" type="120">
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="4" tense="neutral" type="160">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="17" tense="neutral" type="043">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

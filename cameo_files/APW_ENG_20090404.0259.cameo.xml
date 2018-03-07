@@ -1,0 +1,92 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0259">
+    <Sentences>
+      <Sentence char_offsets="194:453" id="0" />
+      <Sentence char_offsets="464:718" id="1" />
+      <Sentence char_offsets="729:951" id="2" />
+      <Sentence char_offsets="953:1165" id="3" />
+      <Sentence char_offsets="1176:1290" id="4" />
+      <Sentence char_offsets="1292:1481" id="5" />
+      <Sentence char_offsets="1492:1788" id="6" />
+      <Sentence char_offsets="1799:2003" id="7" />
+      <Sentence char_offsets="2014:2103" id="8" />
+      <Sentence char_offsets="2105:2225" id="9" />
+      <Sentence char_offsets="2236:2408" id="10" />
+      <Sentence char_offsets="2419:2551" id="11" />
+      <Sentence char_offsets="2562:2599" id="12" />
+      <Sentence char_offsets="2601:2633" id="13" />
+      <Sentence char_offsets="2644:2928" id="14" />
+      <Sentence char_offsets="2930:3001" id="15" />
+      <Sentence char_offsets="3003:3042" id="16" />
+      <Sentence char_offsets="3053:3155" id="17" />
+      <Sentence char_offsets="3157:3177" id="18" />
+      <Sentence char_offsets="3188:3329" id="19" />
+      <Sentence char_offsets="3331:3441" id="20" />
+      <Sentence char_offsets="3452:3636" id="21" />
+      <Sentence char_offsets="3647:3810" id="22" />
+      <Sentence char_offsets="3812:3896" id="23" />
+      <Sentence char_offsets="3907:4119" id="24" />
+      <Sentence char_offsets="4130:4393" id="25" />
+      <Sentence char_offsets="4404:4571" id="26" />
+      <Sentence char_offsets="4582:4772" id="27" />
+      <Sentence char_offsets="4774:4943" id="28" />
+      <Sentence char_offsets="4954:5087" id="29" />
+      <Sentence char_offsets="5089:5244" id="30" />
+      <Sentence char_offsets="5255:5449" id="31" />
+      <Sentence char_offsets="5460:5563" id="32" />
+      <Sentence char_offsets="5565:5685" id="33" />
+      <Sentence char_offsets="5687:5855" id="34" />
+      <Sentence char_offsets="5866:6065" id="35" />
+      <Sentence char_offsets="6076:6083" id="36" />
+      <Sentence char_offsets="6094:6153" id="37" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="051">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="051">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="31" tense="neutral" type="051">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="31" tense="neutral" type="051">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="31" tense="neutral" type="051">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="30" tense="neutral" type="111">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="29" tense="historical" type="192">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

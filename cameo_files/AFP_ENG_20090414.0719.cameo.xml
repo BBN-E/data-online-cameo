@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0719">
+    <Sentences>
+      <Sentence char_offsets="190:376" id="0" />
+      <Sentence char_offsets="387:597" id="1" />
+      <Sentence char_offsets="608:816" id="2" />
+      <Sentence char_offsets="827:965" id="3" />
+      <Sentence char_offsets="976:1192" id="4" />
+      <Sentence char_offsets="1203:1354" id="5" />
+      <Sentence char_offsets="1365:1515" id="6" />
+      <Sentence char_offsets="1526:1706" id="7" />
+      <Sentence char_offsets="1717:1805" id="8" />
+      <Sentence char_offsets="1807:1930" id="9" />
+      <Sentence char_offsets="1941:2126" id="10" />
+      <Sentence char_offsets="2137:2280" id="11" />
+      <Sentence char_offsets="2291:2457" id="12" />
+      <Sentence char_offsets="2468:2638" id="13" />
+      <Sentence char_offsets="2649:2814" id="14" />
+      <Sentence char_offsets="2825:3028" id="15" />
+      <Sentence char_offsets="3039:3259" id="16" />
+      <Sentence char_offsets="3270:3404" id="17" />
+      <Sentence char_offsets="3415:3607" id="18" />
+      <Sentence char_offsets="3618:3742" id="19" />
+      <Sentence char_offsets="3744:3800" id="20" />
+      <Sentence char_offsets="3811:3969" id="21" />
+      <Sentence char_offsets="3980:4033" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="22925" actor_name="Standard Chartered Bank" role="Source" />
+        <Participant actor_id="40089" actor_name="Singapore" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

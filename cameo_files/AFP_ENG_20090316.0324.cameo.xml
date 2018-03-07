@@ -1,0 +1,79 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0324">
+    <Sentences>
+      <Sentence char_offsets="188:370" id="0" />
+      <Sentence char_offsets="381:559" id="1" />
+      <Sentence char_offsets="570:776" id="2" />
+      <Sentence char_offsets="787:955" id="3" />
+      <Sentence char_offsets="957:988" id="4" />
+      <Sentence char_offsets="999:1206" id="5" />
+      <Sentence char_offsets="1217:1433" id="6" />
+      <Sentence char_offsets="1444:1587" id="7" />
+      <Sentence char_offsets="1598:1729" id="8" />
+      <Sentence char_offsets="1740:1916" id="9" />
+      <Sentence char_offsets="1927:2056" id="10" />
+      <Sentence char_offsets="2067:2264" id="11" />
+      <Sentence char_offsets="2275:2425" id="12" />
+      <Sentence char_offsets="2436:2619" id="13" />
+      <Sentence char_offsets="2630:2849" id="14" />
+      <Sentence char_offsets="2860:3076" id="15" />
+      <Sentence char_offsets="3087:3295" id="16" />
+      <Sentence char_offsets="3306:3382" id="17" />
+      <Sentence char_offsets="3384:3402" id="18" />
+      <Sentence char_offsets="3404:3525" id="19" />
+      <Sentence char_offsets="3536:3602" id="20" />
+      <Sentence char_offsets="3613:3674" id="21" />
+      <Sentence char_offsets="3685:3875" id="22" />
+      <Sentence char_offsets="3886:3982" id="23" />
+      <Sentence char_offsets="3984:4075" id="24" />
+      <Sentence char_offsets="4086:4271" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="16180" actor_name="Christine Razanamahasoa" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="527" agent_name="Army Personnel" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="0213">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="current" type="0241">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="current" type="113">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="113">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="20" tense="neutral" type="120">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

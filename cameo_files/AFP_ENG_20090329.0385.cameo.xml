@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0385">
+    <Sentences>
+      <Sentence char_offsets="193:387" id="0" />
+      <Sentence char_offsets="398:572" id="1" />
+      <Sentence char_offsets="583:784" id="2" />
+      <Sentence char_offsets="795:937" id="3" />
+      <Sentence char_offsets="948:1021" id="4" />
+      <Sentence char_offsets="1032:1148" id="5" />
+      <Sentence char_offsets="1159:1296" id="6" />
+      <Sentence char_offsets="1307:1476" id="7" />
+      <Sentence char_offsets="1487:1540" id="8" />
+      <Sentence char_offsets="1551:1666" id="9" />
+      <Sentence char_offsets="1677:1822" id="10" />
+      <Sentence char_offsets="1833:1905" id="11" />
+      <Sentence char_offsets="1916:1980" id="12" />
+      <Sentence char_offsets="1982:2052" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="32631" actor_name="China" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="32631" actor_name="China" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

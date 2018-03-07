@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0472">
+    <Sentences>
+      <Sentence char_offsets="186:389" id="0" />
+      <Sentence char_offsets="400:555" id="1" />
+      <Sentence char_offsets="557:691" id="2" />
+      <Sentence char_offsets="702:806" id="3" />
+      <Sentence char_offsets="808:916" id="4" />
+      <Sentence char_offsets="927:1083" id="5" />
+      <Sentence char_offsets="1085:1160" id="6" />
+      <Sentence char_offsets="1162:1213" id="7" />
+      <Sentence char_offsets="1224:1343" id="8" />
+      <Sentence char_offsets="1354:1421" id="9" />
+      <Sentence char_offsets="1432:1526" id="10" />
+      <Sentence char_offsets="1528:1575" id="11" />
+      <Sentence char_offsets="1586:1645" id="12" />
+      <Sentence char_offsets="1656:1813" id="13" />
+      <Sentence char_offsets="1824:1934" id="14" />
+      <Sentence char_offsets="1945:2009" id="15" />
+      <Sentence char_offsets="2011:2098" id="16" />
+      <Sentence char_offsets="2109:2294" id="17" />
+      <Sentence char_offsets="2305:2310" id="18" />
+      <Sentence char_offsets="2321:2383" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="13045" actor_name="Hoshyar Zebari" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="046">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="046">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="051">
+        <Participant actor_id="13045" actor_name="Hoshyar Zebari" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="49842" actor_name="Iraqi Kurds" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="4" tense="neutral" type="046">
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="4" tense="neutral" type="046">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="13045" actor_name="Hoshyar Zebari" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

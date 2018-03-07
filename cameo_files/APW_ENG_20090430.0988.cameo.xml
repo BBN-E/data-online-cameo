@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.0988">
+    <Sentences>
+      <Sentence char_offsets="182:297" id="0" />
+      <Sentence char_offsets="308:377" id="1" />
+      <Sentence char_offsets="388:518" id="2" />
+      <Sentence char_offsets="529:688" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="40495" actor_name="World Health Organization" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

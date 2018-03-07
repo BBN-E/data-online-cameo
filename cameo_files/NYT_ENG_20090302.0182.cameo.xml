@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090302.0182">
+    <Sentences>
+      <Sentence char_offsets="149:386" id="0" />
+      <Sentence char_offsets="397:489" id="1" />
+      <Sentence char_offsets="491:621" id="2" />
+      <Sentence char_offsets="632:756" id="3" />
+      <Sentence char_offsets="758:794" id="4" />
+      <Sentence char_offsets="805:924" id="5" />
+      <Sentence char_offsets="926:1111" id="6" />
+      <Sentence char_offsets="1122:1217" id="7" />
+      <Sentence char_offsets="1219:1312" id="8" />
+      <Sentence char_offsets="1323:1477" id="9" />
+      <Sentence char_offsets="1488:1623" id="10" />
+      <Sentence char_offsets="1634:1786" id="11" />
+      <Sentence char_offsets="1797:2057" id="12" />
+      <Sentence char_offsets="2068:2232" id="13" />
+      <Sentence char_offsets="2234:2301" id="14" />
+      <Sentence char_offsets="2303:2326" id="15" />
+      <Sentence char_offsets="2337:2560" id="16" />
+      <Sentence char_offsets="2562:2671" id="17" />
+      <Sentence char_offsets="2682:2732" id="18" />
+      <Sentence char_offsets="2734:2920" id="19" />
+      <Sentence char_offsets="2931:3233" id="20" />
+      <Sentence char_offsets="3244:3345" id="21" />
+      <Sentence char_offsets="3356:3408" id="22" />
+      <Sentence char_offsets="3419:3618" id="23" />
+      <Sentence char_offsets="3620:3667" id="24" />
+      <Sentence char_offsets="3678:3831" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="ongoing" type="010">
+        <Participant actor_id="31299" actor_name="International Crisis Group" role="Source" />
+        <Participant actor_id="30469" actor_name="Guinea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="053">
+        <Participant actor_id="53079" actor_name="African Union" role="Source" />
+        <Participant actor_id="48346" actor_name="Joao Bernardo Vieira" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

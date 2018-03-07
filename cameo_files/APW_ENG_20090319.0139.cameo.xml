@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.0139">
+    <Sentences>
+      <Sentence char_offsets="188:302" id="0" />
+      <Sentence char_offsets="313:480" id="1" />
+      <Sentence char_offsets="491:548" id="2" />
+      <Sentence char_offsets="559:732" id="3" />
+      <Sentence char_offsets="734:888" id="4" />
+      <Sentence char_offsets="899:1115" id="5" />
+      <Sentence char_offsets="1126:1180" id="6" />
+      <Sentence char_offsets="1182:1276" id="7" />
+      <Sentence char_offsets="1287:1446" id="8" />
+      <Sentence char_offsets="1457:1615" id="9" />
+      <Sentence char_offsets="1617:1742" id="10" />
+      <Sentence char_offsets="1744:1834" id="11" />
+      <Sentence char_offsets="1836:1878" id="12" />
+      <Sentence char_offsets="1889:1948" id="13" />
+      <Sentence char_offsets="1959:2021" id="14" />
+      <Sentence char_offsets="2023:2056" id="15" />
+      <Sentence char_offsets="2058:2092" id="16" />
+      <Sentence char_offsets="2094:2153" id="17" />
+      <Sentence char_offsets="2164:2286" id="18" />
+      <Sentence char_offsets="2297:2459" id="19" />
+      <Sentence char_offsets="2461:2587" id="20" />
+      <Sentence char_offsets="2598:2750" id="21" />
+      <Sentence char_offsets="2761:2931" id="22" />
+      <Sentence char_offsets="2942:3113" id="23" />
+      <Sentence char_offsets="3124:3129" id="24" />
+      <Sentence char_offsets="3140:3220" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="121610" actor_name="John Brumby" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

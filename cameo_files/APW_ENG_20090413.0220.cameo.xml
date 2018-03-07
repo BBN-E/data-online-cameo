@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0220">
+    <Sentences>
+      <Sentence char_offsets="181:422" id="0" />
+      <Sentence char_offsets="433:729" id="1" />
+      <Sentence char_offsets="740:951" id="2" />
+      <Sentence char_offsets="962:1219" id="3" />
+      <Sentence char_offsets="1230:1313" id="4" />
+      <Sentence char_offsets="1315:1392" id="5" />
+      <Sentence char_offsets="1403:1713" id="6" />
+      <Sentence char_offsets="1724:1761" id="7" />
+      <Sentence char_offsets="1763:1799" id="8" />
+      <Sentence char_offsets="1810:1985" id="9" />
+      <Sentence char_offsets="1987:2024" id="10" />
+      <Sentence char_offsets="2035:2167" id="11" />
+      <Sentence char_offsets="2178:2314" id="12" />
+      <Sentence char_offsets="2325:2500" id="13" />
+      <Sentence char_offsets="2502:2561" id="14" />
+      <Sentence char_offsets="2572:2735" id="15" />
+      <Sentence char_offsets="2746:2912" id="16" />
+      <Sentence char_offsets="2914:3054" id="17" />
+      <Sentence char_offsets="3065:3303" id="18" />
+      <Sentence char_offsets="3314:3464" id="19" />
+      <Sentence char_offsets="3475:3630" id="20" />
+      <Sentence char_offsets="3641:3687" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="490" actor_name="Kongkrit Hiranyakit" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="historical" type="1041">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="144">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="current" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

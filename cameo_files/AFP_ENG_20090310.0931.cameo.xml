@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0931">
+    <Sentences>
+      <Sentence char_offsets="192:342" id="0" />
+      <Sentence char_offsets="353:560" id="1" />
+      <Sentence char_offsets="571:689" id="2" />
+      <Sentence char_offsets="700:826" id="3" />
+      <Sentence char_offsets="837:1027" id="4" />
+      <Sentence char_offsets="1038:1260" id="5" />
+      <Sentence char_offsets="1271:1494" id="6" />
+      <Sentence char_offsets="1505:1685" id="7" />
+      <Sentence char_offsets="1696:1781" id="8" />
+      <Sentence char_offsets="1792:1927" id="9" />
+      <Sentence char_offsets="1938:2125" id="10" />
+      <Sentence char_offsets="2136:2372" id="11" />
+      <Sentence char_offsets="2383:2494" id="12" />
+      <Sentence char_offsets="2505:2591" id="13" />
+      <Sentence char_offsets="2602:2720" id="14" />
+      <Sentence char_offsets="2731:2864" id="15" />
+      <Sentence char_offsets="2875:2965" id="16" />
+      <Sentence char_offsets="2967:3103" id="17" />
+      <Sentence char_offsets="3114:3321" id="18" />
+      <Sentence char_offsets="3332:3471" id="19" />
+      <Sentence char_offsets="3482:3715" id="20" />
+      <Sentence char_offsets="3726:3826" id="21" />
+      <Sentence char_offsets="3837:3964" id="22" />
+      <Sentence char_offsets="3975:4053" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="657" agent_name="Indigenous People" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" agent_id="657" agent_name="Indigenous People" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

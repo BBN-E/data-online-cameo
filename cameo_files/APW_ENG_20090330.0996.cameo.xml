@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0996">
+    <Sentences>
+      <Sentence char_offsets="185:335" id="0" />
+      <Sentence char_offsets="346:457" id="1" />
+      <Sentence char_offsets="468:549" id="2" />
+      <Sentence char_offsets="560:584" id="3" />
+      <Sentence char_offsets="595:733" id="4" />
+      <Sentence char_offsets="735:851" id="5" />
+      <Sentence char_offsets="862:947" id="6" />
+      <Sentence char_offsets="949:1126" id="7" />
+      <Sentence char_offsets="1137:1306" id="8" />
+      <Sentence char_offsets="1308:1426" id="9" />
+      <Sentence char_offsets="1437:1497" id="10" />
+      <Sentence char_offsets="1508:1645" id="11" />
+      <Sentence char_offsets="1647:1702" id="12" />
+      <Sentence char_offsets="1713:1850" id="13" />
+      <Sentence char_offsets="1861:1977" id="14" />
+      <Sentence char_offsets="1979:2136" id="15" />
+      <Sentence char_offsets="2147:2293" id="16" />
+      <Sentence char_offsets="2304:2445" id="17" />
+      <Sentence char_offsets="2447:2569" id="18" />
+      <Sentence char_offsets="2580:2705" id="19" />
+      <Sentence char_offsets="2716:2901" id="20" />
+      <Sentence char_offsets="2912:3194" id="21" />
+      <Sentence char_offsets="3205:3329" id="22" />
+      <Sentence char_offsets="3331:3520" id="23" />
+      <Sentence char_offsets="3531:3628" id="24" />
+      <Sentence char_offsets="3639:3782" id="25" />
+      <Sentence char_offsets="3784:3858" id="26" />
+      <Sentence char_offsets="3869:3874" id="27" />
+      <Sentence char_offsets="3885:4013" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="neutral" type="042">
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="120">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="current" type="120">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="043">
+        <Participant actor_id="28901" actor_name="Austria" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

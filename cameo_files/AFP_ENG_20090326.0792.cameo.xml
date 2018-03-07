@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0792">
+    <Sentences>
+      <Sentence char_offsets="195:367" id="0" />
+      <Sentence char_offsets="378:554" id="1" />
+      <Sentence char_offsets="565:739" id="2" />
+      <Sentence char_offsets="750:885" id="3" />
+      <Sentence char_offsets="896:1115" id="4" />
+      <Sentence char_offsets="1126:1238" id="5" />
+      <Sentence char_offsets="1249:1404" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="ongoing" type="036">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

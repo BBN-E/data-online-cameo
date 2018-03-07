@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0443">
+    <Sentences>
+      <Sentence char_offsets="198:369" id="0" />
+      <Sentence char_offsets="380:603" id="1" />
+      <Sentence char_offsets="614:907" id="2" />
+      <Sentence char_offsets="918:1077" id="3" />
+      <Sentence char_offsets="1088:1185" id="4" />
+      <Sentence char_offsets="1187:1310" id="5" />
+      <Sentence char_offsets="1321:1557" id="6" />
+      <Sentence char_offsets="1568:1816" id="7" />
+      <Sentence char_offsets="1827:2034" id="8" />
+      <Sentence char_offsets="2045:2186" id="9" />
+      <Sentence char_offsets="2188:2263" id="10" />
+      <Sentence char_offsets="2274:2507" id="11" />
+      <Sentence char_offsets="2518:2770" id="12" />
+      <Sentence char_offsets="2781:2921" id="13" />
+      <Sentence char_offsets="2932:3140" id="14" />
+      <Sentence char_offsets="3151:3384" id="15" />
+      <Sentence char_offsets="3395:3543" id="16" />
+      <Sentence char_offsets="3554:3782" id="17" />
+      <Sentence char_offsets="3793:4025" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="1041">
+        <Participant actor_id="236577" actor_name="Kemal Kilicdaroglu" role="Source" />
+        <Participant actor_id="53796" actor_name="Justice and Development Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

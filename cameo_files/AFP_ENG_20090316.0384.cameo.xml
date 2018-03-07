@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0384">
+    <Sentences>
+      <Sentence char_offsets="197:384" id="0" />
+      <Sentence char_offsets="395:547" id="1" />
+      <Sentence char_offsets="558:651" id="2" />
+      <Sentence char_offsets="662:824" id="3" />
+      <Sentence char_offsets="835:998" id="4" />
+      <Sentence char_offsets="1009:1192" id="5" />
+      <Sentence char_offsets="1203:1295" id="6" />
+      <Sentence char_offsets="1306:1504" id="7" />
+      <Sentence char_offsets="1515:1650" id="8" />
+      <Sentence char_offsets="1661:1883" id="9" />
+      <Sentence char_offsets="1894:1932" id="10" />
+      <Sentence char_offsets="1943:2081" id="11" />
+      <Sentence char_offsets="2092:2189" id="12" />
+      <Sentence char_offsets="2200:2314" id="13" />
+      <Sentence char_offsets="2325:2600" id="14" />
+      <Sentence char_offsets="2611:2764" id="15" />
+      <Sentence char_offsets="2775:2926" id="16" />
+      <Sentence char_offsets="2937:3023" id="17" />
+      <Sentence char_offsets="3034:3254" id="18" />
+      <Sentence char_offsets="3265:3452" id="19" />
+      <Sentence char_offsets="3463:3569" id="20" />
+      <Sentence char_offsets="3580:3741" id="21" />
+      <Sentence char_offsets="3752:3856" id="22" />
+      <Sentence char_offsets="3858:3978" id="23" />
+      <Sentence char_offsets="3989:4129" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="20920" actor_name="Mauricio Funes" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="051">
+        <Participant actor_id="40152" actor_name="El Salvador" role="Source" />
+        <Participant actor_id="40152" actor_name="El Salvador" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

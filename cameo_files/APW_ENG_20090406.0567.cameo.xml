@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0567">
+    <Sentences>
+      <Sentence char_offsets="210:400" id="0" />
+      <Sentence char_offsets="411:624" id="1" />
+      <Sentence char_offsets="635:796" id="2" />
+      <Sentence char_offsets="807:1027" id="3" />
+      <Sentence char_offsets="1029:1094" id="4" />
+      <Sentence char_offsets="1105:1343" id="5" />
+      <Sentence char_offsets="1345:1402" id="6" />
+      <Sentence char_offsets="1413:1720" id="7" />
+      <Sentence char_offsets="1731:1865" id="8" />
+      <Sentence char_offsets="1876:2143" id="9" />
+      <Sentence char_offsets="2154:2339" id="10" />
+      <Sentence char_offsets="2350:2509" id="11" />
+      <Sentence char_offsets="2511:2661" id="12" />
+      <Sentence char_offsets="2672:2875" id="13" />
+      <Sentence char_offsets="2886:2985" id="14" />
+      <Sentence char_offsets="2987:3051" id="15" />
+      <Sentence char_offsets="3062:3136" id="16" />
+      <Sentence char_offsets="3138:3291" id="17" />
+      <Sentence char_offsets="3302:3413" id="18" />
+      <Sentence char_offsets="3415:3541" id="19" />
+      <Sentence char_offsets="3552:3761" id="20" />
+      <Sentence char_offsets="3763:3999" id="21" />
+      <Sentence char_offsets="4010:4216" id="22" />
+      <Sentence char_offsets="4227:4359" id="23" />
+      <Sentence char_offsets="4361:4534" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="historical" type="042">
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="historical" type="043">
+        <Participant actor_id="31393" actor_name="Croatia" role="Source" />
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

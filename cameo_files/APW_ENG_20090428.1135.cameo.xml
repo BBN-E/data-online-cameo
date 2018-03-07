@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1135">
+    <Sentences>
+      <Sentence char_offsets="178:347" id="0" />
+      <Sentence char_offsets="358:462" id="1" />
+      <Sentence char_offsets="473:587" id="2" />
+      <Sentence char_offsets="589:712" id="3" />
+      <Sentence char_offsets="723:897" id="4" />
+      <Sentence char_offsets="908:964" id="5" />
+      <Sentence char_offsets="975:1118" id="6" />
+      <Sentence char_offsets="1120:1223" id="7" />
+      <Sentence char_offsets="1234:1346" id="8" />
+      <Sentence char_offsets="1348:1470" id="9" />
+      <Sentence char_offsets="1481:1642" id="10" />
+      <Sentence char_offsets="1653:1851" id="11" />
+      <Sentence char_offsets="1862:1984" id="12" />
+      <Sentence char_offsets="1986:2077" id="13" />
+      <Sentence char_offsets="2088:2152" id="14" />
+      <Sentence char_offsets="2163:2262" id="15" />
+      <Sentence char_offsets="2264:2336" id="16" />
+      <Sentence char_offsets="2347:2352" id="17" />
+      <Sentence char_offsets="2363:2373" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="33198" actor_name="Finland" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

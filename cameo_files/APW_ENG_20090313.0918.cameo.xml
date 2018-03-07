@@ -1,0 +1,113 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0918">
+    <Sentences>
+      <Sentence char_offsets="184:421" id="0" />
+      <Sentence char_offsets="432:674" id="1" />
+      <Sentence char_offsets="685:765" id="2" />
+      <Sentence char_offsets="767:914" id="3" />
+      <Sentence char_offsets="925:1102" id="4" />
+      <Sentence char_offsets="1104:1231" id="5" />
+      <Sentence char_offsets="1242:1417" id="6" />
+      <Sentence char_offsets="1419:1552" id="7" />
+      <Sentence char_offsets="1563:1700" id="8" />
+      <Sentence char_offsets="1702:1825" id="9" />
+      <Sentence char_offsets="1836:2078" id="10" />
+      <Sentence char_offsets="2080:2146" id="11" />
+      <Sentence char_offsets="2157:2326" id="12" />
+      <Sentence char_offsets="2328:2437" id="13" />
+      <Sentence char_offsets="2448:2669" id="14" />
+      <Sentence char_offsets="2680:2840" id="15" />
+      <Sentence char_offsets="2842:2923" id="16" />
+      <Sentence char_offsets="2934:3040" id="17" />
+      <Sentence char_offsets="3051:3142" id="18" />
+      <Sentence char_offsets="3144:3200" id="19" />
+      <Sentence char_offsets="3211:3373" id="20" />
+      <Sentence char_offsets="3375:3509" id="21" />
+      <Sentence char_offsets="3520:3616" id="22" />
+      <Sentence char_offsets="3627:3891" id="23" />
+      <Sentence char_offsets="3902:4089" id="24" />
+      <Sentence char_offsets="4091:4196" id="25" />
+      <Sentence char_offsets="4207:4367" id="26" />
+      <Sentence char_offsets="4369:4457" id="27" />
+      <Sentence char_offsets="4468:4559" id="28" />
+      <Sentence char_offsets="4561:4642" id="29" />
+      <Sentence char_offsets="4644:4811" id="30" />
+      <Sentence char_offsets="4822:4954" id="31" />
+      <Sentence char_offsets="4965:5110" id="32" />
+      <Sentence char_offsets="5112:5221" id="33" />
+      <Sentence char_offsets="5223:5323" id="34" />
+      <Sentence char_offsets="5334:5339" id="35" />
+      <Sentence char_offsets="5350:5432" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="30" tense="current" type="036">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="current" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="current" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="54368" actor_name="Anne W. Patterson" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="current" type="046">
+        <Participant actor_id="54368" actor_name="Anne W. Patterson" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="4" tense="neutral" type="050">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="neutral" type="120">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="9" sentence_id="24" tense="current" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="449" agent_name="Activist" role="Source" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="neutral" type="1621">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="314" agent_name="People Associated with the Opposition" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="5" tense="historical" type="1721">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="5" tense="historical" type="1721">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="10" tense="current" type="040">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="10" tense="current" type="040">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="54368" actor_name="Anne W. Patterson" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="11" tense="current" type="046">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="54368" actor_name="Anne W. Patterson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

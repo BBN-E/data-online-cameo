@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0576">
+    <Sentences>
+      <Sentence char_offsets="180:346" id="0" />
+      <Sentence char_offsets="357:497" id="1" />
+      <Sentence char_offsets="508:724" id="2" />
+      <Sentence char_offsets="735:882" id="3" />
+      <Sentence char_offsets="893:1038" id="4" />
+      <Sentence char_offsets="1049:1129" id="5" />
+      <Sentence char_offsets="1140:1229" id="6" />
+      <Sentence char_offsets="1231:1318" id="7" />
+      <Sentence char_offsets="1329:1471" id="8" />
+      <Sentence char_offsets="1473:1535" id="9" />
+      <Sentence char_offsets="1546:1718" id="10" />
+      <Sentence char_offsets="1729:1856" id="11" />
+      <Sentence char_offsets="1867:2040" id="12" />
+      <Sentence char_offsets="2051:2194" id="13" />
+      <Sentence char_offsets="2205:2399" id="14" />
+      <Sentence char_offsets="2410:2457" id="15" />
+      <Sentence char_offsets="2468:2626" id="16" />
+      <Sentence char_offsets="2628:2683" id="17" />
+      <Sentence char_offsets="2694:2747" id="18" />
+      <Sentence char_offsets="2758:2925" id="19" />
+      <Sentence char_offsets="2936:3083" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="090">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="158" agent_name="Commando" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="190">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="158" agent_name="Commando" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="historical" type="180">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

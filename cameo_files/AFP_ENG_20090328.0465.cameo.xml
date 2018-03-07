@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0465">
+    <Sentences>
+      <Sentence char_offsets="187:304" id="0" />
+      <Sentence char_offsets="315:456" id="1" />
+      <Sentence char_offsets="467:529" id="2" />
+      <Sentence char_offsets="540:740" id="3" />
+      <Sentence char_offsets="751:856" id="4" />
+      <Sentence char_offsets="867:1029" id="5" />
+      <Sentence char_offsets="1040:1146" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="394" agent_name="Separatist Militant" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

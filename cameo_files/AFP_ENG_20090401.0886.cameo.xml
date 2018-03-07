@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0886">
+    <Sentences>
+      <Sentence char_offsets="182:383" id="0" />
+      <Sentence char_offsets="394:602" id="1" />
+      <Sentence char_offsets="613:795" id="2" />
+      <Sentence char_offsets="806:1030" id="3" />
+      <Sentence char_offsets="1041:1200" id="4" />
+      <Sentence char_offsets="1211:1424" id="5" />
+      <Sentence char_offsets="1435:1586" id="6" />
+      <Sentence char_offsets="1597:1752" id="7" />
+      <Sentence char_offsets="1763:1842" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="032">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="032">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="036">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

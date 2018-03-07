@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0722">
+    <Sentences>
+      <Sentence char_offsets="181:351" id="0" />
+      <Sentence char_offsets="362:583" id="1" />
+      <Sentence char_offsets="594:691" id="2" />
+      <Sentence char_offsets="702:865" id="3" />
+      <Sentence char_offsets="876:1012" id="4" />
+      <Sentence char_offsets="1023:1062" id="5" />
+      <Sentence char_offsets="1064:1147" id="6" />
+      <Sentence char_offsets="1158:1364" id="7" />
+      <Sentence char_offsets="1375:1572" id="8" />
+      <Sentence char_offsets="1583:1660" id="9" />
+      <Sentence char_offsets="1671:1934" id="10" />
+      <Sentence char_offsets="1945:2058" id="11" />
+      <Sentence char_offsets="2069:2289" id="12" />
+      <Sentence char_offsets="2300:2411" id="13" />
+      <Sentence char_offsets="2413:2513" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="56792" actor_name="Yasukazu Hamada" role="Source" />
+        <Participant actor_id="56841" actor_name="Hirofumi Nakasone" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="130">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="current" type="130">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

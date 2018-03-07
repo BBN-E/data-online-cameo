@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0076">
+    <Sentences>
+      <Sentence char_offsets="182:373" id="0" />
+      <Sentence char_offsets="384:614" id="1" />
+      <Sentence char_offsets="625:857" id="2" />
+      <Sentence char_offsets="868:1060" id="3" />
+      <Sentence char_offsets="1071:1284" id="4" />
+      <Sentence char_offsets="1295:1451" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="041">
+        <Participant actor_id="51884" actor_name="Nancy Pelosi" role="Source" />
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="041">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="51884" actor_name="Nancy Pelosi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

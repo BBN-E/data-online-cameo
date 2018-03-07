@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090307.0390">
+    <Sentences>
+      <Sentence char_offsets="177:361" id="0" />
+      <Sentence char_offsets="372:591" id="1" />
+      <Sentence char_offsets="602:789" id="2" />
+      <Sentence char_offsets="800:1030" id="3" />
+      <Sentence char_offsets="1041:1248" id="4" />
+      <Sentence char_offsets="1259:1488" id="5" />
+      <Sentence char_offsets="1499:1725" id="6" />
+      <Sentence char_offsets="1736:1946" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="13920" actor_name="Ehud Olmert" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="010">
+        <Participant actor_id="13920" actor_name="Ehud Olmert" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

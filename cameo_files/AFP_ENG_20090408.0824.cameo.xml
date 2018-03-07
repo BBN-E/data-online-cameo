@@ -1,0 +1,119 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0824">
+    <Sentences>
+      <Sentence char_offsets="176:365" id="0" />
+      <Sentence char_offsets="376:568" id="1" />
+      <Sentence char_offsets="579:787" id="2" />
+      <Sentence char_offsets="798:859" id="3" />
+      <Sentence char_offsets="861:922" id="4" />
+      <Sentence char_offsets="933:1159" id="5" />
+      <Sentence char_offsets="1170:1297" id="6" />
+      <Sentence char_offsets="1299:1393" id="7" />
+      <Sentence char_offsets="1404:1583" id="8" />
+      <Sentence char_offsets="1594:1674" id="9" />
+      <Sentence char_offsets="1676:1793" id="10" />
+      <Sentence char_offsets="1804:1958" id="11" />
+      <Sentence char_offsets="1969:2095" id="12" />
+      <Sentence char_offsets="2106:2298" id="13" />
+      <Sentence char_offsets="2309:2435" id="14" />
+      <Sentence char_offsets="2446:2542" id="15" />
+      <Sentence char_offsets="2553:2772" id="16" />
+      <Sentence char_offsets="2783:2994" id="17" />
+      <Sentence char_offsets="3005:3061" id="18" />
+      <Sentence char_offsets="3072:3246" id="19" />
+      <Sentence char_offsets="3248:3335" id="20" />
+      <Sentence char_offsets="3346:3444" id="21" />
+      <Sentence char_offsets="3455:3502" id="22" />
+      <Sentence char_offsets="3513:3681" id="23" />
+      <Sentence char_offsets="3692:3726" id="24" />
+      <Sentence char_offsets="3728:3896" id="25" />
+      <Sentence char_offsets="3907:4039" id="26" />
+      <Sentence char_offsets="4050:4168" id="27" />
+      <Sentence char_offsets="4179:4383" id="28" />
+      <Sentence char_offsets="4394:4604" id="29" />
+      <Sentence char_offsets="4615:4732" id="30" />
+      <Sentence char_offsets="4743:4901" id="31" />
+      <Sentence char_offsets="4912:5043" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="23" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="26" tense="historical" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="042">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="30" tense="neutral" type="042">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="14" tense="historical" type="057">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="14" tense="historical" type="057">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="32" tense="historical" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="27" tense="neutral" type="040">
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="23" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="26" tense="historical" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="26" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="30" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

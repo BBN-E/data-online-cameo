@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0297">
+    <Sentences>
+      <Sentence char_offsets="179:384" id="0" />
+      <Sentence char_offsets="395:502" id="1" />
+      <Sentence char_offsets="513:692" id="2" />
+      <Sentence char_offsets="703:919" id="3" />
+      <Sentence char_offsets="930:1006" id="4" />
+      <Sentence char_offsets="1017:1121" id="5" />
+      <Sentence char_offsets="1132:1304" id="6" />
+      <Sentence char_offsets="1315:1496" id="7" />
+      <Sentence char_offsets="1507:1623" id="8" />
+      <Sentence char_offsets="1634:1815" id="9" />
+      <Sentence char_offsets="1826:2013" id="10" />
+      <Sentence char_offsets="2024:2234" id="11" />
+      <Sentence char_offsets="2245:2450" id="12" />
+      <Sentence char_offsets="2461:2556" id="13" />
+      <Sentence char_offsets="2567:2670" id="14" />
+      <Sentence char_offsets="2681:2851" id="15" />
+      <Sentence char_offsets="2862:3029" id="16" />
+      <Sentence char_offsets="3040:3212" id="17" />
+      <Sentence char_offsets="3223:3287" id="18" />
+      <Sentence char_offsets="3289:3376" id="19" />
+      <Sentence char_offsets="3387:3464" id="20" />
+      <Sentence char_offsets="3466:3511" id="21" />
+      <Sentence char_offsets="3522:3734" id="22" />
+      <Sentence char_offsets="3745:3937" id="23" />
+      <Sentence char_offsets="3948:4089" id="24" />
+      <Sentence char_offsets="4100:4229" id="25" />
+      <Sentence char_offsets="4240:4401" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="139">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="historical" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="25" tense="neutral" type="170">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

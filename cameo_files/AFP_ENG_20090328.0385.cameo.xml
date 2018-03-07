@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0385">
+    <Sentences>
+      <Sentence char_offsets="200:373" id="0" />
+      <Sentence char_offsets="384:610" id="1" />
+      <Sentence char_offsets="621:816" id="2" />
+      <Sentence char_offsets="827:1003" id="3" />
+      <Sentence char_offsets="1014:1117" id="4" />
+      <Sentence char_offsets="1128:1222" id="5" />
+      <Sentence char_offsets="1224:1270" id="6" />
+      <Sentence char_offsets="1281:1484" id="7" />
+      <Sentence char_offsets="1495:1667" id="8" />
+      <Sentence char_offsets="1678:1885" id="9" />
+      <Sentence char_offsets="1896:2082" id="10" />
+      <Sentence char_offsets="2093:2206" id="11" />
+      <Sentence char_offsets="2217:2315" id="12" />
+      <Sentence char_offsets="2326:2464" id="13" />
+      <Sentence char_offsets="2475:2566" id="14" />
+      <Sentence char_offsets="2577:2687" id="15" />
+      <Sentence char_offsets="2689:2802" id="16" />
+      <Sentence char_offsets="2813:2981" id="17" />
+      <Sentence char_offsets="2983:3084" id="18" />
+      <Sentence char_offsets="3095:3207" id="19" />
+      <Sentence char_offsets="3218:3354" id="20" />
+      <Sentence char_offsets="3365:3500" id="21" />
+      <Sentence char_offsets="3511:3664" id="22" />
+      <Sentence char_offsets="3675:3889" id="23" />
+      <Sentence char_offsets="3900:4072" id="24" />
+      <Sentence char_offsets="4083:4233" id="25" />
+      <Sentence char_offsets="4235:4282" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="40963" actor_name="Ronnie Puno" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="40963" actor_name="Ronnie Puno" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="246" agent_name="Militia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="036">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="current" type="036">
+        <Participant actor_id="40963" actor_name="Ronnie Puno" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="204125" actor_name="Abdusakur Tan" role="Source" />
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="0841">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="current" type="138">
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Source" />
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" agent_id="193" agent_name="Islamic Militant" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="26" tense="neutral" type="1823">
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Source" />
+        <Participant actor_id="204125" actor_name="Abdusakur Tan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

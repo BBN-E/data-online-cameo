@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.1370">
+    <Sentences>
+      <Sentence char_offsets="200:433" id="0" />
+      <Sentence char_offsets="444:651" id="1" />
+      <Sentence char_offsets="662:765" id="2" />
+      <Sentence char_offsets="776:972" id="3" />
+      <Sentence char_offsets="983:1089" id="4" />
+      <Sentence char_offsets="1091:1168" id="5" />
+      <Sentence char_offsets="1179:1409" id="6" />
+      <Sentence char_offsets="1411:1527" id="7" />
+      <Sentence char_offsets="1538:1626" id="8" />
+      <Sentence char_offsets="1637:1715" id="9" />
+      <Sentence char_offsets="1717:1797" id="10" />
+      <Sentence char_offsets="1808:1966" id="11" />
+      <Sentence char_offsets="1977:2106" id="12" />
+      <Sentence char_offsets="2117:2160" id="13" />
+      <Sentence char_offsets="2171:2398" id="14" />
+      <Sentence char_offsets="2409:2489" id="15" />
+      <Sentence char_offsets="2500:2653" id="16" />
+      <Sentence char_offsets="2664:2822" id="17" />
+      <Sentence char_offsets="2833:2986" id="18" />
+      <Sentence char_offsets="2988:3084" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="33941" actor_name="Department of Veteran's Affairs" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

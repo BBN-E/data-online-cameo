@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0666">
+    <Sentences>
+      <Sentence char_offsets="177:340" id="0" />
+      <Sentence char_offsets="351:465" id="1" />
+      <Sentence char_offsets="467:637" id="2" />
+      <Sentence char_offsets="648:733" id="3" />
+      <Sentence char_offsets="735:823" id="4" />
+      <Sentence char_offsets="834:939" id="5" />
+      <Sentence char_offsets="941:1067" id="6" />
+      <Sentence char_offsets="1078:1206" id="7" />
+      <Sentence char_offsets="1217:1315" id="8" />
+      <Sentence char_offsets="1317:1385" id="9" />
+      <Sentence char_offsets="1396:1543" id="10" />
+      <Sentence char_offsets="1554:1690" id="11" />
+      <Sentence char_offsets="1701:1976" id="12" />
+      <Sentence char_offsets="1987:2140" id="13" />
+      <Sentence char_offsets="2142:2185" id="14" />
+      <Sentence char_offsets="2196:2373" id="15" />
+      <Sentence char_offsets="2384:2456" id="16" />
+      <Sentence char_offsets="2458:2561" id="17" />
+      <Sentence char_offsets="2572:2605" id="18" />
+      <Sentence char_offsets="2607:2765" id="19" />
+      <Sentence char_offsets="2776:2906" id="20" />
+      <Sentence char_offsets="2917:3096" id="21" />
+      <Sentence char_offsets="3098:3176" id="22" />
+      <Sentence char_offsets="3187:3268" id="23" />
+      <Sentence char_offsets="3279:3406" id="24" />
+      <Sentence char_offsets="3417:3567" id="25" />
+      <Sentence char_offsets="3578:3730" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="714" agent_name="Children" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="neutral" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

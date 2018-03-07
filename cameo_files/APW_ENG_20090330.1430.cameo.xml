@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.1430">
+    <Sentences>
+      <Sentence char_offsets="203:376" id="0" />
+      <Sentence char_offsets="387:552" id="1" />
+      <Sentence char_offsets="554:696" id="2" />
+      <Sentence char_offsets="707:823" id="3" />
+      <Sentence char_offsets="834:944" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="030">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="28823" actor_name="Argentina" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="030">
+        <Participant actor_id="28823" actor_name="Argentina" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="25487" actor_name="Inter-American Development Bank" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32283" actor_name="Belarus" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="32659" actor_name="Colombia" role="Source" />
+        <Participant actor_id="25487" actor_name="Inter-American Development Bank" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32283" actor_name="Belarus" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

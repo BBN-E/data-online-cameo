@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090327.0113">
+    <Sentences>
+      <Sentence char_offsets="172:355" id="0" />
+      <Sentence char_offsets="366:607" id="1" />
+      <Sentence char_offsets="609:670" id="2" />
+      <Sentence char_offsets="681:863" id="3" />
+      <Sentence char_offsets="874:1081" id="4" />
+      <Sentence char_offsets="1083:1224" id="5" />
+      <Sentence char_offsets="1226:1294" id="6" />
+      <Sentence char_offsets="1296:1322" id="7" />
+      <Sentence char_offsets="1333:1519" id="8" />
+      <Sentence char_offsets="1521:1579" id="9" />
+      <Sentence char_offsets="1590:1791" id="10" />
+      <Sentence char_offsets="1793:1849" id="11" />
+      <Sentence char_offsets="1860:2006" id="12" />
+      <Sentence char_offsets="2008:2048" id="13" />
+      <Sentence char_offsets="2059:2119" id="14" />
+      <Sentence char_offsets="2130:2277" id="15" />
+      <Sentence char_offsets="2288:2510" id="16" />
+      <Sentence char_offsets="2512:2613" id="17" />
+      <Sentence char_offsets="2624:2766" id="18" />
+      <Sentence char_offsets="2768:2845" id="19" />
+      <Sentence char_offsets="2856:2927" id="20" />
+      <Sentence char_offsets="2929:3034" id="21" />
+      <Sentence char_offsets="3036:3056" id="22" />
+      <Sentence char_offsets="3067:3189" id="23" />
+      <Sentence char_offsets="3191:3225" id="24" />
+      <Sentence char_offsets="3227:3328" id="25" />
+      <Sentence char_offsets="3339:3430" id="26" />
+      <Sentence char_offsets="3441:3661" id="27" />
+      <Sentence char_offsets="3663:3864" id="28" />
+      <Sentence char_offsets="3875:4076" id="29" />
+      <Sentence char_offsets="4087:4240" id="30" />
+      <Sentence char_offsets="4242:4284" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="018">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="060">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

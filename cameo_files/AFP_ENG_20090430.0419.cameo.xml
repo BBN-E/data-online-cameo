@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0419">
+    <Sentences>
+      <Sentence char_offsets="187:366" id="0" />
+      <Sentence char_offsets="377:604" id="1" />
+      <Sentence char_offsets="615:653" id="2" />
+      <Sentence char_offsets="664:821" id="3" />
+      <Sentence char_offsets="832:1005" id="4" />
+      <Sentence char_offsets="1016:1110" id="5" />
+      <Sentence char_offsets="1121:1319" id="6" />
+      <Sentence char_offsets="1330:1420" id="7" />
+      <Sentence char_offsets="1431:1564" id="8" />
+      <Sentence char_offsets="1575:1632" id="9" />
+      <Sentence char_offsets="1643:1694" id="10" />
+      <Sentence char_offsets="1696:1800" id="11" />
+      <Sentence char_offsets="1811:1925" id="12" />
+      <Sentence char_offsets="1936:1964" id="13" />
+      <Sentence char_offsets="1966:2089" id="14" />
+      <Sentence char_offsets="2100:2321" id="15" />
+      <Sentence char_offsets="2332:2534" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="112">
+        <Participant actor_id="51785" actor_name="Syed Ali Shah Geelani" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="154">
+        <Participant actor_id="31081" actor_name="India" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

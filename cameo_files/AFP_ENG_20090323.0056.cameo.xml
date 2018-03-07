@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0056">
+    <Sentences>
+      <Sentence char_offsets="189:372" id="0" />
+      <Sentence char_offsets="383:561" id="1" />
+      <Sentence char_offsets="572:843" id="2" />
+      <Sentence char_offsets="854:1012" id="3" />
+      <Sentence char_offsets="1023:1311" id="4" />
+      <Sentence char_offsets="1322:1543" id="5" />
+      <Sentence char_offsets="1554:1721" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33931" actor_name="Federal Reserve" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

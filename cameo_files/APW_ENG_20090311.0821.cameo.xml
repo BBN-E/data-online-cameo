@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0821">
+    <Sentences>
+      <Sentence char_offsets="184:468" id="0" />
+      <Sentence char_offsets="479:647" id="1" />
+      <Sentence char_offsets="649:779" id="2" />
+      <Sentence char_offsets="790:986" id="3" />
+      <Sentence char_offsets="997:1107" id="4" />
+      <Sentence char_offsets="1109:1272" id="5" />
+      <Sentence char_offsets="1283:1469" id="6" />
+      <Sentence char_offsets="1471:1563" id="7" />
+      <Sentence char_offsets="1574:1825" id="8" />
+      <Sentence char_offsets="1827:1920" id="9" />
+      <Sentence char_offsets="1931:2129" id="10" />
+      <Sentence char_offsets="2140:2386" id="11" />
+      <Sentence char_offsets="2397:2450" id="12" />
+      <Sentence char_offsets="2461:2599" id="13" />
+      <Sentence char_offsets="2601:2649" id="14" />
+      <Sentence char_offsets="2660:2843" id="15" />
+      <Sentence char_offsets="2854:2984" id="16" />
+      <Sentence char_offsets="2986:3058" id="17" />
+      <Sentence char_offsets="3069:3282" id="18" />
+      <Sentence char_offsets="3284:3484" id="19" />
+      <Sentence char_offsets="3495:3787" id="20" />
+      <Sentence char_offsets="3798:3969" id="21" />
+      <Sentence char_offsets="3971:4060" id="22" />
+      <Sentence char_offsets="4071:4253" id="23" />
+      <Sentence char_offsets="4255:4330" id="24" />
+      <Sentence char_offsets="4341:4549" id="25" />
+      <Sentence char_offsets="4551:4644" id="26" />
+      <Sentence char_offsets="4655:4817" id="27" />
+      <Sentence char_offsets="4828:4925" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="112">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="1241">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="684" agent_name="Appeals Court" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="173">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="684" agent_name="Appeals Court" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

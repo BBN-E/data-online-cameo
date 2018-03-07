@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0163">
+    <Sentences>
+      <Sentence char_offsets="174:362" id="0" />
+      <Sentence char_offsets="373:599" id="1" />
+      <Sentence char_offsets="610:831" id="2" />
+      <Sentence char_offsets="842:1032" id="3" />
+      <Sentence char_offsets="1043:1270" id="4" />
+      <Sentence char_offsets="1281:1498" id="5" />
+      <Sentence char_offsets="1509:1734" id="6" />
+      <Sentence char_offsets="1745:1838" id="7" />
+      <Sentence char_offsets="1849:2019" id="8" />
+      <Sentence char_offsets="2030:2250" id="9" />
+      <Sentence char_offsets="2261:2466" id="10" />
+      <Sentence char_offsets="2477:2697" id="11" />
+      <Sentence char_offsets="2708:2881" id="12" />
+      <Sentence char_offsets="2892:3069" id="13" />
+      <Sentence char_offsets="3080:3224" id="14" />
+      <Sentence char_offsets="3235:3439" id="15" />
+      <Sentence char_offsets="3450:3643" id="16" />
+      <Sentence char_offsets="3654:3801" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

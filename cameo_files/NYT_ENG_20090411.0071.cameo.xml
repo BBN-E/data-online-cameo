@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090411.0071">
+    <Sentences>
+      <Sentence char_offsets="167:366" id="0" />
+      <Sentence char_offsets="377:569" id="1" />
+      <Sentence char_offsets="571:804" id="2" />
+      <Sentence char_offsets="806:950" id="3" />
+      <Sentence char_offsets="961:1036" id="4" />
+      <Sentence char_offsets="1047:1213" id="5" />
+      <Sentence char_offsets="1215:1400" id="6" />
+      <Sentence char_offsets="1411:1492" id="7" />
+      <Sentence char_offsets="1494:1558" id="8" />
+      <Sentence char_offsets="1569:1735" id="9" />
+      <Sentence char_offsets="1746:1926" id="10" />
+      <Sentence char_offsets="1937:2087" id="11" />
+      <Sentence char_offsets="2089:2171" id="12" />
+      <Sentence char_offsets="2182:2403" id="13" />
+      <Sentence char_offsets="2405:2630" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

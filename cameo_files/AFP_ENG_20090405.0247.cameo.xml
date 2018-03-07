@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0247">
+    <Sentences>
+      <Sentence char_offsets="180:347" id="0" />
+      <Sentence char_offsets="358:576" id="1" />
+      <Sentence char_offsets="587:758" id="2" />
+      <Sentence char_offsets="769:951" id="3" />
+      <Sentence char_offsets="962:1185" id="4" />
+      <Sentence char_offsets="1196:1369" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="1721">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="29193" actor_name="Muslim Brotherhood" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

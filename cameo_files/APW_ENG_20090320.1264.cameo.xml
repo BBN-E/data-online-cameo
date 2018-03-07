@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.1264">
+    <Sentences>
+      <Sentence char_offsets="199:437" id="0" />
+      <Sentence char_offsets="448:559" id="1" />
+      <Sentence char_offsets="570:703" id="2" />
+      <Sentence char_offsets="705:776" id="3" />
+      <Sentence char_offsets="787:1030" id="4" />
+      <Sentence char_offsets="1041:1199" id="5" />
+      <Sentence char_offsets="1210:1282" id="6" />
+      <Sentence char_offsets="1293:1415" id="7" />
+      <Sentence char_offsets="1417:1449" id="8" />
+      <Sentence char_offsets="1460:1656" id="9" />
+      <Sentence char_offsets="1658:1783" id="10" />
+      <Sentence char_offsets="1794:1843" id="11" />
+      <Sentence char_offsets="1854:1968" id="12" />
+      <Sentence char_offsets="1979:2074" id="13" />
+      <Sentence char_offsets="2076:2297" id="14" />
+      <Sentence char_offsets="2308:2429" id="15" />
+      <Sentence char_offsets="2431:2578" id="16" />
+      <Sentence char_offsets="2589:2645" id="17" />
+      <Sentence char_offsets="2656:2787" id="18" />
+      <Sentence char_offsets="2798:2949" id="19" />
+      <Sentence char_offsets="2960:3041" id="20" />
+      <Sentence char_offsets="3052:3242" id="21" />
+      <Sentence char_offsets="3244:3316" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="016">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="113" agent_name="Oversight Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="080">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

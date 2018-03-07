@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0455">
+    <Sentences>
+      <Sentence char_offsets="171:334" id="0" />
+      <Sentence char_offsets="345:505" id="1" />
+      <Sentence char_offsets="516:571" id="2" />
+      <Sentence char_offsets="573:679" id="3" />
+      <Sentence char_offsets="690:888" id="4" />
+      <Sentence char_offsets="899:1039" id="5" />
+      <Sentence char_offsets="1050:1170" id="6" />
+      <Sentence char_offsets="1181:1363" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="29298" actor_name="Naruhito" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="29298" actor_name="Naruhito" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="29298" actor_name="Naruhito" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="historical" type="042">
+        <Participant actor_id="29298" actor_name="Naruhito" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="29298" actor_name="Naruhito" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="historical" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="29298" actor_name="Naruhito" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

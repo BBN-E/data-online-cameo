@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.0270">
+    <Sentences>
+      <Sentence char_offsets="198:386" id="0" />
+      <Sentence char_offsets="397:584" id="1" />
+      <Sentence char_offsets="595:773" id="2" />
+      <Sentence char_offsets="784:928" id="3" />
+      <Sentence char_offsets="930:1008" id="4" />
+      <Sentence char_offsets="1019:1078" id="5" />
+      <Sentence char_offsets="1080:1169" id="6" />
+      <Sentence char_offsets="1180:1283" id="7" />
+      <Sentence char_offsets="1285:1422" id="8" />
+      <Sentence char_offsets="1433:1650" id="9" />
+      <Sentence char_offsets="1652:1708" id="10" />
+      <Sentence char_offsets="1719:1876" id="11" />
+      <Sentence char_offsets="1887:1954" id="12" />
+      <Sentence char_offsets="1956:2096" id="13" />
+      <Sentence char_offsets="2107:2266" id="14" />
+      <Sentence char_offsets="2277:2363" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="41376" actor_name="CARE International" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="010">
+        <Participant actor_id="41376" actor_name="CARE International" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.1087">
+    <Sentences>
+      <Sentence char_offsets="186:362" id="0" />
+      <Sentence char_offsets="373:402" id="1" />
+      <Sentence char_offsets="404:579" id="2" />
+      <Sentence char_offsets="590:797" id="3" />
+      <Sentence char_offsets="808:986" id="4" />
+      <Sentence char_offsets="997:1155" id="5" />
+      <Sentence char_offsets="1166:1425" id="6" />
+      <Sentence char_offsets="1436:1657" id="7" />
+      <Sentence char_offsets="1668:1870" id="8" />
+      <Sentence char_offsets="1881:2061" id="9" />
+      <Sentence char_offsets="2072:2332" id="10" />
+      <Sentence char_offsets="2343:2513" id="11" />
+      <Sentence char_offsets="2515:2720" id="12" />
+      <Sentence char_offsets="2722:2805" id="13" />
+      <Sentence char_offsets="2816:3097" id="14" />
+      <Sentence char_offsets="3099:3210" id="15" />
+      <Sentence char_offsets="3221:3456" id="16" />
+      <Sentence char_offsets="3467:3675" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="035">
+        <Participant actor_id="31863" actor_name="Ireland" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

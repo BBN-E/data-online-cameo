@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0396">
+    <Sentences>
+      <Sentence char_offsets="164:323" id="0" />
+      <Sentence char_offsets="334:574" id="1" />
+      <Sentence char_offsets="576:655" id="2" />
+      <Sentence char_offsets="666:842" id="3" />
+      <Sentence char_offsets="844:1008" id="4" />
+      <Sentence char_offsets="1019:1084" id="5" />
+      <Sentence char_offsets="1086:1134" id="6" />
+      <Sentence char_offsets="1136:1280" id="7" />
+      <Sentence char_offsets="1282:1384" id="8" />
+      <Sentence char_offsets="1386:1543" id="9" />
+      <Sentence char_offsets="1554:1619" id="10" />
+      <Sentence char_offsets="1621:1649" id="11" />
+      <Sentence char_offsets="1660:1752" id="12" />
+      <Sentence char_offsets="1754:1797" id="13" />
+      <Sentence char_offsets="1808:1899" id="14" />
+      <Sentence char_offsets="1910:2046" id="15" />
+      <Sentence char_offsets="2057:2129" id="16" />
+      <Sentence char_offsets="2140:2209" id="17" />
+      <Sentence char_offsets="2220:2345" id="18" />
+      <Sentence char_offsets="2347:2463" id="19" />
+      <Sentence char_offsets="2474:2536" id="20" />
+      <Sentence char_offsets="2547:2662" id="21" />
+      <Sentence char_offsets="2673:2779" id="22" />
+      <Sentence char_offsets="2790:2856" id="23" />
+      <Sentence char_offsets="2858:2957" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="190">
+        <Participant actor_id="35390" actor_name="Rwanda" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="35390" actor_name="Rwanda" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="192">
+        <Participant actor_id="29939" actor_name="Rwandan Patriotic Front" role="Source" />
+        <Participant actor_id="35390" actor_name="Rwanda" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0525">
+    <Sentences>
+      <Sentence char_offsets="194:371" id="0" />
+      <Sentence char_offsets="382:568" id="1" />
+      <Sentence char_offsets="579:719" id="2" />
+      <Sentence char_offsets="730:925" id="3" />
+      <Sentence char_offsets="936:1149" id="4" />
+      <Sentence char_offsets="1160:1197" id="5" />
+      <Sentence char_offsets="1199:1347" id="6" />
+      <Sentence char_offsets="1358:1383" id="7" />
+      <Sentence char_offsets="1385:1417" id="8" />
+      <Sentence char_offsets="1419:1486" id="9" />
+      <Sentence char_offsets="1497:1715" id="10" />
+      <Sentence char_offsets="1726:1950" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="1041">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="235679" actor_name="Pakatan Rakyat" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="172">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="173">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="282" agent_name="Blogger" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

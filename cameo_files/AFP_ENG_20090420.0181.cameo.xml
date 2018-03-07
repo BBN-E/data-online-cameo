@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0181">
+    <Sentences>
+      <Sentence char_offsets="187:385" id="0" />
+      <Sentence char_offsets="396:652" id="1" />
+      <Sentence char_offsets="663:939" id="2" />
+      <Sentence char_offsets="950:1118" id="3" />
+      <Sentence char_offsets="1129:1360" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="32428" actor_name="Czech Republic" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0705">
+    <Sentences>
+      <Sentence char_offsets="167:354" id="0" />
+      <Sentence char_offsets="365:564" id="1" />
+      <Sentence char_offsets="575:742" id="2" />
+      <Sentence char_offsets="753:834" id="3" />
+      <Sentence char_offsets="836:975" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="current" type="036">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="current" type="036">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

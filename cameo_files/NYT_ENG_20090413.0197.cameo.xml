@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090413.0197">
+    <Sentences>
+      <Sentence char_offsets="156:437" id="0" />
+      <Sentence char_offsets="448:613" id="1" />
+      <Sentence char_offsets="615:795" id="2" />
+      <Sentence char_offsets="806:952" id="3" />
+      <Sentence char_offsets="954:1099" id="4" />
+      <Sentence char_offsets="1110:1338" id="5" />
+      <Sentence char_offsets="1349:1520" id="6" />
+      <Sentence char_offsets="1522:1660" id="7" />
+      <Sentence char_offsets="1671:1868" id="8" />
+      <Sentence char_offsets="1879:1989" id="9" />
+      <Sentence char_offsets="2000:2239" id="10" />
+      <Sentence char_offsets="2250:2315" id="11" />
+      <Sentence char_offsets="2317:2334" id="12" />
+      <Sentence char_offsets="2336:2536" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="52435" actor_name="Lincoln Diaz-Balart" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="36182" actor_name="Latin America" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="36182" actor_name="Latin America" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

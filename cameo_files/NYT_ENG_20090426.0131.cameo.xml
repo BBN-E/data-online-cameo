@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090426.0131">
+    <Sentences>
+      <Sentence char_offsets="128:281" id="0" />
+      <Sentence char_offsets="292:389" id="1" />
+      <Sentence char_offsets="391:489" id="2" />
+      <Sentence char_offsets="500:737" id="3" />
+      <Sentence char_offsets="748:883" id="4" />
+      <Sentence char_offsets="894:973" id="5" />
+      <Sentence char_offsets="975:1162" id="6" />
+      <Sentence char_offsets="1173:1254" id="7" />
+      <Sentence char_offsets="1256:1429" id="8" />
+      <Sentence char_offsets="1440:1697" id="9" />
+      <Sentence char_offsets="1708:1767" id="10" />
+      <Sentence char_offsets="1769:1828" id="11" />
+      <Sentence char_offsets="1839:2009" id="12" />
+      <Sentence char_offsets="2011:2255" id="13" />
+      <Sentence char_offsets="2266:2335" id="14" />
+      <Sentence char_offsets="2337:2430" id="15" />
+      <Sentence char_offsets="2432:2499" id="16" />
+      <Sentence char_offsets="2501:2592" id="17" />
+      <Sentence char_offsets="2603:2833" id="18" />
+      <Sentence char_offsets="2844:3105" id="19" />
+      <Sentence char_offsets="3116:3218" id="20" />
+      <Sentence char_offsets="3220:3267" id="21" />
+      <Sentence char_offsets="3278:3434" id="22" />
+      <Sentence char_offsets="3436:3536" id="23" />
+      <Sentence char_offsets="3538:3622" id="24" />
+      <Sentence char_offsets="3624:3697" id="25" />
+      <Sentence char_offsets="3708:3907" id="26" />
+      <Sentence char_offsets="3918:4054" id="27" />
+      <Sentence char_offsets="4065:4163" id="28" />
+      <Sentence char_offsets="4174:4394" id="29" />
+      <Sentence char_offsets="4405:4518" id="30" />
+      <Sentence char_offsets="4520:4689" id="31" />
+      <Sentence char_offsets="4700:4781" id="32" />
+      <Sentence char_offsets="4792:5005" id="33" />
+      <Sentence char_offsets="5007:5082" id="34" />
+      <Sentence char_offsets="5093:5345" id="35" />
+      <Sentence char_offsets="5347:5503" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="36" tense="historical" type="061">
+        <Participant actor_id="55287" actor_name="General Electric" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0364">
+    <Sentences>
+      <Sentence char_offsets="186:367" id="0" />
+      <Sentence char_offsets="378:630" id="1" />
+      <Sentence char_offsets="641:828" id="2" />
+      <Sentence char_offsets="839:1071" id="3" />
+      <Sentence char_offsets="1082:1155" id="4" />
+      <Sentence char_offsets="1166:1249" id="5" />
+      <Sentence char_offsets="1260:1438" id="6" />
+      <Sentence char_offsets="1449:1578" id="7" />
+      <Sentence char_offsets="1589:1692" id="8" />
+      <Sentence char_offsets="1694:1768" id="9" />
+      <Sentence char_offsets="1779:1918" id="10" />
+      <Sentence char_offsets="1929:2160" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090417.0131">
+    <Sentences>
+      <Sentence char_offsets="92:116" id="0" />
+      <Sentence char_offsets="126:145" id="1" />
+      <Sentence char_offsets="154:183" id="2" />
+      <Sentence char_offsets="194:402" id="3" />
+      <Sentence char_offsets="413:651" id="4" />
+      <Sentence char_offsets="662:754" id="5" />
+      <Sentence char_offsets="756:952" id="6" />
+      <Sentence char_offsets="963:1085" id="7" />
+      <Sentence char_offsets="1096:1150" id="8" />
+      <Sentence char_offsets="1152:1198" id="9" />
+      <Sentence char_offsets="1209:1510" id="10" />
+      <Sentence char_offsets="1521:1607" id="11" />
+      <Sentence char_offsets="1618:1734" id="12" />
+      <Sentence char_offsets="1745:1859" id="13" />
+      <Sentence char_offsets="1861:1939" id="14" />
+      <Sentence char_offsets="1950:2149" id="15" />
+      <Sentence char_offsets="2160:2312" id="16" />
+      <Sentence char_offsets="2314:2586" id="17" />
+      <Sentence char_offsets="2597:2763" id="18" />
+      <Sentence char_offsets="2774:2859" id="19" />
+      <Sentence char_offsets="2870:3052" id="20" />
+      <Sentence char_offsets="3054:3169" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="366" agent_name="Industry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

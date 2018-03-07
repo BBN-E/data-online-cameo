@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0115">
+    <Sentences>
+      <Sentence char_offsets="194:353" id="0" />
+      <Sentence char_offsets="364:466" id="1" />
+      <Sentence char_offsets="477:631" id="2" />
+      <Sentence char_offsets="633:680" id="3" />
+      <Sentence char_offsets="691:816" id="4" />
+      <Sentence char_offsets="827:875" id="5" />
+      <Sentence char_offsets="877:922" id="6" />
+      <Sentence char_offsets="933:1127" id="7" />
+      <Sentence char_offsets="1138:1226" id="8" />
+      <Sentence char_offsets="1237:1445" id="9" />
+      <Sentence char_offsets="1456:1660" id="10" />
+      <Sentence char_offsets="1671:1778" id="11" />
+      <Sentence char_offsets="1780:1923" id="12" />
+      <Sentence char_offsets="1934:2200" id="13" />
+      <Sentence char_offsets="2211:2329" id="14" />
+      <Sentence char_offsets="2340:2513" id="15" />
+      <Sentence char_offsets="2515:2632" id="16" />
+      <Sentence char_offsets="2643:2737" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31626" actor_name="Sergio Pe&#241;a Mendoza" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31626" actor_name="Sergio Pe&#241;a Mendoza" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="0841">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="36753" actor_name="Los Zetas Cartel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="39477" actor_name="Jaime Gonz&#225;lez Dur&#225;n" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="15" tense="current" type="183">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="12" tense="neutral" type="180">
+        <Participant actor_id="31626" actor_name="Sergio Pe&#241;a Mendoza" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="12" tense="neutral" type="180">
+        <Participant actor_id="31626" actor_name="Sergio Pe&#241;a Mendoza" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

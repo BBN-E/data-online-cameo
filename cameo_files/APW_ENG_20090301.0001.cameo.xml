@@ -1,0 +1,88 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090301.0001">
+    <Sentences>
+      <Sentence char_offsets="140:186" id="0" />
+      <Sentence char_offsets="188:223" id="1" />
+      <Sentence char_offsets="226:260" id="2" />
+      <Sentence char_offsets="263:344" id="3" />
+      <Sentence char_offsets="347:406" id="4" />
+      <Sentence char_offsets="409:482" id="5" />
+      <Sentence char_offsets="485:634" id="6" />
+      <Sentence char_offsets="637:719" id="7" />
+      <Sentence char_offsets="722:818" id="8" />
+      <Sentence char_offsets="821:925" id="9" />
+      <Sentence char_offsets="928:1017" id="10" />
+      <Sentence char_offsets="1020:1086" id="11" />
+      <Sentence char_offsets="1089:1202" id="12" />
+      <Sentence char_offsets="1205:1280" id="13" />
+      <Sentence char_offsets="1283:1343" id="14" />
+      <Sentence char_offsets="1346:1392" id="15" />
+      <Sentence char_offsets="1395:1452" id="16" />
+      <Sentence char_offsets="1455:1563" id="17" />
+      <Sentence char_offsets="1566:1680" id="18" />
+      <Sentence char_offsets="1683:1770" id="19" />
+      <Sentence char_offsets="1773:1895" id="20" />
+      <Sentence char_offsets="1898:2024" id="21" />
+      <Sentence char_offsets="2027:2133" id="22" />
+      <Sentence char_offsets="2136:2269" id="23" />
+      <Sentence char_offsets="2272:2415" id="24" />
+      <Sentence char_offsets="2418:2513" id="25" />
+      <Sentence char_offsets="2516:2644" id="26" />
+      <Sentence char_offsets="2647:2786" id="27" />
+      <Sentence char_offsets="2789:2897" id="28" />
+      <Sentence char_offsets="2900:3081" id="29" />
+      <Sentence char_offsets="3084:3225" id="30" />
+      <Sentence char_offsets="3228:3460" id="31" />
+      <Sentence char_offsets="3463:3674" id="32" />
+      <Sentence char_offsets="3677:3872" id="33" />
+      <Sentence char_offsets="3875:4079" id="34" />
+      <Sentence char_offsets="4082:4251" id="35" />
+      <Sentence char_offsets="4254:4352" id="36" />
+      <Sentence char_offsets="4355:4372" id="37" />
+      <Sentence char_offsets="4375:4674" id="38" />
+      <Sentence char_offsets="4677:4694" id="39" />
+      <Sentence char_offsets="4697:4723" id="40" />
+      <Sentence char_offsets="4725:4844" id="41" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="historical" type="054">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="30464" actor_name="Ghana" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="historical" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="historical" type="057">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="34" tense="historical" type="074">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="historical" type="120">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="36" tense="historical" type="172">
+        <Participant actor_id="35234" actor_name="Vojislav Kostunica" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="33" tense="historical" type="173">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="34" tense="historical" type="0861">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

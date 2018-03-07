@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.1099">
+    <Sentences>
+      <Sentence char_offsets="176:390" id="0" />
+      <Sentence char_offsets="401:642" id="1" />
+      <Sentence char_offsets="644:712" id="2" />
+      <Sentence char_offsets="723:977" id="3" />
+      <Sentence char_offsets="988:1111" id="4" />
+      <Sentence char_offsets="1113:1151" id="5" />
+      <Sentence char_offsets="1162:1212" id="6" />
+      <Sentence char_offsets="1214:1469" id="7" />
+      <Sentence char_offsets="1480:1736" id="8" />
+      <Sentence char_offsets="1747:1866" id="9" />
+      <Sentence char_offsets="1877:2081" id="10" />
+      <Sentence char_offsets="2092:2206" id="11" />
+      <Sentence char_offsets="2208:2320" id="12" />
+      <Sentence char_offsets="2331:2496" id="13" />
+      <Sentence char_offsets="2498:2707" id="14" />
+      <Sentence char_offsets="2718:3038" id="15" />
+      <Sentence char_offsets="3049:3180" id="16" />
+      <Sentence char_offsets="3191:3370" id="17" />
+      <Sentence char_offsets="3381:3501" id="18" />
+      <Sentence char_offsets="3512:3644" id="19" />
+      <Sentence char_offsets="3646:3762" id="20" />
+      <Sentence char_offsets="3773:3829" id="21" />
+      <Sentence char_offsets="3840:3984" id="22" />
+      <Sentence char_offsets="3986:4237" id="23" />
+      <Sentence char_offsets="4248:4255" id="24" />
+      <Sentence char_offsets="4266:4328" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="28120" actor_name="American Civil Liberties Union" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="063">
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="413" agent_name="Justice Department/Ministery" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

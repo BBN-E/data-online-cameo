@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0168">
+    <Sentences>
+      <Sentence char_offsets="193:411" id="0" />
+      <Sentence char_offsets="422:523" id="1" />
+      <Sentence char_offsets="534:679" id="2" />
+      <Sentence char_offsets="690:822" id="3" />
+      <Sentence char_offsets="833:988" id="4" />
+      <Sentence char_offsets="999:1102" id="5" />
+      <Sentence char_offsets="1104:1229" id="6" />
+      <Sentence char_offsets="1240:1445" id="7" />
+      <Sentence char_offsets="1456:1689" id="8" />
+      <Sentence char_offsets="1700:1913" id="9" />
+      <Sentence char_offsets="1924:2092" id="10" />
+      <Sentence char_offsets="2103:2235" id="11" />
+      <Sentence char_offsets="2246:2413" id="12" />
+      <Sentence char_offsets="2424:2523" id="13" />
+      <Sentence char_offsets="2534:2615" id="14" />
+      <Sentence char_offsets="2617:2724" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

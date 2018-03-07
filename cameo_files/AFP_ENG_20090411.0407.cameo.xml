@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0407">
+    <Sentences>
+      <Sentence char_offsets="191:408" id="0" />
+      <Sentence char_offsets="419:588" id="1" />
+      <Sentence char_offsets="599:756" id="2" />
+      <Sentence char_offsets="767:984" id="3" />
+      <Sentence char_offsets="995:1098" id="4" />
+      <Sentence char_offsets="1109:1242" id="5" />
+      <Sentence char_offsets="1253:1410" id="6" />
+      <Sentence char_offsets="1421:1568" id="7" />
+      <Sentence char_offsets="1579:1720" id="8" />
+      <Sentence char_offsets="1731:1920" id="9" />
+      <Sentence char_offsets="1922:2030" id="10" />
+      <Sentence char_offsets="2041:2194" id="11" />
+      <Sentence char_offsets="2205:2362" id="12" />
+      <Sentence char_offsets="2373:2478" id="13" />
+      <Sentence char_offsets="2489:2640" id="14" />
+      <Sentence char_offsets="2651:2862" id="15" />
+      <Sentence char_offsets="2873:3099" id="16" />
+      <Sentence char_offsets="3110:3174" id="17" />
+      <Sentence char_offsets="3176:3279" id="18" />
+      <Sentence char_offsets="3290:3476" id="19" />
+      <Sentence char_offsets="3487:3519" id="20" />
+      <Sentence char_offsets="3521:3665" id="21" />
+      <Sentence char_offsets="3676:3857" id="22" />
+      <Sentence char_offsets="3868:3942" id="23" />
+      <Sentence char_offsets="3944:3997" id="24" />
+      <Sentence char_offsets="3999:4042" id="25" />
+      <Sentence char_offsets="4053:4224" id="26" />
+      <Sentence char_offsets="4235:4458" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="173">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="historical" type="173">
+        <Participant actor_id="30701" actor_name="France" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

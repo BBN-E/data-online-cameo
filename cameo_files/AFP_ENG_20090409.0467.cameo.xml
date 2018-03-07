@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0467">
+    <Sentences>
+      <Sentence char_offsets="186:379" id="0" />
+      <Sentence char_offsets="390:616" id="1" />
+      <Sentence char_offsets="627:750" id="2" />
+      <Sentence char_offsets="761:913" id="3" />
+      <Sentence char_offsets="924:1060" id="4" />
+      <Sentence char_offsets="1062:1128" id="5" />
+      <Sentence char_offsets="1139:1304" id="6" />
+      <Sentence char_offsets="1315:1494" id="7" />
+      <Sentence char_offsets="1505:1560" id="8" />
+      <Sentence char_offsets="1562:1566" id="9" />
+      <Sentence char_offsets="1568:1598" id="10" />
+      <Sentence char_offsets="1609:1815" id="11" />
+      <Sentence char_offsets="1826:2000" id="12" />
+      <Sentence char_offsets="2011:2224" id="13" />
+      <Sentence char_offsets="2235:2351" id="14" />
+      <Sentence char_offsets="2353:2422" id="15" />
+      <Sentence char_offsets="2433:2650" id="16" />
+      <Sentence char_offsets="2661:2734" id="17" />
+      <Sentence char_offsets="2745:2921" id="18" />
+      <Sentence char_offsets="2932:3078" id="19" />
+      <Sentence char_offsets="3089:3185" id="20" />
+      <Sentence char_offsets="3196:3295" id="21" />
+      <Sentence char_offsets="3306:3411" id="22" />
+      <Sentence char_offsets="3422:3570" id="23" />
+      <Sentence char_offsets="3581:3769" id="24" />
+      <Sentence char_offsets="3780:3822" id="25" />
+      <Sentence char_offsets="3824:3926" id="26" />
+      <Sentence char_offsets="3937:4052" id="27" />
+      <Sentence char_offsets="4063:4257" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="0333">
+        <Participant actor_id="41262" actor_name="United States" agent_id="277" agent_name="Transport" role="Source" />
+        <Participant actor_id="40329" actor_name="World Food Program" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="current" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="277" agent_name="Transport" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="0841">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

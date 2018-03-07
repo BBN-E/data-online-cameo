@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1259">
+    <Sentences>
+      <Sentence char_offsets="183:389" id="0" />
+      <Sentence char_offsets="400:539" id="1" />
+      <Sentence char_offsets="550:663" id="2" />
+      <Sentence char_offsets="665:738" id="3" />
+      <Sentence char_offsets="740:838" id="4" />
+      <Sentence char_offsets="840:854" id="5" />
+      <Sentence char_offsets="865:1022" id="6" />
+      <Sentence char_offsets="1033:1165" id="7" />
+      <Sentence char_offsets="1167:1268" id="8" />
+      <Sentence char_offsets="1270:1355" id="9" />
+      <Sentence char_offsets="1366:1454" id="10" />
+      <Sentence char_offsets="1465:1610" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="154">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

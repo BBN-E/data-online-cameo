@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0350">
+    <Sentences>
+      <Sentence char_offsets="158:192" id="0" />
+      <Sentence char_offsets="195:214" id="1" />
+      <Sentence char_offsets="217:397" id="2" />
+      <Sentence char_offsets="400:426" id="3" />
+      <Sentence char_offsets="429:617" id="4" />
+      <Sentence char_offsets="620:650" id="5" />
+      <Sentence char_offsets="653:838" id="6" />
+      <Sentence char_offsets="841:858" id="7" />
+      <Sentence char_offsets="861:1021" id="8" />
+      <Sentence char_offsets="1024:1054" id="9" />
+      <Sentence char_offsets="1057:1214" id="10" />
+      <Sentence char_offsets="1217:1231" id="11" />
+      <Sentence char_offsets="1234:1408" id="12" />
+      <Sentence char_offsets="1411:1427" id="13" />
+      <Sentence char_offsets="1430:1597" id="14" />
+      <Sentence char_offsets="1600:1636" id="15" />
+      <Sentence char_offsets="1639:1788" id="16" />
+      <Sentence char_offsets="1791:1810" id="17" />
+      <Sentence char_offsets="1813:1951" id="18" />
+      <Sentence char_offsets="1954:1973" id="19" />
+      <Sentence char_offsets="1976:2101" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

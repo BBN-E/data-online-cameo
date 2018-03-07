@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0784">
+    <Sentences>
+      <Sentence char_offsets="179:411" id="0" />
+      <Sentence char_offsets="422:668" id="1" />
+      <Sentence char_offsets="679:771" id="2" />
+      <Sentence char_offsets="773:907" id="3" />
+      <Sentence char_offsets="909:1056" id="4" />
+      <Sentence char_offsets="1067:1300" id="5" />
+      <Sentence char_offsets="1302:1402" id="6" />
+      <Sentence char_offsets="1413:1633" id="7" />
+      <Sentence char_offsets="1635:1767" id="8" />
+      <Sentence char_offsets="1778:1914" id="9" />
+      <Sentence char_offsets="1925:2060" id="10" />
+      <Sentence char_offsets="2062:2184" id="11" />
+      <Sentence char_offsets="2195:2372" id="12" />
+      <Sentence char_offsets="2374:2514" id="13" />
+      <Sentence char_offsets="2525:2628" id="14" />
+      <Sentence char_offsets="2630:2683" id="15" />
+      <Sentence char_offsets="2694:2920" id="16" />
+      <Sentence char_offsets="2931:3120" id="17" />
+      <Sentence char_offsets="3131:3277" id="18" />
+      <Sentence char_offsets="3279:3438" id="19" />
+      <Sentence char_offsets="3449:3710" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="042">
+        <Participant actor_id="30976" actor_name="Group of Eight" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="043">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="30976" actor_name="Group of Eight" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

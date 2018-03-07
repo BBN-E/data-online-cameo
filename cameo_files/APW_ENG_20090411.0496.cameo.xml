@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090411.0496">
+    <Sentences>
+      <Sentence char_offsets="186:345" id="0" />
+      <Sentence char_offsets="356:579" id="1" />
+      <Sentence char_offsets="590:700" id="2" />
+      <Sentence char_offsets="711:827" id="3" />
+      <Sentence char_offsets="838:929" id="4" />
+      <Sentence char_offsets="931:1029" id="5" />
+      <Sentence char_offsets="1040:1190" id="6" />
+      <Sentence char_offsets="1192:1262" id="7" />
+      <Sentence char_offsets="1273:1378" id="8" />
+      <Sentence char_offsets="1380:1559" id="9" />
+      <Sentence char_offsets="1570:1650" id="10" />
+      <Sentence char_offsets="1652:1679" id="11" />
+      <Sentence char_offsets="1690:1822" id="12" />
+      <Sentence char_offsets="1833:2002" id="13" />
+      <Sentence char_offsets="2013:2159" id="14" />
+      <Sentence char_offsets="2170:2408" id="15" />
+      <Sentence char_offsets="2419:2595" id="16" />
+      <Sentence char_offsets="2606:2714" id="17" />
+      <Sentence char_offsets="2716:2785" id="18" />
+      <Sentence char_offsets="2796:2921" id="19" />
+      <Sentence char_offsets="2923:2962" id="20" />
+      <Sentence char_offsets="2973:3123" id="21" />
+      <Sentence char_offsets="3134:3172" id="22" />
+      <Sentence char_offsets="3183:3331" id="23" />
+      <Sentence char_offsets="3342:3379" id="24" />
+      <Sentence char_offsets="3390:3395" id="25" />
+      <Sentence char_offsets="3406:3481" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="051">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

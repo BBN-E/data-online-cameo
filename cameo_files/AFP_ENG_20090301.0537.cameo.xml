@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0537">
+    <Sentences>
+      <Sentence char_offsets="179:361" id="0" />
+      <Sentence char_offsets="372:598" id="1" />
+      <Sentence char_offsets="609:713" id="2" />
+      <Sentence char_offsets="724:819" id="3" />
+      <Sentence char_offsets="830:1064" id="4" />
+      <Sentence char_offsets="1075:1154" id="5" />
+      <Sentence char_offsets="1165:1365" id="6" />
+      <Sentence char_offsets="1376:1546" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="033">
+        <Participant actor_id="52840" actor_name="European Commission" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

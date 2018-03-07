@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090322.0168">
+    <Sentences>
+      <Sentence char_offsets="183:363" id="0" />
+      <Sentence char_offsets="374:634" id="1" />
+      <Sentence char_offsets="645:784" id="2" />
+      <Sentence char_offsets="786:888" id="3" />
+      <Sentence char_offsets="899:1083" id="4" />
+      <Sentence char_offsets="1094:1379" id="5" />
+      <Sentence char_offsets="1390:1554" id="6" />
+      <Sentence char_offsets="1565:1688" id="7" />
+      <Sentence char_offsets="1690:1756" id="8" />
+      <Sentence char_offsets="1767:1829" id="9" />
+      <Sentence char_offsets="1831:1894" id="10" />
+      <Sentence char_offsets="1905:2148" id="11" />
+      <Sentence char_offsets="2159:2236" id="12" />
+      <Sentence char_offsets="2238:2396" id="13" />
+      <Sentence char_offsets="2407:2525" id="14" />
+      <Sentence char_offsets="2527:2656" id="15" />
+      <Sentence char_offsets="2667:2714" id="16" />
+      <Sentence char_offsets="2716:2774" id="17" />
+      <Sentence char_offsets="2776:2886" id="18" />
+      <Sentence char_offsets="2897:3080" id="19" />
+      <Sentence char_offsets="3091:3216" id="20" />
+      <Sentence char_offsets="3218:3335" id="21" />
+      <Sentence char_offsets="3346:3495" id="22" />
+      <Sentence char_offsets="3506:3645" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="314" agent_name="People Associated with the Opposition" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

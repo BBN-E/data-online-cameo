@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0623">
+    <Sentences>
+      <Sentence char_offsets="197:411" id="0" />
+      <Sentence char_offsets="413:500" id="1" />
+      <Sentence char_offsets="511:678" id="2" />
+      <Sentence char_offsets="680:771" id="3" />
+      <Sentence char_offsets="782:982" id="4" />
+      <Sentence char_offsets="993:1178" id="5" />
+      <Sentence char_offsets="1180:1244" id="6" />
+      <Sentence char_offsets="1246:1359" id="7" />
+      <Sentence char_offsets="1370:1481" id="8" />
+      <Sentence char_offsets="1483:1585" id="9" />
+      <Sentence char_offsets="1596:1662" id="10" />
+      <Sentence char_offsets="1664:1813" id="11" />
+      <Sentence char_offsets="1824:1964" id="12" />
+      <Sentence char_offsets="1975:2128" id="13" />
+      <Sentence char_offsets="2139:2277" id="14" />
+      <Sentence char_offsets="2279:2437" id="15" />
+      <Sentence char_offsets="2448:2700" id="16" />
+      <Sentence char_offsets="2711:2909" id="17" />
+      <Sentence char_offsets="2920:3037" id="18" />
+      <Sentence char_offsets="3048:3250" id="19" />
+      <Sentence char_offsets="3252:3308" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="37184" actor_name="Norway" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="040">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="current" type="112">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="current" type="040">
+        <Participant actor_id="37184" actor_name="Norway" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

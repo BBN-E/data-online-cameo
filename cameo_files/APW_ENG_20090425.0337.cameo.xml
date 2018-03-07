@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090425.0337">
+    <Sentences>
+      <Sentence char_offsets="185:408" id="0" />
+      <Sentence char_offsets="419:565" id="1" />
+      <Sentence char_offsets="567:641" id="2" />
+      <Sentence char_offsets="652:937" id="3" />
+      <Sentence char_offsets="948:1109" id="4" />
+      <Sentence char_offsets="1120:1208" id="5" />
+      <Sentence char_offsets="1210:1279" id="6" />
+      <Sentence char_offsets="1290:1387" id="7" />
+      <Sentence char_offsets="1389:1485" id="8" />
+      <Sentence char_offsets="1496:1667" id="9" />
+      <Sentence char_offsets="1678:1819" id="10" />
+      <Sentence char_offsets="1830:2016" id="11" />
+      <Sentence char_offsets="2027:2136" id="12" />
+      <Sentence char_offsets="2147:2287" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="historical" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

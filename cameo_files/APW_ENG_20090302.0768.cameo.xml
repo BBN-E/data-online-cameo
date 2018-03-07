@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0768">
+    <Sentences>
+      <Sentence char_offsets="192:391" id="0" />
+      <Sentence char_offsets="402:633" id="1" />
+      <Sentence char_offsets="644:771" id="2" />
+      <Sentence char_offsets="782:878" id="3" />
+      <Sentence char_offsets="889:1118" id="4" />
+      <Sentence char_offsets="1129:1320" id="5" />
+      <Sentence char_offsets="1322:1413" id="6" />
+      <Sentence char_offsets="1415:1463" id="7" />
+      <Sentence char_offsets="1474:1655" id="8" />
+      <Sentence char_offsets="1666:1920" id="9" />
+      <Sentence char_offsets="1931:2113" id="10" />
+      <Sentence char_offsets="2124:2324" id="11" />
+      <Sentence char_offsets="2335:2524" id="12" />
+      <Sentence char_offsets="2535:2713" id="13" />
+      <Sentence char_offsets="2724:2834" id="14" />
+      <Sentence char_offsets="2836:2887" id="15" />
+      <Sentence char_offsets="2898:2955" id="16" />
+      <Sentence char_offsets="2966:3066" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="239213" actor_name="Vladimir Vukcevic" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="010">
+        <Participant actor_id="239213" actor_name="Vladimir Vukcevic" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="239213" actor_name="Vladimir Vukcevic" role="Source" />
+        <Participant actor_id="32649" actor_name="Council of Europe" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="historical" type="1044">
+        <Participant actor_id="118238" actor_name="Kosovo" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="historical" type="190">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

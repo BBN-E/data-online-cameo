@@ -1,0 +1,112 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090307.0450">
+    <Sentences>
+      <Sentence char_offsets="181:373" id="0" />
+      <Sentence char_offsets="384:584" id="1" />
+      <Sentence char_offsets="595:647" id="2" />
+      <Sentence char_offsets="658:892" id="3" />
+      <Sentence char_offsets="903:1024" id="4" />
+      <Sentence char_offsets="1035:1201" id="5" />
+      <Sentence char_offsets="1212:1452" id="6" />
+      <Sentence char_offsets="1463:1661" id="7" />
+      <Sentence char_offsets="1672:1842" id="8" />
+      <Sentence char_offsets="1853:2059" id="9" />
+      <Sentence char_offsets="2070:2119" id="10" />
+      <Sentence char_offsets="2130:2339" id="11" />
+      <Sentence char_offsets="2350:2447" id="12" />
+      <Sentence char_offsets="2458:2730" id="13" />
+      <Sentence char_offsets="2741:2970" id="14" />
+      <Sentence char_offsets="2981:3189" id="15" />
+      <Sentence char_offsets="3200:3365" id="16" />
+      <Sentence char_offsets="3376:3562" id="17" />
+      <Sentence char_offsets="3573:3693" id="18" />
+      <Sentence char_offsets="3704:3879" id="19" />
+      <Sentence char_offsets="3890:4071" id="20" />
+      <Sentence char_offsets="4082:4187" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="040">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="11366" actor_name="Guillermo Galv&#225;n Galv&#225;n" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="neutral" type="040">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="57732" actor_name="Mariano Francisco Saynez" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="15" tense="neutral" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="0" tense="neutral" type="070">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="15" tense="neutral" type="040">
+        <Participant actor_id="11366" actor_name="Guillermo Galv&#225;n Galv&#225;n" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="15" tense="neutral" type="040">
+        <Participant actor_id="57732" actor_name="Mariano Francisco Saynez" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="15" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="32659" actor_name="Colombia" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0958">
+    <Sentences>
+      <Sentence char_offsets="200:404" id="0" />
+      <Sentence char_offsets="415:613" id="1" />
+      <Sentence char_offsets="624:723" id="2" />
+      <Sentence char_offsets="734:865" id="3" />
+      <Sentence char_offsets="867:927" id="4" />
+      <Sentence char_offsets="938:1088" id="5" />
+      <Sentence char_offsets="1099:1229" id="6" />
+      <Sentence char_offsets="1240:1418" id="7" />
+      <Sentence char_offsets="1429:1600" id="8" />
+      <Sentence char_offsets="1611:1740" id="9" />
+      <Sentence char_offsets="1751:1883" id="10" />
+      <Sentence char_offsets="1885:2021" id="11" />
+      <Sentence char_offsets="2032:2089" id="12" />
+      <Sentence char_offsets="2091:2248" id="13" />
+      <Sentence char_offsets="2259:2408" id="14" />
+      <Sentence char_offsets="2419:2627" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="204199" actor_name="Ablass&#233; Ouedraogo" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="204199" actor_name="Ablass&#233; Ouedraogo" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="111">
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="current" type="145">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="162">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39858" actor_name="Swaziland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

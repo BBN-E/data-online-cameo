@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0379">
+    <Sentences>
+      <Sentence char_offsets="175:373" id="0" />
+      <Sentence char_offsets="384:605" id="1" />
+      <Sentence char_offsets="616:733" id="2" />
+      <Sentence char_offsets="735:784" id="3" />
+      <Sentence char_offsets="795:934" id="4" />
+      <Sentence char_offsets="936:1019" id="5" />
+      <Sentence char_offsets="1030:1161" id="6" />
+      <Sentence char_offsets="1172:1260" id="7" />
+      <Sentence char_offsets="1271:1362" id="8" />
+      <Sentence char_offsets="1364:1420" id="9" />
+      <Sentence char_offsets="1422:1498" id="10" />
+      <Sentence char_offsets="1509:1587" id="11" />
+      <Sentence char_offsets="1598:1693" id="12" />
+      <Sentence char_offsets="1704:1879" id="13" />
+      <Sentence char_offsets="1890:2070" id="14" />
+      <Sentence char_offsets="2081:2311" id="15" />
+      <Sentence char_offsets="2322:2503" id="16" />
+      <Sentence char_offsets="2514:2603" id="17" />
+      <Sentence char_offsets="2614:2740" id="18" />
+      <Sentence char_offsets="2742:2808" id="19" />
+      <Sentence char_offsets="2819:2967" id="20" />
+      <Sentence char_offsets="2978:3148" id="21" />
+      <Sentence char_offsets="3159:3391" id="22" />
+      <Sentence char_offsets="3402:3579" id="23" />
+      <Sentence char_offsets="3590:3650" id="24" />
+      <Sentence char_offsets="3652:3744" id="25" />
+      <Sentence char_offsets="3755:3934" id="26" />
+      <Sentence char_offsets="3945:4100" id="27" />
+      <Sentence char_offsets="4111:4244" id="28" />
+      <Sentence char_offsets="4246:4338" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="neutral" type="010">
+        <Participant actor_id="37535" actor_name="Amin Ahmed Mohamed Othman Abaza" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="90" agent_name="Farm Worker" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="37535" actor_name="Amin Ahmed Mohamed Othman Abaza" role="Source" />
+        <Participant actor_id="25497" actor_name="Food and Agriculture Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

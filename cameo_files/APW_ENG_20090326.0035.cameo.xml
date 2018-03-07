@@ -1,0 +1,77 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0035">
+    <Sentences>
+      <Sentence char_offsets="201:337" id="0" />
+      <Sentence char_offsets="339:479" id="1" />
+      <Sentence char_offsets="490:534" id="2" />
+      <Sentence char_offsets="545:786" id="3" />
+      <Sentence char_offsets="797:1074" id="4" />
+      <Sentence char_offsets="1085:1286" id="5" />
+      <Sentence char_offsets="1288:1349" id="6" />
+      <Sentence char_offsets="1360:1606" id="7" />
+      <Sentence char_offsets="1617:1732" id="8" />
+      <Sentence char_offsets="1743:1920" id="9" />
+      <Sentence char_offsets="1922:1959" id="10" />
+      <Sentence char_offsets="1961:1989" id="11" />
+      <Sentence char_offsets="2000:2103" id="12" />
+      <Sentence char_offsets="2114:2296" id="13" />
+      <Sentence char_offsets="2298:2422" id="14" />
+      <Sentence char_offsets="2433:2474" id="15" />
+      <Sentence char_offsets="2485:2567" id="16" />
+      <Sentence char_offsets="2569:2716" id="17" />
+      <Sentence char_offsets="2727:2940" id="18" />
+      <Sentence char_offsets="2951:3230" id="19" />
+      <Sentence char_offsets="3241:3349" id="20" />
+      <Sentence char_offsets="3360:3404" id="21" />
+      <Sentence char_offsets="3415:3632" id="22" />
+      <Sentence char_offsets="3643:3726" id="23" />
+      <Sentence char_offsets="3737:3818" id="24" />
+      <Sentence char_offsets="3829:3881" id="25" />
+      <Sentence char_offsets="3892:3939" id="26" />
+      <Sentence char_offsets="3950:4090" id="27" />
+      <Sentence char_offsets="4101:4240" id="28" />
+      <Sentence char_offsets="4251:4371" id="29" />
+      <Sentence char_offsets="4373:4435" id="30" />
+      <Sentence char_offsets="4446:4538" id="31" />
+      <Sentence char_offsets="4549:4750" id="32" />
+      <Sentence char_offsets="4752:4843" id="33" />
+      <Sentence char_offsets="4854:4928" id="34" />
+      <Sentence char_offsets="4939:5139" id="35" />
+      <Sentence char_offsets="5141:5153" id="36" />
+      <Sentence char_offsets="5155:5206" id="37" />
+      <Sentence char_offsets="5217:5280" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="020">
+        <Participant actor_id="28120" actor_name="American Civil Liberties Union" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="302" agent_name="Federal Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="historical" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="130">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="130">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="34432" actor_name="Grace Kelly" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="neutral" type="173">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="19" tense="historical" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

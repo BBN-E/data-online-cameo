@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0180">
+    <Sentences>
+      <Sentence char_offsets="186:358" id="0" />
+      <Sentence char_offsets="369:541" id="1" />
+      <Sentence char_offsets="552:713" id="2" />
+      <Sentence char_offsets="724:800" id="3" />
+      <Sentence char_offsets="811:1017" id="4" />
+      <Sentence char_offsets="1028:1133" id="5" />
+      <Sentence char_offsets="1144:1326" id="6" />
+      <Sentence char_offsets="1337:1452" id="7" />
+      <Sentence char_offsets="1463:1588" id="8" />
+      <Sentence char_offsets="1599:1795" id="9" />
+      <Sentence char_offsets="1806:1973" id="10" />
+      <Sentence char_offsets="1984:2156" id="11" />
+      <Sentence char_offsets="2167:2369" id="12" />
+      <Sentence char_offsets="2380:2537" id="13" />
+      <Sentence char_offsets="2548:2710" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="50591" actor_name="Barclays PLC" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="50591" actor_name="Barclays PLC" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

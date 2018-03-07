@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0441">
+    <Sentences>
+      <Sentence char_offsets="183:356" id="0" />
+      <Sentence char_offsets="367:589" id="1" />
+      <Sentence char_offsets="600:801" id="2" />
+      <Sentence char_offsets="803:829" id="3" />
+      <Sentence char_offsets="840:934" id="4" />
+      <Sentence char_offsets="945:1080" id="5" />
+      <Sentence char_offsets="1091:1252" id="6" />
+      <Sentence char_offsets="1263:1431" id="7" />
+      <Sentence char_offsets="1442:1607" id="8" />
+      <Sentence char_offsets="1618:1740" id="9" />
+      <Sentence char_offsets="1751:1896" id="10" />
+      <Sentence char_offsets="1907:2098" id="11" />
+      <Sentence char_offsets="2109:2167" id="12" />
+      <Sentence char_offsets="2178:2313" id="13" />
+      <Sentence char_offsets="2324:2380" id="14" />
+      <Sentence char_offsets="2382:2446" id="15" />
+      <Sentence char_offsets="2457:2628" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="190">
+        <Participant actor_id="18669" actor_name="Communist Party of India (Maoist)" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="31081" actor_name="India" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

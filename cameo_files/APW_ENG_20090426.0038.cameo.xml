@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0038">
+    <Sentences>
+      <Sentence char_offsets="200:400" id="0" />
+      <Sentence char_offsets="411:643" id="1" />
+      <Sentence char_offsets="654:784" id="2" />
+      <Sentence char_offsets="795:958" id="3" />
+      <Sentence char_offsets="960:994" id="4" />
+      <Sentence char_offsets="1005:1033" id="5" />
+      <Sentence char_offsets="1035:1312" id="6" />
+      <Sentence char_offsets="1323:1531" id="7" />
+      <Sentence char_offsets="1533:1678" id="8" />
+      <Sentence char_offsets="1689:1928" id="9" />
+      <Sentence char_offsets="1930:1998" id="10" />
+      <Sentence char_offsets="2009:2184" id="11" />
+      <Sentence char_offsets="2195:2340" id="12" />
+      <Sentence char_offsets="2351:2476" id="13" />
+      <Sentence char_offsets="2487:2632" id="14" />
+      <Sentence char_offsets="2634:2709" id="15" />
+      <Sentence char_offsets="2720:2817" id="16" />
+      <Sentence char_offsets="2819:2871" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="040">
+        <Participant actor_id="12720" actor_name="Nelson Azevedo Jobim" role="Source" />
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="040">
+        <Participant actor_id="5074" actor_name="Walker San Miguel" role="Source" />
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="historical" type="042">
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="12720" actor_name="Nelson Azevedo Jobim" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="141">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="current" type="040">
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Source" />
+        <Participant actor_id="12720" actor_name="Nelson Azevedo Jobim" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="current" type="040">
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Source" />
+        <Participant actor_id="5074" actor_name="Walker San Miguel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="12" tense="historical" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

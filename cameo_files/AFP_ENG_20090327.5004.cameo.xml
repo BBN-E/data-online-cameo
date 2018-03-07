@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.5004">
+    <Sentences>
+      <Sentence char_offsets="168:208" id="0" />
+      <Sentence char_offsets="211:218" id="1" />
+      <Sentence char_offsets="221:341" id="2" />
+      <Sentence char_offsets="344:366" id="3" />
+      <Sentence char_offsets="369:379" id="4" />
+      <Sentence char_offsets="382:459" id="5" />
+      <Sentence char_offsets="462:485" id="6" />
+      <Sentence char_offsets="488:513" id="7" />
+      <Sentence char_offsets="516:521" id="8" />
+      <Sentence char_offsets="524:619" id="9" />
+      <Sentence char_offsets="622:645" id="10" />
+      <Sentence char_offsets="648:654" id="11" />
+      <Sentence char_offsets="657:777" id="12" />
+      <Sentence char_offsets="780:854" id="13" />
+      <Sentence char_offsets="857:936" id="14" />
+      <Sentence char_offsets="939:994" id="15" />
+      <Sentence char_offsets="997:1007" id="16" />
+      <Sentence char_offsets="1010:1040" id="17" />
+      <Sentence char_offsets="1042:1065" id="18" />
+      <Sentence char_offsets="1068:1087" id="19" />
+      <Sentence char_offsets="1090:1129" id="20" />
+      <Sentence char_offsets="1132:1135" id="21" />
+      <Sentence char_offsets="1138:1266" id="22" />
+      <Sentence char_offsets="1269:1397" id="23" />
+      <Sentence char_offsets="1400:1459" id="24" />
+      <Sentence char_offsets="1462:1468" id="25" />
+      <Sentence char_offsets="1471:1635" id="26" />
+      <Sentence char_offsets="1638:1690" id="27" />
+      <Sentence char_offsets="1693:1717" id="28" />
+      <Sentence char_offsets="1720:1758" id="29" />
+      <Sentence char_offsets="1761:1774" id="30" />
+      <Sentence char_offsets="1777:1849" id="31" />
+      <Sentence char_offsets="1852:1874" id="32" />
+      <Sentence char_offsets="1877:1894" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="39010" actor_name="South Africa" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

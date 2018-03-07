@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0071">
+    <Sentences>
+      <Sentence char_offsets="180:354" id="0" />
+      <Sentence char_offsets="365:550" id="1" />
+      <Sentence char_offsets="561:743" id="2" />
+      <Sentence char_offsets="754:859" id="3" />
+      <Sentence char_offsets="870:1013" id="4" />
+      <Sentence char_offsets="1024:1131" id="5" />
+      <Sentence char_offsets="1142:1238" id="6" />
+      <Sentence char_offsets="1249:1486" id="7" />
+      <Sentence char_offsets="1497:1626" id="8" />
+      <Sentence char_offsets="1628:1678" id="9" />
+      <Sentence char_offsets="1689:1822" id="10" />
+      <Sentence char_offsets="1833:1889" id="11" />
+      <Sentence char_offsets="1900:1953" id="12" />
+      <Sentence char_offsets="1964:2052" id="13" />
+      <Sentence char_offsets="2063:2207" id="14" />
+      <Sentence char_offsets="2218:2345" id="15" />
+      <Sentence char_offsets="2356:2451" id="16" />
+      <Sentence char_offsets="2462:2611" id="17" />
+      <Sentence char_offsets="2622:2734" id="18" />
+      <Sentence char_offsets="2745:2959" id="19" />
+      <Sentence char_offsets="2970:3102" id="20" />
+      <Sentence char_offsets="3113:3277" id="21" />
+      <Sentence char_offsets="3288:3381" id="22" />
+      <Sentence char_offsets="3392:3503" id="23" />
+      <Sentence char_offsets="3505:3562" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

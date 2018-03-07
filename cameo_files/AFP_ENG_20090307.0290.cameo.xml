@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090307.0290">
+    <Sentences>
+      <Sentence char_offsets="158:193" id="0" />
+      <Sentence char_offsets="196:221" id="1" />
+      <Sentence char_offsets="224:439" id="2" />
+      <Sentence char_offsets="442:469" id="3" />
+      <Sentence char_offsets="472:662" id="4" />
+      <Sentence char_offsets="665:685" id="5" />
+      <Sentence char_offsets="688:858" id="6" />
+      <Sentence char_offsets="861:886" id="7" />
+      <Sentence char_offsets="889:1046" id="8" />
+      <Sentence char_offsets="1049:1064" id="9" />
+      <Sentence char_offsets="1067:1234" id="10" />
+      <Sentence char_offsets="1237:1252" id="11" />
+      <Sentence char_offsets="1255:1418" id="12" />
+      <Sentence char_offsets="1421:1450" id="13" />
+      <Sentence char_offsets="1453:1637" id="14" />
+      <Sentence char_offsets="1640:1658" id="15" />
+      <Sentence char_offsets="1661:1815" id="16" />
+      <Sentence char_offsets="1818:1820" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="174">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="194">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

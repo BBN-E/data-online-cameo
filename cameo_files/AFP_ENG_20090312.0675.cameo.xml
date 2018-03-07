@@ -1,0 +1,108 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0675">
+    <Sentences>
+      <Sentence char_offsets="187:374" id="0" />
+      <Sentence char_offsets="385:550" id="1" />
+      <Sentence char_offsets="561:726" id="2" />
+      <Sentence char_offsets="728:816" id="3" />
+      <Sentence char_offsets="827:1050" id="4" />
+      <Sentence char_offsets="1061:1231" id="5" />
+      <Sentence char_offsets="1242:1431" id="6" />
+      <Sentence char_offsets="1442:1543" id="7" />
+      <Sentence char_offsets="1545:1636" id="8" />
+      <Sentence char_offsets="1647:1812" id="9" />
+      <Sentence char_offsets="1823:2048" id="10" />
+      <Sentence char_offsets="2059:2264" id="11" />
+      <Sentence char_offsets="2275:2361" id="12" />
+      <Sentence char_offsets="2372:2566" id="13" />
+      <Sentence char_offsets="2577:2770" id="14" />
+      <Sentence char_offsets="2781:2941" id="15" />
+      <Sentence char_offsets="2952:3074" id="16" />
+      <Sentence char_offsets="3085:3296" id="17" />
+      <Sentence char_offsets="3307:3403" id="18" />
+      <Sentence char_offsets="3414:3510" id="19" />
+      <Sentence char_offsets="3512:3551" id="20" />
+      <Sentence char_offsets="3562:3755" id="21" />
+      <Sentence char_offsets="3766:3956" id="22" />
+      <Sentence char_offsets="3967:4108" id="23" />
+      <Sentence char_offsets="4119:4218" id="24" />
+      <Sentence char_offsets="4229:4386" id="25" />
+      <Sentence char_offsets="4397:4549" id="26" />
+      <Sentence char_offsets="4560:4738" id="27" />
+      <Sentence char_offsets="4749:4878" id="28" />
+      <Sentence char_offsets="4889:5063" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="032">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="032">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="036">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="23" tense="current" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="23" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="14" tense="current" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="18" tense="neutral" type="111">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="15" tense="neutral" type="112">
+        <Participant actor_id="38385" actor_name="Department of Defense" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="14" tense="current" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0190">
+    <Sentences>
+      <Sentence char_offsets="187:390" id="0" />
+      <Sentence char_offsets="401:647" id="1" />
+      <Sentence char_offsets="658:749" id="2" />
+      <Sentence char_offsets="751:882" id="3" />
+      <Sentence char_offsets="893:1030" id="4" />
+      <Sentence char_offsets="1041:1167" id="5" />
+      <Sentence char_offsets="1178:1210" id="6" />
+      <Sentence char_offsets="1212:1235" id="7" />
+      <Sentence char_offsets="1237:1389" id="8" />
+      <Sentence char_offsets="1400:1695" id="9" />
+      <Sentence char_offsets="1706:1816" id="10" />
+      <Sentence char_offsets="1827:2042" id="11" />
+      <Sentence char_offsets="2053:2314" id="12" />
+      <Sentence char_offsets="2321:2330" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="current" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="current" type="043">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

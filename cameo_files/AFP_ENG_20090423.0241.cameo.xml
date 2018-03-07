@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0241">
+    <Sentences>
+      <Sentence char_offsets="187:372" id="0" />
+      <Sentence char_offsets="383:617" id="1" />
+      <Sentence char_offsets="628:792" id="2" />
+      <Sentence char_offsets="803:951" id="3" />
+      <Sentence char_offsets="962:1098" id="4" />
+      <Sentence char_offsets="1109:1338" id="5" />
+      <Sentence char_offsets="1349:1665" id="6" />
+      <Sentence char_offsets="1676:1824" id="7" />
+      <Sentence char_offsets="1835:1874" id="8" />
+      <Sentence char_offsets="1876:1988" id="9" />
+      <Sentence char_offsets="1999:2055" id="10" />
+      <Sentence char_offsets="2066:2178" id="11" />
+      <Sentence char_offsets="2189:2353" id="12" />
+      <Sentence char_offsets="2364:2455" id="13" />
+      <Sentence char_offsets="2457:2552" id="14" />
+      <Sentence char_offsets="2563:2716" id="15" />
+      <Sentence char_offsets="2727:2898" id="16" />
+      <Sentence char_offsets="2909:2982" id="17" />
+      <Sentence char_offsets="2993:3100" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="current" type="036">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="40286" actor_name="World Bank" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="current" type="036">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

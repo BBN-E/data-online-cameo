@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0638">
+    <Sentences>
+      <Sentence char_offsets="180:352" id="0" />
+      <Sentence char_offsets="363:554" id="1" />
+      <Sentence char_offsets="565:687" id="2" />
+      <Sentence char_offsets="689:768" id="3" />
+      <Sentence char_offsets="779:910" id="4" />
+      <Sentence char_offsets="921:1130" id="5" />
+      <Sentence char_offsets="1141:1182" id="6" />
+      <Sentence char_offsets="1193:1340" id="7" />
+      <Sentence char_offsets="1351:1546" id="8" />
+      <Sentence char_offsets="1557:1685" id="9" />
+      <Sentence char_offsets="1696:1823" id="10" />
+      <Sentence char_offsets="1834:1979" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="081">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="historical" type="1621">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

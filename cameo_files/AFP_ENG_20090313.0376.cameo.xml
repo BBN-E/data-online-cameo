@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0376">
+    <Sentences>
+      <Sentence char_offsets="190:342" id="0" />
+      <Sentence char_offsets="353:481" id="1" />
+      <Sentence char_offsets="492:583" id="2" />
+      <Sentence char_offsets="585:618" id="3" />
+      <Sentence char_offsets="629:827" id="4" />
+      <Sentence char_offsets="838:1030" id="5" />
+      <Sentence char_offsets="1041:1319" id="6" />
+      <Sentence char_offsets="1330:1480" id="7" />
+      <Sentence char_offsets="1491:1699" id="8" />
+      <Sentence char_offsets="1710:1880" id="9" />
+      <Sentence char_offsets="1891:2018" id="10" />
+      <Sentence char_offsets="2029:2235" id="11" />
+      <Sentence char_offsets="2246:2356" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="057">
+        <Participant actor_id="36456" actor_name="Lithuania" role="Source" />
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="057">
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Source" />
+        <Participant actor_id="56695" actor_name="Algirdas &#352;emeta" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="057">
+        <Participant actor_id="56695" actor_name="Algirdas &#352;emeta" role="Source" />
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="historical" type="145">
+        <Participant actor_id="36456" actor_name="Lithuania" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36456" actor_name="Lithuania" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="historical" type="190">
+        <Participant actor_id="36456" actor_name="Lithuania" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36456" actor_name="Lithuania" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="historical" type="145">
+        <Participant actor_id="36456" actor_name="Lithuania" agent_id="617" agent_name="Legislature" role="Source" />
+        <Participant actor_id="36456" actor_name="Lithuania" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="057">
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Source" />
+        <Participant actor_id="36456" actor_name="Lithuania" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

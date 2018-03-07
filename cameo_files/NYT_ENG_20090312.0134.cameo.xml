@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090312.0134">
+    <Sentences>
+      <Sentence char_offsets="162:393" id="0" />
+      <Sentence char_offsets="404:599" id="1" />
+      <Sentence char_offsets="610:922" id="2" />
+      <Sentence char_offsets="933:1121" id="3" />
+      <Sentence char_offsets="1132:1281" id="4" />
+      <Sentence char_offsets="1283:1392" id="5" />
+      <Sentence char_offsets="1394:1500" id="6" />
+      <Sentence char_offsets="1511:1770" id="7" />
+      <Sentence char_offsets="1781:1946" id="8" />
+      <Sentence char_offsets="1948:2012" id="9" />
+      <Sentence char_offsets="2023:2197" id="10" />
+      <Sentence char_offsets="2199:2238" id="11" />
+      <Sentence char_offsets="2249:2457" id="12" />
+      <Sentence char_offsets="2459:2542" id="13" />
+      <Sentence char_offsets="2553:2687" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="027">
+        <Participant actor_id="54368" actor_name="Anne W. Patterson" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="100">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="112">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="current" type="145">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

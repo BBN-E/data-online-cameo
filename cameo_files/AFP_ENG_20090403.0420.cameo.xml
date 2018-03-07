@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0420">
+    <Sentences>
+      <Sentence char_offsets="184:377" id="0" />
+      <Sentence char_offsets="388:573" id="1" />
+      <Sentence char_offsets="584:732" id="2" />
+      <Sentence char_offsets="743:856" id="3" />
+      <Sentence char_offsets="867:1161" id="4" />
+      <Sentence char_offsets="1172:1325" id="5" />
+      <Sentence char_offsets="1336:1482" id="6" />
+      <Sentence char_offsets="1493:1696" id="7" />
+      <Sentence char_offsets="1707:1914" id="8" />
+      <Sentence char_offsets="1925:1996" id="9" />
+      <Sentence char_offsets="2007:2153" id="10" />
+      <Sentence char_offsets="2164:2336" id="11" />
+      <Sentence char_offsets="2347:2475" id="12" />
+      <Sentence char_offsets="2486:2633" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="32722" actor_name="Caribbean" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

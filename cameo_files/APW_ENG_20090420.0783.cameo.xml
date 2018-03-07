@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0783">
+    <Sentences>
+      <Sentence char_offsets="195:404" id="0" />
+      <Sentence char_offsets="415:575" id="1" />
+      <Sentence char_offsets="586:700" id="2" />
+      <Sentence char_offsets="702:758" id="3" />
+      <Sentence char_offsets="769:822" id="4" />
+      <Sentence char_offsets="824:915" id="5" />
+      <Sentence char_offsets="917:1021" id="6" />
+      <Sentence char_offsets="1032:1259" id="7" />
+      <Sentence char_offsets="1270:1382" id="8" />
+      <Sentence char_offsets="1384:1472" id="9" />
+      <Sentence char_offsets="1474:1523" id="10" />
+      <Sentence char_offsets="1534:1660" id="11" />
+      <Sentence char_offsets="1662:1746" id="12" />
+      <Sentence char_offsets="1757:1915" id="13" />
+      <Sentence char_offsets="1917:1978" id="14" />
+      <Sentence char_offsets="1989:2121" id="15" />
+      <Sentence char_offsets="2123:2156" id="16" />
+      <Sentence char_offsets="2167:2257" id="17" />
+      <Sentence char_offsets="2268:2419" id="18" />
+      <Sentence char_offsets="2421:2480" id="19" />
+      <Sentence char_offsets="2491:2656" id="20" />
+      <Sentence char_offsets="2667:2804" id="21" />
+      <Sentence char_offsets="2815:2861" id="22" />
+      <Sentence char_offsets="2863:2997" id="23" />
+      <Sentence char_offsets="3008:3105" id="24" />
+      <Sentence char_offsets="3107:3163" id="25" />
+      <Sentence char_offsets="3174:3313" id="26" />
+      <Sentence char_offsets="3324:3510" id="27" />
+      <Sentence char_offsets="3521:3613" id="28" />
+      <Sentence char_offsets="3624:3727" id="29" />
+      <Sentence char_offsets="3738:3743" id="30" />
+      <Sentence char_offsets="3754:3869" id="31" />
+      <Sentence char_offsets="3880:3885" id="32" />
+      <Sentence char_offsets="3896:3906" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="31728" actor_name="Jamaica" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31728" actor_name="Jamaica" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="31728" actor_name="Jamaica" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31728" actor_name="Jamaica" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

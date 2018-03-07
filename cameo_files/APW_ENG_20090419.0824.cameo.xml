@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0824">
+    <Sentences>
+      <Sentence char_offsets="188:406" id="0" />
+      <Sentence char_offsets="417:614" id="1" />
+      <Sentence char_offsets="625:788" id="2" />
+      <Sentence char_offsets="790:899" id="3" />
+      <Sentence char_offsets="910:1022" id="4" />
+      <Sentence char_offsets="1033:1293" id="5" />
+      <Sentence char_offsets="1304:1529" id="6" />
+      <Sentence char_offsets="1540:1644" id="7" />
+      <Sentence char_offsets="1655:1866" id="8" />
+      <Sentence char_offsets="1877:1999" id="9" />
+      <Sentence char_offsets="2010:2164" id="10" />
+      <Sentence char_offsets="2175:2281" id="11" />
+      <Sentence char_offsets="2283:2409" id="12" />
+      <Sentence char_offsets="2420:2541" id="13" />
+      <Sentence char_offsets="2552:2729" id="14" />
+      <Sentence char_offsets="2740:2944" id="15" />
+      <Sentence char_offsets="2946:3052" id="16" />
+      <Sentence char_offsets="3063:3238" id="17" />
+      <Sentence char_offsets="3249:3400" id="18" />
+      <Sentence char_offsets="3411:3499" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

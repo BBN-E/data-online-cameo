@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090321.0231">
+    <Sentences>
+      <Sentence char_offsets="178:362" id="0" />
+      <Sentence char_offsets="373:538" id="1" />
+      <Sentence char_offsets="549:675" id="2" />
+      <Sentence char_offsets="686:871" id="3" />
+      <Sentence char_offsets="882:1080" id="4" />
+      <Sentence char_offsets="1091:1314" id="5" />
+      <Sentence char_offsets="1325:1492" id="6" />
+      <Sentence char_offsets="1503:1633" id="7" />
+      <Sentence char_offsets="1644:1827" id="8" />
+      <Sentence char_offsets="1838:2206" id="9" />
+      <Sentence char_offsets="2217:2289" id="10" />
+      <Sentence char_offsets="2300:2630" id="11" />
+      <Sentence char_offsets="2641:2742" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="180">
+        <Participant actor_id="35844" actor_name="Revolutionary Armed Forces of Colombia" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

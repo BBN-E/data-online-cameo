@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090404.0513">
+    <Sentences>
+      <Sentence char_offsets="183:395" id="0" />
+      <Sentence char_offsets="406:650" id="1" />
+      <Sentence char_offsets="661:763" id="2" />
+      <Sentence char_offsets="765:814" id="3" />
+      <Sentence char_offsets="825:1041" id="4" />
+      <Sentence char_offsets="1052:1179" id="5" />
+      <Sentence char_offsets="1190:1312" id="6" />
+      <Sentence char_offsets="1314:1407" id="7" />
+      <Sentence char_offsets="1418:1538" id="8" />
+      <Sentence char_offsets="1549:1669" id="9" />
+      <Sentence char_offsets="1680:1820" id="10" />
+      <Sentence char_offsets="1831:1911" id="11" />
+      <Sentence char_offsets="1922:2117" id="12" />
+      <Sentence char_offsets="2128:2396" id="13" />
+      <Sentence char_offsets="2407:2562" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="28208" actor_name="Ra&#250;l Baduel" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="28208" actor_name="Ra&#250;l Baduel" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="112">
+        <Participant actor_id="28208" actor_name="Ra&#250;l Baduel" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="current" type="112">
+        <Participant actor_id="45868" actor_name="A New Era" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="historical" type="112">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="173">
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

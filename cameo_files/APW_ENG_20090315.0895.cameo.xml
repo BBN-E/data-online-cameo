@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0895">
+    <Sentences>
+      <Sentence char_offsets="186:364" id="0" />
+      <Sentence char_offsets="375:641" id="1" />
+      <Sentence char_offsets="643:716" id="2" />
+      <Sentence char_offsets="727:802" id="3" />
+      <Sentence char_offsets="804:913" id="4" />
+      <Sentence char_offsets="924:1133" id="5" />
+      <Sentence char_offsets="1144:1381" id="6" />
+      <Sentence char_offsets="1392:1530" id="7" />
+      <Sentence char_offsets="1532:1663" id="8" />
+      <Sentence char_offsets="1674:1783" id="9" />
+      <Sentence char_offsets="1794:1944" id="10" />
+      <Sentence char_offsets="1955:2150" id="11" />
+      <Sentence char_offsets="2152:2315" id="12" />
+      <Sentence char_offsets="2317:2386" id="13" />
+      <Sentence char_offsets="2388:2412" id="14" />
+      <Sentence char_offsets="2423:2600" id="15" />
+      <Sentence char_offsets="2611:2629" id="16" />
+      <Sentence char_offsets="2631:2706" id="17" />
+      <Sentence char_offsets="2708:2787" id="18" />
+      <Sentence char_offsets="2789:3089" id="19" />
+      <Sentence char_offsets="3100:3229" id="20" />
+      <Sentence char_offsets="3240:3439" id="21" />
+      <Sentence char_offsets="3450:3669" id="22" />
+      <Sentence char_offsets="3680:3855" id="23" />
+      <Sentence char_offsets="3866:4048" id="24" />
+      <Sentence char_offsets="4059:4173" id="25" />
+      <Sentence char_offsets="4184:4219" id="26" />
+      <Sentence char_offsets="4221:4335" id="27" />
+      <Sentence char_offsets="4337:4379" id="28" />
+      <Sentence char_offsets="4390:4531" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.1089">
+    <Sentences>
+      <Sentence char_offsets="186:303" id="0" />
+      <Sentence char_offsets="314:492" id="1" />
+      <Sentence char_offsets="503:623" id="2" />
+      <Sentence char_offsets="634:807" id="3" />
+      <Sentence char_offsets="809:907" id="4" />
+      <Sentence char_offsets="918:1010" id="5" />
+      <Sentence char_offsets="1012:1163" id="6" />
+      <Sentence char_offsets="1174:1385" id="7" />
+      <Sentence char_offsets="1396:1481" id="8" />
+      <Sentence char_offsets="1492:1681" id="9" />
+      <Sentence char_offsets="1692:1761" id="10" />
+      <Sentence char_offsets="1772:1872" id="11" />
+      <Sentence char_offsets="1874:2003" id="12" />
+      <Sentence char_offsets="2014:2197" id="13" />
+      <Sentence char_offsets="2208:2390" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="39755" actor_name="Petrobras" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

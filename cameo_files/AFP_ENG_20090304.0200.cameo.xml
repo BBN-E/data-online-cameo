@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0200">
+    <Sentences>
+      <Sentence char_offsets="174:335" id="0" />
+      <Sentence char_offsets="346:384" id="1" />
+      <Sentence char_offsets="386:499" id="2" />
+      <Sentence char_offsets="510:664" id="3" />
+      <Sentence char_offsets="675:856" id="4" />
+      <Sentence char_offsets="867:1001" id="5" />
+      <Sentence char_offsets="1012:1335" id="6" />
+      <Sentence char_offsets="1346:1537" id="7" />
+      <Sentence char_offsets="1548:1767" id="8" />
+      <Sentence char_offsets="1778:1823" id="9" />
+      <Sentence char_offsets="1825:1858" id="10" />
+      <Sentence char_offsets="1860:1875" id="11" />
+      <Sentence char_offsets="1877:2000" id="12" />
+      <Sentence char_offsets="2011:2124" id="13" />
+      <Sentence char_offsets="2135:2448" id="14" />
+      <Sentence char_offsets="2459:2620" id="15" />
+      <Sentence char_offsets="2631:2860" id="16" />
+      <Sentence char_offsets="2871:2975" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="current" type="030">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="current" type="030">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="historical" type="111">
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0144">
+    <Sentences>
+      <Sentence char_offsets="184:376" id="0" />
+      <Sentence char_offsets="387:561" id="1" />
+      <Sentence char_offsets="572:715" id="2" />
+      <Sentence char_offsets="726:957" id="3" />
+      <Sentence char_offsets="968:1136" id="4" />
+      <Sentence char_offsets="1147:1275" id="5" />
+      <Sentence char_offsets="1277:1337" id="6" />
+      <Sentence char_offsets="1348:1453" id="7" />
+      <Sentence char_offsets="1455:1573" id="8" />
+      <Sentence char_offsets="1584:1764" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="046">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

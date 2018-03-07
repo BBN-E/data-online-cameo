@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.1219">
+    <Sentences>
+      <Sentence char_offsets="192:423" id="0" />
+      <Sentence char_offsets="434:591" id="1" />
+      <Sentence char_offsets="602:807" id="2" />
+      <Sentence char_offsets="818:995" id="3" />
+      <Sentence char_offsets="997:1179" id="4" />
+      <Sentence char_offsets="1190:1322" id="5" />
+      <Sentence char_offsets="1333:1442" id="6" />
+      <Sentence char_offsets="1444:1573" id="7" />
+      <Sentence char_offsets="1584:1710" id="8" />
+      <Sentence char_offsets="1721:1889" id="9" />
+      <Sentence char_offsets="1900:2119" id="10" />
+      <Sentence char_offsets="2130:2178" id="11" />
+      <Sentence char_offsets="2189:2272" id="12" />
+      <Sentence char_offsets="2274:2309" id="13" />
+      <Sentence char_offsets="2320:2460" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="015">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

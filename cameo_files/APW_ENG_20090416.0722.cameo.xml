@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0722">
+    <Sentences>
+      <Sentence char_offsets="168:444" id="0" />
+      <Sentence char_offsets="455:616" id="1" />
+      <Sentence char_offsets="627:758" id="2" />
+      <Sentence char_offsets="760:945" id="3" />
+      <Sentence char_offsets="947:1051" id="4" />
+      <Sentence char_offsets="1062:1264" id="5" />
+      <Sentence char_offsets="1266:1413" id="6" />
+      <Sentence char_offsets="1424:1508" id="7" />
+      <Sentence char_offsets="1510:1577" id="8" />
+      <Sentence char_offsets="1588:1652" id="9" />
+      <Sentence char_offsets="1654:1717" id="10" />
+      <Sentence char_offsets="1728:2068" id="11" />
+      <Sentence char_offsets="2070:2181" id="12" />
+      <Sentence char_offsets="2192:2339" id="13" />
+      <Sentence char_offsets="2350:2496" id="14" />
+      <Sentence char_offsets="2498:2536" id="15" />
+      <Sentence char_offsets="2538:2629" id="16" />
+      <Sentence char_offsets="2640:2748" id="17" />
+      <Sentence char_offsets="2750:2818" id="18" />
+      <Sentence char_offsets="2829:2896" id="19" />
+      <Sentence char_offsets="2898:2942" id="20" />
+      <Sentence char_offsets="2953:3058" id="21" />
+      <Sentence char_offsets="3069:3344" id="22" />
+      <Sentence char_offsets="3346:3515" id="23" />
+      <Sentence char_offsets="3526:3645" id="24" />
+      <Sentence char_offsets="3647:3725" id="25" />
+      <Sentence char_offsets="3736:4004" id="26" />
+      <Sentence char_offsets="4015:4099" id="27" />
+      <Sentence char_offsets="4101:4236" id="28" />
+      <Sentence char_offsets="4247:4331" id="29" />
+      <Sentence char_offsets="4342:4549" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="239252" actor_name="Sergio Marchionne" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

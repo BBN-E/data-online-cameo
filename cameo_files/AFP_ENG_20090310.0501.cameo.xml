@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0501">
+    <Sentences>
+      <Sentence char_offsets="171:362" id="0" />
+      <Sentence char_offsets="373:536" id="1" />
+      <Sentence char_offsets="547:755" id="2" />
+      <Sentence char_offsets="766:894" id="3" />
+      <Sentence char_offsets="905:1034" id="4" />
+      <Sentence char_offsets="1045:1200" id="5" />
+      <Sentence char_offsets="1202:1279" id="6" />
+      <Sentence char_offsets="1290:1374" id="7" />
+      <Sentence char_offsets="1385:1438" id="8" />
+      <Sentence char_offsets="1440:1522" id="9" />
+      <Sentence char_offsets="1533:1723" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="3838" actor_name="Gazprom" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="31408" actor_name="Hungary" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

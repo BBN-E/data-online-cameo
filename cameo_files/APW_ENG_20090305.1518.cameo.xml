@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1518">
+    <Sentences>
+      <Sentence char_offsets="182:406" id="0" />
+      <Sentence char_offsets="417:535" id="1" />
+      <Sentence char_offsets="537:690" id="2" />
+      <Sentence char_offsets="701:872" id="3" />
+      <Sentence char_offsets="883:998" id="4" />
+      <Sentence char_offsets="1000:1162" id="5" />
+      <Sentence char_offsets="1173:1233" id="6" />
+      <Sentence char_offsets="1244:1266" id="7" />
+      <Sentence char_offsets="1268:1316" id="8" />
+      <Sentence char_offsets="1318:1446" id="9" />
+      <Sentence char_offsets="1457:1528" id="10" />
+      <Sentence char_offsets="1530:1580" id="11" />
+      <Sentence char_offsets="1591:1645" id="12" />
+      <Sentence char_offsets="1647:1713" id="13" />
+      <Sentence char_offsets="1715:1764" id="14" />
+      <Sentence char_offsets="1775:1871" id="15" />
+      <Sentence char_offsets="1873:1953" id="16" />
+      <Sentence char_offsets="1955:1986" id="17" />
+      <Sentence char_offsets="1997:2147" id="18" />
+      <Sentence char_offsets="2149:2207" id="19" />
+      <Sentence char_offsets="2218:2223" id="20" />
+      <Sentence char_offsets="2234:2321" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="012">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="0841">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

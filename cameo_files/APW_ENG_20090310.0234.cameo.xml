@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0234">
+    <Sentences>
+      <Sentence char_offsets="191:309" id="0" />
+      <Sentence char_offsets="320:422" id="1" />
+      <Sentence char_offsets="433:572" id="2" />
+      <Sentence char_offsets="583:647" id="3" />
+      <Sentence char_offsets="658:758" id="4" />
+      <Sentence char_offsets="760:825" id="5" />
+      <Sentence char_offsets="836:970" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

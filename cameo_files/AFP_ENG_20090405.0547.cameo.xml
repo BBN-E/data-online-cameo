@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0547">
+    <Sentences>
+      <Sentence char_offsets="175:348" id="0" />
+      <Sentence char_offsets="359:561" id="1" />
+      <Sentence char_offsets="572:742" id="2" />
+      <Sentence char_offsets="753:864" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="35786" actor_name="V&#225;clav Klaus" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="35786" actor_name="V&#225;clav Klaus" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

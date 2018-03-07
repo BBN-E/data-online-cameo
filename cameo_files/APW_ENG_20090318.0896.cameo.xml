@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0896">
+    <Sentences>
+      <Sentence char_offsets="192:389" id="0" />
+      <Sentence char_offsets="400:643" id="1" />
+      <Sentence char_offsets="654:891" id="2" />
+      <Sentence char_offsets="902:977" id="3" />
+      <Sentence char_offsets="988:1115" id="4" />
+      <Sentence char_offsets="1126:1262" id="5" />
+      <Sentence char_offsets="1273:1496" id="6" />
+      <Sentence char_offsets="1507:1622" id="7" />
+      <Sentence char_offsets="1633:1670" id="8" />
+      <Sentence char_offsets="1681:1825" id="9" />
+      <Sentence char_offsets="1827:1904" id="10" />
+      <Sentence char_offsets="1915:2093" id="11" />
+      <Sentence char_offsets="2104:2316" id="12" />
+      <Sentence char_offsets="2327:2447" id="13" />
+      <Sentence char_offsets="2458:2600" id="14" />
+      <Sentence char_offsets="2602:2716" id="15" />
+      <Sentence char_offsets="2727:2872" id="16" />
+      <Sentence char_offsets="2883:3002" id="17" />
+      <Sentence char_offsets="3004:3168" id="18" />
+      <Sentence char_offsets="3179:3278" id="19" />
+      <Sentence char_offsets="3280:3404" id="20" />
+      <Sentence char_offsets="3415:3517" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" agent_id="244" agent_name="Bishop" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" agent_id="244" agent_name="Bishop" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="51573" actor_name="Paul Biya" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" agent_id="244" agent_name="Bishop" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="neutral" type="112">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="51573" actor_name="Paul Biya" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32676" actor_name="Cameroon" agent_id="244" agent_name="Bishop" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

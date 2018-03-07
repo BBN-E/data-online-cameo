@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0311">
+    <Sentences>
+      <Sentence char_offsets="183:355" id="0" />
+      <Sentence char_offsets="366:545" id="1" />
+      <Sentence char_offsets="556:740" id="2" />
+      <Sentence char_offsets="751:944" id="3" />
+      <Sentence char_offsets="955:1137" id="4" />
+      <Sentence char_offsets="1148:1326" id="5" />
+      <Sentence char_offsets="1337:1410" id="6" />
+      <Sentence char_offsets="1421:1618" id="7" />
+      <Sentence char_offsets="1629:1806" id="8" />
+      <Sentence char_offsets="1817:1841" id="9" />
+      <Sentence char_offsets="1843:2023" id="10" />
+      <Sentence char_offsets="2034:2139" id="11" />
+      <Sentence char_offsets="2150:2316" id="12" />
+      <Sentence char_offsets="2327:2479" id="13" />
+      <Sentence char_offsets="2490:2663" id="14" />
+      <Sentence char_offsets="2674:2870" id="15" />
+      <Sentence char_offsets="2881:2924" id="16" />
+      <Sentence char_offsets="2935:3060" id="17" />
+      <Sentence char_offsets="3071:3278" id="18" />
+      <Sentence char_offsets="3289:3451" id="19" />
+      <Sentence char_offsets="3462:3535" id="20" />
+      <Sentence char_offsets="3537:3648" id="21" />
+      <Sentence char_offsets="3659:3764" id="22" />
+      <Sentence char_offsets="3775:3945" id="23" />
+      <Sentence char_offsets="3956:4164" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="040">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="040">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090322.0145">
+    <Sentences>
+      <Sentence char_offsets="174:245" id="0" />
+      <Sentence char_offsets="247:378" id="1" />
+      <Sentence char_offsets="380:493" id="2" />
+      <Sentence char_offsets="504:765" id="3" />
+      <Sentence char_offsets="776:866" id="4" />
+      <Sentence char_offsets="868:932" id="5" />
+      <Sentence char_offsets="934:1041" id="6" />
+      <Sentence char_offsets="1052:1091" id="7" />
+      <Sentence char_offsets="1102:1309" id="8" />
+      <Sentence char_offsets="1311:1442" id="9" />
+      <Sentence char_offsets="1453:1584" id="10" />
+      <Sentence char_offsets="1586:1634" id="11" />
+      <Sentence char_offsets="1636:1803" id="12" />
+      <Sentence char_offsets="1814:1855" id="13" />
+      <Sentence char_offsets="1857:2071" id="14" />
+      <Sentence char_offsets="2082:2214" id="15" />
+      <Sentence char_offsets="2225:2281" id="16" />
+      <Sentence char_offsets="2283:2454" id="17" />
+      <Sentence char_offsets="2456:2501" id="18" />
+      <Sentence char_offsets="2512:2617" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="154">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="154">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

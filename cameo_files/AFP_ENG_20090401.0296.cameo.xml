@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0296">
+    <Sentences>
+      <Sentence char_offsets="161:359" id="0" />
+      <Sentence char_offsets="370:530" id="1" />
+      <Sentence char_offsets="541:767" id="2" />
+      <Sentence char_offsets="778:958" id="3" />
+      <Sentence char_offsets="969:1032" id="4" />
+      <Sentence char_offsets="1043:1255" id="5" />
+      <Sentence char_offsets="1266:1442" id="6" />
+      <Sentence char_offsets="1453:1524" id="7" />
+      <Sentence char_offsets="1535:1682" id="8" />
+      <Sentence char_offsets="1693:1851" id="9" />
+      <Sentence char_offsets="1862:1997" id="10" />
+      <Sentence char_offsets="2008:2180" id="11" />
+      <Sentence char_offsets="2191:2382" id="12" />
+      <Sentence char_offsets="2393:2592" id="13" />
+      <Sentence char_offsets="2603:2635" id="14" />
+      <Sentence char_offsets="2646:2821" id="15" />
+      <Sentence char_offsets="2832:2994" id="16" />
+      <Sentence char_offsets="3005:3127" id="17" />
+      <Sentence char_offsets="3138:3253" id="18" />
+      <Sentence char_offsets="3255:3322" id="19" />
+      <Sentence char_offsets="3333:3482" id="20" />
+      <Sentence char_offsets="3493:3710" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="013">
+        <Participant actor_id="36252" actor_name="Stipe Mesic" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="017">
+        <Participant actor_id="37762" actor_name="Kolinda Grabar-Kitarovi&#263;" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="31393" actor_name="Croatia" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="29099" actor_name="Albania" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="20" tense="historical" type="050">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="36252" actor_name="Stipe Mesic" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="36252" actor_name="Stipe Mesic" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

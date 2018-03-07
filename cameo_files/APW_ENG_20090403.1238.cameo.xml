@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.1238">
+    <Sentences>
+      <Sentence char_offsets="198:386" id="0" />
+      <Sentence char_offsets="397:480" id="1" />
+      <Sentence char_offsets="491:626" id="2" />
+      <Sentence char_offsets="628:656" id="3" />
+      <Sentence char_offsets="667:892" id="4" />
+      <Sentence char_offsets="903:1048" id="5" />
+      <Sentence char_offsets="1059:1345" id="6" />
+      <Sentence char_offsets="1356:1537" id="7" />
+      <Sentence char_offsets="1539:1629" id="8" />
+      <Sentence char_offsets="1640:1800" id="9" />
+      <Sentence char_offsets="1811:1915" id="10" />
+      <Sentence char_offsets="1926:2137" id="11" />
+      <Sentence char_offsets="2148:2357" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="41241" actor_name="Uruguay" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="41241" actor_name="Uruguay" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Source" />
+        <Participant actor_id="41241" actor_name="Uruguay" agent_id="310" agent_name="Government Official" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="41241" actor_name="Uruguay" role="Source" />
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="064">
+        <Participant actor_id="41241" actor_name="Uruguay" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

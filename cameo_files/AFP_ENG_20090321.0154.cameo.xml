@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090321.0154">
+    <Sentences>
+      <Sentence char_offsets="190:392" id="0" />
+      <Sentence char_offsets="403:605" id="1" />
+      <Sentence char_offsets="616:754" id="2" />
+      <Sentence char_offsets="765:938" id="3" />
+      <Sentence char_offsets="949:1134" id="4" />
+      <Sentence char_offsets="1145:1376" id="5" />
+      <Sentence char_offsets="1387:1512" id="6" />
+      <Sentence char_offsets="1514:1617" id="7" />
+      <Sentence char_offsets="1628:1765" id="8" />
+      <Sentence char_offsets="1767:1858" id="9" />
+      <Sentence char_offsets="1869:2040" id="10" />
+      <Sentence char_offsets="2051:2202" id="11" />
+      <Sentence char_offsets="2213:2293" id="12" />
+      <Sentence char_offsets="2295:2413" id="13" />
+      <Sentence char_offsets="2424:2646" id="14" />
+      <Sentence char_offsets="2657:2820" id="15" />
+      <Sentence char_offsets="2831:3031" id="16" />
+      <Sentence char_offsets="3042:3263" id="17" />
+      <Sentence char_offsets="3274:3407" id="18" />
+      <Sentence char_offsets="3418:3542" id="19" />
+      <Sentence char_offsets="3553:3715" id="20" />
+      <Sentence char_offsets="3726:4016" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="020">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="020">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="29036" actor_name="Angola" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29036" actor_name="Angola" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="29036" actor_name="Angola" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="29036" actor_name="Angola" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

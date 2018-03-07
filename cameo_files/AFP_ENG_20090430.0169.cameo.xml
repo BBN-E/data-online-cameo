@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0169">
+    <Sentences>
+      <Sentence char_offsets="179:377" id="0" />
+      <Sentence char_offsets="388:615" id="1" />
+      <Sentence char_offsets="626:776" id="2" />
+      <Sentence char_offsets="787:1016" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="36776" actor_name="Macedonia" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="39547" actor_name="Turkmenistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

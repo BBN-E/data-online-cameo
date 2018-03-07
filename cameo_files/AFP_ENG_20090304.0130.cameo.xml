@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0130">
+    <Sentences>
+      <Sentence char_offsets="179:365" id="0" />
+      <Sentence char_offsets="376:566" id="1" />
+      <Sentence char_offsets="577:759" id="2" />
+      <Sentence char_offsets="770:838" id="3" />
+      <Sentence char_offsets="840:946" id="4" />
+      <Sentence char_offsets="957:1149" id="5" />
+      <Sentence char_offsets="1160:1260" id="6" />
+      <Sentence char_offsets="1262:1329" id="7" />
+      <Sentence char_offsets="1340:1381" id="8" />
+      <Sentence char_offsets="1392:1523" id="9" />
+      <Sentence char_offsets="1525:1610" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="36648" actor_name="Middle East" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="120">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="36648" actor_name="Middle East" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

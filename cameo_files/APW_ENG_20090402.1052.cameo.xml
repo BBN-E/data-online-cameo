@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1052">
+    <Sentences>
+      <Sentence char_offsets="179:367" id="0" />
+      <Sentence char_offsets="378:446" id="1" />
+      <Sentence char_offsets="457:590" id="2" />
+      <Sentence char_offsets="592:644" id="3" />
+      <Sentence char_offsets="655:866" id="4" />
+      <Sentence char_offsets="877:1009" id="5" />
+      <Sentence char_offsets="1020:1139" id="6" />
+      <Sentence char_offsets="1150:1254" id="7" />
+      <Sentence char_offsets="1265:1455" id="8" />
+      <Sentence char_offsets="1466:1673" id="9" />
+      <Sentence char_offsets="1684:1772" id="10" />
+      <Sentence char_offsets="1774:1872" id="11" />
+      <Sentence char_offsets="1874:1955" id="12" />
+      <Sentence char_offsets="1966:2011" id="13" />
+      <Sentence char_offsets="2013:2147" id="14" />
+      <Sentence char_offsets="2158:2297" id="15" />
+      <Sentence char_offsets="2299:2503" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="045">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="045">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="124">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="historical" type="192">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="historical" type="192">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

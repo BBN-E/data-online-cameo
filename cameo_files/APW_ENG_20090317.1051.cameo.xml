@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1051">
+    <Sentences>
+      <Sentence char_offsets="183:372" id="0" />
+      <Sentence char_offsets="383:609" id="1" />
+      <Sentence char_offsets="620:902" id="2" />
+      <Sentence char_offsets="913:1044" id="3" />
+      <Sentence char_offsets="1055:1312" id="4" />
+      <Sentence char_offsets="1323:1470" id="5" />
+      <Sentence char_offsets="1472:1582" id="6" />
+      <Sentence char_offsets="1593:1724" id="7" />
+      <Sentence char_offsets="1726:1752" id="8" />
+      <Sentence char_offsets="1754:1780" id="9" />
+      <Sentence char_offsets="1782:1805" id="10" />
+      <Sentence char_offsets="1816:1913" id="11" />
+      <Sentence char_offsets="1924:2072" id="12" />
+      <Sentence char_offsets="2074:2187" id="13" />
+      <Sentence char_offsets="2198:2287" id="14" />
+      <Sentence char_offsets="2289:2361" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="030">
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="030">
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="050">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

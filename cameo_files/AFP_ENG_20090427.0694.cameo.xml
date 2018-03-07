@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0694">
+    <Sentences>
+      <Sentence char_offsets="184:373" id="0" />
+      <Sentence char_offsets="384:594" id="1" />
+      <Sentence char_offsets="605:827" id="2" />
+      <Sentence char_offsets="838:1056" id="3" />
+      <Sentence char_offsets="1067:1244" id="4" />
+      <Sentence char_offsets="1255:1460" id="5" />
+      <Sentence char_offsets="1471:1647" id="6" />
+      <Sentence char_offsets="1658:1864" id="7" />
+      <Sentence char_offsets="1875:2093" id="8" />
+      <Sentence char_offsets="2104:2286" id="9" />
+      <Sentence char_offsets="2297:2529" id="10" />
+      <Sentence char_offsets="2540:2663" id="11" />
+      <Sentence char_offsets="2674:2844" id="12" />
+      <Sentence char_offsets="2855:3034" id="13" />
+      <Sentence char_offsets="3045:3241" id="14" />
+      <Sentence char_offsets="3252:3435" id="15" />
+      <Sentence char_offsets="3446:3681" id="16" />
+      <Sentence char_offsets="3692:3876" id="17" />
+      <Sentence char_offsets="3887:3945" id="18" />
+      <Sentence char_offsets="3947:4092" id="19" />
+      <Sentence char_offsets="4103:4292" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="12840" actor_name="John Key" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

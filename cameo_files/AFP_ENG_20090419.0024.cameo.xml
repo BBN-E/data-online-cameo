@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0024">
+    <Sentences>
+      <Sentence char_offsets="205:380" id="0" />
+      <Sentence char_offsets="391:691" id="1" />
+      <Sentence char_offsets="702:804" id="2" />
+      <Sentence char_offsets="815:950" id="3" />
+      <Sentence char_offsets="961:1007" id="4" />
+      <Sentence char_offsets="1018:1076" id="5" />
+      <Sentence char_offsets="1087:1288" id="6" />
+      <Sentence char_offsets="1299:1406" id="7" />
+      <Sentence char_offsets="1417:1604" id="8" />
+      <Sentence char_offsets="1606:1631" id="9" />
+      <Sentence char_offsets="1642:1714" id="10" />
+      <Sentence char_offsets="1716:1761" id="11" />
+      <Sentence char_offsets="1772:1888" id="12" />
+      <Sentence char_offsets="1899:2088" id="13" />
+      <Sentence char_offsets="2099:2243" id="14" />
+      <Sentence char_offsets="2254:2281" id="15" />
+      <Sentence char_offsets="2283:2316" id="16" />
+      <Sentence char_offsets="2318:2433" id="17" />
+      <Sentence char_offsets="2444:2577" id="18" />
+      <Sentence char_offsets="2588:2742" id="19" />
+      <Sentence char_offsets="2753:2859" id="20" />
+      <Sentence char_offsets="2870:2975" id="21" />
+      <Sentence char_offsets="2986:3161" id="22" />
+      <Sentence char_offsets="3172:3254" id="23" />
+      <Sentence char_offsets="3256:3300" id="24" />
+      <Sentence char_offsets="3311:3433" id="25" />
+      <Sentence char_offsets="3444:3678" id="26" />
+      <Sentence char_offsets="3689:3806" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="073">
+        <Participant actor_id="8987" actor_name="Movement for the Emancipation of the Niger Delta" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0841">
+        <Participant actor_id="8987" actor_name="Movement for the Emancipation of the Niger Delta" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="0841">
+        <Participant actor_id="37071" actor_name="Nigeria" role="Source" />
+        <Participant actor_id="120820" actor_name="Henry Okah" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

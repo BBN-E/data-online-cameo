@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0048">
+    <Sentences>
+      <Sentence char_offsets="154:187" id="0" />
+      <Sentence char_offsets="190:232" id="1" />
+      <Sentence char_offsets="235:275" id="2" />
+      <Sentence char_offsets="278:317" id="3" />
+      <Sentence char_offsets="320:502" id="4" />
+      <Sentence char_offsets="505:581" id="5" />
+      <Sentence char_offsets="583:598" id="6" />
+      <Sentence char_offsets="600:624" id="7" />
+      <Sentence char_offsets="627:777" id="8" />
+      <Sentence char_offsets="780:1001" id="9" />
+      <Sentence char_offsets="1004:1120" id="10" />
+      <Sentence char_offsets="1122:1149" id="11" />
+      <Sentence char_offsets="1152:1374" id="12" />
+      <Sentence char_offsets="1377:1491" id="13" />
+      <Sentence char_offsets="1494:1613" id="14" />
+      <Sentence char_offsets="1615:1630" id="15" />
+      <Sentence char_offsets="1632:1680" id="16" />
+      <Sentence char_offsets="1683:1847" id="17" />
+      <Sentence char_offsets="1849:1868" id="18" />
+      <Sentence char_offsets="1870:1880" id="19" />
+      <Sentence char_offsets="1882:1907" id="20" />
+      <Sentence char_offsets="1910:2010" id="21" />
+      <Sentence char_offsets="2012:2029" id="22" />
+      <Sentence char_offsets="2031:2058" id="23" />
+      <Sentence char_offsets="2061:2208" id="24" />
+      <Sentence char_offsets="2211:2385" id="25" />
+      <Sentence char_offsets="2388:2588" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="046">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="25" tense="neutral" type="173">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="21" tense="neutral" type="046">
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

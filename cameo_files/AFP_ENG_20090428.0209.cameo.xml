@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0209">
+    <Sentences>
+      <Sentence char_offsets="174:311" id="0" />
+      <Sentence char_offsets="322:450" id="1" />
+      <Sentence char_offsets="461:548" id="2" />
+      <Sentence char_offsets="559:664" id="3" />
+      <Sentence char_offsets="675:849" id="4" />
+      <Sentence char_offsets="860:1056" id="5" />
+      <Sentence char_offsets="1067:1176" id="6" />
+      <Sentence char_offsets="1187:1370" id="7" />
+      <Sentence char_offsets="1381:1492" id="8" />
+      <Sentence char_offsets="1503:1576" id="9" />
+      <Sentence char_offsets="1587:1722" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="47658" actor_name="Heinz Fischer" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="35210" actor_name="Werner Faymann" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="47658" actor_name="Heinz Fischer" role="Source" />
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="35210" actor_name="Werner Faymann" role="Source" />
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

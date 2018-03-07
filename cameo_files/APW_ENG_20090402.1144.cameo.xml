@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1144">
+    <Sentences>
+      <Sentence char_offsets="192:319" id="0" />
+      <Sentence char_offsets="330:457" id="1" />
+      <Sentence char_offsets="468:574" id="2" />
+      <Sentence char_offsets="576:662" id="3" />
+      <Sentence char_offsets="664:717" id="4" />
+      <Sentence char_offsets="728:796" id="5" />
+      <Sentence char_offsets="807:938" id="6" />
+      <Sentence char_offsets="940:985" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="29637" actor_name="Anna Kachikho" role="Source" />
+        <Participant actor_id="36845" actor_name="Malawi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

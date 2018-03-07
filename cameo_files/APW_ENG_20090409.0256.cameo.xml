@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.0256">
+    <Sentences>
+      <Sentence char_offsets="193:437" id="0" />
+      <Sentence char_offsets="448:641" id="1" />
+      <Sentence char_offsets="652:793" id="2" />
+      <Sentence char_offsets="795:995" id="3" />
+      <Sentence char_offsets="1006:1126" id="4" />
+      <Sentence char_offsets="1128:1253" id="5" />
+      <Sentence char_offsets="1264:1428" id="6" />
+      <Sentence char_offsets="1439:1487" id="7" />
+      <Sentence char_offsets="1489:1627" id="8" />
+      <Sentence char_offsets="1638:1756" id="9" />
+      <Sentence char_offsets="1758:1954" id="10" />
+      <Sentence char_offsets="1965:2109" id="11" />
+      <Sentence char_offsets="2111:2222" id="12" />
+      <Sentence char_offsets="2233:2364" id="13" />
+      <Sentence char_offsets="2366:2422" id="14" />
+      <Sentence char_offsets="2433:2595" id="15" />
+      <Sentence char_offsets="2606:2776" id="16" />
+      <Sentence char_offsets="2787:2909" id="17" />
+      <Sentence char_offsets="2920:3062" id="18" />
+      <Sentence char_offsets="3073:3156" id="19" />
+      <Sentence char_offsets="3167:3278" id="20" />
+      <Sentence char_offsets="3289:3548" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="14484" actor_name="Noureddine Zerhouni" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

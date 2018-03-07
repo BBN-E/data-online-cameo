@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090307.0061">
+    <Sentences>
+      <Sentence char_offsets="198:371" id="0" />
+      <Sentence char_offsets="382:533" id="1" />
+      <Sentence char_offsets="544:708" id="2" />
+      <Sentence char_offsets="719:834" id="3" />
+      <Sentence char_offsets="845:953" id="4" />
+      <Sentence char_offsets="955:1098" id="5" />
+      <Sentence char_offsets="1109:1270" id="6" />
+      <Sentence char_offsets="1281:1468" id="7" />
+      <Sentence char_offsets="1470:1621" id="8" />
+      <Sentence char_offsets="1632:1892" id="9" />
+      <Sentence char_offsets="1903:1987" id="10" />
+      <Sentence char_offsets="1998:2131" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="016">
+        <Participant actor_id="32629" actor_name="Chile" agent_id="502" agent_name="Congress" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="28823" actor_name="Argentina" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="28823" actor_name="Argentina" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

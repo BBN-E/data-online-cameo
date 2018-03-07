@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0266">
+    <Sentences>
+      <Sentence char_offsets="197:436" id="0" />
+      <Sentence char_offsets="447:687" id="1" />
+      <Sentence char_offsets="698:889" id="2" />
+      <Sentence char_offsets="900:1090" id="3" />
+      <Sentence char_offsets="1101:1236" id="4" />
+      <Sentence char_offsets="1238:1335" id="5" />
+      <Sentence char_offsets="1346:1401" id="6" />
+      <Sentence char_offsets="1403:1451" id="7" />
+      <Sentence char_offsets="1453:1555" id="8" />
+      <Sentence char_offsets="1566:1871" id="9" />
+      <Sentence char_offsets="1882:2016" id="10" />
+      <Sentence char_offsets="2027:2129" id="11" />
+      <Sentence char_offsets="2140:2344" id="12" />
+      <Sentence char_offsets="2355:2593" id="13" />
+      <Sentence char_offsets="2604:2732" id="14" />
+      <Sentence char_offsets="2734:2811" id="15" />
+      <Sentence char_offsets="2822:3072" id="16" />
+      <Sentence char_offsets="3083:3206" id="17" />
+      <Sentence char_offsets="3217:3378" id="18" />
+      <Sentence char_offsets="3389:3561" id="19" />
+      <Sentence char_offsets="3563:3687" id="20" />
+      <Sentence char_offsets="3698:3810" id="21" />
+      <Sentence char_offsets="3812:3987" id="22" />
+      <Sentence char_offsets="3998:4072" id="23" />
+      <Sentence char_offsets="4074:4169" id="24" />
+      <Sentence char_offsets="4180:4344" id="25" />
+      <Sentence char_offsets="4355:4459" id="26" />
+      <Sentence char_offsets="4461:4559" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="historical" type="061">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

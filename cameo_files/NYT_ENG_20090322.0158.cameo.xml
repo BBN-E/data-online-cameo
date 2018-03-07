@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090322.0158">
+    <Sentences>
+      <Sentence char_offsets="102:142" id="0" />
+      <Sentence char_offsets="143:181" id="1" />
+      <Sentence char_offsets="183:266" id="2" />
+      <Sentence char_offsets="268:337" id="3" />
+      <Sentence char_offsets="339:405" id="4" />
+      <Sentence char_offsets="412:614" id="5" />
+      <Sentence char_offsets="625:914" id="6" />
+      <Sentence char_offsets="925:1270" id="7" />
+      <Sentence char_offsets="1281:1399" id="8" />
+      <Sentence char_offsets="1410:1618" id="9" />
+      <Sentence char_offsets="1620:1765" id="10" />
+      <Sentence char_offsets="1776:1935" id="11" />
+      <Sentence char_offsets="1946:2138" id="12" />
+      <Sentence char_offsets="2149:2456" id="13" />
+      <Sentence char_offsets="2467:2546" id="14" />
+      <Sentence char_offsets="2548:2675" id="15" />
+      <Sentence char_offsets="2686:2742" id="16" />
+      <Sentence char_offsets="2753:3001" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0654">
+    <Sentences>
+      <Sentence char_offsets="197:402" id="0" />
+      <Sentence char_offsets="413:643" id="1" />
+      <Sentence char_offsets="654:799" id="2" />
+      <Sentence char_offsets="810:916" id="3" />
+      <Sentence char_offsets="927:1039" id="4" />
+      <Sentence char_offsets="1050:1200" id="5" />
+      <Sentence char_offsets="1202:1366" id="6" />
+      <Sentence char_offsets="1377:1548" id="7" />
+      <Sentence char_offsets="1559:1668" id="8" />
+      <Sentence char_offsets="1679:1825" id="9" />
+      <Sentence char_offsets="1836:2053" id="10" />
+      <Sentence char_offsets="2064:2276" id="11" />
+      <Sentence char_offsets="2287:2388" id="12" />
+      <Sentence char_offsets="2390:2460" id="13" />
+      <Sentence char_offsets="2471:2621" id="14" />
+      <Sentence char_offsets="2623:2721" id="15" />
+      <Sentence char_offsets="2732:2879" id="16" />
+      <Sentence char_offsets="2881:2982" id="17" />
+      <Sentence char_offsets="2993:3114" id="18" />
+      <Sentence char_offsets="3116:3175" id="19" />
+      <Sentence char_offsets="3186:3201" id="20" />
+      <Sentence char_offsets="3203:3310" id="21" />
+      <Sentence char_offsets="3312:3391" id="22" />
+      <Sentence char_offsets="3393:3459" id="23" />
+      <Sentence char_offsets="3470:3630" id="24" />
+      <Sentence char_offsets="3632:3682" id="25" />
+      <Sentence char_offsets="3693:3939" id="26" />
+      <Sentence char_offsets="3950:3955" id="27" />
+      <Sentence char_offsets="3966:4008" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="145">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0861">
+    <Sentences>
+      <Sentence char_offsets="183:379" id="0" />
+      <Sentence char_offsets="390:527" id="1" />
+      <Sentence char_offsets="538:684" id="2" />
+      <Sentence char_offsets="695:850" id="3" />
+      <Sentence char_offsets="861:1022" id="4" />
+      <Sentence char_offsets="1033:1097" id="5" />
+      <Sentence char_offsets="1108:1309" id="6" />
+      <Sentence char_offsets="1320:1476" id="7" />
+      <Sentence char_offsets="1487:1601" id="8" />
+      <Sentence char_offsets="1612:1775" id="9" />
+      <Sentence char_offsets="1786:1981" id="10" />
+      <Sentence char_offsets="1992:2255" id="11" />
+      <Sentence char_offsets="2266:2369" id="12" />
+      <Sentence char_offsets="2380:2474" id="13" />
+      <Sentence char_offsets="2485:2629" id="14" />
+      <Sentence char_offsets="2640:2648" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="32515" actor_name="Wayne Swan" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="32515" actor_name="Wayne Swan" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="32515" actor_name="Wayne Swan" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="32515" actor_name="Wayne Swan" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

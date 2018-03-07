@@ -1,0 +1,71 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0459">
+    <Sentences>
+      <Sentence char_offsets="200:365" id="0" />
+      <Sentence char_offsets="376:612" id="1" />
+      <Sentence char_offsets="623:713" id="2" />
+      <Sentence char_offsets="715:800" id="3" />
+      <Sentence char_offsets="811:1058" id="4" />
+      <Sentence char_offsets="1069:1329" id="5" />
+      <Sentence char_offsets="1340:1407" id="6" />
+      <Sentence char_offsets="1409:1519" id="7" />
+      <Sentence char_offsets="1521:1725" id="8" />
+      <Sentence char_offsets="1727:1788" id="9" />
+      <Sentence char_offsets="1799:1971" id="10" />
+      <Sentence char_offsets="1973:2066" id="11" />
+      <Sentence char_offsets="2068:2127" id="12" />
+      <Sentence char_offsets="2138:2312" id="13" />
+      <Sentence char_offsets="2314:2355" id="14" />
+      <Sentence char_offsets="2366:2629" id="15" />
+      <Sentence char_offsets="2640:2918" id="16" />
+      <Sentence char_offsets="2929:2993" id="17" />
+      <Sentence char_offsets="2995:3185" id="18" />
+      <Sentence char_offsets="3196:3288" id="19" />
+      <Sentence char_offsets="3290:3431" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="042">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="042">
+        <Participant actor_id="33371" actor_name="Peter Robinson" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="060">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="090">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="20" tense="neutral" type="111">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="150">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="neutral" type="173">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="historical" type="180">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="15" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="15" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="33371" actor_name="Peter Robinson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

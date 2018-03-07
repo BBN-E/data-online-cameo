@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0473">
+    <Sentences>
+      <Sentence char_offsets="184:323" id="0" />
+      <Sentence char_offsets="334:466" id="1" />
+      <Sentence char_offsets="477:639" id="2" />
+      <Sentence char_offsets="650:722" id="3" />
+      <Sentence char_offsets="724:930" id="4" />
+      <Sentence char_offsets="941:992" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="111">
+        <Participant actor_id="4242" actor_name="Mikhail Borisovich Khodorkovsky" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

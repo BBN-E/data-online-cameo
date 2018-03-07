@@ -1,0 +1,80 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090302.0152">
+    <Sentences>
+      <Sentence char_offsets="381:596" id="0" />
+      <Sentence char_offsets="607:853" id="1" />
+      <Sentence char_offsets="855:1015" id="2" />
+      <Sentence char_offsets="1026:1197" id="3" />
+      <Sentence char_offsets="1199:1294" id="4" />
+      <Sentence char_offsets="1296:1430" id="5" />
+      <Sentence char_offsets="1441:1582" id="6" />
+      <Sentence char_offsets="1584:1784" id="7" />
+      <Sentence char_offsets="1795:1867" id="8" />
+      <Sentence char_offsets="1869:1968" id="9" />
+      <Sentence char_offsets="1979:2051" id="10" />
+      <Sentence char_offsets="2053:2121" id="11" />
+      <Sentence char_offsets="2123:2182" id="12" />
+      <Sentence char_offsets="2193:2374" id="13" />
+      <Sentence char_offsets="2376:2454" id="14" />
+      <Sentence char_offsets="2465:2586" id="15" />
+      <Sentence char_offsets="2588:2809" id="16" />
+      <Sentence char_offsets="2820:3046" id="17" />
+      <Sentence char_offsets="3057:3183" id="18" />
+      <Sentence char_offsets="3185:3385" id="19" />
+      <Sentence char_offsets="3396:3521" id="20" />
+      <Sentence char_offsets="3523:3595" id="21" />
+      <Sentence char_offsets="3606:3667" id="22" />
+      <Sentence char_offsets="3678:3868" id="23" />
+      <Sentence char_offsets="3879:4125" id="24" />
+      <Sentence char_offsets="4136:4207" id="25" />
+      <Sentence char_offsets="4209:4217" id="26" />
+      <Sentence char_offsets="4219:4281" id="27" />
+      <Sentence char_offsets="4292:4474" id="28" />
+      <Sentence char_offsets="4476:4556" id="29" />
+      <Sentence char_offsets="4558:4597" id="30" />
+      <Sentence char_offsets="4608:4703" id="31" />
+      <Sentence char_offsets="4705:4817" id="32" />
+      <Sentence char_offsets="4828:4915" id="33" />
+      <Sentence char_offsets="4917:5006" id="34" />
+      <Sentence char_offsets="5017:5059" id="35" />
+      <Sentence char_offsets="5061:5164" id="36" />
+      <Sentence char_offsets="5175:5261" id="37" />
+      <Sentence char_offsets="5272:5467" id="38" />
+      <Sentence char_offsets="5469:5498" id="39" />
+      <Sentence char_offsets="5509:5588" id="40" />
+      <Sentence char_offsets="5590:5741" id="41" />
+      <Sentence char_offsets="5743:5806" id="42" />
+      <Sentence char_offsets="5817:5928" id="43" />
+      <Sentence char_offsets="5930:6007" id="44" />
+      <Sentence char_offsets="6009:6245" id="45" />
+      <Sentence char_offsets="6256:6406" id="46" />
+      <Sentence char_offsets="6417:6542" id="47" />
+      <Sentence char_offsets="6544:6714" id="48" />
+      <Sentence char_offsets="6716:6927" id="49" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="41" tense="historical" type="111">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="41" tense="historical" type="111">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="31" tense="current" type="112">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="42" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

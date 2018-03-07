@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0794">
+    <Sentences>
+      <Sentence char_offsets="177:317" id="0" />
+      <Sentence char_offsets="328:355" id="1" />
+      <Sentence char_offsets="357:421" id="2" />
+      <Sentence char_offsets="423:521" id="3" />
+      <Sentence char_offsets="532:691" id="4" />
+      <Sentence char_offsets="702:835" id="5" />
+      <Sentence char_offsets="837:930" id="6" />
+      <Sentence char_offsets="941:1080" id="7" />
+      <Sentence char_offsets="1082:1119" id="8" />
+      <Sentence char_offsets="1130:1397" id="9" />
+      <Sentence char_offsets="1408:1486" id="10" />
+      <Sentence char_offsets="1497:1539" id="11" />
+      <Sentence char_offsets="1541:1590" id="12" />
+      <Sentence char_offsets="1592:1677" id="13" />
+      <Sentence char_offsets="1679:1723" id="14" />
+      <Sentence char_offsets="1734:1981" id="15" />
+      <Sentence char_offsets="1992:2192" id="16" />
+      <Sentence char_offsets="2203:2355" id="17" />
+      <Sentence char_offsets="2366:2434" id="18" />
+      <Sentence char_offsets="2445:2631" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="historical" type="020">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="0253">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

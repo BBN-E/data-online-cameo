@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0023">
+    <Sentences>
+      <Sentence char_offsets="183:358" id="0" />
+      <Sentence char_offsets="369:518" id="1" />
+      <Sentence char_offsets="529:669" id="2" />
+      <Sentence char_offsets="680:866" id="3" />
+      <Sentence char_offsets="877:1019" id="4" />
+      <Sentence char_offsets="1030:1096" id="5" />
+      <Sentence char_offsets="1107:1220" id="6" />
+      <Sentence char_offsets="1231:1404" id="7" />
+      <Sentence char_offsets="1415:1518" id="8" />
+      <Sentence char_offsets="1520:1562" id="9" />
+      <Sentence char_offsets="1573:1794" id="10" />
+      <Sentence char_offsets="1805:1863" id="11" />
+      <Sentence char_offsets="1874:2021" id="12" />
+      <Sentence char_offsets="2032:2186" id="13" />
+      <Sentence char_offsets="2197:2362" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="587" agent_name="Representatives" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="587" agent_name="Representatives" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

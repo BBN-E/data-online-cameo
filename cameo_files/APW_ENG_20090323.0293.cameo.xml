@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0293">
+    <Sentences>
+      <Sentence char_offsets="191:433" id="0" />
+      <Sentence char_offsets="444:729" id="1" />
+      <Sentence char_offsets="740:800" id="2" />
+      <Sentence char_offsets="811:924" id="3" />
+      <Sentence char_offsets="935:973" id="4" />
+      <Sentence char_offsets="975:1175" id="5" />
+      <Sentence char_offsets="1186:1390" id="6" />
+      <Sentence char_offsets="1392:1492" id="7" />
+      <Sentence char_offsets="1503:1660" id="8" />
+      <Sentence char_offsets="1662:1717" id="9" />
+      <Sentence char_offsets="1728:1818" id="10" />
+      <Sentence char_offsets="1829:1976" id="11" />
+      <Sentence char_offsets="1978:2109" id="12" />
+      <Sentence char_offsets="2120:2201" id="13" />
+      <Sentence char_offsets="2212:2267" id="14" />
+      <Sentence char_offsets="2278:2376" id="15" />
+      <Sentence char_offsets="2378:2434" id="16" />
+      <Sentence char_offsets="2436:2537" id="17" />
+      <Sentence char_offsets="2539:2570" id="18" />
+      <Sentence char_offsets="2581:2704" id="19" />
+      <Sentence char_offsets="2706:2844" id="20" />
+      <Sentence char_offsets="2846:3024" id="21" />
+      <Sentence char_offsets="3035:3182" id="22" />
+      <Sentence char_offsets="3184:3286" id="23" />
+      <Sentence char_offsets="3297:3497" id="24" />
+      <Sentence char_offsets="3508:3706" id="25" />
+      <Sentence char_offsets="3717:3903" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="51443" actor_name="Social Democratic Union" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

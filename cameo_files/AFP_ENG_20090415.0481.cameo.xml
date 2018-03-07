@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0481">
+    <Sentences>
+      <Sentence char_offsets="180:341" id="0" />
+      <Sentence char_offsets="352:594" id="1" />
+      <Sentence char_offsets="605:685" id="2" />
+      <Sentence char_offsets="687:813" id="3" />
+      <Sentence char_offsets="824:869" id="4" />
+      <Sentence char_offsets="871:1010" id="5" />
+      <Sentence char_offsets="1021:1114" id="6" />
+      <Sentence char_offsets="1125:1211" id="7" />
+      <Sentence char_offsets="1222:1310" id="8" />
+      <Sentence char_offsets="1321:1440" id="9" />
+      <Sentence char_offsets="1442:1565" id="10" />
+      <Sentence char_offsets="1576:1650" id="11" />
+      <Sentence char_offsets="1652:1722" id="12" />
+      <Sentence char_offsets="1733:1930" id="13" />
+      <Sentence char_offsets="1941:2073" id="14" />
+      <Sentence char_offsets="2084:2148" id="15" />
+      <Sentence char_offsets="2159:2377" id="16" />
+      <Sentence char_offsets="2388:2440" id="17" />
+      <Sentence char_offsets="2451:2664" id="18" />
+      <Sentence char_offsets="2675:2847" id="19" />
+      <Sentence char_offsets="2858:2973" id="20" />
+      <Sentence char_offsets="2975:3106" id="21" />
+      <Sentence char_offsets="3117:3251" id="22" />
+      <Sentence char_offsets="3262:3376" id="23" />
+      <Sentence char_offsets="3378:3445" id="24" />
+      <Sentence char_offsets="3456:3665" id="25" />
+      <Sentence char_offsets="3676:3809" id="26" />
+      <Sentence char_offsets="3820:3953" id="27" />
+      <Sentence char_offsets="3964:4062" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="54372" actor_name="Kaspar Villiger" role="Source" />
+        <Participant actor_id="26818" actor_name="UBS" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

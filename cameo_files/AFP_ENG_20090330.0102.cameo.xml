@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0102">
+    <Sentences>
+      <Sentence char_offsets="179:362" id="0" />
+      <Sentence char_offsets="373:549" id="1" />
+      <Sentence char_offsets="560:690" id="2" />
+      <Sentence char_offsets="701:846" id="3" />
+      <Sentence char_offsets="857:1047" id="4" />
+      <Sentence char_offsets="1058:1220" id="5" />
+      <Sentence char_offsets="1231:1437" id="6" />
+      <Sentence char_offsets="1448:1616" id="7" />
+      <Sentence char_offsets="1627:1788" id="8" />
+      <Sentence char_offsets="1799:1970" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="051">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="112">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

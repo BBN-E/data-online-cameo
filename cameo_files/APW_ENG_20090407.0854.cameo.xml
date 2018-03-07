@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0854">
+    <Sentences>
+      <Sentence char_offsets="187:380" id="0" />
+      <Sentence char_offsets="391:590" id="1" />
+      <Sentence char_offsets="601:708" id="2" />
+      <Sentence char_offsets="710:812" id="3" />
+      <Sentence char_offsets="823:939" id="4" />
+      <Sentence char_offsets="950:1193" id="5" />
+      <Sentence char_offsets="1204:1308" id="6" />
+      <Sentence char_offsets="1310:1423" id="7" />
+      <Sentence char_offsets="1434:1636" id="8" />
+      <Sentence char_offsets="1647:1819" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="118334" actor_name="Serbia" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

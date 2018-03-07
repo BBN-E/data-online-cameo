@@ -1,0 +1,86 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0025">
+    <Sentences>
+      <Sentence char_offsets="180:409" id="0" />
+      <Sentence char_offsets="420:538" id="1" />
+      <Sentence char_offsets="549:678" id="2" />
+      <Sentence char_offsets="680:744" id="3" />
+      <Sentence char_offsets="755:906" id="4" />
+      <Sentence char_offsets="917:1145" id="5" />
+      <Sentence char_offsets="1156:1254" id="6" />
+      <Sentence char_offsets="1256:1442" id="7" />
+      <Sentence char_offsets="1453:1572" id="8" />
+      <Sentence char_offsets="1583:1794" id="9" />
+      <Sentence char_offsets="1805:1966" id="10" />
+      <Sentence char_offsets="1968:2085" id="11" />
+      <Sentence char_offsets="2096:2224" id="12" />
+      <Sentence char_offsets="2226:2261" id="13" />
+      <Sentence char_offsets="2272:2424" id="14" />
+      <Sentence char_offsets="2435:2560" id="15" />
+      <Sentence char_offsets="2571:2693" id="16" />
+      <Sentence char_offsets="2695:2804" id="17" />
+      <Sentence char_offsets="2815:3034" id="18" />
+      <Sentence char_offsets="3045:3124" id="19" />
+      <Sentence char_offsets="3126:3268" id="20" />
+      <Sentence char_offsets="3279:3530" id="21" />
+      <Sentence char_offsets="3541:3673" id="22" />
+      <Sentence char_offsets="3684:3806" id="23" />
+      <Sentence char_offsets="3817:3968" id="24" />
+      <Sentence char_offsets="3970:4107" id="25" />
+      <Sentence char_offsets="4118:4193" id="26" />
+      <Sentence char_offsets="4195:4236" id="27" />
+      <Sentence char_offsets="4247:4331" id="28" />
+      <Sentence char_offsets="4342:4505" id="29" />
+      <Sentence char_offsets="4507:4596" id="30" />
+      <Sentence char_offsets="4607:4689" id="31" />
+      <Sentence char_offsets="4691:4769" id="32" />
+      <Sentence char_offsets="4780:4903" id="33" />
+      <Sentence char_offsets="4914:5064" id="34" />
+      <Sentence char_offsets="5066:5280" id="35" />
+      <Sentence char_offsets="5291:5536" id="36" />
+      <Sentence char_offsets="5538:5714" id="37" />
+      <Sentence char_offsets="5725:5730" id="38" />
+      <Sentence char_offsets="5741:5874" id="39" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="28" tense="neutral" type="111">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="24" tense="neutral" type="040">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

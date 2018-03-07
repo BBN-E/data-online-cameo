@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0616">
+    <Sentences>
+      <Sentence char_offsets="190:375" id="0" />
+      <Sentence char_offsets="386:589" id="1" />
+      <Sentence char_offsets="600:753" id="2" />
+      <Sentence char_offsets="755:817" id="3" />
+      <Sentence char_offsets="828:1001" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="030">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="030">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="historical" type="036">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

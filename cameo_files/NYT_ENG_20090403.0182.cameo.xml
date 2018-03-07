@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090403.0182">
+    <Sentences>
+      <Sentence char_offsets="131:372" id="0" />
+      <Sentence char_offsets="383:638" id="1" />
+      <Sentence char_offsets="640:851" id="2" />
+      <Sentence char_offsets="862:1150" id="3" />
+      <Sentence char_offsets="1161:1419" id="4" />
+      <Sentence char_offsets="1421:1509" id="5" />
+      <Sentence char_offsets="1520:1765" id="6" />
+      <Sentence char_offsets="1767:1906" id="7" />
+      <Sentence char_offsets="1917:1948" id="8" />
+      <Sentence char_offsets="1950:2087" id="9" />
+      <Sentence char_offsets="2098:2209" id="10" />
+      <Sentence char_offsets="2211:2435" id="11" />
+      <Sentence char_offsets="2446:2569" id="12" />
+      <Sentence char_offsets="2571:2624" id="13" />
+      <Sentence char_offsets="2635:2730" id="14" />
+      <Sentence char_offsets="2732:2833" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="0241">
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="1041">
+        <Participant actor_id="41262" actor_name="United States" agent_id="69" agent_name="Party Member" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="historical" type="183">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="38385" actor_name="Department of Defense" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

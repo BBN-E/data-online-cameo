@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.1227">
+    <Sentences>
+      <Sentence char_offsets="182:364" id="0" />
+      <Sentence char_offsets="375:559" id="1" />
+      <Sentence char_offsets="570:728" id="2" />
+      <Sentence char_offsets="739:1031" id="3" />
+      <Sentence char_offsets="1042:1210" id="4" />
+      <Sentence char_offsets="1221:1323" id="5" />
+      <Sentence char_offsets="1325:1476" id="6" />
+      <Sentence char_offsets="1487:1596" id="7" />
+      <Sentence char_offsets="1607:1702" id="8" />
+      <Sentence char_offsets="1713:1856" id="9" />
+      <Sentence char_offsets="1867:1958" id="10" />
+      <Sentence char_offsets="1969:2054" id="11" />
+      <Sentence char_offsets="2065:2180" id="12" />
+      <Sentence char_offsets="2182:2297" id="13" />
+      <Sentence char_offsets="2299:2484" id="14" />
+      <Sentence char_offsets="2495:2622" id="15" />
+      <Sentence char_offsets="2624:2773" id="16" />
+      <Sentence char_offsets="2784:2966" id="17" />
+      <Sentence char_offsets="2968:3006" id="18" />
+      <Sentence char_offsets="3008:3097" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Source" />
+        <Participant actor_id="40286" actor_name="World Bank" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="036">
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Source" />
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Source" />
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Source" />
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="50476" actor_name="Francois Fillon" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Source" />
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="2" tense="current" type="040">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

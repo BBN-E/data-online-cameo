@@ -1,0 +1,69 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0591">
+    <Sentences>
+      <Sentence char_offsets="185:370" id="0" />
+      <Sentence char_offsets="381:540" id="1" />
+      <Sentence char_offsets="551:606" id="2" />
+      <Sentence char_offsets="617:760" id="3" />
+      <Sentence char_offsets="771:995" id="4" />
+      <Sentence char_offsets="1006:1069" id="5" />
+      <Sentence char_offsets="1080:1272" id="6" />
+      <Sentence char_offsets="1283:1480" id="7" />
+      <Sentence char_offsets="1491:1659" id="8" />
+      <Sentence char_offsets="1670:1819" id="9" />
+      <Sentence char_offsets="1830:2018" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="036">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="25184" actor_name="Sadako Ogata" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="050">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="057">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="historical" type="057">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="historical" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="455" agent_name="Royal Administration" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

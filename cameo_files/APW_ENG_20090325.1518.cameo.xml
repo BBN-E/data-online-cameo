@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1518">
+    <Sentences>
+      <Sentence char_offsets="187:437" id="0" />
+      <Sentence char_offsets="448:624" id="1" />
+      <Sentence char_offsets="635:793" id="2" />
+      <Sentence char_offsets="795:874" id="3" />
+      <Sentence char_offsets="876:921" id="4" />
+      <Sentence char_offsets="932:1098" id="5" />
+      <Sentence char_offsets="1100:1225" id="6" />
+      <Sentence char_offsets="1236:1349" id="7" />
+      <Sentence char_offsets="1351:1393" id="8" />
+      <Sentence char_offsets="1395:1460" id="9" />
+      <Sentence char_offsets="1471:1593" id="10" />
+      <Sentence char_offsets="1595:1682" id="11" />
+      <Sentence char_offsets="1684:1890" id="12" />
+      <Sentence char_offsets="1901:2046" id="13" />
+      <Sentence char_offsets="2048:2213" id="14" />
+      <Sentence char_offsets="2224:2420" id="15" />
+      <Sentence char_offsets="2431:2628" id="16" />
+      <Sentence char_offsets="2630:2648" id="17" />
+      <Sentence char_offsets="2659:2815" id="18" />
+      <Sentence char_offsets="2817:3013" id="19" />
+      <Sentence char_offsets="3024:3244" id="20" />
+      <Sentence char_offsets="3255:3482" id="21" />
+      <Sentence char_offsets="3493:3706" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="historical" type="111">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

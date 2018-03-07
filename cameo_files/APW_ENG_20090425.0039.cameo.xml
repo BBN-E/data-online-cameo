@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090425.0039">
+    <Sentences>
+      <Sentence char_offsets="202:440" id="0" />
+      <Sentence char_offsets="451:558" id="1" />
+      <Sentence char_offsets="560:623" id="2" />
+      <Sentence char_offsets="634:854" id="3" />
+      <Sentence char_offsets="865:1010" id="4" />
+      <Sentence char_offsets="1012:1143" id="5" />
+      <Sentence char_offsets="1154:1349" id="6" />
+      <Sentence char_offsets="1360:1615" id="7" />
+      <Sentence char_offsets="1626:1674" id="8" />
+      <Sentence char_offsets="1676:1716" id="9" />
+      <Sentence char_offsets="1727:1791" id="10" />
+      <Sentence char_offsets="1802:1904" id="11" />
+      <Sentence char_offsets="1915:2011" id="12" />
+      <Sentence char_offsets="2022:2235" id="13" />
+      <Sentence char_offsets="2246:2367" id="14" />
+      <Sentence char_offsets="2378:2595" id="15" />
+      <Sentence char_offsets="2606:2641" id="16" />
+      <Sentence char_offsets="2643:2672" id="17" />
+      <Sentence char_offsets="2674:2710" id="18" />
+      <Sentence char_offsets="2712:2771" id="19" />
+      <Sentence char_offsets="2782:2941" id="20" />
+      <Sentence char_offsets="2952:3014" id="21" />
+      <Sentence char_offsets="3025:3081" id="22" />
+      <Sentence char_offsets="3083:3127" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

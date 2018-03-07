@@ -1,0 +1,79 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090322.0887">
+    <Sentences>
+      <Sentence char_offsets="198:371" id="0" />
+      <Sentence char_offsets="382:592" id="1" />
+      <Sentence char_offsets="603:783" id="2" />
+      <Sentence char_offsets="794:905" id="3" />
+      <Sentence char_offsets="907:1008" id="4" />
+      <Sentence char_offsets="1019:1141" id="5" />
+      <Sentence char_offsets="1152:1272" id="6" />
+      <Sentence char_offsets="1274:1339" id="7" />
+      <Sentence char_offsets="1350:1522" id="8" />
+      <Sentence char_offsets="1524:1599" id="9" />
+      <Sentence char_offsets="1610:1711" id="10" />
+      <Sentence char_offsets="1713:1786" id="11" />
+      <Sentence char_offsets="1788:1872" id="12" />
+      <Sentence char_offsets="1883:1968" id="13" />
+      <Sentence char_offsets="1979:2120" id="14" />
+      <Sentence char_offsets="2131:2250" id="15" />
+      <Sentence char_offsets="2252:2351" id="16" />
+      <Sentence char_offsets="2362:2499" id="17" />
+      <Sentence char_offsets="2501:2672" id="18" />
+      <Sentence char_offsets="2683:2820" id="19" />
+      <Sentence char_offsets="2831:2920" id="20" />
+      <Sentence char_offsets="2922:3025" id="21" />
+      <Sentence char_offsets="3036:3163" id="22" />
+      <Sentence char_offsets="3165:3254" id="23" />
+      <Sentence char_offsets="3265:3410" id="24" />
+      <Sentence char_offsets="3412:3442" id="25" />
+      <Sentence char_offsets="3453:3523" id="26" />
+      <Sentence char_offsets="3525:3543" id="27" />
+      <Sentence char_offsets="3554:3634" id="28" />
+      <Sentence char_offsets="3636:3705" id="29" />
+      <Sentence char_offsets="3716:3733" id="30" />
+      <Sentence char_offsets="3735:3762" id="31" />
+      <Sentence char_offsets="3764:3788" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="19" tense="neutral" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

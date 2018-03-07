@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.0640">
+    <Sentences>
+      <Sentence char_offsets="173:346" id="0" />
+      <Sentence char_offsets="357:440" id="1" />
+      <Sentence char_offsets="442:585" id="2" />
+      <Sentence char_offsets="596:834" id="3" />
+      <Sentence char_offsets="845:1027" id="4" />
+      <Sentence char_offsets="1029:1235" id="5" />
+      <Sentence char_offsets="1246:1438" id="6" />
+      <Sentence char_offsets="1449:1693" id="7" />
+      <Sentence char_offsets="1704:1841" id="8" />
+      <Sentence char_offsets="1843:1958" id="9" />
+      <Sentence char_offsets="1960:2125" id="10" />
+      <Sentence char_offsets="2136:2292" id="11" />
+      <Sentence char_offsets="2303:2423" id="12" />
+      <Sentence char_offsets="2434:2632" id="13" />
+      <Sentence char_offsets="2634:2698" id="14" />
+      <Sentence char_offsets="2709:2933" id="15" />
+      <Sentence char_offsets="2944:3032" id="16" />
+      <Sentence char_offsets="3043:3150" id="17" />
+      <Sentence char_offsets="3152:3208" id="18" />
+      <Sentence char_offsets="3219:3327" id="19" />
+      <Sentence char_offsets="3329:3365" id="20" />
+      <Sentence char_offsets="3376:3480" id="21" />
+      <Sentence char_offsets="3491:3615" id="22" />
+      <Sentence char_offsets="3626:3847" id="23" />
+      <Sentence char_offsets="3858:3941" id="24" />
+      <Sentence char_offsets="3943:3996" id="25" />
+      <Sentence char_offsets="4007:4008" id="26" />
+      <Sentence char_offsets="4019:4130" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="52840" actor_name="European Commission" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="051">
+        <Participant actor_id="46271" actor_name="Luc Chatel" role="Source" />
+        <Participant actor_id="238259" actor_name="Renault" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="130">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

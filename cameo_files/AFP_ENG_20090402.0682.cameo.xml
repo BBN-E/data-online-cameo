@@ -1,0 +1,75 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0682">
+    <Sentences>
+      <Sentence char_offsets="191:397" id="0" />
+      <Sentence char_offsets="408:673" id="1" />
+      <Sentence char_offsets="684:868" id="2" />
+      <Sentence char_offsets="879:1026" id="3" />
+      <Sentence char_offsets="1037:1256" id="4" />
+      <Sentence char_offsets="1267:1305" id="5" />
+      <Sentence char_offsets="1307:1418" id="6" />
+      <Sentence char_offsets="1429:1556" id="7" />
+      <Sentence char_offsets="1567:1732" id="8" />
+      <Sentence char_offsets="1743:1981" id="9" />
+      <Sentence char_offsets="1992:2185" id="10" />
+      <Sentence char_offsets="2196:2259" id="11" />
+      <Sentence char_offsets="2261:2318" id="12" />
+      <Sentence char_offsets="2329:2365" id="13" />
+      <Sentence char_offsets="2376:2628" id="14" />
+      <Sentence char_offsets="2639:2842" id="15" />
+      <Sentence char_offsets="2853:3058" id="16" />
+      <Sentence char_offsets="3069:3242" id="17" />
+      <Sentence char_offsets="3253:3384" id="18" />
+      <Sentence char_offsets="3395:3597" id="19" />
+      <Sentence char_offsets="3608:3877" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="012">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="032">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="121767" actor_name="Arab Israelis" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="current" type="1246">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="3" tense="historical" type="192">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

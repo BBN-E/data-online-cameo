@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.1369">
+    <Sentences>
+      <Sentence char_offsets="186:374" id="0" />
+      <Sentence char_offsets="385:522" id="1" />
+      <Sentence char_offsets="524:569" id="2" />
+      <Sentence char_offsets="580:806" id="3" />
+      <Sentence char_offsets="808:959" id="4" />
+      <Sentence char_offsets="970:1217" id="5" />
+      <Sentence char_offsets="1219:1284" id="6" />
+      <Sentence char_offsets="1295:1553" id="7" />
+      <Sentence char_offsets="1564:1608" id="8" />
+      <Sentence char_offsets="1610:1803" id="9" />
+      <Sentence char_offsets="1814:2027" id="10" />
+      <Sentence char_offsets="2029:2164" id="11" />
+      <Sentence char_offsets="2166:2302" id="12" />
+      <Sentence char_offsets="2313:2379" id="13" />
+      <Sentence char_offsets="2390:2567" id="14" />
+      <Sentence char_offsets="2569:2593" id="15" />
+      <Sentence char_offsets="2595:2662" id="16" />
+      <Sentence char_offsets="2673:2728" id="17" />
+      <Sentence char_offsets="2730:2823" id="18" />
+      <Sentence char_offsets="2825:2910" id="19" />
+      <Sentence char_offsets="2921:3058" id="20" />
+      <Sentence char_offsets="3060:3089" id="21" />
+      <Sentence char_offsets="3100:3316" id="22" />
+      <Sentence char_offsets="3318:3434" id="23" />
+      <Sentence char_offsets="3445:3634" id="24" />
+      <Sentence char_offsets="3636:3743" id="25" />
+      <Sentence char_offsets="3754:3831" id="26" />
+      <Sentence char_offsets="3833:3859" id="27" />
+      <Sentence char_offsets="3870:4108" id="28" />
+      <Sentence char_offsets="4119:4255" id="29" />
+      <Sentence char_offsets="4266:4525" id="30" />
+      <Sentence char_offsets="4536:4583" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

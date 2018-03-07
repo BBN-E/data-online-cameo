@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0701">
+    <Sentences>
+      <Sentence char_offsets="180:360" id="0" />
+      <Sentence char_offsets="371:538" id="1" />
+      <Sentence char_offsets="549:747" id="2" />
+      <Sentence char_offsets="758:928" id="3" />
+      <Sentence char_offsets="939:1069" id="4" />
+      <Sentence char_offsets="1071:1119" id="5" />
+      <Sentence char_offsets="1130:1280" id="6" />
+      <Sentence char_offsets="1291:1380" id="7" />
+      <Sentence char_offsets="1391:1530" id="8" />
+      <Sentence char_offsets="1541:1632" id="9" />
+      <Sentence char_offsets="1643:1756" id="10" />
+      <Sentence char_offsets="1767:1897" id="11" />
+      <Sentence char_offsets="1908:2039" id="12" />
+      <Sentence char_offsets="2050:2126" id="13" />
+      <Sentence char_offsets="2137:2353" id="14" />
+      <Sentence char_offsets="2364:2437" id="15" />
+      <Sentence char_offsets="2448:2585" id="16" />
+      <Sentence char_offsets="2596:2811" id="17" />
+      <Sentence char_offsets="2822:2958" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="046">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="100">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="111">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="neutral" type="046">
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

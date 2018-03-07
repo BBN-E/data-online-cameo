@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0718">
+    <Sentences>
+      <Sentence char_offsets="169:301" id="0" />
+      <Sentence char_offsets="312:452" id="1" />
+      <Sentence char_offsets="463:556" id="2" />
+      <Sentence char_offsets="567:740" id="3" />
+      <Sentence char_offsets="751:806" id="4" />
+      <Sentence char_offsets="817:1024" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="30469" actor_name="Guinea" role="Source" />
+        <Participant actor_id="12184" actor_name="Ahmed Tidiane Souar&#233;" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0138">
+    <Sentences>
+      <Sentence char_offsets="195:404" id="0" />
+      <Sentence char_offsets="406:430" id="1" />
+      <Sentence char_offsets="441:557" id="2" />
+      <Sentence char_offsets="559:633" id="3" />
+      <Sentence char_offsets="644:814" id="4" />
+      <Sentence char_offsets="816:875" id="5" />
+      <Sentence char_offsets="886:1011" id="6" />
+      <Sentence char_offsets="1013:1046" id="7" />
+      <Sentence char_offsets="1048:1088" id="8" />
+      <Sentence char_offsets="1099:1229" id="9" />
+      <Sentence char_offsets="1231:1358" id="10" />
+      <Sentence char_offsets="1369:1427" id="11" />
+      <Sentence char_offsets="1438:1537" id="12" />
+      <Sentence char_offsets="1548:1652" id="13" />
+      <Sentence char_offsets="1654:1746" id="14" />
+      <Sentence char_offsets="1757:1988" id="15" />
+      <Sentence char_offsets="1999:2124" id="16" />
+      <Sentence char_offsets="2126:2189" id="17" />
+      <Sentence char_offsets="2200:2244" id="18" />
+      <Sentence char_offsets="2255:2366" id="19" />
+      <Sentence char_offsets="2368:2511" id="20" />
+      <Sentence char_offsets="2522:2588" id="21" />
+      <Sentence char_offsets="2590:2692" id="22" />
+      <Sentence char_offsets="2703:2774" id="23" />
+      <Sentence char_offsets="2785:2895" id="24" />
+      <Sentence char_offsets="2906:2997" id="25" />
+      <Sentence char_offsets="2999:3104" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="112">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

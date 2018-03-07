@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.1288">
+    <Sentences>
+      <Sentence char_offsets="192:406" id="0" />
+      <Sentence char_offsets="417:592" id="1" />
+      <Sentence char_offsets="594:697" id="2" />
+      <Sentence char_offsets="708:941" id="3" />
+      <Sentence char_offsets="943:1081" id="4" />
+      <Sentence char_offsets="1092:1227" id="5" />
+      <Sentence char_offsets="1229:1366" id="6" />
+      <Sentence char_offsets="1377:1504" id="7" />
+      <Sentence char_offsets="1506:1600" id="8" />
+      <Sentence char_offsets="1602:1778" id="9" />
+      <Sentence char_offsets="1789:1979" id="10" />
+      <Sentence char_offsets="1981:2123" id="11" />
+      <Sentence char_offsets="2134:2200" id="12" />
+      <Sentence char_offsets="2211:2410" id="13" />
+      <Sentence char_offsets="2412:2515" id="14" />
+      <Sentence char_offsets="2526:2621" id="15" />
+      <Sentence char_offsets="2623:2729" id="16" />
+      <Sentence char_offsets="2740:2858" id="17" />
+      <Sentence char_offsets="2869:2966" id="18" />
+      <Sentence char_offsets="2968:3084" id="19" />
+      <Sentence char_offsets="3086:3184" id="20" />
+      <Sentence char_offsets="3195:3389" id="21" />
+      <Sentence char_offsets="3400:3516" id="22" />
+      <Sentence char_offsets="3518:3588" id="23" />
+      <Sentence char_offsets="3599:3710" id="24" />
+      <Sentence char_offsets="3712:3852" id="25" />
+      <Sentence char_offsets="3854:3945" id="26" />
+      <Sentence char_offsets="3956:4142" id="27" />
+      <Sentence char_offsets="4153:4267" id="28" />
+      <Sentence char_offsets="4278:4364" id="29" />
+      <Sentence char_offsets="4366:4416" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="38558" actor_name="Food and Drug Administration" role="Source" />
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="38558" actor_name="Food and Drug Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

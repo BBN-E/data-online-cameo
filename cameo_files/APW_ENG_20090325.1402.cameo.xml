@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1402">
+    <Sentences>
+      <Sentence char_offsets="184:299" id="0" />
+      <Sentence char_offsets="310:381" id="1" />
+      <Sentence char_offsets="392:597" id="2" />
+      <Sentence char_offsets="608:737" id="3" />
+      <Sentence char_offsets="739:823" id="4" />
+      <Sentence char_offsets="825:989" id="5" />
+      <Sentence char_offsets="1000:1088" id="6" />
+      <Sentence char_offsets="1090:1269" id="7" />
+      <Sentence char_offsets="1271:1393" id="8" />
+      <Sentence char_offsets="1395:1518" id="9" />
+      <Sentence char_offsets="1529:1642" id="10" />
+      <Sentence char_offsets="1653:1748" id="11" />
+      <Sentence char_offsets="1750:1814" id="12" />
+      <Sentence char_offsets="1816:1924" id="13" />
+      <Sentence char_offsets="1935:2104" id="14" />
+      <Sentence char_offsets="2115:2215" id="15" />
+      <Sentence char_offsets="2226:2350" id="16" />
+      <Sentence char_offsets="2361:2537" id="17" />
+      <Sentence char_offsets="2539:2584" id="18" />
+      <Sentence char_offsets="2595:2646" id="19" />
+      <Sentence char_offsets="2648:2731" id="20" />
+      <Sentence char_offsets="2733:2809" id="21" />
+      <Sentence char_offsets="2820:2880" id="22" />
+      <Sentence char_offsets="2891:2987" id="23" />
+      <Sentence char_offsets="2998:3114" id="24" />
+      <Sentence char_offsets="3116:3293" id="25" />
+      <Sentence char_offsets="3304:3497" id="26" />
+      <Sentence char_offsets="3499:3702" id="27" />
+      <Sentence char_offsets="3713:3905" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="51142" actor_name="Sam Brownback" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="100">
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="51142" actor_name="Sam Brownback" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

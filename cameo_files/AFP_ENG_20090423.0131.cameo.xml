@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0131">
+    <Sentences>
+      <Sentence char_offsets="198:407" id="0" />
+      <Sentence char_offsets="418:541" id="1" />
+      <Sentence char_offsets="552:672" id="2" />
+      <Sentence char_offsets="683:814" id="3" />
+      <Sentence char_offsets="816:885" id="4" />
+      <Sentence char_offsets="896:1069" id="5" />
+      <Sentence char_offsets="1080:1240" id="6" />
+      <Sentence char_offsets="1251:1329" id="7" />
+      <Sentence char_offsets="1331:1408" id="8" />
+      <Sentence char_offsets="1419:1479" id="9" />
+      <Sentence char_offsets="1490:1615" id="10" />
+      <Sentence char_offsets="1626:1766" id="11" />
+      <Sentence char_offsets="1777:1862" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="120">
+        <Participant actor_id="238560" actor_name="Kamran Khan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="120">
+        <Participant actor_id="238560" actor_name="Kamran Khan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="180">
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="238560" actor_name="Kamran Khan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

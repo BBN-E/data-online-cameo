@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0040">
+    <Sentences>
+      <Sentence char_offsets="183:371" id="0" />
+      <Sentence char_offsets="382:595" id="1" />
+      <Sentence char_offsets="606:816" id="2" />
+      <Sentence char_offsets="827:898" id="3" />
+      <Sentence char_offsets="900:1035" id="4" />
+      <Sentence char_offsets="1046:1143" id="5" />
+      <Sentence char_offsets="1154:1372" id="6" />
+      <Sentence char_offsets="1383:1581" id="7" />
+      <Sentence char_offsets="1592:1809" id="8" />
+      <Sentence char_offsets="1820:2025" id="9" />
+      <Sentence char_offsets="2036:2091" id="10" />
+      <Sentence char_offsets="2093:2260" id="11" />
+      <Sentence char_offsets="2271:2496" id="12" />
+      <Sentence char_offsets="2507:2710" id="13" />
+      <Sentence char_offsets="2721:2934" id="14" />
+      <Sentence char_offsets="2945:3170" id="15" />
+      <Sentence char_offsets="3181:3388" id="16" />
+      <Sentence char_offsets="3399:3562" id="17" />
+      <Sentence char_offsets="3573:3772" id="18" />
+      <Sentence char_offsets="3783:3968" id="19" />
+      <Sentence char_offsets="3979:4186" id="20" />
+      <Sentence char_offsets="4188:4211" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="current" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

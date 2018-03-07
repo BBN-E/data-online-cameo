@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0400">
+    <Sentences>
+      <Sentence char_offsets="179:361" id="0" />
+      <Sentence char_offsets="372:593" id="1" />
+      <Sentence char_offsets="604:729" id="2" />
+      <Sentence char_offsets="740:940" id="3" />
+      <Sentence char_offsets="951:1108" id="4" />
+      <Sentence char_offsets="1119:1249" id="5" />
+      <Sentence char_offsets="1251:1335" id="6" />
+      <Sentence char_offsets="1346:1502" id="7" />
+      <Sentence char_offsets="1513:1601" id="8" />
+      <Sentence char_offsets="1612:1758" id="9" />
+      <Sentence char_offsets="1769:1958" id="10" />
+      <Sentence char_offsets="1969:2080" id="11" />
+      <Sentence char_offsets="2091:2271" id="12" />
+      <Sentence char_offsets="2282:2408" id="13" />
+      <Sentence char_offsets="2419:2600" id="14" />
+      <Sentence char_offsets="2611:2783" id="15" />
+      <Sentence char_offsets="2794:2998" id="16" />
+      <Sentence char_offsets="3009:3159" id="17" />
+      <Sentence char_offsets="3170:3299" id="18" />
+      <Sentence char_offsets="3310:3454" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="143">
+        <Participant actor_id="230884" actor_name="National Liberation Front of Corsica" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="30701" actor_name="France" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="230884" actor_name="National Liberation Front of Corsica" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

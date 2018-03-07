@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0079">
+    <Sentences>
+      <Sentence char_offsets="193:399" id="0" />
+      <Sentence char_offsets="410:625" id="1" />
+      <Sentence char_offsets="636:712" id="2" />
+      <Sentence char_offsets="714:757" id="3" />
+      <Sentence char_offsets="768:952" id="4" />
+      <Sentence char_offsets="963:1050" id="5" />
+      <Sentence char_offsets="1061:1189" id="6" />
+      <Sentence char_offsets="1191:1358" id="7" />
+      <Sentence char_offsets="1369:1567" id="8" />
+      <Sentence char_offsets="1578:1668" id="9" />
+      <Sentence char_offsets="1679:1906" id="10" />
+      <Sentence char_offsets="1917:2029" id="11" />
+      <Sentence char_offsets="2040:2162" id="12" />
+      <Sentence char_offsets="2173:2403" id="13" />
+      <Sentence char_offsets="2414:2577" id="14" />
+      <Sentence char_offsets="2588:2736" id="15" />
+      <Sentence char_offsets="2747:2883" id="16" />
+      <Sentence char_offsets="2894:2994" id="17" />
+      <Sentence char_offsets="3005:3135" id="18" />
+      <Sentence char_offsets="3137:3191" id="19" />
+      <Sentence char_offsets="3202:3379" id="20" />
+      <Sentence char_offsets="3390:3600" id="21" />
+      <Sentence char_offsets="3611:3796" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="35786" actor_name="V&#225;clav Klaus" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="35786" actor_name="V&#225;clav Klaus" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

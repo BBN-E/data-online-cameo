@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0680">
+    <Sentences>
+      <Sentence char_offsets="179:384" id="0" />
+      <Sentence char_offsets="395:576" id="1" />
+      <Sentence char_offsets="587:728" id="2" />
+      <Sentence char_offsets="739:948" id="3" />
+      <Sentence char_offsets="959:1126" id="4" />
+      <Sentence char_offsets="1137:1263" id="5" />
+      <Sentence char_offsets="1274:1441" id="6" />
+      <Sentence char_offsets="1452:1579" id="7" />
+      <Sentence char_offsets="1590:1731" id="8" />
+      <Sentence char_offsets="1742:1943" id="9" />
+      <Sentence char_offsets="1954:2026" id="10" />
+      <Sentence char_offsets="2028:2133" id="11" />
+      <Sentence char_offsets="2144:2364" id="12" />
+      <Sentence char_offsets="2375:2490" id="13" />
+      <Sentence char_offsets="2501:2638" id="14" />
+      <Sentence char_offsets="2649:2842" id="15" />
+      <Sentence char_offsets="2853:3000" id="16" />
+      <Sentence char_offsets="3011:3161" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="0331">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="25" agent_name="Bank" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="86" agent_name="The Poor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

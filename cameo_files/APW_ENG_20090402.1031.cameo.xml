@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1031">
+    <Sentences>
+      <Sentence char_offsets="193:306" id="0" />
+      <Sentence char_offsets="317:518" id="1" />
+      <Sentence char_offsets="529:657" id="2" />
+      <Sentence char_offsets="668:791" id="3" />
+      <Sentence char_offsets="802:947" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="35753" actor_name="Umaru Musa Yar'Adua" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="032">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="032">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="071">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

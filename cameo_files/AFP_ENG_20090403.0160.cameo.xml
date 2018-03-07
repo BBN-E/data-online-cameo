@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0160">
+    <Sentences>
+      <Sentence char_offsets="191:361" id="0" />
+      <Sentence char_offsets="372:581" id="1" />
+      <Sentence char_offsets="592:769" id="2" />
+      <Sentence char_offsets="780:905" id="3" />
+      <Sentence char_offsets="916:1131" id="4" />
+      <Sentence char_offsets="1142:1351" id="5" />
+      <Sentence char_offsets="1362:1548" id="6" />
+      <Sentence char_offsets="1559:1820" id="7" />
+      <Sentence char_offsets="1831:1949" id="8" />
+      <Sentence char_offsets="1960:2090" id="9" />
+      <Sentence char_offsets="2101:2263" id="10" />
+      <Sentence char_offsets="2274:2435" id="11" />
+      <Sentence char_offsets="2446:2586" id="12" />
+      <Sentence char_offsets="2597:2799" id="13" />
+      <Sentence char_offsets="2810:2989" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="historical" type="160">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

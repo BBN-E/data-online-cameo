@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0357">
+    <Sentences>
+      <Sentence char_offsets="179:338" id="0" />
+      <Sentence char_offsets="349:511" id="1" />
+      <Sentence char_offsets="522:688" id="2" />
+      <Sentence char_offsets="699:783" id="3" />
+      <Sentence char_offsets="794:1024" id="4" />
+      <Sentence char_offsets="1035:1147" id="5" />
+      <Sentence char_offsets="1158:1361" id="6" />
+      <Sentence char_offsets="1372:1421" id="7" />
+      <Sentence char_offsets="1423:1547" id="8" />
+      <Sentence char_offsets="1558:1752" id="9" />
+      <Sentence char_offsets="1763:1982" id="10" />
+      <Sentence char_offsets="1993:2041" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="012">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="21012" actor_name="Nader Al-Dahabi" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="historical" type="057">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="historical" type="100">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Source" />
+        <Participant actor_id="14880" actor_name="David Miliband" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="21012" actor_name="Nader Al-Dahabi" role="Source" />
+        <Participant actor_id="14880" actor_name="David Miliband" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="11" tense="historical" type="057">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

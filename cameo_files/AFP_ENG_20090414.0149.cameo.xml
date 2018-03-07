@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0149">
+    <Sentences>
+      <Sentence char_offsets="183:379" id="0" />
+      <Sentence char_offsets="390:531" id="1" />
+      <Sentence char_offsets="542:774" id="2" />
+      <Sentence char_offsets="785:885" id="3" />
+      <Sentence char_offsets="896:1117" id="4" />
+      <Sentence char_offsets="1128:1311" id="5" />
+      <Sentence char_offsets="1322:1505" id="6" />
+      <Sentence char_offsets="1516:1662" id="7" />
+      <Sentence char_offsets="1664:1749" id="8" />
+      <Sentence char_offsets="1760:1822" id="9" />
+      <Sentence char_offsets="1833:1980" id="10" />
+      <Sentence char_offsets="1991:2063" id="11" />
+      <Sentence char_offsets="2074:2256" id="12" />
+      <Sentence char_offsets="2267:2475" id="13" />
+      <Sentence char_offsets="2486:2710" id="14" />
+      <Sentence char_offsets="2721:2848" id="15" />
+      <Sentence char_offsets="2859:2973" id="16" />
+      <Sentence char_offsets="2984:3171" id="17" />
+      <Sentence char_offsets="3182:3404" id="18" />
+      <Sentence char_offsets="3415:3673" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="233832" actor_name="Adil Abdul-Mahdi" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="historical" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

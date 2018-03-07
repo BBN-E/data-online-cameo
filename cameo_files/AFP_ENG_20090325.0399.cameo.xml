@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0399">
+    <Sentences>
+      <Sentence char_offsets="209:386" id="0" />
+      <Sentence char_offsets="397:612" id="1" />
+      <Sentence char_offsets="623:685" id="2" />
+      <Sentence char_offsets="696:841" id="3" />
+      <Sentence char_offsets="852:940" id="4" />
+      <Sentence char_offsets="951:1149" id="5" />
+      <Sentence char_offsets="1160:1385" id="6" />
+      <Sentence char_offsets="1396:1593" id="7" />
+      <Sentence char_offsets="1604:1817" id="8" />
+      <Sentence char_offsets="1828:1991" id="9" />
+      <Sentence char_offsets="2002:2226" id="10" />
+      <Sentence char_offsets="2237:2468" id="11" />
+      <Sentence char_offsets="2479:2586" id="12" />
+      <Sentence char_offsets="2597:2753" id="13" />
+      <Sentence char_offsets="2764:2907" id="14" />
+      <Sentence char_offsets="2918:3058" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="ongoing" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="historical" type="138">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="14605" actor_name="Benazir Bhutto" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

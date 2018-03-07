@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0231">
+    <Sentences>
+      <Sentence char_offsets="187:340" id="0" />
+      <Sentence char_offsets="342:479" id="1" />
+      <Sentence char_offsets="490:567" id="2" />
+      <Sentence char_offsets="569:712" id="3" />
+      <Sentence char_offsets="723:763" id="4" />
+      <Sentence char_offsets="765:967" id="5" />
+      <Sentence char_offsets="978:1107" id="6" />
+      <Sentence char_offsets="1109:1226" id="7" />
+      <Sentence char_offsets="1237:1417" id="8" />
+      <Sentence char_offsets="1428:1526" id="9" />
+      <Sentence char_offsets="1528:1693" id="10" />
+      <Sentence char_offsets="1704:1781" id="11" />
+      <Sentence char_offsets="1783:1903" id="12" />
+      <Sentence char_offsets="1905:1950" id="13" />
+      <Sentence char_offsets="1961:2012" id="14" />
+      <Sentence char_offsets="2014:2113" id="15" />
+      <Sentence char_offsets="2124:2385" id="16" />
+      <Sentence char_offsets="2396:2610" id="17" />
+      <Sentence char_offsets="2621:2816" id="18" />
+      <Sentence char_offsets="2827:3060" id="19" />
+      <Sentence char_offsets="3071:3268" id="20" />
+      <Sentence char_offsets="3279:3383" id="21" />
+      <Sentence char_offsets="3394:3532" id="22" />
+      <Sentence char_offsets="3534:3604" id="23" />
+      <Sentence char_offsets="3606:3653" id="24" />
+      <Sentence char_offsets="3655:3845" id="25" />
+      <Sentence char_offsets="3847:3866" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="50628" actor_name="Richard G. Lugar" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="042">
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="051">
+        <Participant actor_id="50628" actor_name="Richard G. Lugar" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="23" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

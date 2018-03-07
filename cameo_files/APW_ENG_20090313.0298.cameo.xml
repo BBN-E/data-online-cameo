@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0298">
+    <Sentences>
+      <Sentence char_offsets="195:404" id="0" />
+      <Sentence char_offsets="415:660" id="1" />
+      <Sentence char_offsets="671:970" id="2" />
+      <Sentence char_offsets="981:1054" id="3" />
+      <Sentence char_offsets="1065:1199" id="4" />
+      <Sentence char_offsets="1210:1298" id="5" />
+      <Sentence char_offsets="1309:1403" id="6" />
+      <Sentence char_offsets="1405:1448" id="7" />
+      <Sentence char_offsets="1459:1502" id="8" />
+      <Sentence char_offsets="1513:1692" id="9" />
+      <Sentence char_offsets="1694:1751" id="10" />
+      <Sentence char_offsets="1762:1908" id="11" />
+      <Sentence char_offsets="1919:1952" id="12" />
+      <Sentence char_offsets="1963:2161" id="13" />
+      <Sentence char_offsets="2172:2352" id="14" />
+      <Sentence char_offsets="2363:2551" id="15" />
+      <Sentence char_offsets="2553:2692" id="16" />
+      <Sentence char_offsets="2703:2915" id="17" />
+      <Sentence char_offsets="2926:3094" id="18" />
+      <Sentence char_offsets="3096:3196" id="19" />
+      <Sentence char_offsets="3207:3288" id="20" />
+      <Sentence char_offsets="3299:3479" id="21" />
+      <Sentence char_offsets="3490:3673" id="22" />
+      <Sentence char_offsets="3684:3937" id="23" />
+      <Sentence char_offsets="3948:3953" id="24" />
+      <Sentence char_offsets="3964:4037" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="56792" actor_name="Yasukazu Hamada" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="130">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0272">
+    <Sentences>
+      <Sentence char_offsets="180:368" id="0" />
+      <Sentence char_offsets="379:484" id="1" />
+      <Sentence char_offsets="495:715" id="2" />
+      <Sentence char_offsets="726:882" id="3" />
+      <Sentence char_offsets="893:1105" id="4" />
+      <Sentence char_offsets="1116:1222" id="5" />
+      <Sentence char_offsets="1233:1438" id="6" />
+      <Sentence char_offsets="1449:1575" id="7" />
+      <Sentence char_offsets="1586:1792" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

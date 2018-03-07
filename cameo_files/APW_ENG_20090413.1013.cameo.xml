@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.1013">
+    <Sentences>
+      <Sentence char_offsets="185:318" id="0" />
+      <Sentence char_offsets="329:534" id="1" />
+      <Sentence char_offsets="545:710" id="2" />
+      <Sentence char_offsets="721:839" id="3" />
+      <Sentence char_offsets="850:965" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="684" agent_name="Appeals Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="120">
+        <Participant actor_id="41262" actor_name="United States" agent_id="302" agent_name="Federal Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

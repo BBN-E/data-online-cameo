@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0324">
+    <Sentences>
+      <Sentence char_offsets="194:339" id="0" />
+      <Sentence char_offsets="350:512" id="1" />
+      <Sentence char_offsets="523:612" id="2" />
+      <Sentence char_offsets="623:750" id="3" />
+      <Sentence char_offsets="761:868" id="4" />
+      <Sentence char_offsets="879:1072" id="5" />
+      <Sentence char_offsets="1083:1155" id="6" />
+      <Sentence char_offsets="1166:1372" id="7" />
+      <Sentence char_offsets="1383:1568" id="8" />
+      <Sentence char_offsets="1579:1773" id="9" />
+      <Sentence char_offsets="1775:1827" id="10" />
+      <Sentence char_offsets="1838:2178" id="11" />
+      <Sentence char_offsets="2189:2407" id="12" />
+      <Sentence char_offsets="2418:2617" id="13" />
+      <Sentence char_offsets="2628:2737" id="14" />
+      <Sentence char_offsets="2739:2838" id="15" />
+      <Sentence char_offsets="2849:3035" id="16" />
+      <Sentence char_offsets="3046:3175" id="17" />
+      <Sentence char_offsets="3186:3441" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="historical" type="010">
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="12645" actor_name="Abdelaziz Bouteflika" role="Source" />
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

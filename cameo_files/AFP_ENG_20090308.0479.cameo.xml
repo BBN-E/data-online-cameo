@@ -1,0 +1,104 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0479">
+    <Sentences>
+      <Sentence char_offsets="191:381" id="0" />
+      <Sentence char_offsets="392:556" id="1" />
+      <Sentence char_offsets="567:664" id="2" />
+      <Sentence char_offsets="675:798" id="3" />
+      <Sentence char_offsets="809:982" id="4" />
+      <Sentence char_offsets="993:1080" id="5" />
+      <Sentence char_offsets="1091:1189" id="6" />
+      <Sentence char_offsets="1200:1408" id="7" />
+      <Sentence char_offsets="1419:1566" id="8" />
+      <Sentence char_offsets="1577:1665" id="9" />
+      <Sentence char_offsets="1676:1734" id="10" />
+      <Sentence char_offsets="1736:1859" id="11" />
+      <Sentence char_offsets="1870:1919" id="12" />
+      <Sentence char_offsets="1921:2000" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

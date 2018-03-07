@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0397">
+    <Sentences>
+      <Sentence char_offsets="194:511" id="0" />
+      <Sentence char_offsets="522:813" id="1" />
+      <Sentence char_offsets="815:893" id="2" />
+      <Sentence char_offsets="904:1155" id="3" />
+      <Sentence char_offsets="1166:1397" id="4" />
+      <Sentence char_offsets="1408:1593" id="5" />
+      <Sentence char_offsets="1604:1852" id="6" />
+      <Sentence char_offsets="1863:1992" id="7" />
+      <Sentence char_offsets="2003:2149" id="8" />
+      <Sentence char_offsets="2160:2193" id="9" />
+      <Sentence char_offsets="2195:2253" id="10" />
+      <Sentence char_offsets="2264:2396" id="11" />
+      <Sentence char_offsets="2407:2530" id="12" />
+      <Sentence char_offsets="2532:2659" id="13" />
+      <Sentence char_offsets="2661:2709" id="14" />
+      <Sentence char_offsets="2720:2859" id="15" />
+      <Sentence char_offsets="2861:2978" id="16" />
+      <Sentence char_offsets="2980:3043" id="17" />
+      <Sentence char_offsets="3054:3236" id="18" />
+      <Sentence char_offsets="3238:3439" id="19" />
+      <Sentence char_offsets="3450:3682" id="20" />
+      <Sentence char_offsets="3693:3759" id="21" />
+      <Sentence char_offsets="3770:3841" id="22" />
+      <Sentence char_offsets="3843:3973" id="23" />
+      <Sentence char_offsets="3975:4105" id="24" />
+      <Sentence char_offsets="4116:4283" id="25" />
+      <Sentence char_offsets="4294:4466" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="141">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="141">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="historical" type="145">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="historical" type="192">
+        <Participant actor_id="32631" actor_name="China" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

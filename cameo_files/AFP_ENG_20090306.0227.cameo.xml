@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0227">
+    <Sentences>
+      <Sentence char_offsets="174:343" id="0" />
+      <Sentence char_offsets="354:561" id="1" />
+      <Sentence char_offsets="572:700" id="2" />
+      <Sentence char_offsets="702:792" id="3" />
+      <Sentence char_offsets="803:1023" id="4" />
+      <Sentence char_offsets="1034:1188" id="5" />
+      <Sentence char_offsets="1199:1325" id="6" />
+      <Sentence char_offsets="1336:1441" id="7" />
+      <Sentence char_offsets="1452:1618" id="8" />
+      <Sentence char_offsets="1629:1770" id="9" />
+      <Sentence char_offsets="1781:1925" id="10" />
+      <Sentence char_offsets="1936:2102" id="11" />
+      <Sentence char_offsets="2113:2269" id="12" />
+      <Sentence char_offsets="2280:2370" id="13" />
+      <Sentence char_offsets="2381:2585" id="14" />
+      <Sentence char_offsets="2596:2726" id="15" />
+      <Sentence char_offsets="2737:2963" id="16" />
+      <Sentence char_offsets="2974:3162" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="ongoing" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="8" agent_name="Intelligence" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="130">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="43618" actor_name="The Chronicle" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

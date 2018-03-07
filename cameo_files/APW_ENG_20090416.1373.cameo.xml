@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.1373">
+    <Sentences>
+      <Sentence char_offsets="192:383" id="0" />
+      <Sentence char_offsets="394:620" id="1" />
+      <Sentence char_offsets="631:775" id="2" />
+      <Sentence char_offsets="777:941" id="3" />
+      <Sentence char_offsets="952:1111" id="4" />
+      <Sentence char_offsets="1122:1455" id="5" />
+      <Sentence char_offsets="1466:1673" id="6" />
+      <Sentence char_offsets="1675:1768" id="7" />
+      <Sentence char_offsets="1770:1810" id="8" />
+      <Sentence char_offsets="1821:1969" id="9" />
+      <Sentence char_offsets="1971:2077" id="10" />
+      <Sentence char_offsets="2079:2117" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="current" type="036">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="52965" actor_name="John Kerry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,75 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0354">
+    <Sentences>
+      <Sentence char_offsets="189:429" id="0" />
+      <Sentence char_offsets="440:563" id="1" />
+      <Sentence char_offsets="574:826" id="2" />
+      <Sentence char_offsets="837:1041" id="3" />
+      <Sentence char_offsets="1052:1290" id="4" />
+      <Sentence char_offsets="1301:1509" id="5" />
+      <Sentence char_offsets="1520:1693" id="6" />
+      <Sentence char_offsets="1704:1828" id="7" />
+      <Sentence char_offsets="1839:2009" id="8" />
+      <Sentence char_offsets="2011:2066" id="9" />
+      <Sentence char_offsets="2077:2254" id="10" />
+      <Sentence char_offsets="2265:2425" id="11" />
+      <Sentence char_offsets="2436:2590" id="12" />
+      <Sentence char_offsets="2601:2678" id="13" />
+      <Sentence char_offsets="2689:2847" id="14" />
+      <Sentence char_offsets="2858:3176" id="15" />
+      <Sentence char_offsets="3187:3381" id="16" />
+      <Sentence char_offsets="3392:3533" id="17" />
+      <Sentence char_offsets="3544:3691" id="18" />
+      <Sentence char_offsets="3702:3910" id="19" />
+      <Sentence char_offsets="3921:4031" id="20" />
+      <Sentence char_offsets="4042:4102" id="21" />
+      <Sentence char_offsets="4113:4210" id="22" />
+      <Sentence char_offsets="4212:4280" id="23" />
+      <Sentence char_offsets="4291:4630" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="19918" actor_name="Cristina Fern&#225;ndez de Kirchner" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="22" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="22" tense="neutral" type="043">
+        <Participant actor_id="36182" actor_name="Latin America" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

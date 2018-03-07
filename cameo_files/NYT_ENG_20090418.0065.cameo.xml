@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090418.0065">
+    <Sentences>
+      <Sentence char_offsets="170:364" id="0" />
+      <Sentence char_offsets="375:583" id="1" />
+      <Sentence char_offsets="585:677" id="2" />
+      <Sentence char_offsets="688:815" id="3" />
+      <Sentence char_offsets="826:1006" id="4" />
+      <Sentence char_offsets="1017:1129" id="5" />
+      <Sentence char_offsets="1131:1209" id="6" />
+      <Sentence char_offsets="1211:1375" id="7" />
+      <Sentence char_offsets="1386:1458" id="8" />
+      <Sentence char_offsets="1460:1557" id="9" />
+      <Sentence char_offsets="1559:1594" id="10" />
+      <Sentence char_offsets="1605:1738" id="11" />
+      <Sentence char_offsets="1740:1794" id="12" />
+      <Sentence char_offsets="1805:2088" id="13" />
+      <Sentence char_offsets="2099:2188" id="14" />
+      <Sentence char_offsets="2190:2296" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31818" actor_name="Tehrik-i-Taliban Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

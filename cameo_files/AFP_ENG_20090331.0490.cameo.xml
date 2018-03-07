@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0490">
+    <Sentences>
+      <Sentence char_offsets="198:380" id="0" />
+      <Sentence char_offsets="391:596" id="1" />
+      <Sentence char_offsets="607:844" id="2" />
+      <Sentence char_offsets="855:939" id="3" />
+      <Sentence char_offsets="950:1025" id="4" />
+      <Sentence char_offsets="1036:1268" id="5" />
+      <Sentence char_offsets="1279:1525" id="6" />
+      <Sentence char_offsets="1536:1715" id="7" />
+      <Sentence char_offsets="1726:1843" id="8" />
+      <Sentence char_offsets="1854:1958" id="9" />
+      <Sentence char_offsets="1969:2148" id="10" />
+      <Sentence char_offsets="2159:2294" id="11" />
+      <Sentence char_offsets="2305:2432" id="12" />
+      <Sentence char_offsets="2443:2577" id="13" />
+      <Sentence char_offsets="2588:2648" id="14" />
+      <Sentence char_offsets="2650:2720" id="15" />
+      <Sentence char_offsets="2731:2828" id="16" />
+      <Sentence char_offsets="2839:2981" id="17" />
+      <Sentence char_offsets="2992:3153" id="18" />
+      <Sentence char_offsets="3155:3257" id="19" />
+      <Sentence char_offsets="3268:3373" id="20" />
+      <Sentence char_offsets="3384:3489" id="21" />
+      <Sentence char_offsets="3500:3596" id="22" />
+      <Sentence char_offsets="3607:3728" id="23" />
+      <Sentence char_offsets="3730:3776" id="24" />
+      <Sentence char_offsets="3787:3928" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="204125" actor_name="Abdusakur Tan" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="34295" actor_name="Inquirer" role="Source" />
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="0253">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="138">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="274" agent_name="Government Forces" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="193" agent_name="Islamic Militant" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="193" agent_name="Islamic Militant" role="Source" />
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

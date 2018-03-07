@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0076">
+    <Sentences>
+      <Sentence char_offsets="194:332" id="0" />
+      <Sentence char_offsets="343:437" id="1" />
+      <Sentence char_offsets="439:508" id="2" />
+      <Sentence char_offsets="519:697" id="3" />
+      <Sentence char_offsets="708:936" id="4" />
+      <Sentence char_offsets="947:1162" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="100">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="310" agent_name="Government Official" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

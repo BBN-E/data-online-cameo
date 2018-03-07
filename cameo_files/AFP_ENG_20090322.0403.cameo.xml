@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0403">
+    <Sentences>
+      <Sentence char_offsets="175:375" id="0" />
+      <Sentence char_offsets="386:527" id="1" />
+      <Sentence char_offsets="538:751" id="2" />
+      <Sentence char_offsets="762:985" id="3" />
+      <Sentence char_offsets="996:1218" id="4" />
+      <Sentence char_offsets="1229:1342" id="5" />
+      <Sentence char_offsets="1353:1506" id="6" />
+      <Sentence char_offsets="1517:1641" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="25178" actor_name="Navanethem Pillay" role="Source" />
+        <Participant actor_id="37206" actor_name="Nepal" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="42663" actor_name="Office of the United Nations High Commissioner for Human Rights" role="Source" />
+        <Participant actor_id="37206" actor_name="Nepal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="37206" actor_name="Nepal" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="37206" actor_name="Nepal" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="25178" actor_name="Navanethem Pillay" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="37206" actor_name="Nepal" role="Source" />
+        <Participant actor_id="42663" actor_name="Office of the United Nations High Commissioner for Human Rights" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

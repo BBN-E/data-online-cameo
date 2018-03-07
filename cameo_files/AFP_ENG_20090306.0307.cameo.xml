@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0307">
+    <Sentences>
+      <Sentence char_offsets="183:363" id="0" />
+      <Sentence char_offsets="374:555" id="1" />
+      <Sentence char_offsets="566:809" id="2" />
+      <Sentence char_offsets="820:1022" id="3" />
+      <Sentence char_offsets="1033:1154" id="4" />
+      <Sentence char_offsets="1156:1225" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="0331">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

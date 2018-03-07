@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0251">
+    <Sentences>
+      <Sentence char_offsets="175:316" id="0" />
+      <Sentence char_offsets="327:432" id="1" />
+      <Sentence char_offsets="443:554" id="2" />
+      <Sentence char_offsets="565:768" id="3" />
+      <Sentence char_offsets="779:963" id="4" />
+      <Sentence char_offsets="974:1133" id="5" />
+      <Sentence char_offsets="1144:1253" id="6" />
+      <Sentence char_offsets="1264:1447" id="7" />
+      <Sentence char_offsets="1458:1634" id="8" />
+      <Sentence char_offsets="1645:1869" id="9" />
+      <Sentence char_offsets="1880:2018" id="10" />
+      <Sentence char_offsets="2029:2126" id="11" />
+      <Sentence char_offsets="2137:2362" id="12" />
+      <Sentence char_offsets="2373:2553" id="13" />
+      <Sentence char_offsets="2564:2748" id="14" />
+      <Sentence char_offsets="2759:3019" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="38637" actor_name="Department of Energy" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

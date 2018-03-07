@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0726">
+    <Sentences>
+      <Sentence char_offsets="180:393" id="0" />
+      <Sentence char_offsets="404:595" id="1" />
+      <Sentence char_offsets="606:836" id="2" />
+      <Sentence char_offsets="847:979" id="3" />
+      <Sentence char_offsets="981:1132" id="4" />
+      <Sentence char_offsets="1143:1234" id="5" />
+      <Sentence char_offsets="1236:1320" id="6" />
+      <Sentence char_offsets="1331:1406" id="7" />
+      <Sentence char_offsets="1417:1568" id="8" />
+      <Sentence char_offsets="1570:1624" id="9" />
+      <Sentence char_offsets="1635:1745" id="10" />
+      <Sentence char_offsets="1756:1856" id="11" />
+      <Sentence char_offsets="1867:1968" id="12" />
+      <Sentence char_offsets="1970:2089" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="historical" type="042">
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="historical" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

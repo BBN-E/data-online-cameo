@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.1518">
+    <Sentences>
+      <Sentence char_offsets="186:420" id="0" />
+      <Sentence char_offsets="431:684" id="1" />
+      <Sentence char_offsets="695:843" id="2" />
+      <Sentence char_offsets="845:1021" id="3" />
+      <Sentence char_offsets="1032:1259" id="4" />
+      <Sentence char_offsets="1270:1455" id="5" />
+      <Sentence char_offsets="1457:1584" id="6" />
+      <Sentence char_offsets="1595:1711" id="7" />
+      <Sentence char_offsets="1722:1912" id="8" />
+      <Sentence char_offsets="1923:2076" id="9" />
+      <Sentence char_offsets="2078:2192" id="10" />
+      <Sentence char_offsets="2203:2292" id="11" />
+      <Sentence char_offsets="2303:2527" id="12" />
+      <Sentence char_offsets="2529:2596" id="13" />
+      <Sentence char_offsets="2607:2839" id="14" />
+      <Sentence char_offsets="2850:2929" id="15" />
+      <Sentence char_offsets="2940:3150" id="16" />
+      <Sentence char_offsets="3161:3276" id="17" />
+      <Sentence char_offsets="3287:3463" id="18" />
+      <Sentence char_offsets="3474:3655" id="19" />
+      <Sentence char_offsets="3657:3782" id="20" />
+      <Sentence char_offsets="3793:3905" id="21" />
+      <Sentence char_offsets="3916:4149" id="22" />
+      <Sentence char_offsets="4160:4396" id="23" />
+      <Sentence char_offsets="4398:4486" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="100">
+        <Participant actor_id="237771" actor_name="Richard Berman" role="Source" />
+        <Participant actor_id="11791" actor_name="Alvaro Uribe Velez" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

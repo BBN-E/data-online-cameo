@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0459">
+    <Sentences>
+      <Sentence char_offsets="183:369" id="0" />
+      <Sentence char_offsets="380:611" id="1" />
+      <Sentence char_offsets="622:821" id="2" />
+      <Sentence char_offsets="832:1001" id="3" />
+      <Sentence char_offsets="1012:1202" id="4" />
+      <Sentence char_offsets="1213:1288" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="013">
+        <Participant actor_id="13980" actor_name="Donald Tusk" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="13980" actor_name="Donald Tusk" role="Source" />
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="13980" actor_name="Donald Tusk" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0769">
+    <Sentences>
+      <Sentence char_offsets="177:316" id="0" />
+      <Sentence char_offsets="318:433" id="1" />
+      <Sentence char_offsets="444:579" id="2" />
+      <Sentence char_offsets="590:768" id="3" />
+      <Sentence char_offsets="779:900" id="4" />
+      <Sentence char_offsets="902:967" id="5" />
+      <Sentence char_offsets="978:1134" id="6" />
+      <Sentence char_offsets="1145:1320" id="7" />
+      <Sentence char_offsets="1331:1478" id="8" />
+      <Sentence char_offsets="1489:1637" id="9" />
+      <Sentence char_offsets="1648:1693" id="10" />
+      <Sentence char_offsets="1695:1799" id="11" />
+      <Sentence char_offsets="1810:2002" id="12" />
+      <Sentence char_offsets="2013:2200" id="13" />
+      <Sentence char_offsets="2211:2422" id="14" />
+      <Sentence char_offsets="2433:2573" id="15" />
+      <Sentence char_offsets="2584:2796" id="16" />
+      <Sentence char_offsets="2807:2889" id="17" />
+      <Sentence char_offsets="2891:2960" id="18" />
+      <Sentence char_offsets="2962:2992" id="19" />
+      <Sentence char_offsets="3003:3170" id="20" />
+      <Sentence char_offsets="3181:3362" id="21" />
+      <Sentence char_offsets="3373:3581" id="22" />
+      <Sentence char_offsets="3592:3773" id="23" />
+      <Sentence char_offsets="3784:3954" id="24" />
+      <Sentence char_offsets="3965:4009" id="25" />
+      <Sentence char_offsets="4020:4050" id="26" />
+      <Sentence char_offsets="4052:4083" id="27" />
+      <Sentence char_offsets="4085:4111" id="28" />
+      <Sentence char_offsets="4113:4175" id="29" />
+      <Sentence char_offsets="4186:4322" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="56534" actor_name="Boris Johnson" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="30" tense="historical" type="141">
+        <Participant actor_id="41151" actor_name="Ukraine" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

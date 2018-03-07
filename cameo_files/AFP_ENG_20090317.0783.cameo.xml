@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0783">
+    <Sentences>
+      <Sentence char_offsets="186:403" id="0" />
+      <Sentence char_offsets="414:628" id="1" />
+      <Sentence char_offsets="639:786" id="2" />
+      <Sentence char_offsets="797:931" id="3" />
+      <Sentence char_offsets="942:1135" id="4" />
+      <Sentence char_offsets="1146:1203" id="5" />
+      <Sentence char_offsets="1214:1443" id="6" />
+      <Sentence char_offsets="1454:1732" id="7" />
+      <Sentence char_offsets="1743:1920" id="8" />
+      <Sentence char_offsets="1931:2110" id="9" />
+      <Sentence char_offsets="2121:2315" id="10" />
+      <Sentence char_offsets="2326:2557" id="11" />
+      <Sentence char_offsets="2568:2766" id="12" />
+      <Sentence char_offsets="2777:2850" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="036">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="30469" actor_name="Guinea" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

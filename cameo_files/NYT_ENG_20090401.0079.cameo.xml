@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090401.0079">
+    <Sentences>
+      <Sentence char_offsets="149:340" id="0" />
+      <Sentence char_offsets="351:559" id="1" />
+      <Sentence char_offsets="570:715" id="2" />
+      <Sentence char_offsets="726:797" id="3" />
+      <Sentence char_offsets="799:897" id="4" />
+      <Sentence char_offsets="899:1017" id="5" />
+      <Sentence char_offsets="1028:1120" id="6" />
+      <Sentence char_offsets="1131:1180" id="7" />
+      <Sentence char_offsets="1182:1238" id="8" />
+      <Sentence char_offsets="1249:1411" id="9" />
+      <Sentence char_offsets="1413:1485" id="10" />
+      <Sentence char_offsets="1496:1590" id="11" />
+      <Sentence char_offsets="1601:1776" id="12" />
+      <Sentence char_offsets="1787:1944" id="13" />
+      <Sentence char_offsets="1955:2077" id="14" />
+      <Sentence char_offsets="2088:2154" id="15" />
+      <Sentence char_offsets="2165:2219" id="16" />
+      <Sentence char_offsets="2221:2244" id="17" />
+      <Sentence char_offsets="2246:2297" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="33939" actor_name="Federal Aviation Administration" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

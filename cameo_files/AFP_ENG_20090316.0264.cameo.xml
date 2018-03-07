@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0264">
+    <Sentences>
+      <Sentence char_offsets="192:368" id="0" />
+      <Sentence char_offsets="379:590" id="1" />
+      <Sentence char_offsets="601:812" id="2" />
+      <Sentence char_offsets="823:1025" id="3" />
+      <Sentence char_offsets="1036:1174" id="4" />
+      <Sentence char_offsets="1185:1405" id="5" />
+      <Sentence char_offsets="1416:1593" id="6" />
+      <Sentence char_offsets="1604:1756" id="7" />
+      <Sentence char_offsets="1767:1978" id="8" />
+      <Sentence char_offsets="1989:2111" id="9" />
+      <Sentence char_offsets="2122:2237" id="10" />
+      <Sentence char_offsets="2239:2339" id="11" />
+      <Sentence char_offsets="2350:2527" id="12" />
+      <Sentence char_offsets="2538:2637" id="13" />
+      <Sentence char_offsets="2648:2815" id="14" />
+      <Sentence char_offsets="2826:3049" id="15" />
+      <Sentence char_offsets="3060:3248" id="16" />
+      <Sentence char_offsets="3259:3471" id="17" />
+      <Sentence char_offsets="3482:3521" id="18" />
+      <Sentence char_offsets="3532:3732" id="19" />
+      <Sentence char_offsets="3743:3859" id="20" />
+      <Sentence char_offsets="3870:4084" id="21" />
+      <Sentence char_offsets="4095:4285" id="22" />
+      <Sentence char_offsets="4296:4475" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="012">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="046">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="046">
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

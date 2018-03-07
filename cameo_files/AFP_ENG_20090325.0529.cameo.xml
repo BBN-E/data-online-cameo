@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0529">
+    <Sentences>
+      <Sentence char_offsets="184:400" id="0" />
+      <Sentence char_offsets="411:578" id="1" />
+      <Sentence char_offsets="589:749" id="2" />
+      <Sentence char_offsets="760:971" id="3" />
+      <Sentence char_offsets="982:1092" id="4" />
+      <Sentence char_offsets="1103:1321" id="5" />
+      <Sentence char_offsets="1332:1472" id="6" />
+      <Sentence char_offsets="1483:1600" id="7" />
+      <Sentence char_offsets="1611:1940" id="8" />
+      <Sentence char_offsets="1951:2087" id="9" />
+      <Sentence char_offsets="2089:2130" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

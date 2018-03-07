@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0133">
+    <Sentences>
+      <Sentence char_offsets="190:369" id="0" />
+      <Sentence char_offsets="380:619" id="1" />
+      <Sentence char_offsets="630:790" id="2" />
+      <Sentence char_offsets="801:967" id="3" />
+      <Sentence char_offsets="978:1067" id="4" />
+      <Sentence char_offsets="1078:1222" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="053">
+        <Participant actor_id="32920" actor_name="Kgalema Petrus Motlanthe" role="Source" />
+        <Participant actor_id="48346" actor_name="Joao Bernardo Vieira" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

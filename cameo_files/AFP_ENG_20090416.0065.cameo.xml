@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0065">
+    <Sentences>
+      <Sentence char_offsets="170:365" id="0" />
+      <Sentence char_offsets="376:565" id="1" />
+      <Sentence char_offsets="576:669" id="2" />
+      <Sentence char_offsets="680:771" id="3" />
+      <Sentence char_offsets="782:992" id="4" />
+      <Sentence char_offsets="1003:1198" id="5" />
+      <Sentence char_offsets="1209:1368" id="6" />
+      <Sentence char_offsets="1370:1485" id="7" />
+      <Sentence char_offsets="1496:1617" id="8" />
+      <Sentence char_offsets="1628:1794" id="9" />
+      <Sentence char_offsets="1805:1854" id="10" />
+      <Sentence char_offsets="1865:2090" id="11" />
+      <Sentence char_offsets="2101:2310" id="12" />
+      <Sentence char_offsets="2321:2525" id="13" />
+      <Sentence char_offsets="2536:2770" id="14" />
+      <Sentence char_offsets="2781:2905" id="15" />
+      <Sentence char_offsets="2907:3033" id="16" />
+      <Sentence char_offsets="3044:3143" id="17" />
+      <Sentence char_offsets="3154:3244" id="18" />
+      <Sentence char_offsets="3255:3299" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="67" agent_name="Labor Department" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="222954" actor_name="European Central Bank" role="Source" />
+        <Participant actor_id="26820" actor_name="Citigroup" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

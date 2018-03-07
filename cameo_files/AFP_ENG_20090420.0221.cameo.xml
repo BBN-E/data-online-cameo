@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0221">
+    <Sentences>
+      <Sentence char_offsets="181:366" id="0" />
+      <Sentence char_offsets="377:495" id="1" />
+      <Sentence char_offsets="506:660" id="2" />
+      <Sentence char_offsets="671:742" id="3" />
+      <Sentence char_offsets="753:940" id="4" />
+      <Sentence char_offsets="951:1201" id="5" />
+      <Sentence char_offsets="1212:1343" id="6" />
+      <Sentence char_offsets="1354:1573" id="7" />
+      <Sentence char_offsets="1584:1699" id="8" />
+      <Sentence char_offsets="1701:1755" id="9" />
+      <Sentence char_offsets="1766:1911" id="10" />
+      <Sentence char_offsets="1922:2042" id="11" />
+      <Sentence char_offsets="2053:2199" id="12" />
+      <Sentence char_offsets="2210:2391" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="137">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

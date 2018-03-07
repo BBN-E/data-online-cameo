@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0330">
+    <Sentences>
+      <Sentence char_offsets="196:387" id="0" />
+      <Sentence char_offsets="398:620" id="1" />
+      <Sentence char_offsets="631:827" id="2" />
+      <Sentence char_offsets="838:1086" id="3" />
+      <Sentence char_offsets="1097:1149" id="4" />
+      <Sentence char_offsets="1160:1204" id="5" />
+      <Sentence char_offsets="1215:1392" id="6" />
+      <Sentence char_offsets="1403:1544" id="7" />
+      <Sentence char_offsets="1555:1673" id="8" />
+      <Sentence char_offsets="1684:1871" id="9" />
+      <Sentence char_offsets="1882:1949" id="10" />
+      <Sentence char_offsets="1960:2114" id="11" />
+      <Sentence char_offsets="2125:2330" id="12" />
+      <Sentence char_offsets="2341:2601" id="13" />
+      <Sentence char_offsets="2612:2876" id="14" />
+      <Sentence char_offsets="2887:3001" id="15" />
+      <Sentence char_offsets="3012:3231" id="16" />
+      <Sentence char_offsets="3242:3400" id="17" />
+      <Sentence char_offsets="3411:3637" id="18" />
+      <Sentence char_offsets="3648:3760" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

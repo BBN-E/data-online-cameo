@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0291">
+    <Sentences>
+      <Sentence char_offsets="159:192" id="0" />
+      <Sentence char_offsets="195:205" id="1" />
+      <Sentence char_offsets="208:402" id="2" />
+      <Sentence char_offsets="405:425" id="3" />
+      <Sentence char_offsets="428:615" id="4" />
+      <Sentence char_offsets="618:662" id="5" />
+      <Sentence char_offsets="665:856" id="6" />
+      <Sentence char_offsets="859:893" id="7" />
+      <Sentence char_offsets="896:1086" id="8" />
+      <Sentence char_offsets="1089:1107" id="9" />
+      <Sentence char_offsets="1110:1301" id="10" />
+      <Sentence char_offsets="1304:1336" id="11" />
+      <Sentence char_offsets="1339:1534" id="12" />
+      <Sentence char_offsets="1537:1558" id="13" />
+      <Sentence char_offsets="1561:1714" id="14" />
+      <Sentence char_offsets="1717:1755" id="15" />
+      <Sentence char_offsets="1758:1956" id="16" />
+      <Sentence char_offsets="1959:2000" id="17" />
+      <Sentence char_offsets="2003:2211" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="161">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="173">
+        <Participant actor_id="36043" actor_name="Kuwait" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

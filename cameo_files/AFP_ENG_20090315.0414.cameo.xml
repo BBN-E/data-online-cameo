@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090315.0414">
+    <Sentences>
+      <Sentence char_offsets="185:373" id="0" />
+      <Sentence char_offsets="384:610" id="1" />
+      <Sentence char_offsets="621:842" id="2" />
+      <Sentence char_offsets="853:883" id="3" />
+      <Sentence char_offsets="885:924" id="4" />
+      <Sentence char_offsets="926:984" id="5" />
+      <Sentence char_offsets="995:1012" id="6" />
+      <Sentence char_offsets="1014:1036" id="7" />
+      <Sentence char_offsets="1038:1091" id="8" />
+      <Sentence char_offsets="1102:1304" id="9" />
+      <Sentence char_offsets="1315:1491" id="10" />
+      <Sentence char_offsets="1502:1721" id="11" />
+      <Sentence char_offsets="1732:1949" id="12" />
+      <Sentence char_offsets="1960:2143" id="13" />
+      <Sentence char_offsets="2154:2361" id="14" />
+      <Sentence char_offsets="2372:2580" id="15" />
+      <Sentence char_offsets="2591:2730" id="16" />
+      <Sentence char_offsets="2741:2966" id="17" />
+      <Sentence char_offsets="2977:3124" id="18" />
+      <Sentence char_offsets="3135:3283" id="19" />
+      <Sentence char_offsets="3294:3519" id="20" />
+      <Sentence char_offsets="3530:3670" id="21" />
+      <Sentence char_offsets="3681:3898" id="22" />
+      <Sentence char_offsets="3909:4031" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="060">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="060">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="14" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="current" type="172">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.1582">
+    <Sentences>
+      <Sentence char_offsets="195:462" id="0" />
+      <Sentence char_offsets="473:641" id="1" />
+      <Sentence char_offsets="643:690" id="2" />
+      <Sentence char_offsets="701:799" id="3" />
+      <Sentence char_offsets="801:939" id="4" />
+      <Sentence char_offsets="950:1169" id="5" />
+      <Sentence char_offsets="1180:1301" id="6" />
+      <Sentence char_offsets="1303:1381" id="7" />
+      <Sentence char_offsets="1392:1533" id="8" />
+      <Sentence char_offsets="1544:1744" id="9" />
+      <Sentence char_offsets="1746:1877" id="10" />
+      <Sentence char_offsets="1888:2032" id="11" />
+      <Sentence char_offsets="2034:2067" id="12" />
+      <Sentence char_offsets="2078:2164" id="13" />
+      <Sentence char_offsets="2175:2328" id="14" />
+      <Sentence char_offsets="2339:2413" id="15" />
+      <Sentence char_offsets="2424:2567" id="16" />
+      <Sentence char_offsets="2578:2745" id="17" />
+      <Sentence char_offsets="2756:2932" id="18" />
+      <Sentence char_offsets="2943:2966" id="19" />
+      <Sentence char_offsets="2977:3091" id="20" />
+      <Sentence char_offsets="3102:3163" id="21" />
+      <Sentence char_offsets="3165:3280" id="22" />
+      <Sentence char_offsets="3282:3396" id="23" />
+      <Sentence char_offsets="3407:3535" id="24" />
+      <Sentence char_offsets="3546:3587" id="25" />
+      <Sentence char_offsets="3589:3692" id="26" />
+      <Sentence char_offsets="3703:3893" id="27" />
+      <Sentence char_offsets="3904:4138" id="28" />
+      <Sentence char_offsets="4149:4365" id="29" />
+      <Sentence char_offsets="4376:4538" id="30" />
+      <Sentence char_offsets="4549:4677" id="31" />
+      <Sentence char_offsets="4688:4782" id="32" />
+      <Sentence char_offsets="4784:4855" id="33" />
+      <Sentence char_offsets="4866:4938" id="34" />
+      <Sentence char_offsets="4949:5016" id="35" />
+      <Sentence char_offsets="5027:5249" id="36" />
+      <Sentence char_offsets="5260:5370" id="37" />
+      <Sentence char_offsets="5372:5458" id="38" />
+      <Sentence char_offsets="5469:5538" id="39" />
+      <Sentence char_offsets="5549:5676" id="40" />
+      <Sentence char_offsets="5687:5794" id="41" />
+      <Sentence char_offsets="5805:6013" id="42" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="111">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="601" agent_name="Student" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="190">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="36" tense="historical" type="180">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="24" tense="neutral" type="193">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="27" tense="neutral" type="193">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="31" tense="neutral" type="193">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

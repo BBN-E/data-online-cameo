@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0342">
+    <Sentences>
+      <Sentence char_offsets="189:371" id="0" />
+      <Sentence char_offsets="382:618" id="1" />
+      <Sentence char_offsets="629:838" id="2" />
+      <Sentence char_offsets="849:936" id="3" />
+      <Sentence char_offsets="947:1216" id="4" />
+      <Sentence char_offsets="1227:1314" id="5" />
+      <Sentence char_offsets="1325:1443" id="6" />
+      <Sentence char_offsets="1445:1530" id="7" />
+      <Sentence char_offsets="1541:1600" id="8" />
+      <Sentence char_offsets="1611:1695" id="9" />
+      <Sentence char_offsets="1706:1916" id="10" />
+      <Sentence char_offsets="1927:1983" id="11" />
+      <Sentence char_offsets="1985:2057" id="12" />
+      <Sentence char_offsets="2068:2171" id="13" />
+      <Sentence char_offsets="2182:2429" id="14" />
+      <Sentence char_offsets="2440:2577" id="15" />
+      <Sentence char_offsets="2588:2745" id="16" />
+      <Sentence char_offsets="2756:3003" id="17" />
+      <Sentence char_offsets="3014:3208" id="18" />
+      <Sentence char_offsets="3219:3404" id="19" />
+      <Sentence char_offsets="3415:3646" id="20" />
+      <Sentence char_offsets="3657:3766" id="21" />
+      <Sentence char_offsets="3777:3928" id="22" />
+      <Sentence char_offsets="3939:4109" id="23" />
+      <Sentence char_offsets="4120:4219" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="historical" type="057">
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Source" />
+        <Participant actor_id="28165" actor_name="Condoleezza Rice" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="historical" type="057">
+        <Participant actor_id="28165" actor_name="Condoleezza Rice" role="Source" />
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

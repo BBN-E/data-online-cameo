@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090311.0203">
+    <Sentences>
+      <Sentence char_offsets="145:359" id="0" />
+      <Sentence char_offsets="370:600" id="1" />
+      <Sentence char_offsets="602:654" id="2" />
+      <Sentence char_offsets="665:790" id="3" />
+      <Sentence char_offsets="801:937" id="4" />
+      <Sentence char_offsets="948:1095" id="5" />
+      <Sentence char_offsets="1106:1243" id="6" />
+      <Sentence char_offsets="1254:1399" id="7" />
+      <Sentence char_offsets="1401:1494" id="8" />
+      <Sentence char_offsets="1496:1623" id="9" />
+      <Sentence char_offsets="1634:1822" id="10" />
+      <Sentence char_offsets="1833:1994" id="11" />
+      <Sentence char_offsets="2005:2127" id="12" />
+      <Sentence char_offsets="2129:2158" id="13" />
+      <Sentence char_offsets="2169:2378" id="14" />
+      <Sentence char_offsets="2389:2689" id="15" />
+      <Sentence char_offsets="2700:2770" id="16" />
+      <Sentence char_offsets="2781:2956" id="17" />
+      <Sentence char_offsets="2967:3164" id="18" />
+      <Sentence char_offsets="3166:3308" id="19" />
+      <Sentence char_offsets="3319:3527" id="20" />
+      <Sentence char_offsets="3538:3697" id="21" />
+      <Sentence char_offsets="3708:3847" id="22" />
+      <Sentence char_offsets="3858:3991" id="23" />
+      <Sentence char_offsets="3993:4157" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="38414" actor_name="Conocophillips" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="38414" actor_name="Conocophillips" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

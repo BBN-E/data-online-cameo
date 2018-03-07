@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0175">
+    <Sentences>
+      <Sentence char_offsets="171:359" id="0" />
+      <Sentence char_offsets="370:585" id="1" />
+      <Sentence char_offsets="596:782" id="2" />
+      <Sentence char_offsets="793:988" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="046">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="046">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0967">
+    <Sentences>
+      <Sentence char_offsets="194:378" id="0" />
+      <Sentence char_offsets="389:607" id="1" />
+      <Sentence char_offsets="618:803" id="2" />
+      <Sentence char_offsets="814:949" id="3" />
+      <Sentence char_offsets="960:1143" id="4" />
+      <Sentence char_offsets="1154:1303" id="5" />
+      <Sentence char_offsets="1314:1428" id="6" />
+      <Sentence char_offsets="1439:1685" id="7" />
+      <Sentence char_offsets="1696:1916" id="8" />
+      <Sentence char_offsets="1927:2120" id="9" />
+      <Sentence char_offsets="2131:2295" id="10" />
+      <Sentence char_offsets="2306:2465" id="11" />
+      <Sentence char_offsets="2476:2513" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="611" agent_name="Regulator" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

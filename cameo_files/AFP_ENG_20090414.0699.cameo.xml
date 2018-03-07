@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0699">
+    <Sentences>
+      <Sentence char_offsets="182:369" id="0" />
+      <Sentence char_offsets="380:583" id="1" />
+      <Sentence char_offsets="594:853" id="2" />
+      <Sentence char_offsets="864:1020" id="3" />
+      <Sentence char_offsets="1031:1209" id="4" />
+      <Sentence char_offsets="1220:1429" id="5" />
+      <Sentence char_offsets="1440:1614" id="6" />
+      <Sentence char_offsets="1625:1733" id="7" />
+      <Sentence char_offsets="1744:1873" id="8" />
+      <Sentence char_offsets="1884:2059" id="9" />
+      <Sentence char_offsets="2070:2216" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="12845" actor_name="Minister McCully" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="130">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

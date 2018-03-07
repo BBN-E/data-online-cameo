@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0711">
+    <Sentences>
+      <Sentence char_offsets="181:369" id="0" />
+      <Sentence char_offsets="380:606" id="1" />
+      <Sentence char_offsets="617:746" id="2" />
+      <Sentence char_offsets="757:902" id="3" />
+      <Sentence char_offsets="913:1041" id="4" />
+      <Sentence char_offsets="1052:1241" id="5" />
+      <Sentence char_offsets="1252:1307" id="6" />
+      <Sentence char_offsets="1318:1551" id="7" />
+      <Sentence char_offsets="1562:1656" id="8" />
+      <Sentence char_offsets="1667:1754" id="9" />
+      <Sentence char_offsets="1756:1882" id="10" />
+      <Sentence char_offsets="1893:2113" id="11" />
+      <Sentence char_offsets="2124:2252" id="12" />
+      <Sentence char_offsets="2254:2322" id="13" />
+      <Sentence char_offsets="2333:2506" id="14" />
+      <Sentence char_offsets="2517:2731" id="15" />
+      <Sentence char_offsets="2742:2851" id="16" />
+      <Sentence char_offsets="2852:2852" id="17" />
+      <Sentence char_offsets="2863:3055" id="18" />
+      <Sentence char_offsets="3066:3180" id="19" />
+      <Sentence char_offsets="3191:3296" id="20" />
+      <Sentence char_offsets="3298:3404" id="21" />
+      <Sentence char_offsets="3415:3581" id="22" />
+      <Sentence char_offsets="3592:3781" id="23" />
+      <Sentence char_offsets="3792:3946" id="24" />
+      <Sentence char_offsets="3957:4060" id="25" />
+      <Sentence char_offsets="4071:4118" id="26" />
+      <Sentence char_offsets="4120:4202" id="27" />
+      <Sentence char_offsets="4213:4275" id="28" />
+      <Sentence char_offsets="4277:4325" id="29" />
+      <Sentence char_offsets="4327:4393" id="30" />
+      <Sentence char_offsets="4404:4512" id="31" />
+      <Sentence char_offsets="4523:4655" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="042">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="current" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

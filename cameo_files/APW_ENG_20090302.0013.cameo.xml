@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0013">
+    <Sentences>
+      <Sentence char_offsets="195:418" id="0" />
+      <Sentence char_offsets="429:635" id="1" />
+      <Sentence char_offsets="646:797" id="2" />
+      <Sentence char_offsets="808:957" id="3" />
+      <Sentence char_offsets="959:1073" id="4" />
+      <Sentence char_offsets="1084:1157" id="5" />
+      <Sentence char_offsets="1168:1215" id="6" />
+      <Sentence char_offsets="1226:1315" id="7" />
+      <Sentence char_offsets="1326:1505" id="8" />
+      <Sentence char_offsets="1507:1582" id="9" />
+      <Sentence char_offsets="1584:1690" id="10" />
+      <Sentence char_offsets="1701:1928" id="11" />
+      <Sentence char_offsets="1939:2001" id="12" />
+      <Sentence char_offsets="2003:2318" id="13" />
+      <Sentence char_offsets="2329:2455" id="14" />
+      <Sentence char_offsets="2466:2593" id="15" />
+      <Sentence char_offsets="2595:2710" id="16" />
+      <Sentence char_offsets="2721:2781" id="17" />
+      <Sentence char_offsets="2792:2949" id="18" />
+      <Sentence char_offsets="2960:3149" id="19" />
+      <Sentence char_offsets="3160:3236" id="20" />
+      <Sentence char_offsets="3247:3312" id="21" />
+      <Sentence char_offsets="3314:3450" id="22" />
+      <Sentence char_offsets="3461:3589" id="23" />
+      <Sentence char_offsets="3600:3678" id="24" />
+      <Sentence char_offsets="3680:3707" id="25" />
+      <Sentence char_offsets="3709:3771" id="26" />
+      <Sentence char_offsets="3773:3854" id="27" />
+      <Sentence char_offsets="3865:3948" id="28" />
+      <Sentence char_offsets="3959:4105" id="29" />
+      <Sentence char_offsets="4116:4330" id="30" />
+      <Sentence char_offsets="4341:4490" id="31" />
+      <Sentence char_offsets="4501:4662" id="32" />
+      <Sentence char_offsets="4673:4860" id="33" />
+      <Sentence char_offsets="4871:4876" id="34" />
+      <Sentence char_offsets="4887:4951" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="672" agent_name="Reserve Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="010">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="582" agent_name="Public Courts" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="32" tense="current" type="041">
+        <Participant actor_id="41262" actor_name="United States" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="32" tense="current" type="041">
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="310" agent_name="Government Official" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="28" tense="neutral" type="180">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="720" agent_name="Murderer" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

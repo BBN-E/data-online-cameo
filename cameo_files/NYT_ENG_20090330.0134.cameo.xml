@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090330.0134">
+    <Sentences>
+      <Sentence char_offsets="169:447" id="0" />
+      <Sentence char_offsets="458:582" id="1" />
+      <Sentence char_offsets="584:800" id="2" />
+      <Sentence char_offsets="802:848" id="3" />
+      <Sentence char_offsets="859:1009" id="4" />
+      <Sentence char_offsets="1011:1189" id="5" />
+      <Sentence char_offsets="1200:1357" id="6" />
+      <Sentence char_offsets="1359:1445" id="7" />
+      <Sentence char_offsets="1447:1652" id="8" />
+      <Sentence char_offsets="1663:1868" id="9" />
+      <Sentence char_offsets="1879:2002" id="10" />
+      <Sentence char_offsets="2004:2170" id="11" />
+      <Sentence char_offsets="2181:2517" id="12" />
+      <Sentence char_offsets="2528:2693" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

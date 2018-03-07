@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.0058">
+    <Sentences>
+      <Sentence char_offsets="181:426" id="0" />
+      <Sentence char_offsets="437:624" id="1" />
+      <Sentence char_offsets="626:746" id="2" />
+      <Sentence char_offsets="748:810" id="3" />
+      <Sentence char_offsets="821:966" id="4" />
+      <Sentence char_offsets="977:1093" id="5" />
+      <Sentence char_offsets="1095:1169" id="6" />
+      <Sentence char_offsets="1180:1321" id="7" />
+      <Sentence char_offsets="1332:1441" id="8" />
+      <Sentence char_offsets="1452:1624" id="9" />
+      <Sentence char_offsets="1635:1680" id="10" />
+      <Sentence char_offsets="1691:1775" id="11" />
+      <Sentence char_offsets="1786:1954" id="12" />
+      <Sentence char_offsets="1956:2078" id="13" />
+      <Sentence char_offsets="2089:2230" id="14" />
+      <Sentence char_offsets="2241:2369" id="15" />
+      <Sentence char_offsets="2371:2468" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="112">
+        <Participant actor_id="28118" actor_name="Centers for Disease Control and Prevention" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

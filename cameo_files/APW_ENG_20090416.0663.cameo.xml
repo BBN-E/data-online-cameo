@@ -1,0 +1,77 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0663">
+    <Sentences>
+      <Sentence char_offsets="190:485" id="0" />
+      <Sentence char_offsets="496:692" id="1" />
+      <Sentence char_offsets="694:779" id="2" />
+      <Sentence char_offsets="790:1008" id="3" />
+      <Sentence char_offsets="1010:1113" id="4" />
+      <Sentence char_offsets="1124:1308" id="5" />
+      <Sentence char_offsets="1310:1421" id="6" />
+      <Sentence char_offsets="1432:1623" id="7" />
+      <Sentence char_offsets="1634:1954" id="8" />
+      <Sentence char_offsets="1965:2204" id="9" />
+      <Sentence char_offsets="2215:2419" id="10" />
+      <Sentence char_offsets="2430:2575" id="11" />
+      <Sentence char_offsets="2586:2684" id="12" />
+      <Sentence char_offsets="2686:2827" id="13" />
+      <Sentence char_offsets="2838:3100" id="14" />
+      <Sentence char_offsets="3111:3273" id="15" />
+      <Sentence char_offsets="3284:3394" id="16" />
+      <Sentence char_offsets="3405:3579" id="17" />
+      <Sentence char_offsets="3590:3797" id="18" />
+      <Sentence char_offsets="3808:3928" id="19" />
+      <Sentence char_offsets="3930:3968" id="20" />
+      <Sentence char_offsets="3979:4049" id="21" />
+      <Sentence char_offsets="4051:4202" id="22" />
+      <Sentence char_offsets="4213:4323" id="23" />
+      <Sentence char_offsets="4334:4461" id="24" />
+      <Sentence char_offsets="4463:4531" id="25" />
+      <Sentence char_offsets="4542:4683" id="26" />
+      <Sentence char_offsets="4685:4773" id="27" />
+      <Sentence char_offsets="4784:4908" id="28" />
+      <Sentence char_offsets="4910:5089" id="29" />
+      <Sentence char_offsets="5091:5195" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="28" tense="neutral" type="036">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="28" tense="neutral" type="036">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="125">
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Source" />
+        <Participant actor_id="22553" actor_name="George J. Mitchell" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

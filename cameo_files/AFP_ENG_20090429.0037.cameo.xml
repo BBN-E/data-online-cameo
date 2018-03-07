@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0037">
+    <Sentences>
+      <Sentence char_offsets="186:379" id="0" />
+      <Sentence char_offsets="390:607" id="1" />
+      <Sentence char_offsets="618:845" id="2" />
+      <Sentence char_offsets="856:1046" id="3" />
+      <Sentence char_offsets="1057:1274" id="4" />
+      <Sentence char_offsets="1285:1508" id="5" />
+      <Sentence char_offsets="1519:1747" id="6" />
+      <Sentence char_offsets="1758:1930" id="7" />
+      <Sentence char_offsets="1941:2067" id="8" />
+      <Sentence char_offsets="2078:2216" id="9" />
+      <Sentence char_offsets="2227:2416" id="10" />
+      <Sentence char_offsets="2427:2585" id="11" />
+      <Sentence char_offsets="2596:2690" id="12" />
+      <Sentence char_offsets="2701:2910" id="13" />
+      <Sentence char_offsets="2921:3105" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="historical" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="115">
+        <Participant actor_id="14544" actor_name="Association of American Publishers" role="Source" />
+        <Participant actor_id="55861" actor_name="Google" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="historical" type="115">
+        <Participant actor_id="14544" actor_name="Association of American Publishers" role="Source" />
+        <Participant actor_id="55861" actor_name="Google" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

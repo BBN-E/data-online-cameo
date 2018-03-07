@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0394">
+    <Sentences>
+      <Sentence char_offsets="166:339" id="0" />
+      <Sentence char_offsets="350:466" id="1" />
+      <Sentence char_offsets="477:707" id="2" />
+      <Sentence char_offsets="718:924" id="3" />
+      <Sentence char_offsets="935:1105" id="4" />
+      <Sentence char_offsets="1116:1286" id="5" />
+      <Sentence char_offsets="1297:1502" id="6" />
+      <Sentence char_offsets="1513:1630" id="7" />
+      <Sentence char_offsets="1632:1773" id="8" />
+      <Sentence char_offsets="1784:1953" id="9" />
+      <Sentence char_offsets="1964:2152" id="10" />
+      <Sentence char_offsets="2163:2419" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="19039" actor_name="Vietnam News Agency" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="010">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="25184" actor_name="Sadako Ogata" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="historical" type="042">
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="historical" type="057">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="historical" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="25184" actor_name="Sadako Ogata" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="1" tense="historical" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="18961" actor_name="Nong Duc Manh" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0238">
+    <Sentences>
+      <Sentence char_offsets="177:356" id="0" />
+      <Sentence char_offsets="367:543" id="1" />
+      <Sentence char_offsets="554:717" id="2" />
+      <Sentence char_offsets="728:787" id="3" />
+      <Sentence char_offsets="798:918" id="4" />
+      <Sentence char_offsets="929:1034" id="5" />
+      <Sentence char_offsets="1045:1243" id="6" />
+      <Sentence char_offsets="1254:1410" id="7" />
+      <Sentence char_offsets="1421:1598" id="8" />
+      <Sentence char_offsets="1609:1705" id="9" />
+      <Sentence char_offsets="1716:1914" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="0256">
+        <Participant actor_id="19434" actor_name="Congress Party" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="120">
+        <Participant actor_id="31081" actor_name="India" agent_id="657" agent_name="Indigenous People" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

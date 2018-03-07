@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0327">
+    <Sentences>
+      <Sentence char_offsets="194:405" id="0" />
+      <Sentence char_offsets="416:607" id="1" />
+      <Sentence char_offsets="618:824" id="2" />
+      <Sentence char_offsets="826:861" id="3" />
+      <Sentence char_offsets="872:989" id="4" />
+      <Sentence char_offsets="1000:1101" id="5" />
+      <Sentence char_offsets="1103:1124" id="6" />
+      <Sentence char_offsets="1135:1298" id="7" />
+      <Sentence char_offsets="1300:1336" id="8" />
+      <Sentence char_offsets="1347:1424" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="018">
+        <Participant actor_id="46179" actor_name="Mich&#232;le Alliot-Marie" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090324.0116">
+    <Sentences>
+      <Sentence char_offsets="97:113" id="0" />
+      <Sentence char_offsets="122:235" id="1" />
+      <Sentence char_offsets="237:272" id="2" />
+      <Sentence char_offsets="274:299" id="3" />
+      <Sentence char_offsets="308:391" id="4" />
+      <Sentence char_offsets="393:470" id="5" />
+      <Sentence char_offsets="479:490" id="6" />
+      <Sentence char_offsets="499:677" id="7" />
+      <Sentence char_offsets="679:721" id="8" />
+      <Sentence char_offsets="723:845" id="9" />
+      <Sentence char_offsets="847:931" id="10" />
+      <Sentence char_offsets="933:949" id="11" />
+      <Sentence char_offsets="958:970" id="12" />
+      <Sentence char_offsets="979:1091" id="13" />
+      <Sentence char_offsets="1093:1108" id="14" />
+      <Sentence char_offsets="1117:1150" id="15" />
+      <Sentence char_offsets="1159:1168" id="16" />
+      <Sentence char_offsets="1177:1397" id="17" />
+      <Sentence char_offsets="1399:1506" id="18" />
+      <Sentence char_offsets="1508:1632" id="19" />
+      <Sentence char_offsets="1634:1652" id="20" />
+      <Sentence char_offsets="1661:1694" id="21" />
+      <Sentence char_offsets="1703:1715" id="22" />
+      <Sentence char_offsets="1724:1989" id="23" />
+      <Sentence char_offsets="1991:2109" id="24" />
+      <Sentence char_offsets="2111:2126" id="25" />
+      <Sentence char_offsets="2135:2148" id="26" />
+      <Sentence char_offsets="2157:2392" id="27" />
+      <Sentence char_offsets="2394:2583" id="28" />
+      <Sentence char_offsets="2585:2599" id="29" />
+      <Sentence char_offsets="2608:2738" id="30" />
+      <Sentence char_offsets="2740:2828" id="31" />
+      <Sentence char_offsets="2830:2912" id="32" />
+      <Sentence char_offsets="2914:2993" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="366" agent_name="Industry" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

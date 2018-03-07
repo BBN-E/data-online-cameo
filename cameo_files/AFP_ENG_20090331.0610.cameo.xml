@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0610">
+    <Sentences>
+      <Sentence char_offsets="172:351" id="0" />
+      <Sentence char_offsets="362:537" id="1" />
+      <Sentence char_offsets="548:635" id="2" />
+      <Sentence char_offsets="646:852" id="3" />
+      <Sentence char_offsets="863:971" id="4" />
+      <Sentence char_offsets="973:1032" id="5" />
+      <Sentence char_offsets="1043:1216" id="6" />
+      <Sentence char_offsets="1227:1426" id="7" />
+      <Sentence char_offsets="1437:1508" id="8" />
+      <Sentence char_offsets="1519:1664" id="9" />
+      <Sentence char_offsets="1675:1786" id="10" />
+      <Sentence char_offsets="1788:1857" id="11" />
+      <Sentence char_offsets="1868:2075" id="12" />
+      <Sentence char_offsets="2086:2277" id="13" />
+      <Sentence char_offsets="2288:2380" id="14" />
+      <Sentence char_offsets="2382:2519" id="15" />
+      <Sentence char_offsets="2530:2732" id="16" />
+      <Sentence char_offsets="2743:2891" id="17" />
+      <Sentence char_offsets="2902:3117" id="18" />
+      <Sentence char_offsets="3128:3351" id="19" />
+      <Sentence char_offsets="3362:3432" id="20" />
+      <Sentence char_offsets="3443:3663" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

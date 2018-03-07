@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0065">
+    <Sentences>
+      <Sentence char_offsets="168:358" id="0" />
+      <Sentence char_offsets="369:593" id="1" />
+      <Sentence char_offsets="604:790" id="2" />
+      <Sentence char_offsets="801:999" id="3" />
+      <Sentence char_offsets="1010:1159" id="4" />
+      <Sentence char_offsets="1170:1360" id="5" />
+      <Sentence char_offsets="1371:1572" id="6" />
+      <Sentence char_offsets="1583:1750" id="7" />
+      <Sentence char_offsets="1761:1878" id="8" />
+      <Sentence char_offsets="1889:2011" id="9" />
+      <Sentence char_offsets="2022:2199" id="10" />
+      <Sentence char_offsets="2210:2346" id="11" />
+      <Sentence char_offsets="2357:2575" id="12" />
+      <Sentence char_offsets="2586:2798" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="032">
+        <Participant actor_id="31081" actor_name="India" agent_id="505" agent_name="Commerce Department/Ministry" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="032">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="505" agent_name="Commerce Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

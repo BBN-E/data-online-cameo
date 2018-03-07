@@ -1,0 +1,104 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090307.0287">
+    <Sentences>
+      <Sentence char_offsets="188:413" id="0" />
+      <Sentence char_offsets="424:673" id="1" />
+      <Sentence char_offsets="684:958" id="2" />
+      <Sentence char_offsets="969:1122" id="3" />
+      <Sentence char_offsets="1124:1308" id="4" />
+      <Sentence char_offsets="1319:1412" id="5" />
+      <Sentence char_offsets="1423:1485" id="6" />
+      <Sentence char_offsets="1487:1767" id="7" />
+      <Sentence char_offsets="1778:1802" id="8" />
+      <Sentence char_offsets="1813:2078" id="9" />
+      <Sentence char_offsets="2080:2202" id="10" />
+      <Sentence char_offsets="2213:2276" id="11" />
+      <Sentence char_offsets="2287:2598" id="12" />
+      <Sentence char_offsets="2600:2658" id="13" />
+      <Sentence char_offsets="2669:2812" id="14" />
+      <Sentence char_offsets="2823:2937" id="15" />
+      <Sentence char_offsets="2948:3127" id="16" />
+      <Sentence char_offsets="3129:3286" id="17" />
+      <Sentence char_offsets="3288:3441" id="18" />
+      <Sentence char_offsets="3452:3556" id="19" />
+      <Sentence char_offsets="3567:3654" id="20" />
+      <Sentence char_offsets="3665:3768" id="21" />
+      <Sentence char_offsets="3770:3987" id="22" />
+      <Sentence char_offsets="3998:4090" id="23" />
+      <Sentence char_offsets="4092:4187" id="24" />
+      <Sentence char_offsets="4189:4228" id="25" />
+      <Sentence char_offsets="4239:4289" id="26" />
+      <Sentence char_offsets="4291:4402" id="27" />
+      <Sentence char_offsets="4413:4570" id="28" />
+      <Sentence char_offsets="4572:4663" id="29" />
+      <Sentence char_offsets="4674:4835" id="30" />
+      <Sentence char_offsets="4846:4910" id="31" />
+      <Sentence char_offsets="4912:4983" id="32" />
+      <Sentence char_offsets="4985:5079" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="52839" actor_name="European Parliament" role="Source" />
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="historical" type="010">
+        <Participant actor_id="52839" actor_name="European Parliament" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="21" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="52839" actor_name="European Parliament" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="neutral" type="050">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="21" tense="neutral" type="040">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="52839" actor_name="European Parliament" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

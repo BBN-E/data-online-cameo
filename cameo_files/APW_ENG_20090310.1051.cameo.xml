@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.1051">
+    <Sentences>
+      <Sentence char_offsets="173:378" id="0" />
+      <Sentence char_offsets="389:511" id="1" />
+      <Sentence char_offsets="522:607" id="2" />
+      <Sentence char_offsets="618:783" id="3" />
+      <Sentence char_offsets="794:1041" id="4" />
+      <Sentence char_offsets="1052:1257" id="5" />
+      <Sentence char_offsets="1259:1351" id="6" />
+      <Sentence char_offsets="1362:1519" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="historical" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="historical" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="28823" actor_name="Argentina" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

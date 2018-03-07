@@ -1,0 +1,80 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0348">
+    <Sentences>
+      <Sentence char_offsets="179:367" id="0" />
+      <Sentence char_offsets="378:585" id="1" />
+      <Sentence char_offsets="596:785" id="2" />
+      <Sentence char_offsets="796:1006" id="3" />
+      <Sentence char_offsets="1017:1186" id="4" />
+      <Sentence char_offsets="1197:1383" id="5" />
+      <Sentence char_offsets="1394:1541" id="6" />
+      <Sentence char_offsets="1552:1654" id="7" />
+      <Sentence char_offsets="1665:1910" id="8" />
+      <Sentence char_offsets="1921:2175" id="9" />
+      <Sentence char_offsets="2186:2319" id="10" />
+      <Sentence char_offsets="2330:2403" id="11" />
+      <Sentence char_offsets="2414:2534" id="12" />
+      <Sentence char_offsets="2545:2705" id="13" />
+      <Sentence char_offsets="2716:2903" id="14" />
+      <Sentence char_offsets="2914:2993" id="15" />
+      <Sentence char_offsets="3004:3121" id="16" />
+      <Sentence char_offsets="3132:3279" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="020">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="30701" actor_name="France" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="051">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="10" tense="current" type="160">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="10" tense="historical" type="173">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

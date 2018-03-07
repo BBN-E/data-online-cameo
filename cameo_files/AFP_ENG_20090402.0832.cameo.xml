@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0832">
+    <Sentences>
+      <Sentence char_offsets="178:344" id="0" />
+      <Sentence char_offsets="355:403" id="1" />
+      <Sentence char_offsets="405:502" id="2" />
+      <Sentence char_offsets="513:606" id="3" />
+      <Sentence char_offsets="617:738" id="4" />
+      <Sentence char_offsets="749:949" id="5" />
+      <Sentence char_offsets="960:1178" id="6" />
+      <Sentence char_offsets="1189:1341" id="7" />
+      <Sentence char_offsets="1352:1519" id="8" />
+      <Sentence char_offsets="1530:1647" id="9" />
+      <Sentence char_offsets="1658:1838" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

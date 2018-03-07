@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0877">
+    <Sentences>
+      <Sentence char_offsets="197:395" id="0" />
+      <Sentence char_offsets="406:618" id="1" />
+      <Sentence char_offsets="629:801" id="2" />
+      <Sentence char_offsets="812:1041" id="3" />
+      <Sentence char_offsets="1052:1148" id="4" />
+      <Sentence char_offsets="1159:1209" id="5" />
+      <Sentence char_offsets="1211:1289" id="6" />
+      <Sentence char_offsets="1300:1433" id="7" />
+      <Sentence char_offsets="1444:1534" id="8" />
+      <Sentence char_offsets="1536:1601" id="9" />
+      <Sentence char_offsets="1612:1840" id="10" />
+      <Sentence char_offsets="1851:2074" id="11" />
+      <Sentence char_offsets="2085:2271" id="12" />
+      <Sentence char_offsets="2282:2435" id="13" />
+      <Sentence char_offsets="2446:2580" id="14" />
+      <Sentence char_offsets="2591:2765" id="15" />
+      <Sentence char_offsets="2776:2904" id="16" />
+      <Sentence char_offsets="2915:3042" id="17" />
+      <Sentence char_offsets="3053:3220" id="18" />
+      <Sentence char_offsets="3231:3454" id="19" />
+      <Sentence char_offsets="3465:3717" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="6524" actor_name="Mar&#237;a Luisa Avila" role="Source" />
+        <Participant actor_id="32725" actor_name="Costa Rica" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="32385" actor_name="Cuba" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="042">
+        <Participant actor_id="12405" actor_name="Jose Rafael Espada" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="current" type="063">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="30917" actor_name="Guatemala" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="090">
+        <Participant actor_id="30917" actor_name="Guatemala" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="current" type="174">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="223976" actor_name="Central America" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="12405" actor_name="Jose Rafael Espada" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

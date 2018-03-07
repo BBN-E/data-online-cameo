@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0577">
+    <Sentences>
+      <Sentence char_offsets="192:391" id="0" />
+      <Sentence char_offsets="402:618" id="1" />
+      <Sentence char_offsets="629:763" id="2" />
+      <Sentence char_offsets="774:964" id="3" />
+      <Sentence char_offsets="975:1050" id="4" />
+      <Sentence char_offsets="1061:1293" id="5" />
+      <Sentence char_offsets="1304:1508" id="6" />
+      <Sentence char_offsets="1519:1717" id="7" />
+      <Sentence char_offsets="1728:1981" id="8" />
+      <Sentence char_offsets="1992:2085" id="9" />
+      <Sentence char_offsets="2096:2296" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="42316" actor_name="Czech National Bank" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" agent_id="305" agent_name="Treasury/Finance Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

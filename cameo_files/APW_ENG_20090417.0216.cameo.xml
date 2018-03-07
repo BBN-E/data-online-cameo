@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0216">
+    <Sentences>
+      <Sentence char_offsets="187:436" id="0" />
+      <Sentence char_offsets="447:735" id="1" />
+      <Sentence char_offsets="746:932" id="2" />
+      <Sentence char_offsets="934:973" id="3" />
+      <Sentence char_offsets="984:1147" id="4" />
+      <Sentence char_offsets="1149:1287" id="5" />
+      <Sentence char_offsets="1298:1399" id="6" />
+      <Sentence char_offsets="1401:1563" id="7" />
+      <Sentence char_offsets="1574:1695" id="8" />
+      <Sentence char_offsets="1706:1946" id="9" />
+      <Sentence char_offsets="1957:2061" id="10" />
+      <Sentence char_offsets="2072:2175" id="11" />
+      <Sentence char_offsets="2177:2251" id="12" />
+      <Sentence char_offsets="2262:2328" id="13" />
+      <Sentence char_offsets="2339:2457" id="14" />
+      <Sentence char_offsets="2468:2540" id="15" />
+      <Sentence char_offsets="2542:2738" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="86" agent_name="The Poor" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="145">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="180">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="19399" actor_name="Sondhi Limthongkul" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="historical" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0513">
+    <Sentences>
+      <Sentence char_offsets="189:386" id="0" />
+      <Sentence char_offsets="397:525" id="1" />
+      <Sentence char_offsets="527:679" id="2" />
+      <Sentence char_offsets="690:840" id="3" />
+      <Sentence char_offsets="851:900" id="4" />
+      <Sentence char_offsets="902:1046" id="5" />
+      <Sentence char_offsets="1057:1143" id="6" />
+      <Sentence char_offsets="1154:1266" id="7" />
+      <Sentence char_offsets="1277:1431" id="8" />
+      <Sentence char_offsets="1442:1690" id="9" />
+      <Sentence char_offsets="1701:1790" id="10" />
+      <Sentence char_offsets="1792:1905" id="11" />
+      <Sentence char_offsets="1916:2077" id="12" />
+      <Sentence char_offsets="2079:2203" id="13" />
+      <Sentence char_offsets="2214:2363" id="14" />
+      <Sentence char_offsets="2374:2478" id="15" />
+      <Sentence char_offsets="2480:2562" id="16" />
+      <Sentence char_offsets="2573:2705" id="17" />
+      <Sentence char_offsets="2707:2752" id="18" />
+      <Sentence char_offsets="2763:2956" id="19" />
+      <Sentence char_offsets="2967:3019" id="20" />
+      <Sentence char_offsets="3021:3215" id="21" />
+      <Sentence char_offsets="3226:3326" id="22" />
+      <Sentence char_offsets="3328:3516" id="23" />
+      <Sentence char_offsets="3527:3675" id="24" />
+      <Sentence char_offsets="3677:3784" id="25" />
+      <Sentence char_offsets="3786:3859" id="26" />
+      <Sentence char_offsets="3870:3974" id="27" />
+      <Sentence char_offsets="3976:4177" id="28" />
+      <Sentence char_offsets="4188:4232" id="29" />
+      <Sentence char_offsets="4234:4359" id="30" />
+      <Sentence char_offsets="4370:4531" id="31" />
+      <Sentence char_offsets="4542:4618" id="32" />
+      <Sentence char_offsets="4620:4671" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

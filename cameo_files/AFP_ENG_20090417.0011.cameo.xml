@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0011">
+    <Sentences>
+      <Sentence char_offsets="184:374" id="0" />
+      <Sentence char_offsets="385:528" id="1" />
+      <Sentence char_offsets="539:703" id="2" />
+      <Sentence char_offsets="714:743" id="3" />
+      <Sentence char_offsets="745:962" id="4" />
+      <Sentence char_offsets="973:1201" id="5" />
+      <Sentence char_offsets="1212:1268" id="6" />
+      <Sentence char_offsets="1279:1432" id="7" />
+      <Sentence char_offsets="1443:1601" id="8" />
+      <Sentence char_offsets="1612:1904" id="9" />
+      <Sentence char_offsets="1915:2008" id="10" />
+      <Sentence char_offsets="2019:2147" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0331">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

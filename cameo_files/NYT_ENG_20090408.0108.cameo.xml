@@ -1,0 +1,187 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090408.0108">
+    <Sentences>
+      <Sentence char_offsets="115:127" id="0" />
+      <Sentence char_offsets="128:377" id="1" />
+      <Sentence char_offsets="388:586" id="2" />
+      <Sentence char_offsets="597:781" id="3" />
+      <Sentence char_offsets="783:892" id="4" />
+      <Sentence char_offsets="903:1294" id="5" />
+      <Sentence char_offsets="1305:1470" id="6" />
+      <Sentence char_offsets="1472:1543" id="7" />
+      <Sentence char_offsets="1554:1794" id="8" />
+      <Sentence char_offsets="1805:1917" id="9" />
+      <Sentence char_offsets="1919:2023" id="10" />
+      <Sentence char_offsets="2034:2329" id="11" />
+      <Sentence char_offsets="2340:2472" id="12" />
+      <Sentence char_offsets="2483:3024" id="13" />
+      <Sentence char_offsets="3035:3267" id="14" />
+      <Sentence char_offsets="3278:3478" id="15" />
+      <Sentence char_offsets="3480:3739" id="16" />
+      <Sentence char_offsets="3750:3861" id="17" />
+      <Sentence char_offsets="3872:3947" id="18" />
+      <Sentence char_offsets="3949:4063" id="19" />
+      <Sentence char_offsets="4074:4376" id="20" />
+      <Sentence char_offsets="4387:4594" id="21" />
+      <Sentence char_offsets="4605:4747" id="22" />
+      <Sentence char_offsets="4758:4919" id="23" />
+      <Sentence char_offsets="4930:5162" id="24" />
+      <Sentence char_offsets="5173:5326" id="25" />
+      <Sentence char_offsets="5328:5372" id="26" />
+      <Sentence char_offsets="5383:5545" id="27" />
+      <Sentence char_offsets="5547:5680" id="28" />
+      <Sentence char_offsets="5691:5949" id="29" />
+      <Sentence char_offsets="5960:6123" id="30" />
+      <Sentence char_offsets="6134:6393" id="31" />
+      <Sentence char_offsets="6404:6443" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="022">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="022">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="022">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="022">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="022">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="032">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="29" tense="historical" type="032">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="20" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="21" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="22" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="23" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="24" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="25" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="26" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="27" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="28" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="29" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="30" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="31" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="32" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="33" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="34" sentence_id="29" tense="historical" type="111">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="35" sentence_id="13" tense="neutral" type="173">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

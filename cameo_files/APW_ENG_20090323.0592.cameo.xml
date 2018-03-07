@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0592">
+    <Sentences>
+      <Sentence char_offsets="186:402" id="0" />
+      <Sentence char_offsets="413:492" id="1" />
+      <Sentence char_offsets="494:580" id="2" />
+      <Sentence char_offsets="591:734" id="3" />
+      <Sentence char_offsets="736:791" id="4" />
+      <Sentence char_offsets="802:1056" id="5" />
+      <Sentence char_offsets="1067:1148" id="6" />
+      <Sentence char_offsets="1150:1200" id="7" />
+      <Sentence char_offsets="1211:1280" id="8" />
+      <Sentence char_offsets="1291:1448" id="9" />
+      <Sentence char_offsets="1459:1630" id="10" />
+      <Sentence char_offsets="1632:1838" id="11" />
+      <Sentence char_offsets="1849:1854" id="12" />
+      <Sentence char_offsets="1865:1875" id="13" />
+      <Sentence char_offsets="1886:1918" id="14" />
+      <Sentence char_offsets="1929:1965" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="864" actor_name="Telefonica SA" role="Source" />
+        <Participant actor_id="24294" actor_name="Vodafone" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

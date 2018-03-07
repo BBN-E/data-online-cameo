@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0283">
+    <Sentences>
+      <Sentence char_offsets="189:365" id="0" />
+      <Sentence char_offsets="376:568" id="1" />
+      <Sentence char_offsets="579:725" id="2" />
+      <Sentence char_offsets="736:950" id="3" />
+      <Sentence char_offsets="961:1125" id="4" />
+      <Sentence char_offsets="1136:1286" id="5" />
+      <Sentence char_offsets="1297:1378" id="6" />
+      <Sentence char_offsets="1380:1400" id="7" />
+      <Sentence char_offsets="1411:1637" id="8" />
+      <Sentence char_offsets="1648:1822" id="9" />
+      <Sentence char_offsets="1833:1912" id="10" />
+      <Sentence char_offsets="1923:2080" id="11" />
+      <Sentence char_offsets="2091:2272" id="12" />
+      <Sentence char_offsets="2283:2484" id="13" />
+      <Sentence char_offsets="2495:2684" id="14" />
+      <Sentence char_offsets="2695:2838" id="15" />
+      <Sentence char_offsets="2849:3031" id="16" />
+      <Sentence char_offsets="3042:3173" id="17" />
+      <Sentence char_offsets="3184:3284" id="18" />
+      <Sentence char_offsets="3286:3402" id="19" />
+      <Sentence char_offsets="3413:3625" id="20" />
+      <Sentence char_offsets="3636:3735" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="081">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="582" agent_name="Public Courts" role="Source" />
+        <Participant actor_id="40284" actor_name="Tariq Aziz" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="2" agent_name="Defense Department/Ministry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="180">
+        <Participant actor_id="44811" actor_name="Ali Hassan Abd al-Majid al-Tikriti" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

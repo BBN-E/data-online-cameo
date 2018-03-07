@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0380">
+    <Sentences>
+      <Sentence char_offsets="196:374" id="0" />
+      <Sentence char_offsets="385:427" id="1" />
+      <Sentence char_offsets="429:606" id="2" />
+      <Sentence char_offsets="617:840" id="3" />
+      <Sentence char_offsets="851:880" id="4" />
+      <Sentence char_offsets="882:1071" id="5" />
+      <Sentence char_offsets="1082:1152" id="6" />
+      <Sentence char_offsets="1154:1185" id="7" />
+      <Sentence char_offsets="1187:1218" id="8" />
+      <Sentence char_offsets="1220:1322" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="100">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="100">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

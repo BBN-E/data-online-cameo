@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0329">
+    <Sentences>
+      <Sentence char_offsets="187:381" id="0" />
+      <Sentence char_offsets="392:585" id="1" />
+      <Sentence char_offsets="596:772" id="2" />
+      <Sentence char_offsets="783:996" id="3" />
+      <Sentence char_offsets="1007:1106" id="4" />
+      <Sentence char_offsets="1117:1384" id="5" />
+      <Sentence char_offsets="1395:1569" id="6" />
+      <Sentence char_offsets="1580:1785" id="7" />
+      <Sentence char_offsets="1796:1932" id="8" />
+      <Sentence char_offsets="1943:2077" id="9" />
+      <Sentence char_offsets="2088:2324" id="10" />
+      <Sentence char_offsets="2335:2459" id="11" />
+      <Sentence char_offsets="2470:2627" id="12" />
+      <Sentence char_offsets="2638:2725" id="13" />
+      <Sentence char_offsets="2736:2942" id="14" />
+      <Sentence char_offsets="2953:3056" id="15" />
+      <Sentence char_offsets="3067:3210" id="16" />
+      <Sentence char_offsets="3221:3381" id="17" />
+      <Sentence char_offsets="3392:3546" id="18" />
+      <Sentence char_offsets="3557:3678" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="051">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="057">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="057">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

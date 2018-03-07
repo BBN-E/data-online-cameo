@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.1349">
+    <Sentences>
+      <Sentence char_offsets="197:342" id="0" />
+      <Sentence char_offsets="353:581" id="1" />
+      <Sentence char_offsets="592:752" id="2" />
+      <Sentence char_offsets="754:806" id="3" />
+      <Sentence char_offsets="817:904" id="4" />
+      <Sentence char_offsets="915:1156" id="5" />
+      <Sentence char_offsets="1167:1440" id="6" />
+      <Sentence char_offsets="1451:1575" id="7" />
+      <Sentence char_offsets="1577:1775" id="8" />
+      <Sentence char_offsets="1786:1905" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="28208" actor_name="Ra&#250;l Baduel" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

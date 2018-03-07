@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0396">
+    <Sentences>
+      <Sentence char_offsets="185:379" id="0" />
+      <Sentence char_offsets="390:613" id="1" />
+      <Sentence char_offsets="624:771" id="2" />
+      <Sentence char_offsets="782:1001" id="3" />
+      <Sentence char_offsets="1012:1229" id="4" />
+      <Sentence char_offsets="1240:1450" id="5" />
+      <Sentence char_offsets="1461:1683" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="120">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="37117" actor_name="Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

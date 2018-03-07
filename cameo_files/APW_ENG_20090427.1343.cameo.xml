@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.1343">
+    <Sentences>
+      <Sentence char_offsets="183:314" id="0" />
+      <Sentence char_offsets="316:450" id="1" />
+      <Sentence char_offsets="461:600" id="2" />
+      <Sentence char_offsets="602:619" id="3" />
+      <Sentence char_offsets="621:658" id="4" />
+      <Sentence char_offsets="660:716" id="5" />
+      <Sentence char_offsets="727:877" id="6" />
+      <Sentence char_offsets="888:1027" id="7" />
+      <Sentence char_offsets="1029:1171" id="8" />
+      <Sentence char_offsets="1182:1278" id="9" />
+      <Sentence char_offsets="1280:1363" id="10" />
+      <Sentence char_offsets="1374:1420" id="11" />
+      <Sentence char_offsets="1422:1476" id="12" />
+      <Sentence char_offsets="1478:1653" id="13" />
+      <Sentence char_offsets="1655:1727" id="14" />
+      <Sentence char_offsets="1738:1889" id="15" />
+      <Sentence char_offsets="1900:2030" id="16" />
+      <Sentence char_offsets="2032:2200" id="17" />
+      <Sentence char_offsets="2211:2344" id="18" />
+      <Sentence char_offsets="2355:2593" id="19" />
+      <Sentence char_offsets="2595:2691" id="20" />
+      <Sentence char_offsets="2702:2808" id="21" />
+      <Sentence char_offsets="2819:3076" id="22" />
+      <Sentence char_offsets="3087:3290" id="23" />
+      <Sentence char_offsets="3292:3410" id="24" />
+      <Sentence char_offsets="3421:3572" id="25" />
+      <Sentence char_offsets="3574:3708" id="26" />
+      <Sentence char_offsets="3719:3872" id="27" />
+      <Sentence char_offsets="3874:3948" id="28" />
+      <Sentence char_offsets="3959:4149" id="29" />
+      <Sentence char_offsets="4160:4216" id="30" />
+      <Sentence char_offsets="4227:4430" id="31" />
+      <Sentence char_offsets="4441:4446" id="32" />
+      <Sentence char_offsets="4457:4634" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="33939" actor_name="Federal Aviation Administration" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="311" agent_name="Air Force" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="152">
+        <Participant actor_id="41262" actor_name="United States" agent_id="5" agent_name="Attack Craft" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

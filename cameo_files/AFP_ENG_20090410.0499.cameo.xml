@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0499">
+    <Sentences>
+      <Sentence char_offsets="187:375" id="0" />
+      <Sentence char_offsets="386:596" id="1" />
+      <Sentence char_offsets="607:813" id="2" />
+      <Sentence char_offsets="824:1056" id="3" />
+      <Sentence char_offsets="1067:1293" id="4" />
+      <Sentence char_offsets="1304:1507" id="5" />
+      <Sentence char_offsets="1518:1734" id="6" />
+      <Sentence char_offsets="1745:1961" id="7" />
+      <Sentence char_offsets="1972:2191" id="8" />
+      <Sentence char_offsets="2202:2351" id="9" />
+      <Sentence char_offsets="2362:2558" id="10" />
+      <Sentence char_offsets="2569:2716" id="11" />
+      <Sentence char_offsets="2727:2851" id="12" />
+      <Sentence char_offsets="2853:2868" id="13" />
+      <Sentence char_offsets="2879:2974" id="14" />
+      <Sentence char_offsets="2976:3100" id="15" />
+      <Sentence char_offsets="3111:3231" id="16" />
+      <Sentence char_offsets="3242:3427" id="17" />
+      <Sentence char_offsets="3438:3509" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="29539" actor_name="Emperor Akihito" role="Source" />
+        <Participant actor_id="237852" actor_name="Empress Michiko" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="237852" actor_name="Empress Michiko" role="Source" />
+        <Participant actor_id="29539" actor_name="Emperor Akihito" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

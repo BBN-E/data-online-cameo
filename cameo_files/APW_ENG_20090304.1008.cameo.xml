@@ -1,0 +1,70 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.1008">
+    <Sentences>
+      <Sentence char_offsets="197:427" id="0" />
+      <Sentence char_offsets="438:667" id="1" />
+      <Sentence char_offsets="678:936" id="2" />
+      <Sentence char_offsets="947:1174" id="3" />
+      <Sentence char_offsets="1185:1415" id="4" />
+      <Sentence char_offsets="1417:1501" id="5" />
+      <Sentence char_offsets="1512:1627" id="6" />
+      <Sentence char_offsets="1638:1824" id="7" />
+      <Sentence char_offsets="1826:1974" id="8" />
+      <Sentence char_offsets="1985:2206" id="9" />
+      <Sentence char_offsets="2217:2369" id="10" />
+      <Sentence char_offsets="2380:2568" id="11" />
+      <Sentence char_offsets="2579:2697" id="12" />
+      <Sentence char_offsets="2699:2864" id="13" />
+      <Sentence char_offsets="2875:3075" id="14" />
+      <Sentence char_offsets="3086:3325" id="15" />
+      <Sentence char_offsets="3336:3484" id="16" />
+      <Sentence char_offsets="3486:3617" id="17" />
+      <Sentence char_offsets="3628:3777" id="18" />
+      <Sentence char_offsets="3779:3850" id="19" />
+      <Sentence char_offsets="3861:3966" id="20" />
+      <Sentence char_offsets="3968:4023" id="21" />
+      <Sentence char_offsets="4034:4086" id="22" />
+      <Sentence char_offsets="4088:4141" id="23" />
+      <Sentence char_offsets="4152:4388" id="24" />
+      <Sentence char_offsets="4399:4501" id="25" />
+      <Sentence char_offsets="4503:4616" id="26" />
+      <Sentence char_offsets="4627:4746" id="27" />
+      <Sentence char_offsets="4748:4872" id="28" />
+      <Sentence char_offsets="4883:5109" id="29" />
+      <Sentence char_offsets="5120:5170" id="30" />
+      <Sentence char_offsets="5181:5262" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="90" agent_name="Farm Worker" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="current" type="013">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="26" tense="neutral" type="032">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="633" agent_name="Main Opposition" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="057">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="633" agent_name="Main Opposition" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

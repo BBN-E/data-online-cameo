@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0189">
+    <Sentences>
+      <Sentence char_offsets="194:401" id="0" />
+      <Sentence char_offsets="412:695" id="1" />
+      <Sentence char_offsets="706:864" id="2" />
+      <Sentence char_offsets="875:1182" id="3" />
+      <Sentence char_offsets="1193:1301" id="4" />
+      <Sentence char_offsets="1312:1475" id="5" />
+      <Sentence char_offsets="1477:1501" id="6" />
+      <Sentence char_offsets="1512:1662" id="7" />
+      <Sentence char_offsets="1664:1760" id="8" />
+      <Sentence char_offsets="1771:2008" id="9" />
+      <Sentence char_offsets="2019:2198" id="10" />
+      <Sentence char_offsets="2209:2427" id="11" />
+      <Sentence char_offsets="2438:2598" id="12" />
+      <Sentence char_offsets="2609:2773" id="13" />
+      <Sentence char_offsets="2775:2853" id="14" />
+      <Sentence char_offsets="2864:3033" id="15" />
+      <Sentence char_offsets="3044:3221" id="16" />
+      <Sentence char_offsets="3232:3419" id="17" />
+      <Sentence char_offsets="3430:3649" id="18" />
+      <Sentence char_offsets="3660:3665" id="19" />
+      <Sentence char_offsets="3676:3754" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="130">
+        <Participant actor_id="215258" actor_name="Hyun In-taek" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="130">
+        <Participant actor_id="215258" actor_name="Hyun In-taek" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

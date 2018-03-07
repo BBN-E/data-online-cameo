@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0591">
+    <Sentences>
+      <Sentence char_offsets="180:373" id="0" />
+      <Sentence char_offsets="384:582" id="1" />
+      <Sentence char_offsets="593:784" id="2" />
+      <Sentence char_offsets="795:1017" id="3" />
+      <Sentence char_offsets="1028:1100" id="4" />
+      <Sentence char_offsets="1111:1320" id="5" />
+      <Sentence char_offsets="1331:1525" id="6" />
+      <Sentence char_offsets="1536:1687" id="7" />
+      <Sentence char_offsets="1698:1807" id="8" />
+      <Sentence char_offsets="1818:1885" id="9" />
+      <Sentence char_offsets="1887:1948" id="10" />
+      <Sentence char_offsets="1959:2173" id="11" />
+      <Sentence char_offsets="2184:2378" id="12" />
+      <Sentence char_offsets="2389:2518" id="13" />
+      <Sentence char_offsets="2529:2726" id="14" />
+      <Sentence char_offsets="2737:2924" id="15" />
+      <Sentence char_offsets="2926:2960" id="16" />
+      <Sentence char_offsets="2971:3096" id="17" />
+      <Sentence char_offsets="3107:3254" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="77" agent_name="Professor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

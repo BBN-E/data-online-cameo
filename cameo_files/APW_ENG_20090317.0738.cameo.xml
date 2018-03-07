@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0738">
+    <Sentences>
+      <Sentence char_offsets="190:344" id="0" />
+      <Sentence char_offsets="355:663" id="1" />
+      <Sentence char_offsets="674:839" id="2" />
+      <Sentence char_offsets="841:952" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="54317" actor_name="Harry Reid" role="Source" />
+        <Participant actor_id="38510" actor_name="Senate Finance Committee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

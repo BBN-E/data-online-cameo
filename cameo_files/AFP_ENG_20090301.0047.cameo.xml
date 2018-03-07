@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0047">
+    <Sentences>
+      <Sentence char_offsets="198:371" id="0" />
+      <Sentence char_offsets="382:624" id="1" />
+      <Sentence char_offsets="635:801" id="2" />
+      <Sentence char_offsets="812:1065" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="42745" actor_name="Basque Nationalist Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

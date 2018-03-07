@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0490">
+    <Sentences>
+      <Sentence char_offsets="188:391" id="0" />
+      <Sentence char_offsets="402:504" id="1" />
+      <Sentence char_offsets="506:681" id="2" />
+      <Sentence char_offsets="692:881" id="3" />
+      <Sentence char_offsets="892:927" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="33801" actor_name="Carl Levin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="69" agent_name="Party Member" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

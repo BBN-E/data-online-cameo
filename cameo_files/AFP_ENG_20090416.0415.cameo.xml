@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0415">
+    <Sentences>
+      <Sentence char_offsets="175:345" id="0" />
+      <Sentence char_offsets="356:565" id="1" />
+      <Sentence char_offsets="576:706" id="2" />
+      <Sentence char_offsets="717:911" id="3" />
+      <Sentence char_offsets="922:1013" id="4" />
+      <Sentence char_offsets="1015:1140" id="5" />
+      <Sentence char_offsets="1151:1371" id="6" />
+      <Sentence char_offsets="1382:1525" id="7" />
+      <Sentence char_offsets="1536:1679" id="8" />
+      <Sentence char_offsets="1690:1914" id="9" />
+      <Sentence char_offsets="1925:2059" id="10" />
+      <Sentence char_offsets="2070:2104" id="11" />
+      <Sentence char_offsets="2115:2247" id="12" />
+      <Sentence char_offsets="2258:2485" id="13" />
+      <Sentence char_offsets="2496:2671" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="190">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="190">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="274" agent_name="Government Forces" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

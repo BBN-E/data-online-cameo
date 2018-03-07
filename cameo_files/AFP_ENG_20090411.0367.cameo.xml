@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0367">
+    <Sentences>
+      <Sentence char_offsets="175:368" id="0" />
+      <Sentence char_offsets="379:603" id="1" />
+      <Sentence char_offsets="614:813" id="2" />
+      <Sentence char_offsets="824:981" id="3" />
+      <Sentence char_offsets="992:1191" id="4" />
+      <Sentence char_offsets="1202:1316" id="5" />
+      <Sentence char_offsets="1327:1521" id="6" />
+      <Sentence char_offsets="1532:1617" id="7" />
+      <Sentence char_offsets="1628:1816" id="8" />
+      <Sentence char_offsets="1827:1896" id="9" />
+      <Sentence char_offsets="1907:2052" id="10" />
+      <Sentence char_offsets="2063:2120" id="11" />
+      <Sentence char_offsets="2131:2224" id="12" />
+      <Sentence char_offsets="2235:2354" id="13" />
+      <Sentence char_offsets="2365:2533" id="14" />
+      <Sentence char_offsets="2544:2746" id="15" />
+      <Sentence char_offsets="2757:2917" id="16" />
+      <Sentence char_offsets="2928:3019" id="17" />
+      <Sentence char_offsets="3030:3221" id="18" />
+      <Sentence char_offsets="3232:3433" id="19" />
+      <Sentence char_offsets="3444:3516" id="20" />
+      <Sentence char_offsets="3527:3665" id="21" />
+      <Sentence char_offsets="3676:3906" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="24071" actor_name="Kamalesh Sharma" role="Source" />
+        <Participant actor_id="26255" actor_name="Josefa Iloilo" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="26168" actor_name="Prime Minister Qarase" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

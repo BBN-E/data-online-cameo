@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0492">
+    <Sentences>
+      <Sentence char_offsets="194:366" id="0" />
+      <Sentence char_offsets="377:559" id="1" />
+      <Sentence char_offsets="561:624" id="2" />
+      <Sentence char_offsets="635:828" id="3" />
+      <Sentence char_offsets="839:1022" id="4" />
+      <Sentence char_offsets="1033:1242" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="32535" actor_name="Alexander Downer" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="046">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="14196" actor_name="Dimitris Christofias" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="historical" type="046">
+        <Participant actor_id="14196" actor_name="Dimitris Christofias" role="Source" />
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

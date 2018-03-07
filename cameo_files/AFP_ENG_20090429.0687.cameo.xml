@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0687">
+    <Sentences>
+      <Sentence char_offsets="180:338" id="0" />
+      <Sentence char_offsets="349:519" id="1" />
+      <Sentence char_offsets="530:633" id="2" />
+      <Sentence char_offsets="644:750" id="3" />
+      <Sentence char_offsets="761:850" id="4" />
+      <Sentence char_offsets="861:1009" id="5" />
+      <Sentence char_offsets="1020:1129" id="6" />
+      <Sentence char_offsets="1140:1259" id="7" />
+      <Sentence char_offsets="1270:1509" id="8" />
+      <Sentence char_offsets="1520:1712" id="9" />
+      <Sentence char_offsets="1723:1784" id="10" />
+      <Sentence char_offsets="1786:1880" id="11" />
+      <Sentence char_offsets="1891:2109" id="12" />
+      <Sentence char_offsets="2120:2235" id="13" />
+      <Sentence char_offsets="2237:2347" id="14" />
+      <Sentence char_offsets="2358:2454" id="15" />
+      <Sentence char_offsets="2456:2569" id="16" />
+      <Sentence char_offsets="2580:2762" id="17" />
+      <Sentence char_offsets="2773:2839" id="18" />
+      <Sentence char_offsets="2841:2896" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="051">
+        <Participant actor_id="236059" actor_name="Lyndon Johnson" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="120">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

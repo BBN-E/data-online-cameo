@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0996">
+    <Sentences>
+      <Sentence char_offsets="186:409" id="0" />
+      <Sentence char_offsets="420:582" id="1" />
+      <Sentence char_offsets="593:763" id="2" />
+      <Sentence char_offsets="765:932" id="3" />
+      <Sentence char_offsets="943:1209" id="4" />
+      <Sentence char_offsets="1220:1442" id="5" />
+      <Sentence char_offsets="1453:1545" id="6" />
+      <Sentence char_offsets="1556:1738" id="7" />
+      <Sentence char_offsets="1749:1886" id="8" />
+      <Sentence char_offsets="1897:2030" id="9" />
+      <Sentence char_offsets="2032:2135" id="10" />
+      <Sentence char_offsets="2146:2219" id="11" />
+      <Sentence char_offsets="2221:2395" id="12" />
+      <Sentence char_offsets="2406:2557" id="13" />
+      <Sentence char_offsets="2559:2651" id="14" />
+      <Sentence char_offsets="2662:2771" id="15" />
+      <Sentence char_offsets="2773:2899" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="36182" actor_name="Latin America" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="14362" actor_name="Cesar Gaviria Trujillo" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="13863" actor_name="Ernesto Zedillo" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

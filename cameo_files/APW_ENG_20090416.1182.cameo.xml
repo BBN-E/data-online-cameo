@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.1182">
+    <Sentences>
+      <Sentence char_offsets="194:362" id="0" />
+      <Sentence char_offsets="373:551" id="1" />
+      <Sentence char_offsets="562:784" id="2" />
+      <Sentence char_offsets="795:980" id="3" />
+      <Sentence char_offsets="991:1053" id="4" />
+      <Sentence char_offsets="1055:1222" id="5" />
+      <Sentence char_offsets="1233:1457" id="6" />
+      <Sentence char_offsets="1468:1637" id="7" />
+      <Sentence char_offsets="1648:1774" id="8" />
+      <Sentence char_offsets="1785:1964" id="9" />
+      <Sentence char_offsets="1975:2098" id="10" />
+      <Sentence char_offsets="2109:2183" id="11" />
+      <Sentence char_offsets="2194:2395" id="12" />
+      <Sentence char_offsets="2406:2598" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="15344" actor_name="Ali Babacan" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="28924" actor_name="Azerbaijan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="013">
+        <Participant actor_id="28828" actor_name="Armenia" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="027">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="027">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="027">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="11" tense="neutral" type="027">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="046">
+        <Participant actor_id="32568" actor_name="Edward Nalbandyan" role="Source" />
+        <Participant actor_id="15344" actor_name="Ali Babacan" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="8" tense="neutral" type="046">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="046">
+        <Participant actor_id="15344" actor_name="Ali Babacan" role="Source" />
+        <Participant actor_id="32568" actor_name="Edward Nalbandyan" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="8" tense="neutral" type="046">
+        <Participant actor_id="28828" actor_name="Armenia" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

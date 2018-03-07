@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0446">
+    <Sentences>
+      <Sentence char_offsets="195:374" id="0" />
+      <Sentence char_offsets="385:581" id="1" />
+      <Sentence char_offsets="592:744" id="2" />
+      <Sentence char_offsets="755:949" id="3" />
+      <Sentence char_offsets="960:1152" id="4" />
+      <Sentence char_offsets="1163:1279" id="5" />
+      <Sentence char_offsets="1290:1508" id="6" />
+      <Sentence char_offsets="1519:1703" id="7" />
+      <Sentence char_offsets="1714:1832" id="8" />
+      <Sentence char_offsets="1843:1875" id="9" />
+      <Sentence char_offsets="1886:2128" id="10" />
+      <Sentence char_offsets="2139:2215" id="11" />
+      <Sentence char_offsets="2226:2415" id="12" />
+      <Sentence char_offsets="2426:2566" id="13" />
+      <Sentence char_offsets="2577:2785" id="14" />
+      <Sentence char_offsets="2796:2852" id="15" />
+      <Sentence char_offsets="2863:2910" id="16" />
+      <Sentence char_offsets="2912:3101" id="17" />
+      <Sentence char_offsets="3112:3178" id="18" />
+      <Sentence char_offsets="3189:3318" id="19" />
+      <Sentence char_offsets="3329:3510" id="20" />
+      <Sentence char_offsets="3521:3683" id="21" />
+      <Sentence char_offsets="3694:3847" id="22" />
+      <Sentence char_offsets="3858:4026" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="current" type="036">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="20" tense="historical" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="386" agent_name="Naval" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="20" tense="historical" type="043">
+        <Participant actor_id="40643" actor_name="Vietnam" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="386" agent_name="Naval" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

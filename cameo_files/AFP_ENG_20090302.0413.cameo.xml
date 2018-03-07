@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0413">
+    <Sentences>
+      <Sentence char_offsets="192:381" id="0" />
+      <Sentence char_offsets="392:535" id="1" />
+      <Sentence char_offsets="546:695" id="2" />
+      <Sentence char_offsets="706:927" id="3" />
+      <Sentence char_offsets="938:1152" id="4" />
+      <Sentence char_offsets="1163:1364" id="5" />
+      <Sentence char_offsets="1375:1580" id="6" />
+      <Sentence char_offsets="1591:1728" id="7" />
+      <Sentence char_offsets="1739:1903" id="8" />
+      <Sentence char_offsets="1914:2116" id="9" />
+      <Sentence char_offsets="2118:2163" id="10" />
+      <Sentence char_offsets="2174:2419" id="11" />
+      <Sentence char_offsets="2430:2576" id="12" />
+      <Sentence char_offsets="2578:2616" id="13" />
+      <Sentence char_offsets="2627:2804" id="14" />
+      <Sentence char_offsets="2815:3080" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="0331">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31209" actor_name="Aerospace Industries Association" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

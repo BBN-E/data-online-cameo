@@ -1,0 +1,67 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0191">
+    <Sentences>
+      <Sentence char_offsets="177:347" id="0" />
+      <Sentence char_offsets="358:546" id="1" />
+      <Sentence char_offsets="557:739" id="2" />
+      <Sentence char_offsets="750:838" id="3" />
+      <Sentence char_offsets="840:910" id="4" />
+      <Sentence char_offsets="921:1129" id="5" />
+      <Sentence char_offsets="1140:1287" id="6" />
+      <Sentence char_offsets="1298:1546" id="7" />
+      <Sentence char_offsets="1557:1691" id="8" />
+      <Sentence char_offsets="1702:1899" id="9" />
+      <Sentence char_offsets="1910:1968" id="10" />
+      <Sentence char_offsets="1979:2190" id="11" />
+      <Sentence char_offsets="2201:2263" id="12" />
+      <Sentence char_offsets="2265:2377" id="13" />
+      <Sentence char_offsets="2388:2602" id="14" />
+      <Sentence char_offsets="2613:2696" id="15" />
+      <Sentence char_offsets="2707:2790" id="16" />
+      <Sentence char_offsets="2801:2934" id="17" />
+      <Sentence char_offsets="2945:3049" id="18" />
+      <Sentence char_offsets="3060:3287" id="19" />
+      <Sentence char_offsets="3298:3497" id="20" />
+      <Sentence char_offsets="3508:3680" id="21" />
+      <Sentence char_offsets="3691:3829" id="22" />
+      <Sentence char_offsets="3840:3988" id="23" />
+      <Sentence char_offsets="3999:4156" id="24" />
+      <Sentence char_offsets="4158:4224" id="25" />
+      <Sentence char_offsets="4235:4409" id="26" />
+      <Sentence char_offsets="4420:4594" id="27" />
+      <Sentence char_offsets="4605:4832" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="238090" actor_name="Qassim Atta" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="25" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="36703" actor_name="Saddam Hussein" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="26" tense="neutral" type="127">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="688" agent_name="Secret Agent" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="neutral" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

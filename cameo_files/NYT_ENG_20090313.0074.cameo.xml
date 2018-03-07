@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090313.0074">
+    <Sentences>
+      <Sentence char_offsets="132:304" id="0" />
+      <Sentence char_offsets="315:366" id="1" />
+      <Sentence char_offsets="368:398" id="2" />
+      <Sentence char_offsets="400:445" id="3" />
+      <Sentence char_offsets="447:657" id="4" />
+      <Sentence char_offsets="668:702" id="5" />
+      <Sentence char_offsets="713:891" id="6" />
+      <Sentence char_offsets="893:1067" id="7" />
+      <Sentence char_offsets="1078:1344" id="8" />
+      <Sentence char_offsets="1346:1441" id="9" />
+      <Sentence char_offsets="1452:1577" id="10" />
+      <Sentence char_offsets="1579:1776" id="11" />
+      <Sentence char_offsets="1787:1855" id="12" />
+      <Sentence char_offsets="1857:2067" id="13" />
+      <Sentence char_offsets="2078:2203" id="14" />
+      <Sentence char_offsets="2205:2362" id="15" />
+      <Sentence char_offsets="2373:2438" id="16" />
+      <Sentence char_offsets="2440:2632" id="17" />
+      <Sentence char_offsets="2634:2707" id="18" />
+      <Sentence char_offsets="2718:2834" id="19" />
+      <Sentence char_offsets="2836:2964" id="20" />
+      <Sentence char_offsets="2966:2991" id="21" />
+      <Sentence char_offsets="3002:3009" id="22" />
+      <Sentence char_offsets="3011:3096" id="23" />
+      <Sentence char_offsets="3098:3187" id="24" />
+      <Sentence char_offsets="3189:3306" id="25" />
+      <Sentence char_offsets="3308:3373" id="26" />
+      <Sentence char_offsets="3384:3505" id="27" />
+      <Sentence char_offsets="3507:3594" id="28" />
+      <Sentence char_offsets="3605:3859" id="29" />
+      <Sentence char_offsets="3861:3977" id="30" />
+      <Sentence char_offsets="3988:4031" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="historical" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="203">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="203">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

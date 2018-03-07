@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090422.0155">
+    <Sentences>
+      <Sentence char_offsets="175:377" id="0" />
+      <Sentence char_offsets="388:486" id="1" />
+      <Sentence char_offsets="488:660" id="2" />
+      <Sentence char_offsets="671:818" id="3" />
+      <Sentence char_offsets="820:971" id="4" />
+      <Sentence char_offsets="982:1139" id="5" />
+      <Sentence char_offsets="1150:1317" id="6" />
+      <Sentence char_offsets="1328:1427" id="7" />
+      <Sentence char_offsets="1429:1550" id="8" />
+      <Sentence char_offsets="1561:1659" id="9" />
+      <Sentence char_offsets="1661:1685" id="10" />
+      <Sentence char_offsets="1696:1898" id="11" />
+      <Sentence char_offsets="1909:2146" id="12" />
+      <Sentence char_offsets="2148:2298" id="13" />
+      <Sentence char_offsets="2309:2500" id="14" />
+      <Sentence char_offsets="2502:2583" id="15" />
+      <Sentence char_offsets="2594:2821" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="012">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="current" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="080">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="192">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="current" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

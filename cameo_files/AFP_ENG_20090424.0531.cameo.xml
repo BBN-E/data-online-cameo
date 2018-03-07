@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0531">
+    <Sentences>
+      <Sentence char_offsets="197:397" id="0" />
+      <Sentence char_offsets="408:627" id="1" />
+      <Sentence char_offsets="638:813" id="2" />
+      <Sentence char_offsets="824:1012" id="3" />
+      <Sentence char_offsets="1023:1065" id="4" />
+      <Sentence char_offsets="1076:1163" id="5" />
+      <Sentence char_offsets="1165:1204" id="6" />
+      <Sentence char_offsets="1215:1295" id="7" />
+      <Sentence char_offsets="1306:1429" id="8" />
+      <Sentence char_offsets="1440:1537" id="9" />
+      <Sentence char_offsets="1548:1688" id="10" />
+      <Sentence char_offsets="1699:1775" id="11" />
+      <Sentence char_offsets="1786:1874" id="12" />
+      <Sentence char_offsets="1885:1955" id="13" />
+      <Sentence char_offsets="1957:2013" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="180">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="720" agent_name="Murderer" role="Source" />
+        <Participant actor_id="53830" actor_name="Romani" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0409">
+    <Sentences>
+      <Sentence char_offsets="192:377" id="0" />
+      <Sentence char_offsets="388:653" id="1" />
+      <Sentence char_offsets="664:903" id="2" />
+      <Sentence char_offsets="914:1109" id="3" />
+      <Sentence char_offsets="1120:1177" id="4" />
+      <Sentence char_offsets="1188:1412" id="5" />
+      <Sentence char_offsets="1423:1634" id="6" />
+      <Sentence char_offsets="1645:1706" id="7" />
+      <Sentence char_offsets="1717:1947" id="8" />
+      <Sentence char_offsets="1958:2130" id="9" />
+      <Sentence char_offsets="2141:2331" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="129" agent_name="High Ranking Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="112">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="53796" actor_name="Justice and Development Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

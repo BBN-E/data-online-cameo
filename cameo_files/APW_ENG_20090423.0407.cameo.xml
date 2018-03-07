@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0407">
+    <Sentences>
+      <Sentence char_offsets="199:381" id="0" />
+      <Sentence char_offsets="392:500" id="1" />
+      <Sentence char_offsets="511:730" id="2" />
+      <Sentence char_offsets="741:868" id="3" />
+      <Sentence char_offsets="870:1023" id="4" />
+      <Sentence char_offsets="1034:1175" id="5" />
+      <Sentence char_offsets="1177:1291" id="6" />
+      <Sentence char_offsets="1302:1411" id="7" />
+      <Sentence char_offsets="1422:1584" id="8" />
+      <Sentence char_offsets="1595:1745" id="9" />
+      <Sentence char_offsets="1756:1761" id="10" />
+      <Sentence char_offsets="1772:1782" id="11" />
+      <Sentence char_offsets="1793:1873" id="12" />
+      <Sentence char_offsets="1884:1926" id="13" />
+      <Sentence char_offsets="1937:1983" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="32515" actor_name="Wayne Swan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0815">
+    <Sentences>
+      <Sentence char_offsets="186:325" id="0" />
+      <Sentence char_offsets="336:454" id="1" />
+      <Sentence char_offsets="465:578" id="2" />
+      <Sentence char_offsets="580:758" id="3" />
+      <Sentence char_offsets="769:933" id="4" />
+      <Sentence char_offsets="935:1082" id="5" />
+      <Sentence char_offsets="1093:1271" id="6" />
+      <Sentence char_offsets="1273:1328" id="7" />
+      <Sentence char_offsets="1330:1380" id="8" />
+      <Sentence char_offsets="1391:1442" id="9" />
+      <Sentence char_offsets="1453:1521" id="10" />
+      <Sentence char_offsets="1523:1612" id="11" />
+      <Sentence char_offsets="1614:1692" id="12" />
+      <Sentence char_offsets="1703:1784" id="13" />
+      <Sentence char_offsets="1795:1890" id="14" />
+      <Sentence char_offsets="1892:1946" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="1711">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

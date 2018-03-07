@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090311.0122">
+    <Sentences>
+      <Sentence char_offsets="191:325" id="0" />
+      <Sentence char_offsets="327:409" id="1" />
+      <Sentence char_offsets="420:604" id="2" />
+      <Sentence char_offsets="615:832" id="3" />
+      <Sentence char_offsets="834:929" id="4" />
+      <Sentence char_offsets="931:989" id="5" />
+      <Sentence char_offsets="1000:1162" id="6" />
+      <Sentence char_offsets="1173:1313" id="7" />
+      <Sentence char_offsets="1315:1344" id="8" />
+      <Sentence char_offsets="1355:1574" id="9" />
+      <Sentence char_offsets="1585:1689" id="10" />
+      <Sentence char_offsets="1700:1816" id="11" />
+      <Sentence char_offsets="1827:1979" id="12" />
+      <Sentence char_offsets="1981:2222" id="13" />
+      <Sentence char_offsets="2233:2365" id="14" />
+      <Sentence char_offsets="2367:2482" id="15" />
+      <Sentence char_offsets="2484:2576" id="16" />
+      <Sentence char_offsets="2587:2689" id="17" />
+      <Sentence char_offsets="2691:2756" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="677" agent_name="Attorney General" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

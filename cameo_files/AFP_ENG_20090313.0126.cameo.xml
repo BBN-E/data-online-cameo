@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0126">
+    <Sentences>
+      <Sentence char_offsets="182:378" id="0" />
+      <Sentence char_offsets="389:615" id="1" />
+      <Sentence char_offsets="626:685" id="2" />
+      <Sentence char_offsets="687:805" id="3" />
+      <Sentence char_offsets="816:939" id="4" />
+      <Sentence char_offsets="950:1136" id="5" />
+      <Sentence char_offsets="1147:1307" id="6" />
+      <Sentence char_offsets="1309:1361" id="7" />
+      <Sentence char_offsets="1372:1547" id="8" />
+      <Sentence char_offsets="1558:1790" id="9" />
+      <Sentence char_offsets="1801:1916" id="10" />
+      <Sentence char_offsets="1927:2141" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="012">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="012">
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="neutral" type="062">
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0308">
+    <Sentences>
+      <Sentence char_offsets="173:357" id="0" />
+      <Sentence char_offsets="368:524" id="1" />
+      <Sentence char_offsets="535:687" id="2" />
+      <Sentence char_offsets="698:813" id="3" />
+      <Sentence char_offsets="824:949" id="4" />
+      <Sentence char_offsets="960:1157" id="5" />
+      <Sentence char_offsets="1168:1355" id="6" />
+      <Sentence char_offsets="1366:1614" id="7" />
+      <Sentence char_offsets="1625:1758" id="8" />
+      <Sentence char_offsets="1769:1884" id="9" />
+      <Sentence char_offsets="1895:2120" id="10" />
+      <Sentence char_offsets="2131:2195" id="11" />
+      <Sentence char_offsets="2206:2369" id="12" />
+      <Sentence char_offsets="2380:2634" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="036">
+        <Participant actor_id="36626" actor_name="Sergey Stanishev" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="32218" actor_name="Bulgaria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="32218" actor_name="Bulgaria" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

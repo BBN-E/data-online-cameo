@@ -1,0 +1,80 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0691">
+    <Sentences>
+      <Sentence char_offsets="188:379" id="0" />
+      <Sentence char_offsets="390:543" id="1" />
+      <Sentence char_offsets="545:637" id="2" />
+      <Sentence char_offsets="648:732" id="3" />
+      <Sentence char_offsets="734:819" id="4" />
+      <Sentence char_offsets="830:951" id="5" />
+      <Sentence char_offsets="962:1032" id="6" />
+      <Sentence char_offsets="1034:1056" id="7" />
+      <Sentence char_offsets="1067:1173" id="8" />
+      <Sentence char_offsets="1184:1567" id="9" />
+      <Sentence char_offsets="1578:1664" id="10" />
+      <Sentence char_offsets="1666:1764" id="11" />
+      <Sentence char_offsets="1775:1896" id="12" />
+      <Sentence char_offsets="1907:1990" id="13" />
+      <Sentence char_offsets="2001:2102" id="14" />
+      <Sentence char_offsets="2104:2263" id="15" />
+      <Sentence char_offsets="2274:2486" id="16" />
+      <Sentence char_offsets="2497:2621" id="17" />
+      <Sentence char_offsets="2623:2723" id="18" />
+      <Sentence char_offsets="2725:2757" id="19" />
+      <Sentence char_offsets="2768:2922" id="20" />
+      <Sentence char_offsets="2924:2982" id="21" />
+      <Sentence char_offsets="2993:3092" id="22" />
+      <Sentence char_offsets="3094:3142" id="23" />
+      <Sentence char_offsets="3153:3347" id="24" />
+      <Sentence char_offsets="3349:3430" id="25" />
+      <Sentence char_offsets="3441:3554" id="26" />
+      <Sentence char_offsets="3565:3720" id="27" />
+      <Sentence char_offsets="3731:3939" id="28" />
+      <Sentence char_offsets="3950:4094" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="57683" actor_name="British Monarch" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="020">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="29" tense="neutral" type="036">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="23" tense="neutral" type="051">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="26" tense="neutral" type="051">
+        <Participant actor_id="58969" actor_name="Gianfranco Fini" role="Source" />
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

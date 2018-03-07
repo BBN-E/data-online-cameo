@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0678">
+    <Sentences>
+      <Sentence char_offsets="186:364" id="0" />
+      <Sentence char_offsets="375:501" id="1" />
+      <Sentence char_offsets="512:706" id="2" />
+      <Sentence char_offsets="717:921" id="3" />
+      <Sentence char_offsets="932:1043" id="4" />
+      <Sentence char_offsets="1054:1212" id="5" />
+      <Sentence char_offsets="1223:1304" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="historical" type="1711">
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Source" />
+        <Participant actor_id="29562" actor_name="Thabo Mvuyelwa Mbeki" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

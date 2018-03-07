@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0259">
+    <Sentences>
+      <Sentence char_offsets="186:344" id="0" />
+      <Sentence char_offsets="355:536" id="1" />
+      <Sentence char_offsets="547:613" id="2" />
+      <Sentence char_offsets="624:755" id="3" />
+      <Sentence char_offsets="766:967" id="4" />
+      <Sentence char_offsets="978:1044" id="5" />
+      <Sentence char_offsets="1055:1218" id="6" />
+      <Sentence char_offsets="1229:1346" id="7" />
+      <Sentence char_offsets="1357:1482" id="8" />
+      <Sentence char_offsets="1493:1618" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="170">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="282" agent_name="Blogger" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="170">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="51746" actor_name="Evin House of Detention" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="282" agent_name="Blogger" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

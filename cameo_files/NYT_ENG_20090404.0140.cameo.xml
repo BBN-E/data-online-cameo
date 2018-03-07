@@ -1,0 +1,79 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090404.0140">
+    <Sentences>
+      <Sentence char_offsets="174:321" id="0" />
+      <Sentence char_offsets="323:376" id="1" />
+      <Sentence char_offsets="378:419" id="2" />
+      <Sentence char_offsets="430:539" id="3" />
+      <Sentence char_offsets="541:591" id="4" />
+      <Sentence char_offsets="602:781" id="5" />
+      <Sentence char_offsets="783:933" id="6" />
+      <Sentence char_offsets="944:1012" id="7" />
+      <Sentence char_offsets="1014:1188" id="8" />
+      <Sentence char_offsets="1190:1224" id="9" />
+      <Sentence char_offsets="1226:1287" id="10" />
+      <Sentence char_offsets="1298:1385" id="11" />
+      <Sentence char_offsets="1387:1534" id="12" />
+      <Sentence char_offsets="1536:1843" id="13" />
+      <Sentence char_offsets="1854:2126" id="14" />
+      <Sentence char_offsets="2128:2342" id="15" />
+      <Sentence char_offsets="2353:2479" id="16" />
+      <Sentence char_offsets="2481:2636" id="17" />
+      <Sentence char_offsets="2638:2787" id="18" />
+      <Sentence char_offsets="2798:3016" id="19" />
+      <Sentence char_offsets="3018:3129" id="20" />
+      <Sentence char_offsets="3131:3294" id="21" />
+      <Sentence char_offsets="3305:3397" id="22" />
+      <Sentence char_offsets="3399:3562" id="23" />
+      <Sentence char_offsets="3564:3592" id="24" />
+      <Sentence char_offsets="3594:3654" id="25" />
+      <Sentence char_offsets="3665:3702" id="26" />
+      <Sentence char_offsets="3704:3855" id="27" />
+      <Sentence char_offsets="3866:3996" id="28" />
+      <Sentence char_offsets="3998:4154" id="29" />
+      <Sentence char_offsets="4165:4275" id="30" />
+      <Sentence char_offsets="4277:4376" id="31" />
+      <Sentence char_offsets="4378:4515" id="32" />
+      <Sentence char_offsets="4526:4593" id="33" />
+      <Sentence char_offsets="4595:4681" id="34" />
+      <Sentence char_offsets="4692:4735" id="35" />
+      <Sentence char_offsets="4737:4825" id="36" />
+      <Sentence char_offsets="4827:5035" id="37" />
+      <Sentence char_offsets="5037:5144" id="38" />
+      <Sentence char_offsets="5146:5200" id="39" />
+      <Sentence char_offsets="5211:5321" id="40" />
+      <Sentence char_offsets="5323:5418" id="41" />
+      <Sentence char_offsets="5420:5715" id="42" />
+      <Sentence char_offsets="5726:5787" id="43" />
+      <Sentence char_offsets="5789:5914" id="44" />
+      <Sentence char_offsets="5916:5958" id="45" />
+      <Sentence char_offsets="5960:6118" id="46" />
+      <Sentence char_offsets="6129:6249" id="47" />
+      <Sentence char_offsets="6251:6341" id="48" />
+      <Sentence char_offsets="6343:6387" id="49" />
+      <Sentence char_offsets="6398:6519" id="50" />
+      <Sentence char_offsets="6521:6578" id="51" />
+      <Sentence char_offsets="6580:6638" id="52" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="neutral" type="010">
+        <Participant actor_id="28823" actor_name="Argentina" agent_id="293" agent_name="Human Rights Group" role="Source" />
+        <Participant actor_id="36790" actor_name="Raul Alfonsin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="historical" type="042">
+        <Participant actor_id="238423" actor_name="Jos&#233; Miguel Vivanco" role="Source" />
+        <Participant actor_id="28823" actor_name="Argentina" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="36" tense="historical" type="111">
+        <Participant actor_id="19918" actor_name="Cristina Fern&#225;ndez de Kirchner" role="Source" />
+        <Participant actor_id="36790" actor_name="Raul Alfonsin" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="historical" type="043">
+        <Participant actor_id="28823" actor_name="Argentina" role="Source" />
+        <Participant actor_id="238423" actor_name="Jos&#233; Miguel Vivanco" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

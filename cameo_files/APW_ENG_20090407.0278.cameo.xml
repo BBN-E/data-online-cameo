@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0278">
+    <Sentences>
+      <Sentence char_offsets="181:375" id="0" />
+      <Sentence char_offsets="386:511" id="1" />
+      <Sentence char_offsets="513:709" id="2" />
+      <Sentence char_offsets="720:785" id="3" />
+      <Sentence char_offsets="787:898" id="4" />
+      <Sentence char_offsets="909:1098" id="5" />
+      <Sentence char_offsets="1100:1163" id="6" />
+      <Sentence char_offsets="1174:1268" id="7" />
+      <Sentence char_offsets="1270:1376" id="8" />
+      <Sentence char_offsets="1378:1481" id="9" />
+      <Sentence char_offsets="1483:1627" id="10" />
+      <Sentence char_offsets="1638:1682" id="11" />
+      <Sentence char_offsets="1684:1902" id="12" />
+      <Sentence char_offsets="1913:2023" id="13" />
+      <Sentence char_offsets="2025:2163" id="14" />
+      <Sentence char_offsets="2174:2338" id="15" />
+      <Sentence char_offsets="2340:2564" id="16" />
+      <Sentence char_offsets="2575:2729" id="17" />
+      <Sentence char_offsets="2731:2884" id="18" />
+      <Sentence char_offsets="2895:2976" id="19" />
+      <Sentence char_offsets="2978:3078" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="413" agent_name="Justice Department/Ministery" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="120">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

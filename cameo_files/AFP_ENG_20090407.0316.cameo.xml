@@ -1,0 +1,76 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0316">
+    <Sentences>
+      <Sentence char_offsets="185:364" id="0" />
+      <Sentence char_offsets="375:550" id="1" />
+      <Sentence char_offsets="561:672" id="2" />
+      <Sentence char_offsets="683:912" id="3" />
+      <Sentence char_offsets="923:1049" id="4" />
+      <Sentence char_offsets="1060:1265" id="5" />
+      <Sentence char_offsets="1276:1492" id="6" />
+      <Sentence char_offsets="1503:1591" id="7" />
+      <Sentence char_offsets="1602:1690" id="8" />
+      <Sentence char_offsets="1701:1827" id="9" />
+      <Sentence char_offsets="1838:1906" id="10" />
+      <Sentence char_offsets="1908:2005" id="11" />
+      <Sentence char_offsets="2016:2159" id="12" />
+      <Sentence char_offsets="2170:2230" id="13" />
+      <Sentence char_offsets="2232:2247" id="14" />
+      <Sentence char_offsets="2258:2346" id="15" />
+      <Sentence char_offsets="2357:2562" id="16" />
+      <Sentence char_offsets="2573:2719" id="17" />
+      <Sentence char_offsets="2730:2883" id="18" />
+      <Sentence char_offsets="2894:3078" id="19" />
+      <Sentence char_offsets="3089:3257" id="20" />
+      <Sentence char_offsets="3268:3407" id="21" />
+      <Sentence char_offsets="3418:3603" id="22" />
+      <Sentence char_offsets="3614:3790" id="23" />
+      <Sentence char_offsets="3801:3870" id="24" />
+      <Sentence char_offsets="3872:4013" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="historical" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="23" tense="historical" type="190">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="22" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

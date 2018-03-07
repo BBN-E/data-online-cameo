@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.1236">
+    <Sentences>
+      <Sentence char_offsets="196:345" id="0" />
+      <Sentence char_offsets="356:522" id="1" />
+      <Sentence char_offsets="533:626" id="2" />
+      <Sentence char_offsets="637:756" id="3" />
+      <Sentence char_offsets="758:836" id="4" />
+      <Sentence char_offsets="847:980" id="5" />
+      <Sentence char_offsets="982:1116" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="historical" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="591" agent_name="Archdiocese" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" agent_id="77" agent_name="Professor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

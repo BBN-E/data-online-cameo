@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090407.0038">
+    <Sentences>
+      <Sentence char_offsets="128:241" id="0" />
+      <Sentence char_offsets="252:465" id="1" />
+      <Sentence char_offsets="467:628" id="2" />
+      <Sentence char_offsets="639:1115" id="3" />
+      <Sentence char_offsets="1126:1322" id="4" />
+      <Sentence char_offsets="1324:1392" id="5" />
+      <Sentence char_offsets="1394:1444" id="6" />
+      <Sentence char_offsets="1455:1800" id="7" />
+      <Sentence char_offsets="1811:2053" id="8" />
+      <Sentence char_offsets="2055:2264" id="9" />
+      <Sentence char_offsets="2275:2528" id="10" />
+      <Sentence char_offsets="2539:2739" id="11" />
+      <Sentence char_offsets="2750:2922" id="12" />
+      <Sentence char_offsets="2924:3136" id="13" />
+      <Sentence char_offsets="3147:3399" id="14" />
+      <Sentence char_offsets="3410:3598" id="15" />
+      <Sentence char_offsets="3609:3779" id="16" />
+      <Sentence char_offsets="3790:3996" id="17" />
+      <Sentence char_offsets="4007:4055" id="18" />
+      <Sentence char_offsets="4064:4083" id="19" />
+      <Sentence char_offsets="4085:4111" id="20" />
+      <Sentence char_offsets="4122:4342" id="21" />
+      <Sentence char_offsets="4353:4401" id="22" />
+      <Sentence char_offsets="4403:4658" id="23" />
+      <Sentence char_offsets="4669:4959" id="24" />
+      <Sentence char_offsets="4970:5219" id="25" />
+      <Sentence char_offsets="5221:5381" id="26" />
+      <Sentence char_offsets="5392:5583" id="27" />
+      <Sentence char_offsets="5585:5771" id="28" />
+      <Sentence char_offsets="5782:5955" id="29" />
+      <Sentence char_offsets="5966:6156" id="30" />
+      <Sentence char_offsets="6158:6305" id="31" />
+      <Sentence char_offsets="6316:6365" id="32" />
+      <Sentence char_offsets="6376:6524" id="33" />
+      <Sentence char_offsets="6526:6616" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Source" />
+        <Participant actor_id="235856" actor_name="Michael Bloomberg" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="235856" actor_name="Michael Bloomberg" role="Source" />
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="current" type="144">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

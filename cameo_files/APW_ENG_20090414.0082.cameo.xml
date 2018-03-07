@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0082">
+    <Sentences>
+      <Sentence char_offsets="185:453" id="0" />
+      <Sentence char_offsets="464:660" id="1" />
+      <Sentence char_offsets="671:757" id="2" />
+      <Sentence char_offsets="759:903" id="3" />
+      <Sentence char_offsets="914:1109" id="4" />
+      <Sentence char_offsets="1120:1341" id="5" />
+      <Sentence char_offsets="1352:1498" id="6" />
+      <Sentence char_offsets="1500:1626" id="7" />
+      <Sentence char_offsets="1628:1705" id="8" />
+      <Sentence char_offsets="1716:1825" id="9" />
+      <Sentence char_offsets="1827:1931" id="10" />
+      <Sentence char_offsets="1933:1974" id="11" />
+      <Sentence char_offsets="1985:2160" id="12" />
+      <Sentence char_offsets="2171:2352" id="13" />
+      <Sentence char_offsets="2354:2511" id="14" />
+      <Sentence char_offsets="2513:2567" id="15" />
+      <Sentence char_offsets="2578:2843" id="16" />
+      <Sentence char_offsets="2854:2943" id="17" />
+      <Sentence char_offsets="2945:3080" id="18" />
+      <Sentence char_offsets="3091:3212" id="19" />
+      <Sentence char_offsets="3214:3287" id="20" />
+      <Sentence char_offsets="3289:3440" id="21" />
+      <Sentence char_offsets="3451:3578" id="22" />
+      <Sentence char_offsets="3580:3646" id="23" />
+      <Sentence char_offsets="3657:3823" id="24" />
+      <Sentence char_offsets="3834:3876" id="25" />
+      <Sentence char_offsets="3878:3949" id="26" />
+      <Sentence char_offsets="3960:4055" id="27" />
+      <Sentence char_offsets="4066:4159" id="28" />
+      <Sentence char_offsets="4161:4207" id="29" />
+      <Sentence char_offsets="4218:4422" id="30" />
+      <Sentence char_offsets="4433:4618" id="31" />
+      <Sentence char_offsets="4629:4844" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="historical" type="111">
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

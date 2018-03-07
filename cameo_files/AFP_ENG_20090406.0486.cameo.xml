@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0486">
+    <Sentences>
+      <Sentence char_offsets="188:351" id="0" />
+      <Sentence char_offsets="362:583" id="1" />
+      <Sentence char_offsets="594:750" id="2" />
+      <Sentence char_offsets="761:897" id="3" />
+      <Sentence char_offsets="908:1012" id="4" />
+      <Sentence char_offsets="1014:1064" id="5" />
+      <Sentence char_offsets="1075:1161" id="6" />
+      <Sentence char_offsets="1172:1257" id="7" />
+      <Sentence char_offsets="1259:1355" id="8" />
+      <Sentence char_offsets="1366:1442" id="9" />
+      <Sentence char_offsets="1444:1506" id="10" />
+      <Sentence char_offsets="1517:1621" id="11" />
+      <Sentence char_offsets="1632:1746" id="12" />
+      <Sentence char_offsets="1757:1867" id="13" />
+      <Sentence char_offsets="1878:1971" id="14" />
+      <Sentence char_offsets="1982:2068" id="15" />
+      <Sentence char_offsets="2079:2159" id="16" />
+      <Sentence char_offsets="2170:2211" id="17" />
+      <Sentence char_offsets="2213:2249" id="18" />
+      <Sentence char_offsets="2260:2417" id="19" />
+      <Sentence char_offsets="2428:2556" id="20" />
+      <Sentence char_offsets="2567:2673" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="172">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

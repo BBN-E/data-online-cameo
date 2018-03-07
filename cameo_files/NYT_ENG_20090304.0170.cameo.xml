@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090304.0170">
+    <Sentences>
+      <Sentence char_offsets="175:350" id="0" />
+      <Sentence char_offsets="361:567" id="1" />
+      <Sentence char_offsets="578:710" id="2" />
+      <Sentence char_offsets="712:768" id="3" />
+      <Sentence char_offsets="779:926" id="4" />
+      <Sentence char_offsets="928:1037" id="5" />
+      <Sentence char_offsets="1048:1280" id="6" />
+      <Sentence char_offsets="1291:1440" id="7" />
+      <Sentence char_offsets="1451:1605" id="8" />
+      <Sentence char_offsets="1607:1702" id="9" />
+      <Sentence char_offsets="1713:1875" id="10" />
+      <Sentence char_offsets="1886:1977" id="11" />
+      <Sentence char_offsets="1988:2181" id="12" />
+      <Sentence char_offsets="2192:2260" id="13" />
+      <Sentence char_offsets="2271:2365" id="14" />
+      <Sentence char_offsets="2367:2445" id="15" />
+      <Sentence char_offsets="2447:2529" id="16" />
+      <Sentence char_offsets="2540:2660" id="17" />
+      <Sentence char_offsets="2662:2825" id="18" />
+      <Sentence char_offsets="2836:2939" id="19" />
+      <Sentence char_offsets="2950:2955" id="20" />
+      <Sentence char_offsets="2966:2989" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="51590" actor_name="Michael McCaul" role="Source" />
+        <Participant actor_id="28174" actor_name="NASA" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

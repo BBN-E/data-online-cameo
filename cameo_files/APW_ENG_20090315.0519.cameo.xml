@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0519">
+    <Sentences>
+      <Sentence char_offsets="189:361" id="0" />
+      <Sentence char_offsets="363:504" id="1" />
+      <Sentence char_offsets="515:720" id="2" />
+      <Sentence char_offsets="722:938" id="3" />
+      <Sentence char_offsets="949:1076" id="4" />
+      <Sentence char_offsets="1087:1313" id="5" />
+      <Sentence char_offsets="1324:1361" id="6" />
+      <Sentence char_offsets="1363:1382" id="7" />
+      <Sentence char_offsets="1384:1468" id="8" />
+      <Sentence char_offsets="1470:1531" id="9" />
+      <Sentence char_offsets="1533:1656" id="10" />
+      <Sentence char_offsets="1667:1838" id="11" />
+      <Sentence char_offsets="1840:2100" id="12" />
+      <Sentence char_offsets="2111:2133" id="13" />
+      <Sentence char_offsets="2135:2259" id="14" />
+      <Sentence char_offsets="2270:2453" id="15" />
+      <Sentence char_offsets="2464:2634" id="16" />
+      <Sentence char_offsets="2645:2982" id="17" />
+      <Sentence char_offsets="2993:3133" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="historical" type="010">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

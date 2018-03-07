@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0379">
+    <Sentences>
+      <Sentence char_offsets="187:362" id="0" />
+      <Sentence char_offsets="373:558" id="1" />
+      <Sentence char_offsets="569:646" id="2" />
+      <Sentence char_offsets="657:792" id="3" />
+      <Sentence char_offsets="803:936" id="4" />
+      <Sentence char_offsets="947:1084" id="5" />
+      <Sentence char_offsets="1095:1158" id="6" />
+      <Sentence char_offsets="1169:1223" id="7" />
+      <Sentence char_offsets="1225:1253" id="8" />
+      <Sentence char_offsets="1255:1275" id="9" />
+      <Sentence char_offsets="1277:1301" id="10" />
+      <Sentence char_offsets="1303:1329" id="11" />
+      <Sentence char_offsets="1340:1431" id="12" />
+      <Sentence char_offsets="1433:1555" id="13" />
+      <Sentence char_offsets="1566:1675" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="055">
+        <Participant actor_id="38441" actor_name="Segolene Royal" role="Source" />
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

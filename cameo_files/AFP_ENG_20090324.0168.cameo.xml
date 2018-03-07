@@ -1,0 +1,137 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0168">
+    <Sentences>
+      <Sentence char_offsets="180:364" id="0" />
+      <Sentence char_offsets="375:528" id="1" />
+      <Sentence char_offsets="539:671" id="2" />
+      <Sentence char_offsets="682:764" id="3" />
+      <Sentence char_offsets="775:977" id="4" />
+      <Sentence char_offsets="988:1179" id="5" />
+      <Sentence char_offsets="1190:1291" id="6" />
+      <Sentence char_offsets="1302:1500" id="7" />
+      <Sentence char_offsets="1511:1594" id="8" />
+      <Sentence char_offsets="1605:1847" id="9" />
+      <Sentence char_offsets="1858:1985" id="10" />
+      <Sentence char_offsets="1987:2051" id="11" />
+      <Sentence char_offsets="2062:2228" id="12" />
+      <Sentence char_offsets="2239:2343" id="13" />
+      <Sentence char_offsets="2354:2400" id="14" />
+      <Sentence char_offsets="2402:2559" id="15" />
+      <Sentence char_offsets="2570:2748" id="16" />
+      <Sentence char_offsets="2759:2970" id="17" />
+      <Sentence char_offsets="2981:3107" id="18" />
+      <Sentence char_offsets="3118:3299" id="19" />
+      <Sentence char_offsets="3310:3339" id="20" />
+      <Sentence char_offsets="3350:3523" id="21" />
+      <Sentence char_offsets="3534:3727" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="39865" actor_name="Sweden" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33198" actor_name="Finland" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="39865" actor_name="Sweden" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="39865" actor_name="Sweden" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="39865" actor_name="Sweden" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="39865" actor_name="Sweden" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33198" actor_name="Finland" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33198" actor_name="Finland" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33198" actor_name="Finland" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33198" actor_name="Finland" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="20" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" role="Target" />
+      </Event>
+      <Event id="21" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="22" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" role="Target" />
+      </Event>
+      <Event id="23" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="24" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" role="Target" />
+      </Event>
+      <Event id="25" sentence_id="2" tense="neutral" type="032">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

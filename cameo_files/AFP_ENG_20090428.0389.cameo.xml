@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0389">
+    <Sentences>
+      <Sentence char_offsets="182:374" id="0" />
+      <Sentence char_offsets="385:594" id="1" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="174">
+        <Participant actor_id="32659" actor_name="Colombia" role="Source" />
+        <Participant actor_id="47680" actor_name="Eugenio Montoya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="174">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="47680" actor_name="Eugenio Montoya" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

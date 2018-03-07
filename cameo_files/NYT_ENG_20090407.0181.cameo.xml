@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090407.0181">
+    <Sentences>
+      <Sentence char_offsets="184:348" id="0" />
+      <Sentence char_offsets="350:525" id="1" />
+      <Sentence char_offsets="536:700" id="2" />
+      <Sentence char_offsets="702:851" id="3" />
+      <Sentence char_offsets="862:987" id="4" />
+      <Sentence char_offsets="989:1067" id="5" />
+      <Sentence char_offsets="1078:1274" id="6" />
+      <Sentence char_offsets="1276:1379" id="7" />
+      <Sentence char_offsets="1390:1453" id="8" />
+      <Sentence char_offsets="1455:1608" id="9" />
+      <Sentence char_offsets="1619:1810" id="10" />
+      <Sentence char_offsets="1821:2060" id="11" />
+      <Sentence char_offsets="2062:2258" id="12" />
+      <Sentence char_offsets="2269:2368" id="13" />
+      <Sentence char_offsets="2370:2629" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="historical" type="042">
+        <Participant actor_id="32629" actor_name="Chile" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="historical" type="174">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="historical" type="190">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="historical" type="043">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

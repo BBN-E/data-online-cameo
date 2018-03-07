@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.1114">
+    <Sentences>
+      <Sentence char_offsets="190:406" id="0" />
+      <Sentence char_offsets="417:716" id="1" />
+      <Sentence char_offsets="727:794" id="2" />
+      <Sentence char_offsets="805:1019" id="3" />
+      <Sentence char_offsets="1030:1181" id="4" />
+      <Sentence char_offsets="1183:1203" id="5" />
+      <Sentence char_offsets="1214:1391" id="6" />
+      <Sentence char_offsets="1393:1492" id="7" />
+      <Sentence char_offsets="1503:1646" id="8" />
+      <Sentence char_offsets="1648:1763" id="9" />
+      <Sentence char_offsets="1765:2019" id="10" />
+      <Sentence char_offsets="2030:2232" id="11" />
+      <Sentence char_offsets="2243:2345" id="12" />
+      <Sentence char_offsets="2347:2455" id="13" />
+      <Sentence char_offsets="2466:2770" id="14" />
+      <Sentence char_offsets="2781:2901" id="15" />
+      <Sentence char_offsets="2912:2992" id="16" />
+      <Sentence char_offsets="2994:3110" id="17" />
+      <Sentence char_offsets="3112:3189" id="18" />
+      <Sentence char_offsets="3200:3347" id="19" />
+      <Sentence char_offsets="3349:3479" id="20" />
+      <Sentence char_offsets="3490:3684" id="21" />
+      <Sentence char_offsets="3695:3867" id="22" />
+      <Sentence char_offsets="3869:4048" id="23" />
+      <Sentence char_offsets="4059:4165" id="24" />
+      <Sentence char_offsets="4176:4313" id="25" />
+      <Sentence char_offsets="4324:4409" id="26" />
+      <Sentence char_offsets="4411:4544" id="27" />
+      <Sentence char_offsets="4555:4674" id="28" />
+      <Sentence char_offsets="4676:4857" id="29" />
+      <Sentence char_offsets="4868:5074" id="30" />
+      <Sentence char_offsets="5085:5181" id="31" />
+      <Sentence char_offsets="5192:5364" id="32" />
+      <Sentence char_offsets="5375:5461" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="29" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="111">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

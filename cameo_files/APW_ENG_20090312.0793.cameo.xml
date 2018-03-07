@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.0793">
+    <Sentences>
+      <Sentence char_offsets="201:334" id="0" />
+      <Sentence char_offsets="345:528" id="1" />
+      <Sentence char_offsets="530:676" id="2" />
+      <Sentence char_offsets="687:754" id="3" />
+      <Sentence char_offsets="756:834" id="4" />
+      <Sentence char_offsets="836:945" id="5" />
+      <Sentence char_offsets="947:1013" id="6" />
+      <Sentence char_offsets="1024:1153" id="7" />
+      <Sentence char_offsets="1155:1220" id="8" />
+      <Sentence char_offsets="1231:1287" id="9" />
+      <Sentence char_offsets="1289:1408" id="10" />
+      <Sentence char_offsets="1419:1649" id="11" />
+      <Sentence char_offsets="1660:1859" id="12" />
+      <Sentence char_offsets="1870:1987" id="13" />
+      <Sentence char_offsets="1989:2035" id="14" />
+      <Sentence char_offsets="2046:2293" id="15" />
+      <Sentence char_offsets="2295:2446" id="16" />
+      <Sentence char_offsets="2457:2614" id="17" />
+      <Sentence char_offsets="2625:2806" id="18" />
+      <Sentence char_offsets="2808:2882" id="19" />
+      <Sentence char_offsets="2893:3005" id="20" />
+      <Sentence char_offsets="3016:3168" id="21" />
+      <Sentence char_offsets="3179:3273" id="22" />
+      <Sentence char_offsets="3275:3345" id="23" />
+      <Sentence char_offsets="3356:3488" id="24" />
+      <Sentence char_offsets="3490:3628" id="25" />
+      <Sentence char_offsets="3639:3754" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="83" agent_name="Paramilitary" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="current" type="020">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="21" tense="neutral" type="111">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="historical" type="190">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

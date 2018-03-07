@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0505">
+    <Sentences>
+      <Sentence char_offsets="180:336" id="0" />
+      <Sentence char_offsets="347:460" id="1" />
+      <Sentence char_offsets="471:525" id="2" />
+      <Sentence char_offsets="536:736" id="3" />
+      <Sentence char_offsets="747:1008" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="55229" actor_name="Michel Suleiman" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="55229" actor_name="Michel Suleiman" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

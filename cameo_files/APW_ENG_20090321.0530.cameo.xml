@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090321.0530">
+    <Sentences>
+      <Sentence char_offsets="188:293" id="0" />
+      <Sentence char_offsets="304:503" id="1" />
+      <Sentence char_offsets="505:573" id="2" />
+      <Sentence char_offsets="584:692" id="3" />
+      <Sentence char_offsets="694:776" id="4" />
+      <Sentence char_offsets="787:902" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="174">
+        <Participant actor_id="235938" actor_name="Charles de Gaulle" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="174">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0636">
+    <Sentences>
+      <Sentence char_offsets="149:182" id="0" />
+      <Sentence char_offsets="185:189" id="1" />
+      <Sentence char_offsets="191:369" id="2" />
+      <Sentence char_offsets="371:588" id="3" />
+      <Sentence char_offsets="590:617" id="4" />
+      <Sentence char_offsets="619:631" id="5" />
+      <Sentence char_offsets="634:673" id="6" />
+      <Sentence char_offsets="675:700" id="7" />
+      <Sentence char_offsets="702:723" id="8" />
+      <Sentence char_offsets="726:857" id="9" />
+      <Sentence char_offsets="860:1020" id="10" />
+      <Sentence char_offsets="1023:1215" id="11" />
+      <Sentence char_offsets="1218:1281" id="12" />
+      <Sentence char_offsets="1283:1341" id="13" />
+      <Sentence char_offsets="1343:1385" id="14" />
+      <Sentence char_offsets="1388:1499" id="15" />
+      <Sentence char_offsets="1501:1513" id="16" />
+      <Sentence char_offsets="1516:1661" id="17" />
+      <Sentence char_offsets="1663:1679" id="18" />
+      <Sentence char_offsets="1681:1704" id="19" />
+      <Sentence char_offsets="1707:1843" id="20" />
+      <Sentence char_offsets="1845:1871" id="21" />
+      <Sentence char_offsets="1873:1896" id="22" />
+      <Sentence char_offsets="1899:2012" id="23" />
+      <Sentence char_offsets="2014:2051" id="24" />
+      <Sentence char_offsets="2054:2223" id="25" />
+      <Sentence char_offsets="2225:2241" id="26" />
+      <Sentence char_offsets="2244:2370" id="27" />
+      <Sentence char_offsets="2372:2394" id="28" />
+      <Sentence char_offsets="2397:2576" id="29" />
+      <Sentence char_offsets="2578:2582" id="30" />
+      <Sentence char_offsets="2584:2608" id="31" />
+      <Sentence char_offsets="2611:2710" id="32" />
+      <Sentence char_offsets="2712:2734" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="017">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="017">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="161">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="25" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="714" agent_name="Children" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

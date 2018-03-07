@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0313">
+    <Sentences>
+      <Sentence char_offsets="194:375" id="0" />
+      <Sentence char_offsets="386:593" id="1" />
+      <Sentence char_offsets="604:715" id="2" />
+      <Sentence char_offsets="726:783" id="3" />
+      <Sentence char_offsets="794:925" id="4" />
+      <Sentence char_offsets="927:980" id="5" />
+      <Sentence char_offsets="991:1187" id="6" />
+      <Sentence char_offsets="1189:1260" id="7" />
+      <Sentence char_offsets="1271:1478" id="8" />
+      <Sentence char_offsets="1480:1514" id="9" />
+      <Sentence char_offsets="1525:1701" id="10" />
+      <Sentence char_offsets="1712:1855" id="11" />
+      <Sentence char_offsets="1866:1963" id="12" />
+      <Sentence char_offsets="1974:2107" id="13" />
+      <Sentence char_offsets="2118:2227" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="23527" actor_name="Jamaat I Islami" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="062">
+        <Participant actor_id="23527" actor_name="Jamaat I Islami" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Source" />
+        <Participant actor_id="23527" actor_name="Jamaat I Islami" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

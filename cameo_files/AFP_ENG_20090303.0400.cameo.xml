@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0400">
+    <Sentences>
+      <Sentence char_offsets="188:371" id="0" />
+      <Sentence char_offsets="382:597" id="1" />
+      <Sentence char_offsets="608:799" id="2" />
+      <Sentence char_offsets="810:975" id="3" />
+      <Sentence char_offsets="986:1099" id="4" />
+      <Sentence char_offsets="1110:1170" id="5" />
+      <Sentence char_offsets="1172:1249" id="6" />
+      <Sentence char_offsets="1260:1364" id="7" />
+      <Sentence char_offsets="1366:1411" id="8" />
+      <Sentence char_offsets="1422:1651" id="9" />
+      <Sentence char_offsets="1662:1786" id="10" />
+      <Sentence char_offsets="1797:2001" id="11" />
+      <Sentence char_offsets="2012:2187" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="190">
+        <Participant actor_id="33484" actor_name="Timor-Leste" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="20833" actor_name="Jos&#233; Ramos-Horta" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="33484" actor_name="Timor-Leste" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="20833" actor_name="Jos&#233; Ramos-Horta" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

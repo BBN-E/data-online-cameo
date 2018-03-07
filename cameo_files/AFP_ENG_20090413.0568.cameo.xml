@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0568">
+    <Sentences>
+      <Sentence char_offsets="185:374" id="0" />
+      <Sentence char_offsets="385:579" id="1" />
+      <Sentence char_offsets="590:812" id="2" />
+      <Sentence char_offsets="823:994" id="3" />
+      <Sentence char_offsets="1005:1093" id="4" />
+      <Sentence char_offsets="1095:1198" id="5" />
+      <Sentence char_offsets="1209:1433" id="6" />
+      <Sentence char_offsets="1444:1525" id="7" />
+      <Sentence char_offsets="1536:1732" id="8" />
+      <Sentence char_offsets="1743:1927" id="9" />
+      <Sentence char_offsets="1938:2042" id="10" />
+      <Sentence char_offsets="2044:2155" id="11" />
+      <Sentence char_offsets="2166:2217" id="12" />
+      <Sentence char_offsets="2228:2265" id="13" />
+      <Sentence char_offsets="2267:2456" id="14" />
+      <Sentence char_offsets="2467:2568" id="15" />
+      <Sentence char_offsets="2579:2745" id="16" />
+      <Sentence char_offsets="2756:2918" id="17" />
+      <Sentence char_offsets="2929:2989" id="18" />
+      <Sentence char_offsets="2991:3050" id="19" />
+      <Sentence char_offsets="3061:3184" id="20" />
+      <Sentence char_offsets="3186:3261" id="21" />
+      <Sentence char_offsets="3272:3466" id="22" />
+      <Sentence char_offsets="3477:3670" id="23" />
+      <Sentence char_offsets="3681:3828" id="24" />
+      <Sentence char_offsets="3839:4064" id="25" />
+      <Sentence char_offsets="4075:4223" id="26" />
+      <Sentence char_offsets="4225:4299" id="27" />
+      <Sentence char_offsets="4310:4503" id="28" />
+      <Sentence char_offsets="4514:4732" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="19173" actor_name="Panitan Wattanayagorn" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="0241">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="170">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="24" tense="neutral" type="173">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="28" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

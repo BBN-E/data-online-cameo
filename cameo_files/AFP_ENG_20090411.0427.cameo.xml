@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0427">
+    <Sentences>
+      <Sentence char_offsets="175:377" id="0" />
+      <Sentence char_offsets="388:510" id="1" />
+      <Sentence char_offsets="521:730" id="2" />
+      <Sentence char_offsets="741:896" id="3" />
+      <Sentence char_offsets="907:1106" id="4" />
+      <Sentence char_offsets="1117:1230" id="5" />
+      <Sentence char_offsets="1241:1435" id="6" />
+      <Sentence char_offsets="1446:1541" id="7" />
+      <Sentence char_offsets="1552:1740" id="8" />
+      <Sentence char_offsets="1751:1820" id="9" />
+      <Sentence char_offsets="1831:1976" id="10" />
+      <Sentence char_offsets="1987:2044" id="11" />
+      <Sentence char_offsets="2055:2148" id="12" />
+      <Sentence char_offsets="2159:2234" id="13" />
+      <Sentence char_offsets="2245:2336" id="14" />
+      <Sentence char_offsets="2347:2539" id="15" />
+      <Sentence char_offsets="2550:2792" id="16" />
+      <Sentence char_offsets="2803:2915" id="17" />
+      <Sentence char_offsets="2926:3037" id="18" />
+      <Sentence char_offsets="3048:3286" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

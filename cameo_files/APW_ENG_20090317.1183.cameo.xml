@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1183">
+    <Sentences>
+      <Sentence char_offsets="184:424" id="0" />
+      <Sentence char_offsets="435:578" id="1" />
+      <Sentence char_offsets="589:762" id="2" />
+      <Sentence char_offsets="764:812" id="3" />
+      <Sentence char_offsets="823:966" id="4" />
+      <Sentence char_offsets="968:1128" id="5" />
+      <Sentence char_offsets="1130:1227" id="6" />
+      <Sentence char_offsets="1238:1262" id="7" />
+      <Sentence char_offsets="1264:1473" id="8" />
+      <Sentence char_offsets="1484:1571" id="9" />
+      <Sentence char_offsets="1573:1629" id="10" />
+      <Sentence char_offsets="1631:1775" id="11" />
+      <Sentence char_offsets="1786:2082" id="12" />
+      <Sentence char_offsets="2093:2222" id="13" />
+      <Sentence char_offsets="2233:2433" id="14" />
+      <Sentence char_offsets="2444:2629" id="15" />
+      <Sentence char_offsets="2640:2864" id="16" />
+      <Sentence char_offsets="2875:2957" id="17" />
+      <Sentence char_offsets="2959:3037" id="18" />
+      <Sentence char_offsets="3048:3214" id="19" />
+      <Sentence char_offsets="3225:3449" id="20" />
+      <Sentence char_offsets="3451:3543" id="21" />
+      <Sentence char_offsets="3554:3736" id="22" />
+      <Sentence char_offsets="3747:3841" id="23" />
+      <Sentence char_offsets="3843:3903" id="24" />
+      <Sentence char_offsets="3914:4054" id="25" />
+      <Sentence char_offsets="4065:4277" id="26" />
+      <Sentence char_offsets="4288:4431" id="27" />
+      <Sentence char_offsets="4442:4488" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

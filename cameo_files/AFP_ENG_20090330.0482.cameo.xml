@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0482">
+    <Sentences>
+      <Sentence char_offsets="185:378" id="0" />
+      <Sentence char_offsets="389:498" id="1" />
+      <Sentence char_offsets="500:567" id="2" />
+      <Sentence char_offsets="578:638" id="3" />
+      <Sentence char_offsets="649:834" id="4" />
+      <Sentence char_offsets="845:1043" id="5" />
+      <Sentence char_offsets="1054:1215" id="6" />
+      <Sentence char_offsets="1226:1423" id="7" />
+      <Sentence char_offsets="1434:1560" id="8" />
+      <Sentence char_offsets="1571:1688" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="historical" type="190">
+        <Participant actor_id="40214" actor_name="Somalia" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" agent_id="277" agent_name="Transport" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

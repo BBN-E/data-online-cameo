@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0450">
+    <Sentences>
+      <Sentence char_offsets="187:392" id="0" />
+      <Sentence char_offsets="403:600" id="1" />
+      <Sentence char_offsets="611:669" id="2" />
+      <Sentence char_offsets="671:823" id="3" />
+      <Sentence char_offsets="834:1056" id="4" />
+      <Sentence char_offsets="1067:1245" id="5" />
+      <Sentence char_offsets="1256:1479" id="6" />
+      <Sentence char_offsets="1490:1675" id="7" />
+      <Sentence char_offsets="1686:1822" id="8" />
+      <Sentence char_offsets="1833:2046" id="9" />
+      <Sentence char_offsets="2057:2130" id="10" />
+      <Sentence char_offsets="2132:2182" id="11" />
+      <Sentence char_offsets="2184:2248" id="12" />
+      <Sentence char_offsets="2259:2443" id="13" />
+      <Sentence char_offsets="2454:2619" id="14" />
+      <Sentence char_offsets="2630:2851" id="15" />
+      <Sentence char_offsets="2862:3050" id="16" />
+      <Sentence char_offsets="3061:3239" id="17" />
+      <Sentence char_offsets="3250:3467" id="18" />
+      <Sentence char_offsets="3478:3625" id="19" />
+      <Sentence char_offsets="3636:3685" id="20" />
+      <Sentence char_offsets="3687:3731" id="21" />
+      <Sentence char_offsets="3733:3817" id="22" />
+      <Sentence char_offsets="3828:3985" id="23" />
+      <Sentence char_offsets="3996:4076" id="24" />
+      <Sentence char_offsets="4087:4161" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="35854" actor_name="Kyrgyzstan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0223">
+    <Sentences>
+      <Sentence char_offsets="175:358" id="0" />
+      <Sentence char_offsets="369:589" id="1" />
+      <Sentence char_offsets="600:804" id="2" />
+      <Sentence char_offsets="815:1005" id="3" />
+      <Sentence char_offsets="1016:1179" id="4" />
+      <Sentence char_offsets="1190:1387" id="5" />
+      <Sentence char_offsets="1398:1620" id="6" />
+      <Sentence char_offsets="1631:1845" id="7" />
+      <Sentence char_offsets="1856:2088" id="8" />
+      <Sentence char_offsets="2099:2264" id="9" />
+      <Sentence char_offsets="2275:2550" id="10" />
+      <Sentence char_offsets="2561:2788" id="11" />
+      <Sentence char_offsets="2799:3002" id="12" />
+      <Sentence char_offsets="3013:3130" id="13" />
+      <Sentence char_offsets="3141:3307" id="14" />
+      <Sentence char_offsets="3318:3549" id="15" />
+      <Sentence char_offsets="3560:3752" id="16" />
+      <Sentence char_offsets="3763:3901" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="232076" actor_name="Galicia" role="Source" />
+        <Participant actor_id="8126" actor_name="Union, Progress and Democracy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="42745" actor_name="Basque Nationalist Party" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="166" agent_name="Socialist Party" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="051">
+        <Participant actor_id="232076" actor_name="Galicia" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="145" agent_name="Popular Party" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="120">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="166" agent_name="Socialist Party" role="Source" />
+        <Participant actor_id="42745" actor_name="Basque Nationalist Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

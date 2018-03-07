@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.0144">
+    <Sentences>
+      <Sentence char_offsets="187:429" id="0" />
+      <Sentence char_offsets="440:470" id="1" />
+      <Sentence char_offsets="472:620" id="2" />
+      <Sentence char_offsets="631:886" id="3" />
+      <Sentence char_offsets="897:1055" id="4" />
+      <Sentence char_offsets="1066:1282" id="5" />
+      <Sentence char_offsets="1293:1478" id="6" />
+      <Sentence char_offsets="1489:1698" id="7" />
+      <Sentence char_offsets="1709:1809" id="8" />
+      <Sentence char_offsets="1820:2079" id="9" />
+      <Sentence char_offsets="2090:2245" id="10" />
+      <Sentence char_offsets="2256:2422" id="11" />
+      <Sentence char_offsets="2433:2572" id="12" />
+      <Sentence char_offsets="2583:2666" id="13" />
+      <Sentence char_offsets="2677:2869" id="14" />
+      <Sentence char_offsets="2871:2921" id="15" />
+      <Sentence char_offsets="2932:3077" id="16" />
+      <Sentence char_offsets="3079:3193" id="17" />
+      <Sentence char_offsets="3204:3379" id="18" />
+      <Sentence char_offsets="3381:3519" id="19" />
+      <Sentence char_offsets="3530:3610" id="20" />
+      <Sentence char_offsets="3621:3837" id="21" />
+      <Sentence char_offsets="3848:4127" id="22" />
+      <Sentence char_offsets="4138:4327" id="23" />
+      <Sentence char_offsets="4338:4551" id="24" />
+      <Sentence char_offsets="4562:4833" id="25" />
+      <Sentence char_offsets="4844:4986" id="26" />
+      <Sentence char_offsets="4997:5250" id="27" />
+      <Sentence char_offsets="5261:5491" id="28" />
+      <Sentence char_offsets="5502:5750" id="29" />
+      <Sentence char_offsets="5761:5898" id="30" />
+      <Sentence char_offsets="5909:6067" id="31" />
+      <Sentence char_offsets="6078:6238" id="32" />
+      <Sentence char_offsets="6249:6410" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="182">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

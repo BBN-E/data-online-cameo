@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0793">
+    <Sentences>
+      <Sentence char_offsets="188:394" id="0" />
+      <Sentence char_offsets="405:593" id="1" />
+      <Sentence char_offsets="604:795" id="2" />
+      <Sentence char_offsets="806:931" id="3" />
+      <Sentence char_offsets="942:1102" id="4" />
+      <Sentence char_offsets="1113:1223" id="5" />
+      <Sentence char_offsets="1225:1306" id="6" />
+      <Sentence char_offsets="1317:1322" id="7" />
+      <Sentence char_offsets="1333:1343" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="222954" actor_name="European Central Bank" role="Source" />
+        <Participant actor_id="6823" actor_name="Swiss National Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

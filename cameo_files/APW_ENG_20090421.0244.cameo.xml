@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0244">
+    <Sentences>
+      <Sentence char_offsets="195:382" id="0" />
+      <Sentence char_offsets="393:555" id="1" />
+      <Sentence char_offsets="557:639" id="2" />
+      <Sentence char_offsets="650:789" id="3" />
+      <Sentence char_offsets="800:989" id="4" />
+      <Sentence char_offsets="1000:1110" id="5" />
+      <Sentence char_offsets="1112:1159" id="6" />
+      <Sentence char_offsets="1161:1177" id="7" />
+      <Sentence char_offsets="1179:1226" id="8" />
+      <Sentence char_offsets="1237:1413" id="9" />
+      <Sentence char_offsets="1415:1469" id="10" />
+      <Sentence char_offsets="1480:1561" id="11" />
+      <Sentence char_offsets="1563:1701" id="12" />
+      <Sentence char_offsets="1703:1815" id="13" />
+      <Sentence char_offsets="1826:1969" id="14" />
+      <Sentence char_offsets="1971:2056" id="15" />
+      <Sentence char_offsets="2067:2243" id="16" />
+      <Sentence char_offsets="2254:2428" id="17" />
+      <Sentence char_offsets="2439:2500" id="18" />
+      <Sentence char_offsets="2502:2629" id="19" />
+      <Sentence char_offsets="2640:2725" id="20" />
+      <Sentence char_offsets="2727:2812" id="21" />
+      <Sentence char_offsets="2814:2845" id="22" />
+      <Sentence char_offsets="2856:2916" id="23" />
+      <Sentence char_offsets="2927:3123" id="24" />
+      <Sentence char_offsets="3134:3406" id="25" />
+      <Sentence char_offsets="3417:3483" id="26" />
+      <Sentence char_offsets="3494:3499" id="27" />
+      <Sentence char_offsets="3510:3584" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="036">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="040">
+        <Participant actor_id="57140" actor_name="Maxime Verhagen" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="57140" actor_name="Maxime Verhagen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="0841">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

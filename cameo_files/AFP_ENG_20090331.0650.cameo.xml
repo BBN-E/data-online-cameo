@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0650">
+    <Sentences>
+      <Sentence char_offsets="181:366" id="0" />
+      <Sentence char_offsets="377:567" id="1" />
+      <Sentence char_offsets="578:781" id="2" />
+      <Sentence char_offsets="792:921" id="3" />
+      <Sentence char_offsets="932:1016" id="4" />
+      <Sentence char_offsets="1018:1070" id="5" />
+      <Sentence char_offsets="1072:1170" id="6" />
+      <Sentence char_offsets="1181:1359" id="7" />
+      <Sentence char_offsets="1370:1537" id="8" />
+      <Sentence char_offsets="1548:1640" id="9" />
+      <Sentence char_offsets="1651:1904" id="10" />
+      <Sentence char_offsets="1915:2115" id="11" />
+      <Sentence char_offsets="2126:2169" id="12" />
+      <Sentence char_offsets="2171:2281" id="13" />
+      <Sentence char_offsets="2292:2532" id="14" />
+      <Sentence char_offsets="2543:2680" id="15" />
+      <Sentence char_offsets="2691:2804" id="16" />
+      <Sentence char_offsets="2815:2890" id="17" />
+      <Sentence char_offsets="2892:2954" id="18" />
+      <Sentence char_offsets="2965:3182" id="19" />
+      <Sentence char_offsets="3193:3301" id="20" />
+      <Sentence char_offsets="3303:3417" id="21" />
+      <Sentence char_offsets="3428:3555" id="22" />
+      <Sentence char_offsets="3566:3744" id="23" />
+      <Sentence char_offsets="3755:3876" id="24" />
+      <Sentence char_offsets="3887:4092" id="25" />
+      <Sentence char_offsets="4103:4254" id="26" />
+      <Sentence char_offsets="4265:4439" id="27" />
+      <Sentence char_offsets="4450:4693" id="28" />
+      <Sentence char_offsets="4704:4887" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="139">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="139">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

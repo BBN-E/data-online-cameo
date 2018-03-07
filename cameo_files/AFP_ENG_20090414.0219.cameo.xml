@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0219">
+    <Sentences>
+      <Sentence char_offsets="180:341" id="0" />
+      <Sentence char_offsets="352:444" id="1" />
+      <Sentence char_offsets="455:557" id="2" />
+      <Sentence char_offsets="568:718" id="3" />
+      <Sentence char_offsets="729:884" id="4" />
+      <Sentence char_offsets="895:1006" id="5" />
+      <Sentence char_offsets="1017:1241" id="6" />
+      <Sentence char_offsets="1252:1315" id="7" />
+      <Sentence char_offsets="1317:1488" id="8" />
+      <Sentence char_offsets="1499:1690" id="9" />
+      <Sentence char_offsets="1701:1772" id="10" />
+      <Sentence char_offsets="1774:1927" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="34481" actor_name="Poland" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

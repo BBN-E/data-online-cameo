@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1258">
+    <Sentences>
+      <Sentence char_offsets="191:442" id="0" />
+      <Sentence char_offsets="453:660" id="1" />
+      <Sentence char_offsets="671:817" id="2" />
+      <Sentence char_offsets="819:862" id="3" />
+      <Sentence char_offsets="864:908" id="4" />
+      <Sentence char_offsets="910:1043" id="5" />
+      <Sentence char_offsets="1054:1157" id="6" />
+      <Sentence char_offsets="1168:1367" id="7" />
+      <Sentence char_offsets="1369:1448" id="8" />
+      <Sentence char_offsets="1459:1620" id="9" />
+      <Sentence char_offsets="1631:1755" id="10" />
+      <Sentence char_offsets="1766:1878" id="11" />
+      <Sentence char_offsets="1880:1986" id="12" />
+      <Sentence char_offsets="1997:2070" id="13" />
+      <Sentence char_offsets="2081:2369" id="14" />
+      <Sentence char_offsets="2380:2545" id="15" />
+      <Sentence char_offsets="2556:2667" id="16" />
+      <Sentence char_offsets="2678:2849" id="17" />
+      <Sentence char_offsets="2860:3128" id="18" />
+      <Sentence char_offsets="3139:3265" id="19" />
+      <Sentence char_offsets="3267:3308" id="20" />
+      <Sentence char_offsets="3319:3411" id="21" />
+      <Sentence char_offsets="3422:3524" id="22" />
+      <Sentence char_offsets="3526:3635" id="23" />
+      <Sentence char_offsets="3646:3651" id="24" />
+      <Sentence char_offsets="3662:3708" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

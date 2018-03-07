@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0377">
+    <Sentences>
+      <Sentence char_offsets="203:381" id="0" />
+      <Sentence char_offsets="392:574" id="1" />
+      <Sentence char_offsets="585:867" id="2" />
+      <Sentence char_offsets="878:1077" id="3" />
+      <Sentence char_offsets="1088:1267" id="4" />
+      <Sentence char_offsets="1269:1343" id="5" />
+      <Sentence char_offsets="1354:1535" id="6" />
+      <Sentence char_offsets="1537:1602" id="7" />
+      <Sentence char_offsets="1613:1823" id="8" />
+      <Sentence char_offsets="1834:1967" id="9" />
+      <Sentence char_offsets="1978:2096" id="10" />
+      <Sentence char_offsets="2107:2281" id="11" />
+      <Sentence char_offsets="2292:2359" id="12" />
+      <Sentence char_offsets="2361:2416" id="13" />
+      <Sentence char_offsets="2418:2489" id="14" />
+      <Sentence char_offsets="2500:2622" id="15" />
+      <Sentence char_offsets="2624:2647" id="16" />
+      <Sentence char_offsets="2658:2707" id="17" />
+      <Sentence char_offsets="2709:2897" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="010">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

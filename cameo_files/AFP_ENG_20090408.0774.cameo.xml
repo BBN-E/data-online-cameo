@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0774">
+    <Sentences>
+      <Sentence char_offsets="173:364" id="0" />
+      <Sentence char_offsets="375:592" id="1" />
+      <Sentence char_offsets="603:820" id="2" />
+      <Sentence char_offsets="831:951" id="3" />
+      <Sentence char_offsets="962:1019" id="4" />
+      <Sentence char_offsets="1030:1241" id="5" />
+      <Sentence char_offsets="1252:1446" id="6" />
+      <Sentence char_offsets="1457:1543" id="7" />
+      <Sentence char_offsets="1554:1734" id="8" />
+      <Sentence char_offsets="1745:1812" id="9" />
+      <Sentence char_offsets="1823:2032" id="10" />
+      <Sentence char_offsets="2043:2244" id="11" />
+      <Sentence char_offsets="2255:2448" id="12" />
+      <Sentence char_offsets="2459:2622" id="13" />
+      <Sentence char_offsets="2633:2739" id="14" />
+      <Sentence char_offsets="2750:2918" id="15" />
+      <Sentence char_offsets="2929:3140" id="16" />
+      <Sentence char_offsets="3151:3314" id="17" />
+      <Sentence char_offsets="3325:3547" id="18" />
+      <Sentence char_offsets="3558:3748" id="19" />
+      <Sentence char_offsets="3759:3946" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="527" agent_name="Army Personnel" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="112">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="ongoing" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="449" agent_name="Activist" role="Source" />
+      </Event>
+      <Event id="8" sentence_id="19" tense="neutral" type="154">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="3" tense="neutral" type="160">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="190">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

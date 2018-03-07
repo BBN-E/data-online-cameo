@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.1044">
+    <Sentences>
+      <Sentence char_offsets="188:337" id="0" />
+      <Sentence char_offsets="339:476" id="1" />
+      <Sentence char_offsets="487:770" id="2" />
+      <Sentence char_offsets="772:841" id="3" />
+      <Sentence char_offsets="852:948" id="4" />
+      <Sentence char_offsets="950:1017" id="5" />
+      <Sentence char_offsets="1028:1093" id="6" />
+      <Sentence char_offsets="1095:1175" id="7" />
+      <Sentence char_offsets="1186:1264" id="8" />
+      <Sentence char_offsets="1275:1390" id="9" />
+      <Sentence char_offsets="1401:1562" id="10" />
+      <Sentence char_offsets="1573:1661" id="11" />
+      <Sentence char_offsets="1663:1771" id="12" />
+      <Sentence char_offsets="1782:1876" id="13" />
+      <Sentence char_offsets="1878:1969" id="14" />
+      <Sentence char_offsets="1980:2189" id="15" />
+      <Sentence char_offsets="2200:2380" id="16" />
+      <Sentence char_offsets="2382:2484" id="17" />
+      <Sentence char_offsets="2495:2635" id="18" />
+      <Sentence char_offsets="2637:2765" id="19" />
+      <Sentence char_offsets="2776:2929" id="20" />
+      <Sentence char_offsets="2940:3072" id="21" />
+      <Sentence char_offsets="3074:3139" id="22" />
+      <Sentence char_offsets="3150:3234" id="23" />
+      <Sentence char_offsets="3236:3302" id="24" />
+      <Sentence char_offsets="3313:3480" id="25" />
+      <Sentence char_offsets="3491:3619" id="26" />
+      <Sentence char_offsets="3630:3713" id="27" />
+      <Sentence char_offsets="3724:3889" id="28" />
+      <Sentence char_offsets="3900:3956" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="current" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="current" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

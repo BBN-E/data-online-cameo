@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0138">
+    <Sentences>
+      <Sentence char_offsets="173:323" id="0" />
+      <Sentence char_offsets="334:431" id="1" />
+      <Sentence char_offsets="442:538" id="2" />
+      <Sentence char_offsets="549:658" id="3" />
+      <Sentence char_offsets="669:681" id="4" />
+      <Sentence char_offsets="683:761" id="5" />
+      <Sentence char_offsets="772:884" id="6" />
+      <Sentence char_offsets="895:1053" id="7" />
+      <Sentence char_offsets="1064:1221" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="38385" actor_name="Department of Defense" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

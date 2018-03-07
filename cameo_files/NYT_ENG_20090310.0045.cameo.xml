@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090310.0045">
+    <Sentences>
+      <Sentence char_offsets="196:428" id="0" />
+      <Sentence char_offsets="439:708" id="1" />
+      <Sentence char_offsets="719:894" id="2" />
+      <Sentence char_offsets="896:965" id="3" />
+      <Sentence char_offsets="967:1185" id="4" />
+      <Sentence char_offsets="1196:1468" id="5" />
+      <Sentence char_offsets="1479:1578" id="6" />
+      <Sentence char_offsets="1580:1691" id="7" />
+      <Sentence char_offsets="1693:1844" id="8" />
+      <Sentence char_offsets="1855:1910" id="9" />
+      <Sentence char_offsets="1912:2206" id="10" />
+      <Sentence char_offsets="2208:2357" id="11" />
+      <Sentence char_offsets="2368:2454" id="12" />
+      <Sentence char_offsets="2456:2647" id="13" />
+      <Sentence char_offsets="2649:2747" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="352" agent_name="Armed Band" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0046">
+    <Sentences>
+      <Sentence char_offsets="188:369" id="0" />
+      <Sentence char_offsets="380:537" id="1" />
+      <Sentence char_offsets="548:708" id="2" />
+      <Sentence char_offsets="719:745" id="3" />
+      <Sentence char_offsets="747:808" id="4" />
+      <Sentence char_offsets="810:940" id="5" />
+      <Sentence char_offsets="951:1198" id="6" />
+      <Sentence char_offsets="1209:1284" id="7" />
+      <Sentence char_offsets="1286:1308" id="8" />
+      <Sentence char_offsets="1310:1376" id="9" />
+      <Sentence char_offsets="1378:1411" id="10" />
+      <Sentence char_offsets="1422:1555" id="11" />
+      <Sentence char_offsets="1566:1788" id="12" />
+      <Sentence char_offsets="1799:2023" id="13" />
+      <Sentence char_offsets="2034:2197" id="14" />
+      <Sentence char_offsets="2208:2437" id="15" />
+      <Sentence char_offsets="2448:2465" id="16" />
+      <Sentence char_offsets="2467:2485" id="17" />
+      <Sentence char_offsets="2487:2556" id="18" />
+      <Sentence char_offsets="2558:2611" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="120">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0208">
+    <Sentences>
+      <Sentence char_offsets="180:365" id="0" />
+      <Sentence char_offsets="376:595" id="1" />
+      <Sentence char_offsets="606:827" id="2" />
+      <Sentence char_offsets="838:1067" id="3" />
+      <Sentence char_offsets="1078:1298" id="4" />
+      <Sentence char_offsets="1309:1451" id="5" />
+      <Sentence char_offsets="1462:1746" id="6" />
+      <Sentence char_offsets="1757:1902" id="7" />
+      <Sentence char_offsets="1913:2047" id="8" />
+      <Sentence char_offsets="2049:2117" id="9" />
+      <Sentence char_offsets="2128:2148" id="10" />
+      <Sentence char_offsets="2150:2224" id="11" />
+      <Sentence char_offsets="2226:2251" id="12" />
+      <Sentence char_offsets="2253:2372" id="13" />
+      <Sentence char_offsets="2383:2516" id="14" />
+      <Sentence char_offsets="2527:2748" id="15" />
+      <Sentence char_offsets="2759:2909" id="16" />
+      <Sentence char_offsets="2920:3140" id="17" />
+      <Sentence char_offsets="3151:3358" id="18" />
+      <Sentence char_offsets="3369:3589" id="19" />
+      <Sentence char_offsets="3600:3819" id="20" />
+      <Sentence char_offsets="3830:4049" id="21" />
+      <Sentence char_offsets="4060:4278" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="38517" actor_name="Senate Foreign Relations Committee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="current" type="042">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="112">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="current" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="52965" actor_name="John Kerry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

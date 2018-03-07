@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090327.0033">
+    <Sentences>
+      <Sentence char_offsets="133:393" id="0" />
+      <Sentence char_offsets="395:451" id="1" />
+      <Sentence char_offsets="462:563" id="2" />
+      <Sentence char_offsets="574:665" id="3" />
+      <Sentence char_offsets="667:792" id="4" />
+      <Sentence char_offsets="803:887" id="5" />
+      <Sentence char_offsets="889:1106" id="6" />
+      <Sentence char_offsets="1117:1231" id="7" />
+      <Sentence char_offsets="1242:1309" id="8" />
+      <Sentence char_offsets="1311:1423" id="9" />
+      <Sentence char_offsets="1425:1570" id="10" />
+      <Sentence char_offsets="1581:1796" id="11" />
+      <Sentence char_offsets="1807:1913" id="12" />
+      <Sentence char_offsets="1915:2013" id="13" />
+      <Sentence char_offsets="2024:2236" id="14" />
+      <Sentence char_offsets="2247:2400" id="15" />
+      <Sentence char_offsets="2411:2615" id="16" />
+      <Sentence char_offsets="2626:2734" id="17" />
+      <Sentence char_offsets="2736:2810" id="18" />
+      <Sentence char_offsets="2812:2887" id="19" />
+      <Sentence char_offsets="2898:2983" id="20" />
+      <Sentence char_offsets="2985:3117" id="21" />
+      <Sentence char_offsets="3128:3435" id="22" />
+      <Sentence char_offsets="3446:3628" id="23" />
+      <Sentence char_offsets="3639:3728" id="24" />
+      <Sentence char_offsets="3730:3849" id="25" />
+      <Sentence char_offsets="3860:4027" id="26" />
+      <Sentence char_offsets="4029:4049" id="27" />
+      <Sentence char_offsets="4060:4210" id="28" />
+      <Sentence char_offsets="4212:4269" id="29" />
+      <Sentence char_offsets="4271:4366" id="30" />
+      <Sentence char_offsets="4377:4472" id="31" />
+      <Sentence char_offsets="4474:4502" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="historical" type="130">
+        <Participant actor_id="31081" actor_name="India" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

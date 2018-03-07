@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0564">
+    <Sentences>
+      <Sentence char_offsets="183:437" id="0" />
+      <Sentence char_offsets="448:636" id="1" />
+      <Sentence char_offsets="638:767" id="2" />
+      <Sentence char_offsets="778:847" id="3" />
+      <Sentence char_offsets="849:1093" id="4" />
+      <Sentence char_offsets="1104:1174" id="5" />
+      <Sentence char_offsets="1185:1383" id="6" />
+      <Sentence char_offsets="1394:1599" id="7" />
+      <Sentence char_offsets="1610:1769" id="8" />
+      <Sentence char_offsets="1780:1955" id="9" />
+      <Sentence char_offsets="1966:2215" id="10" />
+      <Sentence char_offsets="2226:2290" id="11" />
+      <Sentence char_offsets="2292:2330" id="12" />
+      <Sentence char_offsets="2341:2504" id="13" />
+      <Sentence char_offsets="2506:2594" id="14" />
+      <Sentence char_offsets="2605:2751" id="15" />
+      <Sentence char_offsets="2762:2908" id="16" />
+      <Sentence char_offsets="2910:3011" id="17" />
+      <Sentence char_offsets="3022:3130" id="18" />
+      <Sentence char_offsets="3141:3221" id="19" />
+      <Sentence char_offsets="3232:3376" id="20" />
+      <Sentence char_offsets="3387:3563" id="21" />
+      <Sentence char_offsets="3565:3638" id="22" />
+      <Sentence char_offsets="3640:3767" id="23" />
+      <Sentence char_offsets="3778:3960" id="24" />
+      <Sentence char_offsets="3962:4005" id="25" />
+      <Sentence char_offsets="4016:4143" id="26" />
+      <Sentence char_offsets="4145:4275" id="27" />
+      <Sentence char_offsets="4277:4342" id="28" />
+      <Sentence char_offsets="4353:4516" id="29" />
+      <Sentence char_offsets="4518:4599" id="30" />
+      <Sentence char_offsets="4610:4746" id="31" />
+      <Sentence char_offsets="4748:4906" id="32" />
+      <Sentence char_offsets="4908:4953" id="33" />
+      <Sentence char_offsets="4964:5166" id="34" />
+      <Sentence char_offsets="5177:5182" id="35" />
+      <Sentence char_offsets="5193:5203" id="36" />
+      <Sentence char_offsets="5214:5260" id="37" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="current" type="010">
+        <Participant actor_id="11379" actor_name="Jay Nixon" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="553" agent_name="Army National Guard" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="28" tense="current" type="010">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="672" agent_name="Reserve Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

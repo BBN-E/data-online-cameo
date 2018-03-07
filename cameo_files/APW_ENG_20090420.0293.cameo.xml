@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0293">
+    <Sentences>
+      <Sentence char_offsets="184:341" id="0" />
+      <Sentence char_offsets="352:514" id="1" />
+      <Sentence char_offsets="525:588" id="2" />
+      <Sentence char_offsets="590:712" id="3" />
+      <Sentence char_offsets="723:835" id="4" />
+      <Sentence char_offsets="837:940" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="238844" actor_name="Ayman al-Zawahri" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

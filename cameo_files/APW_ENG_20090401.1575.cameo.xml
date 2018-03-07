@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.1575">
+    <Sentences>
+      <Sentence char_offsets="186:301" id="0" />
+      <Sentence char_offsets="312:483" id="1" />
+      <Sentence char_offsets="485:563" id="2" />
+      <Sentence char_offsets="574:685" id="3" />
+      <Sentence char_offsets="687:733" id="4" />
+      <Sentence char_offsets="744:901" id="5" />
+      <Sentence char_offsets="903:1006" id="6" />
+      <Sentence char_offsets="1017:1222" id="7" />
+      <Sentence char_offsets="1233:1323" id="8" />
+      <Sentence char_offsets="1325:1407" id="9" />
+      <Sentence char_offsets="1409:1551" id="10" />
+      <Sentence char_offsets="1562:1617" id="11" />
+      <Sentence char_offsets="1619:1807" id="12" />
+      <Sentence char_offsets="1818:1997" id="13" />
+      <Sentence char_offsets="2008:2217" id="14" />
+      <Sentence char_offsets="2228:2371" id="15" />
+      <Sentence char_offsets="2373:2421" id="16" />
+      <Sentence char_offsets="2432:2616" id="17" />
+      <Sentence char_offsets="2627:2809" id="18" />
+      <Sentence char_offsets="2820:2965" id="19" />
+      <Sentence char_offsets="2976:3137" id="20" />
+      <Sentence char_offsets="3148:3357" id="21" />
+      <Sentence char_offsets="3368:3497" id="22" />
+      <Sentence char_offsets="3508:3705" id="23" />
+      <Sentence char_offsets="3716:3907" id="24" />
+      <Sentence char_offsets="3918:4017" id="25" />
+      <Sentence char_offsets="4019:4087" id="26" />
+      <Sentence char_offsets="4089:4140" id="27" />
+      <Sentence char_offsets="4151:4242" id="28" />
+      <Sentence char_offsets="4253:4434" id="29" />
+      <Sentence char_offsets="4445:4587" id="30" />
+      <Sentence char_offsets="4598:4794" id="31" />
+      <Sentence char_offsets="4805:4914" id="32" />
+      <Sentence char_offsets="4925:5094" id="33" />
+      <Sentence char_offsets="5105:5257" id="34" />
+      <Sentence char_offsets="5268:5323" id="35" />
+      <Sentence char_offsets="5325:5393" id="36" />
+      <Sentence char_offsets="5404:5626" id="37" />
+      <Sentence char_offsets="5637:5714" id="38" />
+      <Sentence char_offsets="5725:5859" id="39" />
+      <Sentence char_offsets="5861:5886" id="40" />
+      <Sentence char_offsets="5888:5954" id="41" />
+      <Sentence char_offsets="5965:6048" id="42" />
+      <Sentence char_offsets="6050:6135" id="43" />
+      <Sentence char_offsets="6137:6195" id="44" />
+      <Sentence char_offsets="6206:6346" id="45" />
+      <Sentence char_offsets="6357:6467" id="46" />
+      <Sentence char_offsets="6469:6496" id="47" />
+      <Sentence char_offsets="6507:6512" id="48" />
+      <Sentence char_offsets="6523:6657" id="49" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="041">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="current" type="111">
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

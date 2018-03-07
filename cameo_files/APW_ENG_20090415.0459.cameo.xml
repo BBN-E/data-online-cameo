@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.0459">
+    <Sentences>
+      <Sentence char_offsets="189:374" id="0" />
+      <Sentence char_offsets="385:488" id="1" />
+      <Sentence char_offsets="499:572" id="2" />
+      <Sentence char_offsets="583:758" id="3" />
+      <Sentence char_offsets="769:845" id="4" />
+      <Sentence char_offsets="847:977" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="39520" actor_name="Tajikistan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="39520" actor_name="Tajikistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="13874" actor_name="Emomalii Rahmon" role="Source" />
+        <Participant actor_id="39520" actor_name="Tajikistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="13874" actor_name="Emomalii Rahmon" role="Source" />
+        <Participant actor_id="39520" actor_name="Tajikistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

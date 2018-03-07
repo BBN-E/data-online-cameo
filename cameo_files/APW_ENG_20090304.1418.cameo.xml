@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.1418">
+    <Sentences>
+      <Sentence char_offsets="188:359" id="0" />
+      <Sentence char_offsets="370:563" id="1" />
+      <Sentence char_offsets="574:786" id="2" />
+      <Sentence char_offsets="797:1000" id="3" />
+      <Sentence char_offsets="1011:1194" id="4" />
+      <Sentence char_offsets="1205:1359" id="5" />
+      <Sentence char_offsets="1370:1601" id="6" />
+      <Sentence char_offsets="1612:1843" id="7" />
+      <Sentence char_offsets="1854:2121" id="8" />
+      <Sentence char_offsets="2132:2274" id="9" />
+      <Sentence char_offsets="2285:2413" id="10" />
+      <Sentence char_offsets="2415:2502" id="11" />
+      <Sentence char_offsets="2504:2542" id="12" />
+      <Sentence char_offsets="2553:2818" id="13" />
+      <Sentence char_offsets="2820:2865" id="14" />
+      <Sentence char_offsets="2876:2969" id="15" />
+      <Sentence char_offsets="2980:3221" id="16" />
+      <Sentence char_offsets="3232:3370" id="17" />
+      <Sentence char_offsets="3381:3525" id="18" />
+      <Sentence char_offsets="3536:3622" id="19" />
+      <Sentence char_offsets="3633:3638" id="20" />
+      <Sentence char_offsets="3649:3753" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

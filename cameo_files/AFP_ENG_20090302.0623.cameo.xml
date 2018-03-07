@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0623">
+    <Sentences>
+      <Sentence char_offsets="181:372" id="0" />
+      <Sentence char_offsets="383:580" id="1" />
+      <Sentence char_offsets="591:694" id="2" />
+      <Sentence char_offsets="705:829" id="3" />
+      <Sentence char_offsets="840:1016" id="4" />
+      <Sentence char_offsets="1027:1184" id="5" />
+      <Sentence char_offsets="1195:1364" id="6" />
+      <Sentence char_offsets="1375:1501" id="7" />
+      <Sentence char_offsets="1512:1737" id="8" />
+      <Sentence char_offsets="1748:1882" id="9" />
+      <Sentence char_offsets="1893:2118" id="10" />
+      <Sentence char_offsets="2129:2365" id="11" />
+      <Sentence char_offsets="2376:2561" id="12" />
+      <Sentence char_offsets="2572:2667" id="13" />
+      <Sentence char_offsets="2678:2790" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="617" agent_name="Legislature" role="Source" />
+        <Participant actor_id="4482" actor_name="Likud" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="617" agent_name="Legislature" role="Source" />
+        <Participant actor_id="56857" actor_name="Kadima" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="120">
+        <Participant actor_id="56857" actor_name="Kadima" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

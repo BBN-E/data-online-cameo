@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0533">
+    <Sentences>
+      <Sentence char_offsets="193:213" id="0" />
+      <Sentence char_offsets="215:235" id="1" />
+      <Sentence char_offsets="246:461" id="2" />
+      <Sentence char_offsets="472:664" id="3" />
+      <Sentence char_offsets="675:907" id="4" />
+      <Sentence char_offsets="909:945" id="5" />
+      <Sentence char_offsets="956:1148" id="6" />
+      <Sentence char_offsets="1159:1309" id="7" />
+      <Sentence char_offsets="1311:1420" id="8" />
+      <Sentence char_offsets="1422:1508" id="9" />
+      <Sentence char_offsets="1519:1738" id="10" />
+      <Sentence char_offsets="1749:1878" id="11" />
+      <Sentence char_offsets="1880:1994" id="12" />
+      <Sentence char_offsets="2005:2111" id="13" />
+      <Sentence char_offsets="2122:2249" id="14" />
+      <Sentence char_offsets="2251:2276" id="15" />
+      <Sentence char_offsets="2287:2432" id="16" />
+      <Sentence char_offsets="2443:2588" id="17" />
+      <Sentence char_offsets="2599:2665" id="18" />
+      <Sentence char_offsets="2667:2889" id="19" />
+      <Sentence char_offsets="2900:3031" id="20" />
+      <Sentence char_offsets="3042:3247" id="21" />
+      <Sentence char_offsets="3249:3316" id="22" />
+      <Sentence char_offsets="3327:3562" id="23" />
+      <Sentence char_offsets="3573:3782" id="24" />
+      <Sentence char_offsets="3784:3839" id="25" />
+      <Sentence char_offsets="3850:3942" id="26" />
+      <Sentence char_offsets="3953:3975" id="27" />
+      <Sentence char_offsets="3986:4037" id="28" />
+      <Sentence char_offsets="4039:4228" id="29" />
+      <Sentence char_offsets="4230:4279" id="30" />
+      <Sentence char_offsets="4290:4418" id="31" />
+      <Sentence char_offsets="4420:4548" id="32" />
+      <Sentence char_offsets="4559:4635" id="33" />
+      <Sentence char_offsets="4637:4757" id="34" />
+      <Sentence char_offsets="4768:4923" id="35" />
+      <Sentence char_offsets="4925:5043" id="36" />
+      <Sentence char_offsets="5054:5192" id="37" />
+      <Sentence char_offsets="5203:5393" id="38" />
+      <Sentence char_offsets="5404:5458" id="39" />
+      <Sentence char_offsets="5460:5527" id="40" />
+      <Sentence char_offsets="5538:5656" id="41" />
+      <Sentence char_offsets="5667:5816" id="42" />
+      <Sentence char_offsets="5827:5893" id="43" />
+      <Sentence char_offsets="5895:6009" id="44" />
+      <Sentence char_offsets="6020:6147" id="45" />
+      <Sentence char_offsets="6158:6189" id="46" />
+      <Sentence char_offsets="6191:6271" id="47" />
+      <Sentence char_offsets="6273:6311" id="48" />
+      <Sentence char_offsets="6322:6457" id="49" />
+      <Sentence char_offsets="6468:6640" id="50" />
+      <Sentence char_offsets="6642:6792" id="51" />
+      <Sentence char_offsets="6803:6921" id="52" />
+      <Sentence char_offsets="6923:7093" id="53" />
+      <Sentence char_offsets="7104:7272" id="54" />
+      <Sentence char_offsets="7283:7457" id="55" />
+      <Sentence char_offsets="7468:7473" id="56" />
+      <Sentence char_offsets="7484:7516" id="57" />
+      <Sentence char_offsets="7518:7918" id="58" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="136119" actor_name="U.S. Naval Forces Central Command" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="54" tense="neutral" type="010">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="55" tense="neutral" type="190">
+        <Participant actor_id="30701" actor_name="France" agent_id="158" agent_name="Commando" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

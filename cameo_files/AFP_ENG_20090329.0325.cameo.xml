@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0325">
+    <Sentences>
+      <Sentence char_offsets="177:372" id="0" />
+      <Sentence char_offsets="383:587" id="1" />
+      <Sentence char_offsets="598:809" id="2" />
+      <Sentence char_offsets="820:933" id="3" />
+      <Sentence char_offsets="944:1116" id="4" />
+      <Sentence char_offsets="1127:1224" id="5" />
+      <Sentence char_offsets="1226:1315" id="6" />
+      <Sentence char_offsets="1326:1529" id="7" />
+      <Sentence char_offsets="1540:1712" id="8" />
+      <Sentence char_offsets="1723:1848" id="9" />
+      <Sentence char_offsets="1859:2060" id="10" />
+      <Sentence char_offsets="2071:2306" id="11" />
+      <Sentence char_offsets="2317:2526" id="12" />
+      <Sentence char_offsets="2537:2726" id="13" />
+      <Sentence char_offsets="2737:2908" id="14" />
+      <Sentence char_offsets="2919:3080" id="15" />
+      <Sentence char_offsets="3091:3215" id="16" />
+      <Sentence char_offsets="3226:3413" id="17" />
+      <Sentence char_offsets="3424:3605" id="18" />
+      <Sentence char_offsets="3616:3765" id="19" />
+      <Sentence char_offsets="3776:3960" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="020">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="112">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="112">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="current" type="113">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

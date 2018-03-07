@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0186">
+    <Sentences>
+      <Sentence char_offsets="202:387" id="0" />
+      <Sentence char_offsets="398:584" id="1" />
+      <Sentence char_offsets="595:747" id="2" />
+      <Sentence char_offsets="758:917" id="3" />
+      <Sentence char_offsets="919:1001" id="4" />
+      <Sentence char_offsets="1012:1088" id="5" />
+      <Sentence char_offsets="1099:1278" id="6" />
+      <Sentence char_offsets="1289:1456" id="7" />
+      <Sentence char_offsets="1467:1590" id="8" />
+      <Sentence char_offsets="1601:1777" id="9" />
+      <Sentence char_offsets="1779:1939" id="10" />
+      <Sentence char_offsets="1950:2132" id="11" />
+      <Sentence char_offsets="2134:2309" id="12" />
+      <Sentence char_offsets="2320:2460" id="13" />
+      <Sentence char_offsets="2462:2514" id="14" />
+      <Sentence char_offsets="2525:2658" id="15" />
+      <Sentence char_offsets="2660:2767" id="16" />
+      <Sentence char_offsets="2778:2991" id="17" />
+      <Sentence char_offsets="3002:3180" id="18" />
+      <Sentence char_offsets="3191:3433" id="19" />
+      <Sentence char_offsets="3444:3449" id="20" />
+      <Sentence char_offsets="3460:3521" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="455" agent_name="Royal Administration" role="Source" />
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0285">
+    <Sentences>
+      <Sentence char_offsets="207:367" id="0" />
+      <Sentence char_offsets="378:572" id="1" />
+      <Sentence char_offsets="583:753" id="2" />
+      <Sentence char_offsets="764:1025" id="3" />
+      <Sentence char_offsets="1036:1271" id="4" />
+      <Sentence char_offsets="1282:1385" id="5" />
+      <Sentence char_offsets="1396:1542" id="6" />
+      <Sentence char_offsets="1553:1719" id="7" />
+      <Sentence char_offsets="1730:1859" id="8" />
+      <Sentence char_offsets="1870:2062" id="9" />
+      <Sentence char_offsets="2073:2183" id="10" />
+      <Sentence char_offsets="2194:2426" id="11" />
+      <Sentence char_offsets="2437:2638" id="12" />
+      <Sentence char_offsets="2649:2711" id="13" />
+      <Sentence char_offsets="2722:2891" id="14" />
+      <Sentence char_offsets="2902:3035" id="15" />
+      <Sentence char_offsets="3046:3162" id="16" />
+      <Sentence char_offsets="3173:3285" id="17" />
+      <Sentence char_offsets="3296:3355" id="18" />
+      <Sentence char_offsets="3366:3498" id="19" />
+      <Sentence char_offsets="3509:3580" id="20" />
+      <Sentence char_offsets="3591:3787" id="21" />
+      <Sentence char_offsets="3798:3986" id="22" />
+      <Sentence char_offsets="3997:4157" id="23" />
+      <Sentence char_offsets="4168:4263" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="042">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="043">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="14880" actor_name="David Miliband" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

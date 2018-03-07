@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090425.0528">
+    <Sentences>
+      <Sentence char_offsets="182:350" id="0" />
+      <Sentence char_offsets="361:526" id="1" />
+      <Sentence char_offsets="537:733" id="2" />
+      <Sentence char_offsets="744:801" id="3" />
+      <Sentence char_offsets="812:980" id="4" />
+      <Sentence char_offsets="991:1081" id="5" />
+      <Sentence char_offsets="1092:1306" id="6" />
+      <Sentence char_offsets="1317:1362" id="7" />
+      <Sentence char_offsets="1364:1441" id="8" />
+      <Sentence char_offsets="1452:1634" id="9" />
+      <Sentence char_offsets="1645:1913" id="10" />
+      <Sentence char_offsets="1924:2008" id="11" />
+      <Sentence char_offsets="2010:2146" id="12" />
+      <Sentence char_offsets="2157:2275" id="13" />
+      <Sentence char_offsets="2286:2475" id="14" />
+      <Sentence char_offsets="2477:2514" id="15" />
+      <Sentence char_offsets="2525:2670" id="16" />
+      <Sentence char_offsets="2681:2836" id="17" />
+      <Sentence char_offsets="2847:3047" id="18" />
+      <Sentence char_offsets="3058:3145" id="19" />
+      <Sentence char_offsets="3156:3271" id="20" />
+      <Sentence char_offsets="3282:3521" id="21" />
+      <Sentence char_offsets="3532:3646" id="22" />
+      <Sentence char_offsets="3657:3785" id="23" />
+      <Sentence char_offsets="3796:3937" id="24" />
+      <Sentence char_offsets="3939:4019" id="25" />
+      <Sentence char_offsets="4030:4224" id="26" />
+      <Sentence char_offsets="4235:4424" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="40495" actor_name="World Health Organization" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.1226">
+    <Sentences>
+      <Sentence char_offsets="190:388" id="0" />
+      <Sentence char_offsets="399:676" id="1" />
+      <Sentence char_offsets="687:839" id="2" />
+      <Sentence char_offsets="850:1034" id="3" />
+      <Sentence char_offsets="1045:1182" id="4" />
+      <Sentence char_offsets="1184:1327" id="5" />
+      <Sentence char_offsets="1338:1525" id="6" />
+      <Sentence char_offsets="1536:1694" id="7" />
+      <Sentence char_offsets="1705:1770" id="8" />
+      <Sentence char_offsets="1772:2002" id="9" />
+      <Sentence char_offsets="2013:2241" id="10" />
+      <Sentence char_offsets="2252:2463" id="11" />
+      <Sentence char_offsets="2474:2692" id="12" />
+      <Sentence char_offsets="2703:2976" id="13" />
+      <Sentence char_offsets="2987:3225" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="173">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="181">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

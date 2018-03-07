@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.1023">
+    <Sentences>
+      <Sentence char_offsets="199:397" id="0" />
+      <Sentence char_offsets="408:600" id="1" />
+      <Sentence char_offsets="611:840" id="2" />
+      <Sentence char_offsets="851:1138" id="3" />
+      <Sentence char_offsets="1149:1286" id="4" />
+      <Sentence char_offsets="1297:1476" id="5" />
+      <Sentence char_offsets="1478:1538" id="6" />
+      <Sentence char_offsets="1549:1650" id="7" />
+      <Sentence char_offsets="1661:1882" id="8" />
+      <Sentence char_offsets="1893:2058" id="9" />
+      <Sentence char_offsets="2069:2279" id="10" />
+      <Sentence char_offsets="2290:2481" id="11" />
+      <Sentence char_offsets="2492:2703" id="12" />
+      <Sentence char_offsets="2714:2858" id="13" />
+      <Sentence char_offsets="2860:2942" id="14" />
+      <Sentence char_offsets="2944:2989" id="15" />
+      <Sentence char_offsets="3000:3154" id="16" />
+      <Sentence char_offsets="3165:3252" id="17" />
+      <Sentence char_offsets="3263:3479" id="18" />
+      <Sentence char_offsets="3481:3554" id="19" />
+      <Sentence char_offsets="3565:3675" id="20" />
+      <Sentence char_offsets="3677:3740" id="21" />
+      <Sentence char_offsets="3751:3878" id="22" />
+      <Sentence char_offsets="3880:4007" id="23" />
+      <Sentence char_offsets="4018:4298" id="24" />
+      <Sentence char_offsets="4309:4465" id="25" />
+      <Sentence char_offsets="4476:4481" id="26" />
+      <Sentence char_offsets="4492:4623" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="current" type="042">
+        <Participant actor_id="37360" actor_name="USS John C. Stennis" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="224" agent_name="Naval Base" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="120">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="current" type="043">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="224" agent_name="Naval Base" role="Source" />
+        <Participant actor_id="37360" actor_name="USS John C. Stennis" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

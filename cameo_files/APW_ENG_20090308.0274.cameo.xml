@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0274">
+    <Sentences>
+      <Sentence char_offsets="184:357" id="0" />
+      <Sentence char_offsets="368:586" id="1" />
+      <Sentence char_offsets="588:676" id="2" />
+      <Sentence char_offsets="687:811" id="3" />
+      <Sentence char_offsets="822:989" id="4" />
+      <Sentence char_offsets="1000:1148" id="5" />
+      <Sentence char_offsets="1159:1264" id="6" />
+      <Sentence char_offsets="1275:1337" id="7" />
+      <Sentence char_offsets="1339:1423" id="8" />
+      <Sentence char_offsets="1434:1536" id="9" />
+      <Sentence char_offsets="1547:1677" id="10" />
+      <Sentence char_offsets="1679:1761" id="11" />
+      <Sentence char_offsets="1772:1876" id="12" />
+      <Sentence char_offsets="1887:1995" id="13" />
+      <Sentence char_offsets="2006:2055" id="14" />
+      <Sentence char_offsets="2057:2261" id="15" />
+      <Sentence char_offsets="2272:2342" id="16" />
+      <Sentence char_offsets="2353:2488" id="17" />
+      <Sentence char_offsets="2499:2557" id="18" />
+      <Sentence char_offsets="2568:2702" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

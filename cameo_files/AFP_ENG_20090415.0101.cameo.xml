@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0101">
+    <Sentences>
+      <Sentence char_offsets="192:396" id="0" />
+      <Sentence char_offsets="407:690" id="1" />
+      <Sentence char_offsets="701:819" id="2" />
+      <Sentence char_offsets="830:957" id="3" />
+      <Sentence char_offsets="959:1045" id="4" />
+      <Sentence char_offsets="1056:1221" id="5" />
+      <Sentence char_offsets="1232:1299" id="6" />
+      <Sentence char_offsets="1310:1474" id="7" />
+      <Sentence char_offsets="1485:1750" id="8" />
+      <Sentence char_offsets="1761:2020" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="38417" actor_name="Halliburton" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="current" type="042">
+        <Participant actor_id="120698" actor_name="Michael Kaase Aondoakaa" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="current" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="120698" actor_name="Michael Kaase Aondoakaa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

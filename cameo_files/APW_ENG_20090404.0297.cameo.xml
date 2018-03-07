@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0297">
+    <Sentences>
+      <Sentence char_offsets="187:411" id="0" />
+      <Sentence char_offsets="422:616" id="1" />
+      <Sentence char_offsets="627:806" id="2" />
+      <Sentence char_offsets="817:1119" id="3" />
+      <Sentence char_offsets="1130:1223" id="4" />
+      <Sentence char_offsets="1234:1402" id="5" />
+      <Sentence char_offsets="1404:1430" id="6" />
+      <Sentence char_offsets="1441:1633" id="7" />
+      <Sentence char_offsets="1644:1798" id="8" />
+      <Sentence char_offsets="1809:2005" id="9" />
+      <Sentence char_offsets="2016:2084" id="10" />
+      <Sentence char_offsets="2095:2186" id="11" />
+      <Sentence char_offsets="2197:2344" id="12" />
+      <Sentence char_offsets="2346:2458" id="13" />
+      <Sentence char_offsets="2460:2487" id="14" />
+      <Sentence char_offsets="2498:2597" id="15" />
+      <Sentence char_offsets="2608:2716" id="16" />
+      <Sentence char_offsets="2727:2826" id="17" />
+      <Sentence char_offsets="2837:3038" id="18" />
+      <Sentence char_offsets="3049:3054" id="19" />
+      <Sentence char_offsets="3065:3133" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="013">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="1121">
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="historical" type="160">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="160">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

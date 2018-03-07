@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1402">
+    <Sentences>
+      <Sentence char_offsets="200:404" id="0" />
+      <Sentence char_offsets="415:514" id="1" />
+      <Sentence char_offsets="516:674" id="2" />
+      <Sentence char_offsets="685:744" id="3" />
+      <Sentence char_offsets="746:788" id="4" />
+      <Sentence char_offsets="789:811" id="5" />
+      <Sentence char_offsets="822:901" id="6" />
+      <Sentence char_offsets="903:1079" id="7" />
+      <Sentence char_offsets="1090:1152" id="8" />
+      <Sentence char_offsets="1154:1207" id="9" />
+      <Sentence char_offsets="1218:1416" id="10" />
+      <Sentence char_offsets="1427:1534" id="11" />
+      <Sentence char_offsets="1545:1717" id="12" />
+      <Sentence char_offsets="1728:2059" id="13" />
+      <Sentence char_offsets="2070:2184" id="14" />
+      <Sentence char_offsets="2195:2347" id="15" />
+      <Sentence char_offsets="2358:2434" id="16" />
+      <Sentence char_offsets="2445:2483" id="17" />
+      <Sentence char_offsets="2485:2570" id="18" />
+      <Sentence char_offsets="2581:2660" id="19" />
+      <Sentence char_offsets="2671:2708" id="20" />
+      <Sentence char_offsets="2710:2808" id="21" />
+      <Sentence char_offsets="2819:2914" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="29529" actor_name="Rush Limbaugh" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="013">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="29529" actor_name="Rush Limbaugh" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

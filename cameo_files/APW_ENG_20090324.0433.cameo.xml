@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0433">
+    <Sentences>
+      <Sentence char_offsets="184:396" id="0" />
+      <Sentence char_offsets="407:598" id="1" />
+      <Sentence char_offsets="609:837" id="2" />
+      <Sentence char_offsets="848:951" id="3" />
+      <Sentence char_offsets="962:1107" id="4" />
+      <Sentence char_offsets="1118:1335" id="5" />
+      <Sentence char_offsets="1346:1429" id="6" />
+      <Sentence char_offsets="1431:1586" id="7" />
+      <Sentence char_offsets="1597:1762" id="8" />
+      <Sentence char_offsets="1773:1842" id="9" />
+      <Sentence char_offsets="1844:1985" id="10" />
+      <Sentence char_offsets="1996:2091" id="11" />
+      <Sentence char_offsets="2102:2237" id="12" />
+      <Sentence char_offsets="2239:2412" id="13" />
+      <Sentence char_offsets="2423:2645" id="14" />
+      <Sentence char_offsets="2656:2789" id="15" />
+      <Sentence char_offsets="2791:2853" id="16" />
+      <Sentence char_offsets="2864:2945" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="32631" actor_name="China" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="173">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="historical" type="173">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="175">
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="175">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="17" agent_name="Human Rights Activist" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="12" tense="historical" type="180">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

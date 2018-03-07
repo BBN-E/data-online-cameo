@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0742">
+    <Sentences>
+      <Sentence char_offsets="184:367" id="0" />
+      <Sentence char_offsets="378:560" id="1" />
+      <Sentence char_offsets="571:801" id="2" />
+      <Sentence char_offsets="812:1066" id="3" />
+      <Sentence char_offsets="1077:1287" id="4" />
+      <Sentence char_offsets="1298:1476" id="5" />
+      <Sentence char_offsets="1487:1588" id="6" />
+      <Sentence char_offsets="1599:1685" id="7" />
+      <Sentence char_offsets="1696:1806" id="8" />
+      <Sentence char_offsets="1808:1899" id="9" />
+      <Sentence char_offsets="1910:2129" id="10" />
+      <Sentence char_offsets="2140:2369" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

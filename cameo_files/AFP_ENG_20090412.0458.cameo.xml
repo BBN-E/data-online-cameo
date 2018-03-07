@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0458">
+    <Sentences>
+      <Sentence char_offsets="185:350" id="0" />
+      <Sentence char_offsets="361:637" id="1" />
+      <Sentence char_offsets="648:790" id="2" />
+      <Sentence char_offsets="801:961" id="3" />
+      <Sentence char_offsets="972:1199" id="4" />
+      <Sentence char_offsets="1210:1373" id="5" />
+      <Sentence char_offsets="1384:1534" id="6" />
+      <Sentence char_offsets="1545:1705" id="7" />
+      <Sentence char_offsets="1716:1911" id="8" />
+      <Sentence char_offsets="1922:1971" id="9" />
+      <Sentence char_offsets="1973:2040" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="4800" actor_name="Antero Flores-Araoz" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="190">
+        <Participant actor_id="3200" actor_name="Shining Path" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

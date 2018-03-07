@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0288">
+    <Sentences>
+      <Sentence char_offsets="194:379" id="0" />
+      <Sentence char_offsets="390:502" id="1" />
+      <Sentence char_offsets="504:637" id="2" />
+      <Sentence char_offsets="648:839" id="3" />
+      <Sentence char_offsets="850:1083" id="4" />
+      <Sentence char_offsets="1094:1336" id="5" />
+      <Sentence char_offsets="1347:1547" id="6" />
+      <Sentence char_offsets="1558:1696" id="7" />
+      <Sentence char_offsets="1707:1917" id="8" />
+      <Sentence char_offsets="1928:2037" id="9" />
+      <Sentence char_offsets="2048:2245" id="10" />
+      <Sentence char_offsets="2256:2475" id="11" />
+      <Sentence char_offsets="2486:2716" id="12" />
+      <Sentence char_offsets="2727:2845" id="13" />
+      <Sentence char_offsets="2856:2879" id="14" />
+      <Sentence char_offsets="2881:3004" id="15" />
+      <Sentence char_offsets="3015:3180" id="16" />
+      <Sentence char_offsets="3191:3278" id="17" />
+      <Sentence char_offsets="3289:3373" id="18" />
+      <Sentence char_offsets="3375:3474" id="19" />
+      <Sentence char_offsets="3476:3514" id="20" />
+      <Sentence char_offsets="3525:3691" id="21" />
+      <Sentence char_offsets="3702:3744" id="22" />
+      <Sentence char_offsets="3746:3780" id="23" />
+      <Sentence char_offsets="3782:3823" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

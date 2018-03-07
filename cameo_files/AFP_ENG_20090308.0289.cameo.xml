@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0289">
+    <Sentences>
+      <Sentence char_offsets="158:191" id="0" />
+      <Sentence char_offsets="194:209" id="1" />
+      <Sentence char_offsets="212:390" id="2" />
+      <Sentence char_offsets="393:410" id="3" />
+      <Sentence char_offsets="413:610" id="4" />
+      <Sentence char_offsets="613:643" id="5" />
+      <Sentence char_offsets="646:833" id="6" />
+      <Sentence char_offsets="836:863" id="7" />
+      <Sentence char_offsets="866:1050" id="8" />
+      <Sentence char_offsets="1053:1063" id="9" />
+      <Sentence char_offsets="1066:1071" id="10" />
+      <Sentence char_offsets="1074:1258" id="11" />
+      <Sentence char_offsets="1261:1301" id="12" />
+      <Sentence char_offsets="1304:1480" id="13" />
+      <Sentence char_offsets="1483:1520" id="14" />
+      <Sentence char_offsets="1523:1677" id="15" />
+      <Sentence char_offsets="1680:1710" id="16" />
+      <Sentence char_offsets="1713:1920" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

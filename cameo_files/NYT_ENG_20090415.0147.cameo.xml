@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090415.0147">
+    <Sentences>
+      <Sentence char_offsets="163:298" id="0" />
+      <Sentence char_offsets="309:345" id="1" />
+      <Sentence char_offsets="347:454" id="2" />
+      <Sentence char_offsets="456:521" id="3" />
+      <Sentence char_offsets="523:686" id="4" />
+      <Sentence char_offsets="697:787" id="5" />
+      <Sentence char_offsets="789:969" id="6" />
+      <Sentence char_offsets="980:1103" id="7" />
+      <Sentence char_offsets="1105:1224" id="8" />
+      <Sentence char_offsets="1235:1342" id="9" />
+      <Sentence char_offsets="1344:1446" id="10" />
+      <Sentence char_offsets="1448:1558" id="11" />
+      <Sentence char_offsets="1569:1657" id="12" />
+      <Sentence char_offsets="1659:1839" id="13" />
+      <Sentence char_offsets="1850:2030" id="14" />
+      <Sentence char_offsets="2032:2125" id="15" />
+      <Sentence char_offsets="2127:2227" id="16" />
+      <Sentence char_offsets="2238:2352" id="17" />
+      <Sentence char_offsets="2354:2498" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

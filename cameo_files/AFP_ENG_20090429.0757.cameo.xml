@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0757">
+    <Sentences>
+      <Sentence char_offsets="183:372" id="0" />
+      <Sentence char_offsets="383:591" id="1" />
+      <Sentence char_offsets="602:822" id="2" />
+      <Sentence char_offsets="833:916" id="3" />
+      <Sentence char_offsets="927:1122" id="4" />
+      <Sentence char_offsets="1133:1248" id="5" />
+      <Sentence char_offsets="1259:1456" id="6" />
+      <Sentence char_offsets="1467:1565" id="7" />
+      <Sentence char_offsets="1567:1641" id="8" />
+      <Sentence char_offsets="1652:1865" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="190">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

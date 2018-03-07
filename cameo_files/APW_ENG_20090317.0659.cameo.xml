@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0659">
+    <Sentences>
+      <Sentence char_offsets="185:388" id="0" />
+      <Sentence char_offsets="399:527" id="1" />
+      <Sentence char_offsets="529:560" id="2" />
+      <Sentence char_offsets="571:816" id="3" />
+      <Sentence char_offsets="827:912" id="4" />
+      <Sentence char_offsets="923:1119" id="5" />
+      <Sentence char_offsets="1130:1312" id="6" />
+      <Sentence char_offsets="1323:1458" id="7" />
+      <Sentence char_offsets="1469:1727" id="8" />
+      <Sentence char_offsets="1738:1897" id="9" />
+      <Sentence char_offsets="1908:2097" id="10" />
+      <Sentence char_offsets="2108:2363" id="11" />
+      <Sentence char_offsets="2374:2629" id="12" />
+      <Sentence char_offsets="2640:2767" id="13" />
+      <Sentence char_offsets="2769:2921" id="14" />
+      <Sentence char_offsets="2932:3147" id="15" />
+      <Sentence char_offsets="3158:3294" id="16" />
+      <Sentence char_offsets="3305:3539" id="17" />
+      <Sentence char_offsets="3550:3586" id="18" />
+      <Sentence char_offsets="3588:3653" id="19" />
+      <Sentence char_offsets="3664:3673" id="20" />
+      <Sentence char_offsets="3684:3739" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

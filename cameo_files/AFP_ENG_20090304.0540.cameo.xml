@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0540">
+    <Sentences>
+      <Sentence char_offsets="184:380" id="0" />
+      <Sentence char_offsets="391:562" id="1" />
+      <Sentence char_offsets="573:644" id="2" />
+      <Sentence char_offsets="646:712" id="3" />
+      <Sentence char_offsets="723:904" id="4" />
+      <Sentence char_offsets="915:1071" id="5" />
+      <Sentence char_offsets="1082:1215" id="6" />
+      <Sentence char_offsets="1226:1422" id="7" />
+      <Sentence char_offsets="1433:1609" id="8" />
+      <Sentence char_offsets="1620:1829" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

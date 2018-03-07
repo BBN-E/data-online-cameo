@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0702">
+    <Sentences>
+      <Sentence char_offsets="186:330" id="0" />
+      <Sentence char_offsets="341:556" id="1" />
+      <Sentence char_offsets="567:761" id="2" />
+      <Sentence char_offsets="772:900" id="3" />
+      <Sentence char_offsets="902:996" id="4" />
+      <Sentence char_offsets="998:1054" id="5" />
+      <Sentence char_offsets="1065:1162" id="6" />
+      <Sentence char_offsets="1164:1225" id="7" />
+      <Sentence char_offsets="1236:1374" id="8" />
+      <Sentence char_offsets="1385:1535" id="9" />
+      <Sentence char_offsets="1546:1711" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="34958" actor_name="Clarence Thomas" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="173">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="173">
+        <Participant actor_id="34958" actor_name="Clarence Thomas" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

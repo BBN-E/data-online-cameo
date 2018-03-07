@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0072">
+    <Sentences>
+      <Sentence char_offsets="199:379" id="0" />
+      <Sentence char_offsets="390:533" id="1" />
+      <Sentence char_offsets="544:765" id="2" />
+      <Sentence char_offsets="776:997" id="3" />
+      <Sentence char_offsets="1008:1120" id="4" />
+      <Sentence char_offsets="1131:1239" id="5" />
+      <Sentence char_offsets="1250:1443" id="6" />
+      <Sentence char_offsets="1454:1630" id="7" />
+      <Sentence char_offsets="1641:1861" id="8" />
+      <Sentence char_offsets="1872:2006" id="9" />
+      <Sentence char_offsets="2017:2238" id="10" />
+      <Sentence char_offsets="2249:2440" id="11" />
+      <Sentence char_offsets="2451:2663" id="12" />
+      <Sentence char_offsets="2674:2968" id="13" />
+      <Sentence char_offsets="2979:3179" id="14" />
+      <Sentence char_offsets="3190:3300" id="15" />
+      <Sentence char_offsets="3311:3442" id="16" />
+      <Sentence char_offsets="3444:3524" id="17" />
+      <Sentence char_offsets="3535:3705" id="18" />
+      <Sentence char_offsets="3716:3944" id="19" />
+      <Sentence char_offsets="3955:4144" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="036">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

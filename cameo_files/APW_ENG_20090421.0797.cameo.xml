@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0797">
+    <Sentences>
+      <Sentence char_offsets="189:378" id="0" />
+      <Sentence char_offsets="389:593" id="1" />
+      <Sentence char_offsets="604:701" id="2" />
+      <Sentence char_offsets="703:736" id="3" />
+      <Sentence char_offsets="738:871" id="4" />
+      <Sentence char_offsets="882:1040" id="5" />
+      <Sentence char_offsets="1051:1231" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="historical" type="010">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

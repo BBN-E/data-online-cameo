@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0611">
+    <Sentences>
+      <Sentence char_offsets="167:361" id="0" />
+      <Sentence char_offsets="372:561" id="1" />
+      <Sentence char_offsets="572:688" id="2" />
+      <Sentence char_offsets="699:899" id="3" />
+      <Sentence char_offsets="910:1134" id="4" />
+      <Sentence char_offsets="1145:1268" id="5" />
+      <Sentence char_offsets="1279:1336" id="6" />
+      <Sentence char_offsets="1338:1490" id="7" />
+      <Sentence char_offsets="1501:1672" id="8" />
+      <Sentence char_offsets="1683:1784" id="9" />
+      <Sentence char_offsets="1795:1861" id="10" />
+      <Sentence char_offsets="1863:1933" id="11" />
+      <Sentence char_offsets="1944:2086" id="12" />
+      <Sentence char_offsets="2097:2160" id="13" />
+      <Sentence char_offsets="2171:2326" id="14" />
+      <Sentence char_offsets="2337:2426" id="15" />
+      <Sentence char_offsets="2428:2575" id="16" />
+      <Sentence char_offsets="2586:2705" id="17" />
+      <Sentence char_offsets="2716:2801" id="18" />
+      <Sentence char_offsets="2812:2936" id="19" />
+      <Sentence char_offsets="2938:3032" id="20" />
+      <Sentence char_offsets="3043:3139" id="21" />
+      <Sentence char_offsets="3150:3340" id="22" />
+      <Sentence char_offsets="3351:3535" id="23" />
+      <Sentence char_offsets="3546:3674" id="24" />
+      <Sentence char_offsets="3685:3773" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="046">
+        <Participant actor_id="30657" actor_name="Elton Mangoma" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="050">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="046">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="30657" actor_name="Elton Mangoma" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

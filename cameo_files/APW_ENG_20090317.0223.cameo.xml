@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0223">
+    <Sentences>
+      <Sentence char_offsets="191:376" id="0" />
+      <Sentence char_offsets="387:619" id="1" />
+      <Sentence char_offsets="621:661" id="2" />
+      <Sentence char_offsets="672:836" id="3" />
+      <Sentence char_offsets="847:998" id="4" />
+      <Sentence char_offsets="1009:1104" id="5" />
+      <Sentence char_offsets="1106:1191" id="6" />
+      <Sentence char_offsets="1202:1290" id="7" />
+      <Sentence char_offsets="1292:1404" id="8" />
+      <Sentence char_offsets="1415:1562" id="9" />
+      <Sentence char_offsets="1573:1811" id="10" />
+      <Sentence char_offsets="1822:1910" id="11" />
+      <Sentence char_offsets="1921:1981" id="12" />
+      <Sentence char_offsets="1983:2081" id="13" />
+      <Sentence char_offsets="2083:2220" id="14" />
+      <Sentence char_offsets="2231:2439" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="32544" actor_name="Stephen Smith" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="014">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="historical" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="historical" type="192">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="historical" type="043">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

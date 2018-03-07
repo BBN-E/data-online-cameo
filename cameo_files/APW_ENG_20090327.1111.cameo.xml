@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090327.1111">
+    <Sentences>
+      <Sentence char_offsets="185:382" id="0" />
+      <Sentence char_offsets="393:626" id="1" />
+      <Sentence char_offsets="637:884" id="2" />
+      <Sentence char_offsets="895:1186" id="3" />
+      <Sentence char_offsets="1197:1296" id="4" />
+      <Sentence char_offsets="1298:1466" id="5" />
+      <Sentence char_offsets="1477:1619" id="6" />
+      <Sentence char_offsets="1621:1724" id="7" />
+      <Sentence char_offsets="1735:1919" id="8" />
+      <Sentence char_offsets="1921:1997" id="9" />
+      <Sentence char_offsets="2008:2191" id="10" />
+      <Sentence char_offsets="2202:2447" id="11" />
+      <Sentence char_offsets="2458:2546" id="12" />
+      <Sentence char_offsets="2557:2714" id="13" />
+      <Sentence char_offsets="2716:2863" id="14" />
+      <Sentence char_offsets="2874:2884" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="111">
+        <Participant actor_id="30701" actor_name="France" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="361" agent_name="Jew" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

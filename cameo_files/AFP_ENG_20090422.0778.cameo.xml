@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0778">
+    <Sentences>
+      <Sentence char_offsets="200:404" id="0" />
+      <Sentence char_offsets="415:653" id="1" />
+      <Sentence char_offsets="664:862" id="2" />
+      <Sentence char_offsets="873:1027" id="3" />
+      <Sentence char_offsets="1038:1297" id="4" />
+      <Sentence char_offsets="1308:1505" id="5" />
+      <Sentence char_offsets="1516:1708" id="6" />
+      <Sentence char_offsets="1719:1890" id="7" />
+      <Sentence char_offsets="1901:2127" id="8" />
+      <Sentence char_offsets="2138:2358" id="9" />
+      <Sentence char_offsets="2369:2601" id="10" />
+      <Sentence char_offsets="2612:2767" id="11" />
+      <Sentence char_offsets="2778:2944" id="12" />
+      <Sentence char_offsets="2955:3220" id="13" />
+      <Sentence char_offsets="3231:3466" id="14" />
+      <Sentence char_offsets="3477:3567" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="313" agent_name="Environment Department/Ministry" role="Source" />
+        <Participant actor_id="232597" actor_name="Sicily" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="232597" actor_name="Sicily" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

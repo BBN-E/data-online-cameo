@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0565">
+    <Sentences>
+      <Sentence char_offsets="193:404" id="0" />
+      <Sentence char_offsets="415:675" id="1" />
+      <Sentence char_offsets="686:789" id="2" />
+      <Sentence char_offsets="791:885" id="3" />
+      <Sentence char_offsets="896:1015" id="4" />
+      <Sentence char_offsets="1026:1207" id="5" />
+      <Sentence char_offsets="1218:1325" id="6" />
+      <Sentence char_offsets="1327:1398" id="7" />
+      <Sentence char_offsets="1400:1454" id="8" />
+      <Sentence char_offsets="1465:1578" id="9" />
+      <Sentence char_offsets="1589:1816" id="10" />
+      <Sentence char_offsets="1818:1905" id="11" />
+      <Sentence char_offsets="1916:1977" id="12" />
+      <Sentence char_offsets="1988:2170" id="13" />
+      <Sentence char_offsets="2181:2362" id="14" />
+      <Sentence char_offsets="2373:2576" id="15" />
+      <Sentence char_offsets="2578:2664" id="16" />
+      <Sentence char_offsets="2675:2755" id="17" />
+      <Sentence char_offsets="2766:2915" id="18" />
+      <Sentence char_offsets="2926:2992" id="19" />
+      <Sentence char_offsets="2994:3147" id="20" />
+      <Sentence char_offsets="3158:3298" id="21" />
+      <Sentence char_offsets="3309:3434" id="22" />
+      <Sentence char_offsets="3445:3489" id="23" />
+      <Sentence char_offsets="3491:3552" id="24" />
+      <Sentence char_offsets="3554:3614" id="25" />
+      <Sentence char_offsets="3625:3731" id="26" />
+      <Sentence char_offsets="3733:3770" id="27" />
+      <Sentence char_offsets="3772:3792" id="28" />
+      <Sentence char_offsets="3794:3825" id="29" />
+      <Sentence char_offsets="3836:3996" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="051">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="112">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

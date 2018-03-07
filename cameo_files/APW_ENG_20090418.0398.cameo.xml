@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0398">
+    <Sentences>
+      <Sentence char_offsets="186:395" id="0" />
+      <Sentence char_offsets="406:537" id="1" />
+      <Sentence char_offsets="548:798" id="2" />
+      <Sentence char_offsets="809:970" id="3" />
+      <Sentence char_offsets="972:1089" id="4" />
+      <Sentence char_offsets="1100:1154" id="5" />
+      <Sentence char_offsets="1156:1221" id="6" />
+      <Sentence char_offsets="1232:1522" id="7" />
+      <Sentence char_offsets="1533:1670" id="8" />
+      <Sentence char_offsets="1681:1878" id="9" />
+      <Sentence char_offsets="1889:2002" id="10" />
+      <Sentence char_offsets="2004:2242" id="11" />
+      <Sentence char_offsets="2253:2470" id="12" />
+      <Sentence char_offsets="2481:2691" id="13" />
+      <Sentence char_offsets="2702:2864" id="14" />
+      <Sentence char_offsets="2875:2973" id="15" />
+      <Sentence char_offsets="2975:3064" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="7213" actor_name="Boris Efimovich Nemtsov" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="100">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="114">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="120">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="291" agent_name="Election Commission" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="291" agent_name="Election Commission" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

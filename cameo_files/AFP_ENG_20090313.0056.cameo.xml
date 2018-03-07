@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0056">
+    <Sentences>
+      <Sentence char_offsets="171:182" id="0" />
+      <Sentence char_offsets="184:194" id="1" />
+      <Sentence char_offsets="197:217" id="2" />
+      <Sentence char_offsets="220:264" id="3" />
+      <Sentence char_offsets="267:299" id="4" />
+      <Sentence char_offsets="302:397" id="5" />
+      <Sentence char_offsets="399:418" id="6" />
+      <Sentence char_offsets="420:435" id="7" />
+      <Sentence char_offsets="437:458" id="8" />
+      <Sentence char_offsets="461:630" id="9" />
+      <Sentence char_offsets="632:650" id="10" />
+      <Sentence char_offsets="652:667" id="11" />
+      <Sentence char_offsets="669:692" id="12" />
+      <Sentence char_offsets="695:848" id="13" />
+      <Sentence char_offsets="850:867" id="14" />
+      <Sentence char_offsets="870:931" id="15" />
+      <Sentence char_offsets="933:948" id="16" />
+      <Sentence char_offsets="950:968" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="54635" actor_name="Luiz Inacio Lula Da Silva" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

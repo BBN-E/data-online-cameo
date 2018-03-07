@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0132">
+    <Sentences>
+      <Sentence char_offsets="185:378" id="0" />
+      <Sentence char_offsets="389:614" id="1" />
+      <Sentence char_offsets="625:848" id="2" />
+      <Sentence char_offsets="859:971" id="3" />
+      <Sentence char_offsets="973:1063" id="4" />
+      <Sentence char_offsets="1074:1274" id="5" />
+      <Sentence char_offsets="1285:1536" id="6" />
+      <Sentence char_offsets="1547:1636" id="7" />
+      <Sentence char_offsets="1638:1804" id="8" />
+      <Sentence char_offsets="1815:1923" id="9" />
+      <Sentence char_offsets="1925:1991" id="10" />
+      <Sentence char_offsets="2002:2205" id="11" />
+      <Sentence char_offsets="2216:2360" id="12" />
+      <Sentence char_offsets="2371:2489" id="13" />
+      <Sentence char_offsets="2491:2630" id="14" />
+      <Sentence char_offsets="2641:2751" id="15" />
+      <Sentence char_offsets="2762:2951" id="16" />
+      <Sentence char_offsets="2962:3133" id="17" />
+      <Sentence char_offsets="3144:3369" id="18" />
+      <Sentence char_offsets="3380:3626" id="19" />
+      <Sentence char_offsets="3637:3820" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="1246">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

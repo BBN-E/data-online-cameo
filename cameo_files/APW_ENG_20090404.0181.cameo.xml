@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0181">
+    <Sentences>
+      <Sentence char_offsets="201:373" id="0" />
+      <Sentence char_offsets="384:499" id="1" />
+      <Sentence char_offsets="501:593" id="2" />
+      <Sentence char_offsets="604:795" id="3" />
+      <Sentence char_offsets="806:901" id="4" />
+      <Sentence char_offsets="912:974" id="5" />
+      <Sentence char_offsets="976:1045" id="6" />
+      <Sentence char_offsets="1056:1176" id="7" />
+      <Sentence char_offsets="1178:1281" id="8" />
+      <Sentence char_offsets="1292:1451" id="9" />
+      <Sentence char_offsets="1453:1537" id="10" />
+      <Sentence char_offsets="1548:1656" id="11" />
+      <Sentence char_offsets="1658:1800" id="12" />
+      <Sentence char_offsets="1811:1963" id="13" />
+      <Sentence char_offsets="1965:2017" id="14" />
+      <Sentence char_offsets="2028:2170" id="15" />
+      <Sentence char_offsets="2172:2221" id="16" />
+      <Sentence char_offsets="2232:2359" id="17" />
+      <Sentence char_offsets="2370:2540" id="18" />
+      <Sentence char_offsets="2551:2617" id="19" />
+      <Sentence char_offsets="2619:2729" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="051">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="081">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="519" agent_name="Opposition Newspaper" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Source" />
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

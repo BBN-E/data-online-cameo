@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.1266">
+    <Sentences>
+      <Sentence char_offsets="199:396" id="0" />
+      <Sentence char_offsets="407:559" id="1" />
+      <Sentence char_offsets="570:747" id="2" />
+      <Sentence char_offsets="758:870" id="3" />
+      <Sentence char_offsets="872:1054" id="4" />
+      <Sentence char_offsets="1065:1155" id="5" />
+      <Sentence char_offsets="1157:1295" id="6" />
+      <Sentence char_offsets="1306:1411" id="7" />
+      <Sentence char_offsets="1422:1764" id="8" />
+      <Sentence char_offsets="1775:1931" id="9" />
+      <Sentence char_offsets="1933:1956" id="10" />
+      <Sentence char_offsets="1967:2112" id="11" />
+      <Sentence char_offsets="2114:2181" id="12" />
+      <Sentence char_offsets="2192:2409" id="13" />
+      <Sentence char_offsets="2420:2546" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="46781" actor_name="Ahmed Aboul Gheit" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="112">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="112">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1118">
+    <Sentences>
+      <Sentence char_offsets="184:351" id="0" />
+      <Sentence char_offsets="362:496" id="1" />
+      <Sentence char_offsets="507:578" id="2" />
+      <Sentence char_offsets="580:688" id="3" />
+      <Sentence char_offsets="690:830" id="4" />
+      <Sentence char_offsets="841:921" id="5" />
+      <Sentence char_offsets="923:1001" id="6" />
+      <Sentence char_offsets="1012:1210" id="7" />
+      <Sentence char_offsets="1221:1430" id="8" />
+      <Sentence char_offsets="1441:1594" id="9" />
+      <Sentence char_offsets="1605:1745" id="10" />
+      <Sentence char_offsets="1756:1915" id="11" />
+      <Sentence char_offsets="1926:2008" id="12" />
+      <Sentence char_offsets="2010:2142" id="13" />
+      <Sentence char_offsets="2153:2355" id="14" />
+      <Sentence char_offsets="2366:2496" id="15" />
+      <Sentence char_offsets="2498:2688" id="16" />
+      <Sentence char_offsets="2699:2809" id="17" />
+      <Sentence char_offsets="2811:2916" id="18" />
+      <Sentence char_offsets="2927:2932" id="19" />
+      <Sentence char_offsets="2943:3045" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="020">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

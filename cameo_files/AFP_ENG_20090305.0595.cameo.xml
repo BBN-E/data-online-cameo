@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0595">
+    <Sentences>
+      <Sentence char_offsets="180:370" id="0" />
+      <Sentence char_offsets="381:553" id="1" />
+      <Sentence char_offsets="564:768" id="2" />
+      <Sentence char_offsets="779:935" id="3" />
+      <Sentence char_offsets="946:1173" id="4" />
+      <Sentence char_offsets="1184:1305" id="5" />
+      <Sentence char_offsets="1316:1472" id="6" />
+      <Sentence char_offsets="1483:1634" id="7" />
+      <Sentence char_offsets="1645:1887" id="8" />
+      <Sentence char_offsets="1898:2057" id="9" />
+      <Sentence char_offsets="2068:2232" id="10" />
+      <Sentence char_offsets="2243:2393" id="11" />
+      <Sentence char_offsets="2404:2513" id="12" />
+      <Sentence char_offsets="2524:2681" id="13" />
+      <Sentence char_offsets="2692:2808" id="14" />
+      <Sentence char_offsets="2819:2965" id="15" />
+      <Sentence char_offsets="2967:3020" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="53079" actor_name="African Union" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="051">
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="39010" actor_name="South Africa" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="1313">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

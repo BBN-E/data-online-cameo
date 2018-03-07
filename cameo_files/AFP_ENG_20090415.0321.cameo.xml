@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0321">
+    <Sentences>
+      <Sentence char_offsets="183:366" id="0" />
+      <Sentence char_offsets="377:638" id="1" />
+      <Sentence char_offsets="649:834" id="2" />
+      <Sentence char_offsets="845:1067" id="3" />
+      <Sentence char_offsets="1078:1162" id="4" />
+      <Sentence char_offsets="1173:1295" id="5" />
+      <Sentence char_offsets="1306:1427" id="6" />
+      <Sentence char_offsets="1438:1531" id="7" />
+      <Sentence char_offsets="1542:1693" id="8" />
+      <Sentence char_offsets="1704:1886" id="9" />
+      <Sentence char_offsets="1897:2048" id="10" />
+      <Sentence char_offsets="2059:2101" id="11" />
+      <Sentence char_offsets="2112:2304" id="12" />
+      <Sentence char_offsets="2315:2480" id="13" />
+      <Sentence char_offsets="2491:2599" id="14" />
+      <Sentence char_offsets="2610:2723" id="15" />
+      <Sentence char_offsets="2734:2848" id="16" />
+      <Sentence char_offsets="2859:3040" id="17" />
+      <Sentence char_offsets="3051:3141" id="18" />
+      <Sentence char_offsets="3152:3264" id="19" />
+      <Sentence char_offsets="3275:3454" id="20" />
+      <Sentence char_offsets="3465:3680" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="current" type="010">
+        <Participant actor_id="2269" actor_name="Gholam Hossein Nozari" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

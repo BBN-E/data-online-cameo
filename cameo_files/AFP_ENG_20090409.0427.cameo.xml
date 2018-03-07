@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0427">
+    <Sentences>
+      <Sentence char_offsets="176:362" id="0" />
+      <Sentence char_offsets="373:514" id="1" />
+      <Sentence char_offsets="525:709" id="2" />
+      <Sentence char_offsets="720:925" id="3" />
+      <Sentence char_offsets="936:976" id="4" />
+      <Sentence char_offsets="978:1094" id="5" />
+      <Sentence char_offsets="1105:1207" id="6" />
+      <Sentence char_offsets="1218:1286" id="7" />
+      <Sentence char_offsets="1297:1429" id="8" />
+      <Sentence char_offsets="1440:1552" id="9" />
+      <Sentence char_offsets="1563:1616" id="10" />
+      <Sentence char_offsets="1627:1764" id="11" />
+      <Sentence char_offsets="1775:1885" id="12" />
+      <Sentence char_offsets="1896:2038" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="14754" actor_name="Bakili Muluzi" role="Source" />
+        <Participant actor_id="48610" actor_name="John Tembo" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="48610" actor_name="John Tembo" role="Source" />
+        <Participant actor_id="14754" actor_name="Bakili Muluzi" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="6786" actor_name="United Democratic Front" role="Source" />
+        <Participant actor_id="19633" actor_name="Hastings Kamuzu Banda" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="051">
+        <Participant actor_id="14754" actor_name="Bakili Muluzi" role="Source" />
+        <Participant actor_id="48610" actor_name="John Tembo" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

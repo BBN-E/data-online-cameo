@@ -1,0 +1,103 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0174">
+    <Sentences>
+      <Sentence char_offsets="195:394" id="0" />
+      <Sentence char_offsets="405:584" id="1" />
+      <Sentence char_offsets="586:698" id="2" />
+      <Sentence char_offsets="709:961" id="3" />
+      <Sentence char_offsets="972:1220" id="4" />
+      <Sentence char_offsets="1231:1484" id="5" />
+      <Sentence char_offsets="1495:1723" id="6" />
+      <Sentence char_offsets="1734:1822" id="7" />
+      <Sentence char_offsets="1833:1983" id="8" />
+      <Sentence char_offsets="1985:2062" id="9" />
+      <Sentence char_offsets="2073:2197" id="10" />
+      <Sentence char_offsets="2199:2359" id="11" />
+      <Sentence char_offsets="2370:2428" id="12" />
+      <Sentence char_offsets="2439:2558" id="13" />
+      <Sentence char_offsets="2560:2636" id="14" />
+      <Sentence char_offsets="2647:2879" id="15" />
+      <Sentence char_offsets="2881:3072" id="16" />
+      <Sentence char_offsets="3083:3313" id="17" />
+      <Sentence char_offsets="3324:3424" id="18" />
+      <Sentence char_offsets="3435:3662" id="19" />
+      <Sentence char_offsets="3673:3791" id="20" />
+      <Sentence char_offsets="3802:4008" id="21" />
+      <Sentence char_offsets="4010:4124" id="22" />
+      <Sentence char_offsets="4135:4140" id="23" />
+      <Sentence char_offsets="4151:4334" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="neutral" type="013">
+        <Participant actor_id="5958" actor_name="Yu Myung Hwan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="032">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="032">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="31254" actor_name="International Atomic Energy Agency" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="3" tense="neutral" type="051">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="15" tense="current" type="111">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="17" tense="neutral" type="111">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="31105" actor_name="International" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="0" tense="neutral" type="1661">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31254" actor_name="International Atomic Energy Agency" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

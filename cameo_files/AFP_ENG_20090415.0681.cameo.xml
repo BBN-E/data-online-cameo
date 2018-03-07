@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0681">
+    <Sentences>
+      <Sentence char_offsets="178:358" id="0" />
+      <Sentence char_offsets="369:479" id="1" />
+      <Sentence char_offsets="481:582" id="2" />
+      <Sentence char_offsets="593:804" id="3" />
+      <Sentence char_offsets="815:1006" id="4" />
+      <Sentence char_offsets="1017:1159" id="5" />
+      <Sentence char_offsets="1170:1291" id="6" />
+      <Sentence char_offsets="1293:1352" id="7" />
+      <Sentence char_offsets="1363:1563" id="8" />
+      <Sentence char_offsets="1574:1789" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="39387" actor_name="Panasonic" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

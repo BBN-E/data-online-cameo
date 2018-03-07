@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1281">
+    <Sentences>
+      <Sentence char_offsets="171:392" id="0" />
+      <Sentence char_offsets="403:703" id="1" />
+      <Sentence char_offsets="714:910" id="2" />
+      <Sentence char_offsets="921:1022" id="3" />
+      <Sentence char_offsets="1024:1077" id="4" />
+      <Sentence char_offsets="1079:1112" id="5" />
+      <Sentence char_offsets="1123:1292" id="6" />
+      <Sentence char_offsets="1294:1438" id="7" />
+      <Sentence char_offsets="1449:1676" id="8" />
+      <Sentence char_offsets="1687:1883" id="9" />
+      <Sentence char_offsets="1894:2024" id="10" />
+      <Sentence char_offsets="2026:2108" id="11" />
+      <Sentence char_offsets="2119:2308" id="12" />
+      <Sentence char_offsets="2319:2457" id="13" />
+      <Sentence char_offsets="2468:2626" id="14" />
+      <Sentence char_offsets="2637:2762" id="15" />
+      <Sentence char_offsets="2773:2901" id="16" />
+      <Sentence char_offsets="2912:3189" id="17" />
+      <Sentence char_offsets="3200:3331" id="18" />
+      <Sentence char_offsets="3342:3497" id="19" />
+      <Sentence char_offsets="3508:3515" id="20" />
+      <Sentence char_offsets="3526:3647" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="36292" actor_name="Liechtenstein" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="36292" actor_name="Liechtenstein" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

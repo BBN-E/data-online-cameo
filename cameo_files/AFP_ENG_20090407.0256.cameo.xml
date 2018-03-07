@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0256">
+    <Sentences>
+      <Sentence char_offsets="181:365" id="0" />
+      <Sentence char_offsets="376:641" id="1" />
+      <Sentence char_offsets="652:738" id="2" />
+      <Sentence char_offsets="740:914" id="3" />
+      <Sentence char_offsets="925:1006" id="4" />
+      <Sentence char_offsets="1017:1085" id="5" />
+      <Sentence char_offsets="1087:1116" id="6" />
+      <Sentence char_offsets="1118:1137" id="7" />
+      <Sentence char_offsets="1139:1189" id="8" />
+      <Sentence char_offsets="1200:1229" id="9" />
+      <Sentence char_offsets="1231:1271" id="10" />
+      <Sentence char_offsets="1273:1291" id="11" />
+      <Sentence char_offsets="1293:1403" id="12" />
+      <Sentence char_offsets="1414:1561" id="13" />
+      <Sentence char_offsets="1572:1634" id="14" />
+      <Sentence char_offsets="1645:1760" id="15" />
+      <Sentence char_offsets="1771:1816" id="16" />
+      <Sentence char_offsets="1818:1853" id="17" />
+      <Sentence char_offsets="1855:1890" id="18" />
+      <Sentence char_offsets="1892:1955" id="19" />
+      <Sentence char_offsets="1957:2001" id="20" />
+      <Sentence char_offsets="2012:2147" id="21" />
+      <Sentence char_offsets="2158:2310" id="22" />
+      <Sentence char_offsets="2321:2418" id="23" />
+      <Sentence char_offsets="2429:2626" id="24" />
+      <Sentence char_offsets="2637:2776" id="25" />
+      <Sentence char_offsets="2787:2875" id="26" />
+      <Sentence char_offsets="2886:2918" id="27" />
+      <Sentence char_offsets="2920:2975" id="28" />
+      <Sentence char_offsets="2977:3031" id="29" />
+      <Sentence char_offsets="3042:3082" id="30" />
+      <Sentence char_offsets="3084:3139" id="31" />
+      <Sentence char_offsets="3150:3358" id="32" />
+      <Sentence char_offsets="3369:3537" id="33" />
+      <Sentence char_offsets="3548:3706" id="34" />
+      <Sentence char_offsets="3717:3883" id="35" />
+      <Sentence char_offsets="3894:4047" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="51578" actor_name="Paul Kagame" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="141">
+        <Participant actor_id="35390" actor_name="Rwanda" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

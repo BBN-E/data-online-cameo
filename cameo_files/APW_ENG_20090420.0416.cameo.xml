@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0416">
+    <Sentences>
+      <Sentence char_offsets="194:461" id="0" />
+      <Sentence char_offsets="472:570" id="1" />
+      <Sentence char_offsets="572:783" id="2" />
+      <Sentence char_offsets="794:1007" id="3" />
+      <Sentence char_offsets="1018:1216" id="4" />
+      <Sentence char_offsets="1227:1416" id="5" />
+      <Sentence char_offsets="1427:1566" id="6" />
+      <Sentence char_offsets="1577:1681" id="7" />
+      <Sentence char_offsets="1692:1881" id="8" />
+      <Sentence char_offsets="1892:2027" id="9" />
+      <Sentence char_offsets="2038:2247" id="10" />
+      <Sentence char_offsets="2249:2283" id="11" />
+      <Sentence char_offsets="2294:2406" id="12" />
+      <Sentence char_offsets="2417:2500" id="13" />
+      <Sentence char_offsets="2502:2556" id="14" />
+      <Sentence char_offsets="2567:2652" id="15" />
+      <Sentence char_offsets="2663:2856" id="16" />
+      <Sentence char_offsets="2867:3070" id="17" />
+      <Sentence char_offsets="3081:3319" id="18" />
+      <Sentence char_offsets="3330:3537" id="19" />
+      <Sentence char_offsets="3548:3687" id="20" />
+      <Sentence char_offsets="3689:3864" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="081">
+        <Participant actor_id="239246" actor_name="Seoul Central District Court" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

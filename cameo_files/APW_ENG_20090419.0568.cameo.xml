@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0568">
+    <Sentences>
+      <Sentence char_offsets="185:346" id="0" />
+      <Sentence char_offsets="357:483" id="1" />
+      <Sentence char_offsets="494:641" id="2" />
+      <Sentence char_offsets="643:721" id="3" />
+      <Sentence char_offsets="732:963" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="235955" actor_name="Rupert Colville" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="125">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

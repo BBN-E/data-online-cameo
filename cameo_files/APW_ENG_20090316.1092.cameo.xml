@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.1092">
+    <Sentences>
+      <Sentence char_offsets="191:360" id="0" />
+      <Sentence char_offsets="371:422" id="1" />
+      <Sentence char_offsets="433:601" id="2" />
+      <Sentence char_offsets="612:800" id="3" />
+      <Sentence char_offsets="811:958" id="4" />
+      <Sentence char_offsets="969:1186" id="5" />
+      <Sentence char_offsets="1197:1367" id="6" />
+      <Sentence char_offsets="1378:1425" id="7" />
+      <Sentence char_offsets="1427:1609" id="8" />
+      <Sentence char_offsets="1620:1662" id="9" />
+      <Sentence char_offsets="1664:1848" id="10" />
+      <Sentence char_offsets="1859:1929" id="11" />
+      <Sentence char_offsets="1931:2016" id="12" />
+      <Sentence char_offsets="2018:2183" id="13" />
+      <Sentence char_offsets="2194:2315" id="14" />
+      <Sentence char_offsets="2326:2431" id="15" />
+      <Sentence char_offsets="2433:2604" id="16" />
+      <Sentence char_offsets="2615:2720" id="17" />
+      <Sentence char_offsets="2722:2796" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="36311" actor_name="Sheikh Sabah al Ahmad al Jabir al Sabah" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="020">
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="historical" type="160">
+        <Participant actor_id="36311" actor_name="Sheikh Sabah al Ahmad al Jabir al Sabah" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="172">
+        <Participant actor_id="36043" actor_name="Kuwait" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

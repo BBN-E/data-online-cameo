@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.1047">
+    <Sentences>
+      <Sentence char_offsets="183:342" id="0" />
+      <Sentence char_offsets="353:493" id="1" />
+      <Sentence char_offsets="504:647" id="2" />
+      <Sentence char_offsets="658:818" id="3" />
+      <Sentence char_offsets="829:987" id="4" />
+      <Sentence char_offsets="989:1028" id="5" />
+      <Sentence char_offsets="1039:1168" id="6" />
+      <Sentence char_offsets="1170:1219" id="7" />
+      <Sentence char_offsets="1230:1404" id="8" />
+      <Sentence char_offsets="1415:1563" id="9" />
+      <Sentence char_offsets="1574:1804" id="10" />
+      <Sentence char_offsets="1806:1835" id="11" />
+      <Sentence char_offsets="1846:2090" id="12" />
+      <Sentence char_offsets="2101:2231" id="13" />
+      <Sentence char_offsets="2242:2308" id="14" />
+      <Sentence char_offsets="2310:2417" id="15" />
+      <Sentence char_offsets="2428:2540" id="16" />
+      <Sentence char_offsets="2551:2585" id="17" />
+      <Sentence char_offsets="2587:2662" id="18" />
+      <Sentence char_offsets="2673:2783" id="19" />
+      <Sentence char_offsets="2794:2874" id="20" />
+      <Sentence char_offsets="2885:3094" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="012">
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="050">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="050">
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="050">
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="050">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="125">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

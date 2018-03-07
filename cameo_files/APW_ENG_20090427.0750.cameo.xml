@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0750">
+    <Sentences>
+      <Sentence char_offsets="183:387" id="0" />
+      <Sentence char_offsets="398:600" id="1" />
+      <Sentence char_offsets="611:696" id="2" />
+      <Sentence char_offsets="707:768" id="3" />
+      <Sentence char_offsets="770:865" id="4" />
+      <Sentence char_offsets="876:1070" id="5" />
+      <Sentence char_offsets="1081:1186" id="6" />
+      <Sentence char_offsets="1188:1302" id="7" />
+      <Sentence char_offsets="1313:1599" id="8" />
+      <Sentence char_offsets="1610:1815" id="9" />
+      <Sentence char_offsets="1826:2062" id="10" />
+      <Sentence char_offsets="2073:2209" id="11" />
+      <Sentence char_offsets="2220:2348" id="12" />
+      <Sentence char_offsets="2350:2432" id="13" />
+      <Sentence char_offsets="2443:2567" id="14" />
+      <Sentence char_offsets="2578:2784" id="15" />
+      <Sentence char_offsets="2795:2878" id="16" />
+      <Sentence char_offsets="2880:3010" id="17" />
+      <Sentence char_offsets="3021:3122" id="18" />
+      <Sentence char_offsets="3133:3359" id="19" />
+      <Sentence char_offsets="3370:3481" id="20" />
+      <Sentence char_offsets="3492:3705" id="21" />
+      <Sentence char_offsets="3716:3719" id="22" />
+      <Sentence char_offsets="3730:3817" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="020">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="036">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="current" type="042">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="19" tense="neutral" type="050">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="current" type="043">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

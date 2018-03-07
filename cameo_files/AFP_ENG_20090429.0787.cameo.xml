@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0787">
+    <Sentences>
+      <Sentence char_offsets="178:351" id="0" />
+      <Sentence char_offsets="362:551" id="1" />
+      <Sentence char_offsets="562:730" id="2" />
+      <Sentence char_offsets="741:962" id="3" />
+      <Sentence char_offsets="973:1101" id="4" />
+      <Sentence char_offsets="1112:1320" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="051">
+        <Participant actor_id="54507" actor_name="Lech Kaczynski" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

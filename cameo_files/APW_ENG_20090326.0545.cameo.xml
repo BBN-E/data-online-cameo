@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0545">
+    <Sentences>
+      <Sentence char_offsets="183:434" id="0" />
+      <Sentence char_offsets="445:683" id="1" />
+      <Sentence char_offsets="685:812" id="2" />
+      <Sentence char_offsets="823:988" id="3" />
+      <Sentence char_offsets="999:1236" id="4" />
+      <Sentence char_offsets="1238:1313" id="5" />
+      <Sentence char_offsets="1324:1479" id="6" />
+      <Sentence char_offsets="1481:1573" id="7" />
+      <Sentence char_offsets="1584:1725" id="8" />
+      <Sentence char_offsets="1736:1863" id="9" />
+      <Sentence char_offsets="1874:2247" id="10" />
+      <Sentence char_offsets="2258:2394" id="11" />
+      <Sentence char_offsets="2405:2607" id="12" />
+      <Sentence char_offsets="2618:2759" id="13" />
+      <Sentence char_offsets="2761:2928" id="14" />
+      <Sentence char_offsets="2939:3057" id="15" />
+      <Sentence char_offsets="3059:3106" id="16" />
+      <Sentence char_offsets="3117:3201" id="17" />
+      <Sentence char_offsets="3212:3296" id="18" />
+      <Sentence char_offsets="3298:3454" id="19" />
+      <Sentence char_offsets="3465:3619" id="20" />
+      <Sentence char_offsets="3630:3740" id="21" />
+      <Sentence char_offsets="3751:4125" id="22" />
+      <Sentence char_offsets="4136:4337" id="23" />
+      <Sentence char_offsets="4348:4492" id="24" />
+      <Sentence char_offsets="4494:4568" id="25" />
+      <Sentence char_offsets="4579:4584" id="26" />
+      <Sentence char_offsets="4595:4681" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="38114" actor_name="The Times" role="Source" />
+        <Participant actor_id="45010" actor_name="Inter-Services Intelligence" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="historical" type="070">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

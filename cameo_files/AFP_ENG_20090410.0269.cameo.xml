@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0269">
+    <Sentences>
+      <Sentence char_offsets="201:374" id="0" />
+      <Sentence char_offsets="385:527" id="1" />
+      <Sentence char_offsets="538:588" id="2" />
+      <Sentence char_offsets="590:663" id="3" />
+      <Sentence char_offsets="674:727" id="4" />
+      <Sentence char_offsets="738:915" id="5" />
+      <Sentence char_offsets="926:1028" id="6" />
+      <Sentence char_offsets="1030:1073" id="7" />
+      <Sentence char_offsets="1084:1151" id="8" />
+      <Sentence char_offsets="1162:1286" id="9" />
+      <Sentence char_offsets="1297:1362" id="10" />
+      <Sentence char_offsets="1364:1466" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="121668" actor_name="Daud Ahmadi" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="190">
+        <Participant actor_id="31105" actor_name="International" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="current" type="180">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

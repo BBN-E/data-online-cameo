@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0689">
+    <Sentences>
+      <Sentence char_offsets="179:340" id="0" />
+      <Sentence char_offsets="351:560" id="1" />
+      <Sentence char_offsets="571:628" id="2" />
+      <Sentence char_offsets="639:776" id="3" />
+      <Sentence char_offsets="787:881" id="4" />
+      <Sentence char_offsets="883:1002" id="5" />
+      <Sentence char_offsets="1013:1216" id="6" />
+      <Sentence char_offsets="1227:1454" id="7" />
+      <Sentence char_offsets="1465:1574" id="8" />
+      <Sentence char_offsets="1585:1765" id="9" />
+      <Sentence char_offsets="1776:1958" id="10" />
+      <Sentence char_offsets="1969:2147" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="28848" actor_name="Sankei" role="Source" />
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="203" agent_name="Newspaper" role="Source" />
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="203" agent_name="Newspaper" role="Source" />
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="070">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="090">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="69" agent_name="Party Member" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="neutral" type="100">
+        <Participant actor_id="28848" actor_name="Sankei" role="Source" />
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="current" type="173">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

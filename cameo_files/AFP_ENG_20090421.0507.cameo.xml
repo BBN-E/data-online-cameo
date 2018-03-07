@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0507">
+    <Sentences>
+      <Sentence char_offsets="186:379" id="0" />
+      <Sentence char_offsets="390:654" id="1" />
+      <Sentence char_offsets="665:785" id="2" />
+      <Sentence char_offsets="796:913" id="3" />
+      <Sentence char_offsets="924:1111" id="4" />
+      <Sentence char_offsets="1122:1247" id="5" />
+      <Sentence char_offsets="1258:1332" id="6" />
+      <Sentence char_offsets="1334:1422" id="7" />
+      <Sentence char_offsets="1424:1462" id="8" />
+      <Sentence char_offsets="1473:1610" id="9" />
+      <Sentence char_offsets="1621:1737" id="10" />
+      <Sentence char_offsets="1748:1817" id="11" />
+      <Sentence char_offsets="1819:1910" id="12" />
+      <Sentence char_offsets="1921:2033" id="13" />
+      <Sentence char_offsets="2044:2193" id="14" />
+      <Sentence char_offsets="2204:2305" id="15" />
+      <Sentence char_offsets="2316:2472" id="16" />
+      <Sentence char_offsets="2483:2560" id="17" />
+      <Sentence char_offsets="2571:2684" id="18" />
+      <Sentence char_offsets="2686:2755" id="19" />
+      <Sentence char_offsets="2766:2977" id="20" />
+      <Sentence char_offsets="2988:3141" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="current" type="010">
+        <Participant actor_id="31207" actor_name="Josef Pr&#246;ll" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="26840" actor_name="Ewald Nowotny" role="Source" />
+        <Participant actor_id="31207" actor_name="Josef Pr&#246;ll" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

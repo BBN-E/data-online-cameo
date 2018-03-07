@@ -1,0 +1,17 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0459">
+    <Sentences>
+      <Sentence char_offsets="188:388" id="0" />
+      <Sentence char_offsets="399:500" id="1" />
+      <Sentence char_offsets="511:580" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

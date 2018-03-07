@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0528">
+    <Sentences>
+      <Sentence char_offsets="200:363" id="0" />
+      <Sentence char_offsets="374:551" id="1" />
+      <Sentence char_offsets="562:737" id="2" />
+      <Sentence char_offsets="748:868" id="3" />
+      <Sentence char_offsets="879:950" id="4" />
+      <Sentence char_offsets="961:1020" id="5" />
+      <Sentence char_offsets="1022:1146" id="6" />
+      <Sentence char_offsets="1157:1329" id="7" />
+      <Sentence char_offsets="1340:1503" id="8" />
+      <Sentence char_offsets="1514:1553" id="9" />
+      <Sentence char_offsets="1555:1588" id="10" />
+      <Sentence char_offsets="1590:1675" id="11" />
+      <Sentence char_offsets="1686:1886" id="12" />
+      <Sentence char_offsets="1897:2040" id="13" />
+      <Sentence char_offsets="2051:2224" id="14" />
+      <Sentence char_offsets="2235:2363" id="15" />
+      <Sentence char_offsets="2374:2491" id="16" />
+      <Sentence char_offsets="2502:2676" id="17" />
+      <Sentence char_offsets="2687:2764" id="18" />
+      <Sentence char_offsets="2775:2924" id="19" />
+      <Sentence char_offsets="2935:3140" id="20" />
+      <Sentence char_offsets="3151:3205" id="21" />
+      <Sentence char_offsets="3207:3344" id="22" />
+      <Sentence char_offsets="3355:3470" id="23" />
+      <Sentence char_offsets="3481:3615" id="24" />
+      <Sentence char_offsets="3626:3746" id="25" />
+      <Sentence char_offsets="3757:3937" id="26" />
+      <Sentence char_offsets="3948:4025" id="27" />
+      <Sentence char_offsets="4036:4167" id="28" />
+      <Sentence char_offsets="4169:4266" id="29" />
+      <Sentence char_offsets="4277:4501" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="current" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="020">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="128" agent_name="Exiles" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0487">
+    <Sentences>
+      <Sentence char_offsets="190:379" id="0" />
+      <Sentence char_offsets="390:614" id="1" />
+      <Sentence char_offsets="625:817" id="2" />
+      <Sentence char_offsets="828:1054" id="3" />
+      <Sentence char_offsets="1065:1191" id="4" />
+      <Sentence char_offsets="1202:1418" id="5" />
+      <Sentence char_offsets="1429:1615" id="6" />
+      <Sentence char_offsets="1626:1805" id="7" />
+      <Sentence char_offsets="1816:2018" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="030">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="030">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="030">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="030">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="030">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="030">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090401.0009">
+    <Sentences>
+      <Sentence char_offsets="154:322" id="0" />
+      <Sentence char_offsets="333:505" id="1" />
+      <Sentence char_offsets="507:572" id="2" />
+      <Sentence char_offsets="583:800" id="3" />
+      <Sentence char_offsets="811:920" id="4" />
+      <Sentence char_offsets="922:1063" id="5" />
+      <Sentence char_offsets="1074:1284" id="6" />
+      <Sentence char_offsets="1286:1457" id="7" />
+      <Sentence char_offsets="1468:1567" id="8" />
+      <Sentence char_offsets="1578:1701" id="9" />
+      <Sentence char_offsets="1712:1797" id="10" />
+      <Sentence char_offsets="1799:1935" id="11" />
+      <Sentence char_offsets="1937:2065" id="12" />
+      <Sentence char_offsets="2076:2210" id="13" />
+      <Sentence char_offsets="2212:2305" id="14" />
+      <Sentence char_offsets="2316:2469" id="15" />
+      <Sentence char_offsets="2471:2605" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="141">
+        <Participant actor_id="30701" actor_name="France" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

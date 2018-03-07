@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0201">
+    <Sentences>
+      <Sentence char_offsets="193:379" id="0" />
+      <Sentence char_offsets="390:592" id="1" />
+      <Sentence char_offsets="603:819" id="2" />
+      <Sentence char_offsets="830:1008" id="3" />
+      <Sentence char_offsets="1019:1177" id="4" />
+      <Sentence char_offsets="1188:1531" id="5" />
+      <Sentence char_offsets="1542:1769" id="6" />
+      <Sentence char_offsets="1780:1904" id="7" />
+      <Sentence char_offsets="1915:1970" id="8" />
+      <Sentence char_offsets="1981:2076" id="9" />
+      <Sentence char_offsets="2087:2191" id="10" />
+      <Sentence char_offsets="2202:2339" id="11" />
+      <Sentence char_offsets="2350:2558" id="12" />
+      <Sentence char_offsets="2569:2667" id="13" />
+      <Sentence char_offsets="2678:2726" id="14" />
+      <Sentence char_offsets="2728:2809" id="15" />
+      <Sentence char_offsets="2811:2947" id="16" />
+      <Sentence char_offsets="2958:3092" id="17" />
+      <Sentence char_offsets="3103:3241" id="18" />
+      <Sentence char_offsets="3252:3347" id="19" />
+      <Sentence char_offsets="3358:3519" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="32082" actor_name="Jorge Enrique Taiana" role="Source" />
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Source" />
+        <Participant actor_id="32082" actor_name="Jorge Enrique Taiana" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

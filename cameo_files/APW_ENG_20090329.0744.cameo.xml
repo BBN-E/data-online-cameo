@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090329.0744">
+    <Sentences>
+      <Sentence char_offsets="190:359" id="0" />
+      <Sentence char_offsets="370:628" id="1" />
+      <Sentence char_offsets="639:807" id="2" />
+      <Sentence char_offsets="818:914" id="3" />
+      <Sentence char_offsets="916:1036" id="4" />
+      <Sentence char_offsets="1038:1209" id="5" />
+      <Sentence char_offsets="1211:1281" id="6" />
+      <Sentence char_offsets="1292:1554" id="7" />
+      <Sentence char_offsets="1565:1735" id="8" />
+      <Sentence char_offsets="1746:1827" id="9" />
+      <Sentence char_offsets="1829:1970" id="10" />
+      <Sentence char_offsets="1981:2056" id="11" />
+      <Sentence char_offsets="2058:2292" id="12" />
+      <Sentence char_offsets="2303:2481" id="13" />
+      <Sentence char_offsets="2483:2609" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="161">
+        <Participant actor_id="36716" actor_name="Morocco" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="174">
+        <Participant actor_id="36716" actor_name="Morocco" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36716" actor_name="Morocco" agent_id="548" agent_name="Christian Missionaries" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="174">
+        <Participant actor_id="36716" actor_name="Morocco" role="Source" />
+        <Participant actor_id="36716" actor_name="Morocco" agent_id="548" agent_name="Christian Missionaries" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

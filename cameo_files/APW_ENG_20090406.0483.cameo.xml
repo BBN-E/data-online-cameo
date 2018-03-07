@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0483">
+    <Sentences>
+      <Sentence char_offsets="196:384" id="0" />
+      <Sentence char_offsets="395:589" id="1" />
+      <Sentence char_offsets="600:831" id="2" />
+      <Sentence char_offsets="842:949" id="3" />
+      <Sentence char_offsets="951:1074" id="4" />
+      <Sentence char_offsets="1085:1185" id="5" />
+      <Sentence char_offsets="1187:1304" id="6" />
+      <Sentence char_offsets="1315:1407" id="7" />
+      <Sentence char_offsets="1409:1574" id="8" />
+      <Sentence char_offsets="1585:1669" id="9" />
+      <Sentence char_offsets="1671:1786" id="10" />
+      <Sentence char_offsets="1788:1860" id="11" />
+      <Sentence char_offsets="1871:1997" id="12" />
+      <Sentence char_offsets="2008:2158" id="13" />
+      <Sentence char_offsets="2160:2265" id="14" />
+      <Sentence char_offsets="2267:2300" id="15" />
+      <Sentence char_offsets="2311:2400" id="16" />
+      <Sentence char_offsets="2402:2508" id="17" />
+      <Sentence char_offsets="2519:2652" id="18" />
+      <Sentence char_offsets="2663:2758" id="19" />
+      <Sentence char_offsets="2760:2838" id="20" />
+      <Sentence char_offsets="2840:2935" id="21" />
+      <Sentence char_offsets="2946:3165" id="22" />
+      <Sentence char_offsets="3167:3223" id="23" />
+      <Sentence char_offsets="3234:3287" id="24" />
+      <Sentence char_offsets="3289:3479" id="25" />
+      <Sentence char_offsets="3490:3495" id="26" />
+      <Sentence char_offsets="3506:3586" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="238452" actor_name="Mokotedi Mpshe" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="081">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="112">
+        <Participant actor_id="30701" actor_name="France" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

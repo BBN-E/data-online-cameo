@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0809">
+    <Sentences>
+      <Sentence char_offsets="197:346" id="0" />
+      <Sentence char_offsets="357:479" id="1" />
+      <Sentence char_offsets="481:611" id="2" />
+      <Sentence char_offsets="622:832" id="3" />
+      <Sentence char_offsets="843:992" id="4" />
+      <Sentence char_offsets="1003:1177" id="5" />
+      <Sentence char_offsets="1188:1379" id="6" />
+      <Sentence char_offsets="1390:1576" id="7" />
+      <Sentence char_offsets="1587:1731" id="8" />
+      <Sentence char_offsets="1733:1771" id="9" />
+      <Sentence char_offsets="1782:1985" id="10" />
+      <Sentence char_offsets="1996:2192" id="11" />
+      <Sentence char_offsets="2194:2272" id="12" />
+      <Sentence char_offsets="2283:2484" id="13" />
+      <Sentence char_offsets="2495:2663" id="14" />
+      <Sentence char_offsets="2665:2744" id="15" />
+      <Sentence char_offsets="2755:2899" id="16" />
+      <Sentence char_offsets="2901:2976" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="344" agent_name="Scientist" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="77" agent_name="Professor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="344" agent_name="Scientist" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="77" agent_name="Professor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

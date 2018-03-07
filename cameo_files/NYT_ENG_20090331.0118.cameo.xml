@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090331.0118">
+    <Sentences>
+      <Sentence char_offsets="117:129" id="0" />
+      <Sentence char_offsets="130:424" id="1" />
+      <Sentence char_offsets="435:718" id="2" />
+      <Sentence char_offsets="729:863" id="3" />
+      <Sentence char_offsets="874:1107" id="4" />
+      <Sentence char_offsets="1109:1172" id="5" />
+      <Sentence char_offsets="1183:1550" id="6" />
+      <Sentence char_offsets="1561:1814" id="7" />
+      <Sentence char_offsets="1825:1969" id="8" />
+      <Sentence char_offsets="1980:2154" id="9" />
+      <Sentence char_offsets="2165:2436" id="10" />
+      <Sentence char_offsets="2447:2732" id="11" />
+      <Sentence char_offsets="2743:2811" id="12" />
+      <Sentence char_offsets="2813:2840" id="13" />
+      <Sentence char_offsets="2842:2901" id="14" />
+      <Sentence char_offsets="2903:2947" id="15" />
+      <Sentence char_offsets="2958:3080" id="16" />
+      <Sentence char_offsets="3091:3301" id="17" />
+      <Sentence char_offsets="3303:3417" id="18" />
+      <Sentence char_offsets="3428:3676" id="19" />
+      <Sentence char_offsets="3678:3897" id="20" />
+      <Sentence char_offsets="3908:4114" id="21" />
+      <Sentence char_offsets="4125:4374" id="22" />
+      <Sentence char_offsets="4376:4585" id="23" />
+      <Sentence char_offsets="4596:4677" id="24" />
+      <Sentence char_offsets="4688:4807" id="25" />
+      <Sentence char_offsets="4818:5043" id="26" />
+      <Sentence char_offsets="5045:5182" id="27" />
+      <Sentence char_offsets="5184:5371" id="28" />
+      <Sentence char_offsets="5382:5641" id="29" />
+      <Sentence char_offsets="5652:5822" id="30" />
+      <Sentence char_offsets="5833:6220" id="31" />
+      <Sentence char_offsets="6231:6321" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="38453" actor_name="Brookings Institute" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="010">
+        <Participant actor_id="235720" actor_name="Michael Froman" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="29" tense="neutral" type="013">
+        <Participant actor_id="235720" actor_name="Michael Froman" role="Source" />
+        <Participant actor_id="31105" actor_name="International" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

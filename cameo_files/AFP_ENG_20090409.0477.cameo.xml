@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0477">
+    <Sentences>
+      <Sentence char_offsets="180:369" id="0" />
+      <Sentence char_offsets="380:579" id="1" />
+      <Sentence char_offsets="590:763" id="2" />
+      <Sentence char_offsets="774:979" id="3" />
+      <Sentence char_offsets="990:1263" id="4" />
+      <Sentence char_offsets="1274:1316" id="5" />
+      <Sentence char_offsets="1327:1553" id="6" />
+      <Sentence char_offsets="1564:1767" id="7" />
+      <Sentence char_offsets="1778:1979" id="8" />
+      <Sentence char_offsets="1990:2115" id="9" />
+      <Sentence char_offsets="2126:2186" id="10" />
+      <Sentence char_offsets="2197:2437" id="11" />
+      <Sentence char_offsets="2448:2547" id="12" />
+      <Sentence char_offsets="2549:2647" id="13" />
+      <Sentence char_offsets="2658:2792" id="14" />
+      <Sentence char_offsets="2803:2957" id="15" />
+      <Sentence char_offsets="2959:3020" id="16" />
+      <Sentence char_offsets="3031:3235" id="17" />
+      <Sentence char_offsets="3246:3387" id="18" />
+      <Sentence char_offsets="3398:3575" id="19" />
+      <Sentence char_offsets="3586:3683" id="20" />
+      <Sentence char_offsets="3694:3888" id="21" />
+      <Sentence char_offsets="3899:4141" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="180">
+        <Participant actor_id="34466" actor_name="Papua New Guinea" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="34466" actor_name="Papua New Guinea" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="193">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="690" agent_name="Attacker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

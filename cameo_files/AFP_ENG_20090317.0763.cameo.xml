@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0763">
+    <Sentences>
+      <Sentence char_offsets="189:354" id="0" />
+      <Sentence char_offsets="365:493" id="1" />
+      <Sentence char_offsets="504:732" id="2" />
+      <Sentence char_offsets="743:836" id="3" />
+      <Sentence char_offsets="847:990" id="4" />
+      <Sentence char_offsets="1001:1155" id="5" />
+      <Sentence char_offsets="1166:1392" id="6" />
+      <Sentence char_offsets="1403:1572" id="7" />
+      <Sentence char_offsets="1583:1695" id="8" />
+      <Sentence char_offsets="1697:1750" id="9" />
+      <Sentence char_offsets="1761:1871" id="10" />
+      <Sentence char_offsets="1873:1926" id="11" />
+      <Sentence char_offsets="1937:2107" id="12" />
+      <Sentence char_offsets="2109:2162" id="13" />
+      <Sentence char_offsets="2173:2350" id="14" />
+      <Sentence char_offsets="2361:2524" id="15" />
+      <Sentence char_offsets="2526:2646" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="193" agent_name="Islamic Militant" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="190">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

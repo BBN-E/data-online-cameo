@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.1011">
+    <Sentences>
+      <Sentence char_offsets="188:258" id="0" />
+      <Sentence char_offsets="260:435" id="1" />
+      <Sentence char_offsets="446:633" id="2" />
+      <Sentence char_offsets="644:883" id="3" />
+      <Sentence char_offsets="894:1034" id="4" />
+      <Sentence char_offsets="1036:1283" id="5" />
+      <Sentence char_offsets="1294:1488" id="6" />
+      <Sentence char_offsets="1490:1545" id="7" />
+      <Sentence char_offsets="1547:1566" id="8" />
+      <Sentence char_offsets="1568:1596" id="9" />
+      <Sentence char_offsets="1607:1809" id="10" />
+      <Sentence char_offsets="1820:1991" id="11" />
+      <Sentence char_offsets="1993:2080" id="12" />
+      <Sentence char_offsets="2091:2230" id="13" />
+      <Sentence char_offsets="2241:2299" id="14" />
+      <Sentence char_offsets="2301:2382" id="15" />
+      <Sentence char_offsets="2384:2403" id="16" />
+      <Sentence char_offsets="2414:2423" id="17" />
+      <Sentence char_offsets="2425:2642" id="18" />
+      <Sentence char_offsets="2653:2887" id="19" />
+      <Sentence char_offsets="2898:3153" id="20" />
+      <Sentence char_offsets="3164:3201" id="21" />
+      <Sentence char_offsets="3203:3241" id="22" />
+      <Sentence char_offsets="3243:3325" id="23" />
+      <Sentence char_offsets="3336:3529" id="24" />
+      <Sentence char_offsets="3540:3638" id="25" />
+      <Sentence char_offsets="3649:3747" id="26" />
+      <Sentence char_offsets="3758:3763" id="27" />
+      <Sentence char_offsets="3774:3893" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="121773" actor_name="Neelie Kroes" role="Source" />
+        <Participant actor_id="46271" actor_name="Luc Chatel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="46271" actor_name="Luc Chatel" role="Source" />
+        <Participant actor_id="238259" actor_name="Renault" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

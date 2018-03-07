@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0231">
+    <Sentences>
+      <Sentence char_offsets="177:369" id="0" />
+      <Sentence char_offsets="380:534" id="1" />
+      <Sentence char_offsets="545:655" id="2" />
+      <Sentence char_offsets="666:873" id="3" />
+      <Sentence char_offsets="884:1022" id="4" />
+      <Sentence char_offsets="1033:1145" id="5" />
+      <Sentence char_offsets="1156:1198" id="6" />
+      <Sentence char_offsets="1200:1300" id="7" />
+      <Sentence char_offsets="1311:1494" id="8" />
+      <Sentence char_offsets="1505:1683" id="9" />
+      <Sentence char_offsets="1694:1747" id="10" />
+      <Sentence char_offsets="1758:1924" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="145">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="145">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="190">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

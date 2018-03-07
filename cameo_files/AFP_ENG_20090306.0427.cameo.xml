@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0427">
+    <Sentences>
+      <Sentence char_offsets="190:403" id="0" />
+      <Sentence char_offsets="414:722" id="1" />
+      <Sentence char_offsets="733:969" id="2" />
+      <Sentence char_offsets="980:1027" id="3" />
+      <Sentence char_offsets="1029:1108" id="4" />
+      <Sentence char_offsets="1119:1363" id="5" />
+      <Sentence char_offsets="1374:1488" id="6" />
+      <Sentence char_offsets="1499:1650" id="7" />
+      <Sentence char_offsets="1661:1946" id="8" />
+      <Sentence char_offsets="1957:2035" id="9" />
+      <Sentence char_offsets="2046:2128" id="10" />
+      <Sentence char_offsets="2139:2390" id="11" />
+      <Sentence char_offsets="2401:2686" id="12" />
+      <Sentence char_offsets="2697:2870" id="13" />
+      <Sentence char_offsets="2881:3036" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="050">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="111">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="043">
+        <Participant actor_id="32622" actor_name="Switzerland" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

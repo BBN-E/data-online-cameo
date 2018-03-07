@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0385">
+    <Sentences>
+      <Sentence char_offsets="185:366" id="0" />
+      <Sentence char_offsets="377:661" id="1" />
+      <Sentence char_offsets="672:890" id="2" />
+      <Sentence char_offsets="901:1047" id="3" />
+      <Sentence char_offsets="1058:1206" id="4" />
+      <Sentence char_offsets="1217:1319" id="5" />
+      <Sentence char_offsets="1330:1523" id="6" />
+      <Sentence char_offsets="1534:1693" id="7" />
+      <Sentence char_offsets="1704:1900" id="8" />
+      <Sentence char_offsets="1911:2066" id="9" />
+      <Sentence char_offsets="2077:2202" id="10" />
+      <Sentence char_offsets="2213:2335" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

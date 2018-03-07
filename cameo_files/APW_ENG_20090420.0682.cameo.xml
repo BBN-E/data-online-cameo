@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0682">
+    <Sentences>
+      <Sentence char_offsets="206:383" id="0" />
+      <Sentence char_offsets="394:579" id="1" />
+      <Sentence char_offsets="590:694" id="2" />
+      <Sentence char_offsets="696:796" id="3" />
+      <Sentence char_offsets="807:929" id="4" />
+      <Sentence char_offsets="931:1072" id="5" />
+      <Sentence char_offsets="1083:1345" id="6" />
+      <Sentence char_offsets="1356:1532" id="7" />
+      <Sentence char_offsets="1543:1606" id="8" />
+      <Sentence char_offsets="1608:1735" id="9" />
+      <Sentence char_offsets="1746:1905" id="10" />
+      <Sentence char_offsets="1916:2093" id="11" />
+      <Sentence char_offsets="2095:2240" id="12" />
+      <Sentence char_offsets="2251:2365" id="13" />
+      <Sentence char_offsets="2376:2436" id="14" />
+      <Sentence char_offsets="2438:2527" id="15" />
+      <Sentence char_offsets="2529:2570" id="16" />
+      <Sentence char_offsets="2572:2631" id="17" />
+      <Sentence char_offsets="2642:2877" id="18" />
+      <Sentence char_offsets="2888:3036" id="19" />
+      <Sentence char_offsets="3047:3050" id="20" />
+      <Sentence char_offsets="3061:3170" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="195">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

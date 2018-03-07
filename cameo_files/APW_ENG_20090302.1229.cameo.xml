@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.1229">
+    <Sentences>
+      <Sentence char_offsets="184:381" id="0" />
+      <Sentence char_offsets="392:572" id="1" />
+      <Sentence char_offsets="574:656" id="2" />
+      <Sentence char_offsets="667:783" id="3" />
+      <Sentence char_offsets="785:871" id="4" />
+      <Sentence char_offsets="882:1048" id="5" />
+      <Sentence char_offsets="1050:1159" id="6" />
+      <Sentence char_offsets="1170:1294" id="7" />
+      <Sentence char_offsets="1296:1364" id="8" />
+      <Sentence char_offsets="1375:1525" id="9" />
+      <Sentence char_offsets="1527:1683" id="10" />
+      <Sentence char_offsets="1694:1840" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="100">
+        <Participant actor_id="33939" actor_name="Federal Aviation Administration" role="Source" />
+        <Participant actor_id="1936" actor_name="Southwest Airlines" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

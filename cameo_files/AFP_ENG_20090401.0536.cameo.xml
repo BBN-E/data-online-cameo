@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0536">
+    <Sentences>
+      <Sentence char_offsets="182:380" id="0" />
+      <Sentence char_offsets="391:619" id="1" />
+      <Sentence char_offsets="630:826" id="2" />
+      <Sentence char_offsets="837:898" id="3" />
+      <Sentence char_offsets="909:1089" id="4" />
+      <Sentence char_offsets="1100:1240" id="5" />
+      <Sentence char_offsets="1242:1310" id="6" />
+      <Sentence char_offsets="1321:1504" id="7" />
+      <Sentence char_offsets="1515:1584" id="8" />
+      <Sentence char_offsets="1595:1756" id="9" />
+      <Sentence char_offsets="1767:1976" id="10" />
+      <Sentence char_offsets="1987:2198" id="11" />
+      <Sentence char_offsets="2209:2384" id="12" />
+      <Sentence char_offsets="2395:2597" id="13" />
+      <Sentence char_offsets="2608:2757" id="14" />
+      <Sentence char_offsets="2768:2837" id="15" />
+      <Sentence char_offsets="2848:3026" id="16" />
+      <Sentence char_offsets="3037:3225" id="17" />
+      <Sentence char_offsets="3236:3453" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="030">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="030">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

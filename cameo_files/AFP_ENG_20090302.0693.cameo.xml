@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0693">
+    <Sentences>
+      <Sentence char_offsets="197:387" id="0" />
+      <Sentence char_offsets="398:582" id="1" />
+      <Sentence char_offsets="593:635" id="2" />
+      <Sentence char_offsets="646:797" id="3" />
+      <Sentence char_offsets="808:946" id="4" />
+      <Sentence char_offsets="957:1078" id="5" />
+      <Sentence char_offsets="1089:1287" id="6" />
+      <Sentence char_offsets="1298:1416" id="7" />
+      <Sentence char_offsets="1427:1547" id="8" />
+      <Sentence char_offsets="1549:1601" id="9" />
+      <Sentence char_offsets="1612:1760" id="10" />
+      <Sentence char_offsets="1771:1891" id="11" />
+      <Sentence char_offsets="1902:2045" id="12" />
+      <Sentence char_offsets="2056:2265" id="13" />
+      <Sentence char_offsets="2276:2411" id="14" />
+      <Sentence char_offsets="2422:2604" id="15" />
+      <Sentence char_offsets="2615:2720" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="current" type="112">
+        <Participant actor_id="121797" actor_name="Frontier Corps" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="1823">
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

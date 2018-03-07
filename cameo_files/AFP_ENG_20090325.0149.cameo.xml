@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0149">
+    <Sentences>
+      <Sentence char_offsets="184:371" id="0" />
+      <Sentence char_offsets="382:576" id="1" />
+      <Sentence char_offsets="587:804" id="2" />
+      <Sentence char_offsets="815:918" id="3" />
+      <Sentence char_offsets="920:991" id="4" />
+      <Sentence char_offsets="1002:1212" id="5" />
+      <Sentence char_offsets="1223:1286" id="6" />
+      <Sentence char_offsets="1297:1421" id="7" />
+      <Sentence char_offsets="1432:1655" id="8" />
+      <Sentence char_offsets="1666:1742" id="9" />
+      <Sentence char_offsets="1744:1787" id="10" />
+      <Sentence char_offsets="1798:1937" id="11" />
+      <Sentence char_offsets="1948:2035" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="42877" actor_name="Alexandr Vondra" role="Source" />
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

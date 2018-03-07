@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090415.0046">
+    <Sentences>
+      <Sentence char_offsets="173:376" id="0" />
+      <Sentence char_offsets="387:513" id="1" />
+      <Sentence char_offsets="515:688" id="2" />
+      <Sentence char_offsets="699:845" id="3" />
+      <Sentence char_offsets="847:1000" id="4" />
+      <Sentence char_offsets="1011:1180" id="5" />
+      <Sentence char_offsets="1182:1368" id="6" />
+      <Sentence char_offsets="1379:1485" id="7" />
+      <Sentence char_offsets="1496:1564" id="8" />
+      <Sentence char_offsets="1566:1690" id="9" />
+      <Sentence char_offsets="1692:1720" id="10" />
+      <Sentence char_offsets="1731:1817" id="11" />
+      <Sentence char_offsets="1819:1954" id="12" />
+      <Sentence char_offsets="1956:2074" id="13" />
+      <Sentence char_offsets="2085:2256" id="14" />
+      <Sentence char_offsets="2258:2361" id="15" />
+      <Sentence char_offsets="2363:2405" id="16" />
+      <Sentence char_offsets="2416:2575" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="current" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="657" agent_name="Indigenous People" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

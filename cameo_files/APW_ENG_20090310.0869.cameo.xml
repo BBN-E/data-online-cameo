@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0869">
+    <Sentences>
+      <Sentence char_offsets="181:467" id="0" />
+      <Sentence char_offsets="478:733" id="1" />
+      <Sentence char_offsets="735:966" id="2" />
+      <Sentence char_offsets="977:1233" id="3" />
+      <Sentence char_offsets="1244:1436" id="4" />
+      <Sentence char_offsets="1438:1473" id="5" />
+      <Sentence char_offsets="1484:1601" id="6" />
+      <Sentence char_offsets="1612:1770" id="7" />
+      <Sentence char_offsets="1772:1899" id="8" />
+      <Sentence char_offsets="1910:2003" id="9" />
+      <Sentence char_offsets="2014:2112" id="10" />
+      <Sentence char_offsets="2123:2252" id="11" />
+      <Sentence char_offsets="2263:2320" id="12" />
+      <Sentence char_offsets="2322:2535" id="13" />
+      <Sentence char_offsets="2546:2700" id="14" />
+      <Sentence char_offsets="2702:2749" id="15" />
+      <Sentence char_offsets="2760:2914" id="16" />
+      <Sentence char_offsets="2925:3054" id="17" />
+      <Sentence char_offsets="3065:3212" id="18" />
+      <Sentence char_offsets="3223:3289" id="19" />
+      <Sentence char_offsets="3291:3397" id="20" />
+      <Sentence char_offsets="3399:3443" id="21" />
+      <Sentence char_offsets="3454:3618" id="22" />
+      <Sentence char_offsets="3620:3698" id="23" />
+      <Sentence char_offsets="3709:3831" id="24" />
+      <Sentence char_offsets="3833:3984" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

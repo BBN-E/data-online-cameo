@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0669">
+    <Sentences>
+      <Sentence char_offsets="186:361" id="0" />
+      <Sentence char_offsets="372:514" id="1" />
+      <Sentence char_offsets="525:749" id="2" />
+      <Sentence char_offsets="760:859" id="3" />
+      <Sentence char_offsets="861:943" id="4" />
+      <Sentence char_offsets="954:1133" id="5" />
+      <Sentence char_offsets="1144:1316" id="6" />
+      <Sentence char_offsets="1327:1424" id="7" />
+      <Sentence char_offsets="1426:1529" id="8" />
+      <Sentence char_offsets="1540:1691" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="29564" actor_name="Desmond Tutu" role="Source" />
+        <Participant actor_id="40139" actor_name="Solomon Islands" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="40139" actor_name="Solomon Islands" role="Source" />
+        <Participant actor_id="29564" actor_name="Desmond Tutu" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0557">
+    <Sentences>
+      <Sentence char_offsets="189:419" id="0" />
+      <Sentence char_offsets="430:658" id="1" />
+      <Sentence char_offsets="669:857" id="2" />
+      <Sentence char_offsets="868:1028" id="3" />
+      <Sentence char_offsets="1039:1266" id="4" />
+      <Sentence char_offsets="1277:1399" id="5" />
+      <Sentence char_offsets="1410:1500" id="6" />
+      <Sentence char_offsets="1502:1600" id="7" />
+      <Sentence char_offsets="1611:1765" id="8" />
+      <Sentence char_offsets="1776:1902" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="0353">
+        <Participant actor_id="31903" actor_name="Bhutan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" agent_id="129" agent_name="High Ranking Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0841">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" agent_id="129" agent_name="High Ranking Military Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

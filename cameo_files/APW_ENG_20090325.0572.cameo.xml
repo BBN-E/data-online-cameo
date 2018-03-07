@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0572">
+    <Sentences>
+      <Sentence char_offsets="182:368" id="0" />
+      <Sentence char_offsets="379:560" id="1" />
+      <Sentence char_offsets="562:705" id="2" />
+      <Sentence char_offsets="716:822" id="3" />
+      <Sentence char_offsets="833:989" id="4" />
+      <Sentence char_offsets="1000:1128" id="5" />
+      <Sentence char_offsets="1130:1219" id="6" />
+      <Sentence char_offsets="1230:1432" id="7" />
+      <Sentence char_offsets="1443:1642" id="8" />
+      <Sentence char_offsets="1653:1786" id="9" />
+      <Sentence char_offsets="1788:2017" id="10" />
+      <Sentence char_offsets="2028:2111" id="11" />
+      <Sentence char_offsets="2113:2242" id="12" />
+      <Sentence char_offsets="2253:2336" id="13" />
+      <Sentence char_offsets="2347:2521" id="14" />
+      <Sentence char_offsets="2532:2621" id="15" />
+      <Sentence char_offsets="2632:2637" id="16" />
+      <Sentence char_offsets="2648:2658" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

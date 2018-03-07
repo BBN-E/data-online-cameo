@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0206">
+    <Sentences>
+      <Sentence char_offsets="194:398" id="0" />
+      <Sentence char_offsets="409:628" id="1" />
+      <Sentence char_offsets="639:854" id="2" />
+      <Sentence char_offsets="865:1001" id="3" />
+      <Sentence char_offsets="1012:1178" id="4" />
+      <Sentence char_offsets="1189:1377" id="5" />
+      <Sentence char_offsets="1388:1600" id="6" />
+      <Sentence char_offsets="1611:1789" id="7" />
+      <Sentence char_offsets="1800:1983" id="8" />
+      <Sentence char_offsets="1994:2161" id="9" />
+      <Sentence char_offsets="2172:2353" id="10" />
+      <Sentence char_offsets="2364:2548" id="11" />
+      <Sentence char_offsets="2559:2682" id="12" />
+      <Sentence char_offsets="2684:2784" id="13" />
+      <Sentence char_offsets="2795:2993" id="14" />
+      <Sentence char_offsets="3004:3199" id="15" />
+      <Sentence char_offsets="3210:3374" id="16" />
+      <Sentence char_offsets="3385:3527" id="17" />
+      <Sentence char_offsets="3538:3705" id="18" />
+      <Sentence char_offsets="3716:3918" id="19" />
+      <Sentence char_offsets="3929:4088" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="057">
+        <Participant actor_id="41151" actor_name="Ukraine" role="Source" />
+        <Participant actor_id="52840" actor_name="European Commission" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="057">
+        <Participant actor_id="41151" actor_name="Ukraine" role="Source" />
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="057">
+        <Participant actor_id="52840" actor_name="European Commission" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="057">
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

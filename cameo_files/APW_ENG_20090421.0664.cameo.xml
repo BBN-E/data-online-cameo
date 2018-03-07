@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0664">
+    <Sentences>
+      <Sentence char_offsets="192:376" id="0" />
+      <Sentence char_offsets="387:551" id="1" />
+      <Sentence char_offsets="562:641" id="2" />
+      <Sentence char_offsets="652:829" id="3" />
+      <Sentence char_offsets="831:991" id="4" />
+      <Sentence char_offsets="1002:1124" id="5" />
+      <Sentence char_offsets="1126:1261" id="6" />
+      <Sentence char_offsets="1272:1383" id="7" />
+      <Sentence char_offsets="1385:1450" id="8" />
+      <Sentence char_offsets="1461:1563" id="9" />
+      <Sentence char_offsets="1565:1622" id="10" />
+      <Sentence char_offsets="1633:1733" id="11" />
+      <Sentence char_offsets="1735:1841" id="12" />
+      <Sentence char_offsets="1843:1874" id="13" />
+      <Sentence char_offsets="1876:1905" id="14" />
+      <Sentence char_offsets="1916:2081" id="15" />
+      <Sentence char_offsets="2092:2245" id="16" />
+      <Sentence char_offsets="2247:2349" id="17" />
+      <Sentence char_offsets="2360:2453" id="18" />
+      <Sentence char_offsets="2464:2600" id="19" />
+      <Sentence char_offsets="2602:2663" id="20" />
+      <Sentence char_offsets="2674:2760" id="21" />
+      <Sentence char_offsets="2771:2830" id="22" />
+      <Sentence char_offsets="2841:3059" id="23" />
+      <Sentence char_offsets="3061:3118" id="24" />
+      <Sentence char_offsets="3129:3227" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="173">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="1823">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="192">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

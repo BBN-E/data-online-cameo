@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0727">
+    <Sentences>
+      <Sentence char_offsets="184:377" id="0" />
+      <Sentence char_offsets="388:583" id="1" />
+      <Sentence char_offsets="594:655" id="2" />
+      <Sentence char_offsets="666:826" id="3" />
+      <Sentence char_offsets="837:994" id="4" />
+      <Sentence char_offsets="1005:1264" id="5" />
+      <Sentence char_offsets="1275:1557" id="6" />
+      <Sentence char_offsets="1568:1744" id="7" />
+      <Sentence char_offsets="1755:1914" id="8" />
+      <Sentence char_offsets="1925:2153" id="9" />
+      <Sentence char_offsets="2164:2373" id="10" />
+      <Sentence char_offsets="2384:2405" id="11" />
+      <Sentence char_offsets="2416:2580" id="12" />
+      <Sentence char_offsets="2591:2685" id="13" />
+      <Sentence char_offsets="2696:2896" id="14" />
+      <Sentence char_offsets="2907:3132" id="15" />
+      <Sentence char_offsets="3143:3252" id="16" />
+      <Sentence char_offsets="3254:3326" id="17" />
+      <Sentence char_offsets="3328:3426" id="18" />
+      <Sentence char_offsets="3437:3626" id="19" />
+      <Sentence char_offsets="3637:3771" id="20" />
+      <Sentence char_offsets="3773:3908" id="21" />
+      <Sentence char_offsets="3919:4088" id="22" />
+      <Sentence char_offsets="4099:4273" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="317" agent_name="Academics" role="Source" />
+        <Participant actor_id="28174" actor_name="NASA" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090406.0010">
+    <Sentences>
+      <Sentence char_offsets="157:411" id="0" />
+      <Sentence char_offsets="422:596" id="1" />
+      <Sentence char_offsets="607:763" id="2" />
+      <Sentence char_offsets="765:843" id="3" />
+      <Sentence char_offsets="854:1022" id="4" />
+      <Sentence char_offsets="1024:1203" id="5" />
+      <Sentence char_offsets="1214:1412" id="6" />
+      <Sentence char_offsets="1423:1604" id="7" />
+      <Sentence char_offsets="1606:1718" id="8" />
+      <Sentence char_offsets="1729:1953" id="9" />
+      <Sentence char_offsets="1964:2189" id="10" />
+      <Sentence char_offsets="2200:2349" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="403" agent_name="Independence Party" role="Source" />
+        <Participant actor_id="235856" actor_name="Michael Bloomberg" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="historical" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Source" />
+        <Participant actor_id="235856" actor_name="Michael Bloomberg" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

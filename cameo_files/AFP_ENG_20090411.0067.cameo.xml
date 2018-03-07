@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0067">
+    <Sentences>
+      <Sentence char_offsets="211:416" id="0" />
+      <Sentence char_offsets="427:606" id="1" />
+      <Sentence char_offsets="617:698" id="2" />
+      <Sentence char_offsets="709:852" id="3" />
+      <Sentence char_offsets="863:1077" id="4" />
+      <Sentence char_offsets="1088:1190" id="5" />
+      <Sentence char_offsets="1201:1388" id="6" />
+      <Sentence char_offsets="1399:1569" id="7" />
+      <Sentence char_offsets="1580:1699" id="8" />
+      <Sentence char_offsets="1710:2011" id="9" />
+      <Sentence char_offsets="2022:2164" id="10" />
+      <Sentence char_offsets="2175:2415" id="11" />
+      <Sentence char_offsets="2426:2561" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="030">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="030">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0317">
+    <Sentences>
+      <Sentence char_offsets="195:387" id="0" />
+      <Sentence char_offsets="398:586" id="1" />
+      <Sentence char_offsets="597:684" id="2" />
+      <Sentence char_offsets="695:953" id="3" />
+      <Sentence char_offsets="955:1000" id="4" />
+      <Sentence char_offsets="1011:1076" id="5" />
+      <Sentence char_offsets="1087:1279" id="6" />
+      <Sentence char_offsets="1290:1380" id="7" />
+      <Sentence char_offsets="1391:1491" id="8" />
+      <Sentence char_offsets="1493:1558" id="9" />
+      <Sentence char_offsets="1569:1659" id="10" />
+      <Sentence char_offsets="1661:1782" id="11" />
+      <Sentence char_offsets="1793:1933" id="12" />
+      <Sentence char_offsets="1944:2158" id="13" />
+      <Sentence char_offsets="2169:2342" id="14" />
+      <Sentence char_offsets="2353:2598" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="141">
+        <Participant actor_id="28828" actor_name="Armenia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36631" actor_name="Serzh Sargsyan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="current" type="1122">
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="128">
+        <Participant actor_id="28828" actor_name="Armenia" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

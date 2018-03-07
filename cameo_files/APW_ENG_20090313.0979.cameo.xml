@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0979">
+    <Sentences>
+      <Sentence char_offsets="189:335" id="0" />
+      <Sentence char_offsets="346:529" id="1" />
+      <Sentence char_offsets="531:628" id="2" />
+      <Sentence char_offsets="639:790" id="3" />
+      <Sentence char_offsets="792:848" id="4" />
+      <Sentence char_offsets="859:1012" id="5" />
+      <Sentence char_offsets="1014:1110" id="6" />
+      <Sentence char_offsets="1112:1219" id="7" />
+      <Sentence char_offsets="1230:1341" id="8" />
+      <Sentence char_offsets="1352:1422" id="9" />
+      <Sentence char_offsets="1424:1530" id="10" />
+      <Sentence char_offsets="1541:1672" id="11" />
+      <Sentence char_offsets="1683:1772" id="12" />
+      <Sentence char_offsets="1774:1847" id="13" />
+      <Sentence char_offsets="1858:2038" id="14" />
+      <Sentence char_offsets="2049:2136" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="52693" actor_name="Solidarity" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="141">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0558">
+    <Sentences>
+      <Sentence char_offsets="187:387" id="0" />
+      <Sentence char_offsets="398:593" id="1" />
+      <Sentence char_offsets="604:718" id="2" />
+      <Sentence char_offsets="729:896" id="3" />
+      <Sentence char_offsets="907:1055" id="4" />
+      <Sentence char_offsets="1066:1240" id="5" />
+      <Sentence char_offsets="1251:1468" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="42186" actor_name="Mitsubishi" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

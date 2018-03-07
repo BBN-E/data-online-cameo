@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0460">
+    <Sentences>
+      <Sentence char_offsets="187:364" id="0" />
+      <Sentence char_offsets="375:504" id="1" />
+      <Sentence char_offsets="515:631" id="2" />
+      <Sentence char_offsets="633:914" id="3" />
+      <Sentence char_offsets="925:1128" id="4" />
+      <Sentence char_offsets="1130:1279" id="5" />
+      <Sentence char_offsets="1290:1346" id="6" />
+      <Sentence char_offsets="1357:1494" id="7" />
+      <Sentence char_offsets="1496:1561" id="8" />
+      <Sentence char_offsets="1563:1661" id="9" />
+      <Sentence char_offsets="1672:1842" id="10" />
+      <Sentence char_offsets="1844:1994" id="11" />
+      <Sentence char_offsets="2005:2031" id="12" />
+      <Sentence char_offsets="2033:2155" id="13" />
+      <Sentence char_offsets="2166:2317" id="14" />
+      <Sentence char_offsets="2328:2520" id="15" />
+      <Sentence char_offsets="2522:2554" id="16" />
+      <Sentence char_offsets="2556:2632" id="17" />
+      <Sentence char_offsets="2643:2724" id="18" />
+      <Sentence char_offsets="2726:2801" id="19" />
+      <Sentence char_offsets="2803:2850" id="20" />
+      <Sentence char_offsets="2861:2907" id="21" />
+      <Sentence char_offsets="2918:3190" id="22" />
+      <Sentence char_offsets="3201:3384" id="23" />
+      <Sentence char_offsets="3395:3638" id="24" />
+      <Sentence char_offsets="3640:3732" id="25" />
+      <Sentence char_offsets="3743:3748" id="26" />
+      <Sentence char_offsets="3759:3769" id="27" />
+      <Sentence char_offsets="3780:3819" id="28" />
+      <Sentence char_offsets="3830:3890" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="234" actor_name="Jeffrey D. Zients" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="044">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="044">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

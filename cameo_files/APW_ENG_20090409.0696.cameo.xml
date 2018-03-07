@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.0696">
+    <Sentences>
+      <Sentence char_offsets="197:366" id="0" />
+      <Sentence char_offsets="377:581" id="1" />
+      <Sentence char_offsets="583:646" id="2" />
+      <Sentence char_offsets="657:912" id="3" />
+      <Sentence char_offsets="923:1165" id="4" />
+      <Sentence char_offsets="1176:1381" id="5" />
+      <Sentence char_offsets="1392:1557" id="6" />
+      <Sentence char_offsets="1568:1775" id="7" />
+      <Sentence char_offsets="1777:1809" id="8" />
+      <Sentence char_offsets="1820:2042" id="9" />
+      <Sentence char_offsets="2053:2153" id="10" />
+      <Sentence char_offsets="2155:2327" id="11" />
+      <Sentence char_offsets="2338:2496" id="12" />
+      <Sentence char_offsets="2507:2724" id="13" />
+      <Sentence char_offsets="2735:2961" id="14" />
+      <Sentence char_offsets="2972:3155" id="15" />
+      <Sentence char_offsets="3166:3320" id="16" />
+      <Sentence char_offsets="3322:3512" id="17" />
+      <Sentence char_offsets="3523:3646" id="18" />
+      <Sentence char_offsets="3657:3836" id="19" />
+      <Sentence char_offsets="3838:3931" id="20" />
+      <Sentence char_offsets="3942:4107" id="21" />
+      <Sentence char_offsets="4109:4243" id="22" />
+      <Sentence char_offsets="4254:4383" id="23" />
+      <Sentence char_offsets="4394:4537" id="24" />
+      <Sentence char_offsets="4539:4649" id="25" />
+      <Sentence char_offsets="4660:4736" id="26" />
+      <Sentence char_offsets="4738:4862" id="27" />
+      <Sentence char_offsets="4873:5029" id="28" />
+      <Sentence char_offsets="5040:5157" id="29" />
+      <Sentence char_offsets="5159:5306" id="30" />
+      <Sentence char_offsets="5317:5322" id="31" />
+      <Sentence char_offsets="5333:5417" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="34736" actor_name="Kim Jong-Il" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="current" type="051">
+        <Participant actor_id="34783" actor_name="Kim Yong Nam" role="Source" />
+        <Participant actor_id="34736" actor_name="Kim Jong-Il" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

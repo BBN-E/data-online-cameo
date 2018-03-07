@@ -1,0 +1,124 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0271">
+    <Sentences>
+      <Sentence char_offsets="186:376" id="0" />
+      <Sentence char_offsets="378:421" id="1" />
+      <Sentence char_offsets="432:616" id="2" />
+      <Sentence char_offsets="627:791" id="3" />
+      <Sentence char_offsets="793:848" id="4" />
+      <Sentence char_offsets="859:975" id="5" />
+      <Sentence char_offsets="986:1090" id="6" />
+      <Sentence char_offsets="1092:1134" id="7" />
+      <Sentence char_offsets="1136:1211" id="8" />
+      <Sentence char_offsets="1222:1403" id="9" />
+      <Sentence char_offsets="1405:1430" id="10" />
+      <Sentence char_offsets="1432:1492" id="11" />
+      <Sentence char_offsets="1503:1621" id="12" />
+      <Sentence char_offsets="1632:1658" id="13" />
+      <Sentence char_offsets="1660:1702" id="14" />
+      <Sentence char_offsets="1704:1721" id="15" />
+      <Sentence char_offsets="1723:1786" id="16" />
+      <Sentence char_offsets="1797:1898" id="17" />
+      <Sentence char_offsets="1900:1947" id="18" />
+      <Sentence char_offsets="1949:2008" id="19" />
+      <Sentence char_offsets="2019:2255" id="20" />
+      <Sentence char_offsets="2266:2410" id="21" />
+      <Sentence char_offsets="2412:2566" id="22" />
+      <Sentence char_offsets="2577:2680" id="23" />
+      <Sentence char_offsets="2682:2825" id="24" />
+      <Sentence char_offsets="2836:3002" id="25" />
+      <Sentence char_offsets="3013:3326" id="26" />
+      <Sentence char_offsets="3337:3503" id="27" />
+      <Sentence char_offsets="3505:3606" id="28" />
+      <Sentence char_offsets="3617:3801" id="29" />
+      <Sentence char_offsets="3803:3879" id="30" />
+      <Sentence char_offsets="3890:4119" id="31" />
+      <Sentence char_offsets="4130:4333" id="32" />
+      <Sentence char_offsets="4335:4377" id="33" />
+      <Sentence char_offsets="4388:4491" id="34" />
+      <Sentence char_offsets="4493:4653" id="35" />
+      <Sentence char_offsets="4655:4705" id="36" />
+      <Sentence char_offsets="4716:4907" id="37" />
+      <Sentence char_offsets="4918:5095" id="38" />
+      <Sentence char_offsets="5097:5145" id="39" />
+      <Sentence char_offsets="5156:5311" id="40" />
+      <Sentence char_offsets="5313:5345" id="41" />
+      <Sentence char_offsets="5356:5473" id="42" />
+      <Sentence char_offsets="5475:5573" id="43" />
+      <Sentence char_offsets="5575:5597" id="44" />
+      <Sentence char_offsets="5608:5819" id="45" />
+      <Sentence char_offsets="5830:6040" id="46" />
+      <Sentence char_offsets="6051:6248" id="47" />
+      <Sentence char_offsets="6259:6342" id="48" />
+      <Sentence char_offsets="6344:6552" id="49" />
+      <Sentence char_offsets="6563:6580" id="50" />
+      <Sentence char_offsets="6582:6591" id="51" />
+      <Sentence char_offsets="6593:6627" id="52" />
+      <Sentence char_offsets="6638:6846" id="53" />
+      <Sentence char_offsets="6857:6925" id="54" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="232345" actor_name="Watcharapol Prasarnrajkit" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="464" actor_name="Sansern Kaewkamnerd" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="464" actor_name="Sansern Kaewkamnerd" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="48" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="53" tense="neutral" type="016">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="051">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="31" tense="neutral" type="111">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="35" tense="neutral" type="112">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="49" tense="neutral" type="112">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="37" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="11" sentence_id="46" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="24" tense="neutral" type="180">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="27" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="50" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

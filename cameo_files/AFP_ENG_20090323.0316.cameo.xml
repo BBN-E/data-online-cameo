@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0316">
+    <Sentences>
+      <Sentence char_offsets="186:355" id="0" />
+      <Sentence char_offsets="366:544" id="1" />
+      <Sentence char_offsets="555:673" id="2" />
+      <Sentence char_offsets="675:729" id="3" />
+      <Sentence char_offsets="740:950" id="4" />
+      <Sentence char_offsets="961:1042" id="5" />
+      <Sentence char_offsets="1053:1126" id="6" />
+      <Sentence char_offsets="1137:1308" id="7" />
+      <Sentence char_offsets="1319:1334" id="8" />
+      <Sentence char_offsets="1336:1395" id="9" />
+      <Sentence char_offsets="1406:1634" id="10" />
+      <Sentence char_offsets="1645:1740" id="11" />
+      <Sentence char_offsets="1751:1985" id="12" />
+      <Sentence char_offsets="1996:2241" id="13" />
+      <Sentence char_offsets="2252:2358" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="current" type="010">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

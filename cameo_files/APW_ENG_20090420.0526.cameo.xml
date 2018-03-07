@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0526">
+    <Sentences>
+      <Sentence char_offsets="197:485" id="0" />
+      <Sentence char_offsets="496:681" id="1" />
+      <Sentence char_offsets="692:975" id="2" />
+      <Sentence char_offsets="986:1118" id="3" />
+      <Sentence char_offsets="1129:1354" id="4" />
+      <Sentence char_offsets="1365:1508" id="5" />
+      <Sentence char_offsets="1510:1693" id="6" />
+      <Sentence char_offsets="1704:1787" id="7" />
+      <Sentence char_offsets="1789:1901" id="8" />
+      <Sentence char_offsets="1912:2121" id="9" />
+      <Sentence char_offsets="2132:2251" id="10" />
+      <Sentence char_offsets="2253:2411" id="11" />
+      <Sentence char_offsets="2422:2520" id="12" />
+      <Sentence char_offsets="2531:2635" id="13" />
+      <Sentence char_offsets="2637:2764" id="14" />
+      <Sentence char_offsets="2766:2879" id="15" />
+      <Sentence char_offsets="2890:3052" id="16" />
+      <Sentence char_offsets="3063:3219" id="17" />
+      <Sentence char_offsets="3230:3414" id="18" />
+      <Sentence char_offsets="3425:3550" id="19" />
+      <Sentence char_offsets="3561:3777" id="20" />
+      <Sentence char_offsets="3788:3927" id="21" />
+      <Sentence char_offsets="3938:3943" id="22" />
+      <Sentence char_offsets="3954:4034" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="238429" actor_name="Fawzi Barhum" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="016">
+        <Participant actor_id="238429" actor_name="Fawzi Barhum" role="Source" />
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="170">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="170">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="neutral" type="173">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="historical" type="190">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="historical" type="190">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="historical" type="192">
+        <Participant actor_id="31716" actor_name="Hamas" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="13" tense="neutral" type="192">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="6" tense="historical" type="193">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

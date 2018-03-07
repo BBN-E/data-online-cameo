@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0662">
+    <Sentences>
+      <Sentence char_offsets="179:363" id="0" />
+      <Sentence char_offsets="374:589" id="1" />
+      <Sentence char_offsets="600:684" id="2" />
+      <Sentence char_offsets="686:819" id="3" />
+      <Sentence char_offsets="830:867" id="4" />
+      <Sentence char_offsets="869:959" id="5" />
+      <Sentence char_offsets="970:1136" id="6" />
+      <Sentence char_offsets="1147:1322" id="7" />
+      <Sentence char_offsets="1333:1531" id="8" />
+      <Sentence char_offsets="1542:1596" id="9" />
+      <Sentence char_offsets="1598:1634" id="10" />
+      <Sentence char_offsets="1636:1704" id="11" />
+      <Sentence char_offsets="1715:1804" id="12" />
+      <Sentence char_offsets="1815:1996" id="13" />
+      <Sentence char_offsets="2007:2227" id="14" />
+      <Sentence char_offsets="2238:2323" id="15" />
+      <Sentence char_offsets="2325:2366" id="16" />
+      <Sentence char_offsets="2377:2543" id="17" />
+      <Sentence char_offsets="2554:2738" id="18" />
+      <Sentence char_offsets="2749:2843" id="19" />
+      <Sentence char_offsets="2854:3072" id="20" />
+      <Sentence char_offsets="3083:3216" id="21" />
+      <Sentence char_offsets="3227:3288" id="22" />
+      <Sentence char_offsets="3290:3445" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="5465" actor_name="Khmer Rouge" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="historical" type="173">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="15353" actor_name="Ieng Sary" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

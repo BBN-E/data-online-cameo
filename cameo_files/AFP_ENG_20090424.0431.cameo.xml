@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0431">
+    <Sentences>
+      <Sentence char_offsets="176:345" id="0" />
+      <Sentence char_offsets="356:582" id="1" />
+      <Sentence char_offsets="593:688" id="2" />
+      <Sentence char_offsets="699:865" id="3" />
+      <Sentence char_offsets="876:955" id="4" />
+      <Sentence char_offsets="966:1183" id="5" />
+      <Sentence char_offsets="1194:1448" id="6" />
+      <Sentence char_offsets="1459:1681" id="7" />
+      <Sentence char_offsets="1692:1896" id="8" />
+      <Sentence char_offsets="1907:2061" id="9" />
+      <Sentence char_offsets="2072:2265" id="10" />
+      <Sentence char_offsets="2276:2467" id="11" />
+      <Sentence char_offsets="2478:2699" id="12" />
+      <Sentence char_offsets="2710:2781" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="111">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="111">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

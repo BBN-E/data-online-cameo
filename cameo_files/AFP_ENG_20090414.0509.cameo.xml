@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0509">
+    <Sentences>
+      <Sentence char_offsets="183:373" id="0" />
+      <Sentence char_offsets="384:607" id="1" />
+      <Sentence char_offsets="618:834" id="2" />
+      <Sentence char_offsets="845:979" id="3" />
+      <Sentence char_offsets="981:1069" id="4" />
+      <Sentence char_offsets="1080:1301" id="5" />
+      <Sentence char_offsets="1312:1411" id="6" />
+      <Sentence char_offsets="1413:1525" id="7" />
+      <Sentence char_offsets="1536:1756" id="8" />
+      <Sentence char_offsets="1767:1986" id="9" />
+      <Sentence char_offsets="1997:2219" id="10" />
+      <Sentence char_offsets="2230:2377" id="11" />
+      <Sentence char_offsets="2388:2623" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="274" agent_name="Government Forces" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

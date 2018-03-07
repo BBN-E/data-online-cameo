@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0475">
+    <Sentences>
+      <Sentence char_offsets="185:391" id="0" />
+      <Sentence char_offsets="402:638" id="1" />
+      <Sentence char_offsets="649:778" id="2" />
+      <Sentence char_offsets="789:814" id="3" />
+      <Sentence char_offsets="816:856" id="4" />
+      <Sentence char_offsets="858:974" id="5" />
+      <Sentence char_offsets="985:1238" id="6" />
+      <Sentence char_offsets="1249:1407" id="7" />
+      <Sentence char_offsets="1418:1637" id="8" />
+      <Sentence char_offsets="1648:1862" id="9" />
+      <Sentence char_offsets="1873:1991" id="10" />
+      <Sentence char_offsets="2002:2139" id="11" />
+      <Sentence char_offsets="2141:2206" id="12" />
+      <Sentence char_offsets="2217:2320" id="13" />
+      <Sentence char_offsets="2331:2552" id="14" />
+      <Sentence char_offsets="2563:2665" id="15" />
+      <Sentence char_offsets="2667:2836" id="16" />
+      <Sentence char_offsets="2847:3135" id="17" />
+      <Sentence char_offsets="3146:3239" id="18" />
+      <Sentence char_offsets="3241:3386" id="19" />
+      <Sentence char_offsets="3388:3497" id="20" />
+      <Sentence char_offsets="3508:3768" id="21" />
+      <Sentence char_offsets="3779:3869" id="22" />
+      <Sentence char_offsets="3880:4052" id="23" />
+      <Sentence char_offsets="4063:4254" id="24" />
+      <Sentence char_offsets="4256:4455" id="25" />
+      <Sentence char_offsets="4466:4697" id="26" />
+      <Sentence char_offsets="4708:4973" id="27" />
+      <Sentence char_offsets="4984:5125" id="28" />
+      <Sentence char_offsets="5127:5295" id="29" />
+      <Sentence char_offsets="5306:5499" id="30" />
+      <Sentence char_offsets="5510:5597" id="31" />
+      <Sentence char_offsets="5608:5613" id="32" />
+      <Sentence char_offsets="5624:5770" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="28" tense="current" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="124">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="648" agent_name="Tourist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

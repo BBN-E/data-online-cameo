@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.0748">
+    <Sentences>
+      <Sentence char_offsets="174:318" id="0" />
+      <Sentence char_offsets="329:514" id="1" />
+      <Sentence char_offsets="525:738" id="2" />
+      <Sentence char_offsets="749:944" id="3" />
+      <Sentence char_offsets="955:1030" id="4" />
+      <Sentence char_offsets="1032:1172" id="5" />
+      <Sentence char_offsets="1183:1260" id="6" />
+      <Sentence char_offsets="1262:1300" id="7" />
+      <Sentence char_offsets="1311:1575" id="8" />
+      <Sentence char_offsets="1586:1795" id="9" />
+      <Sentence char_offsets="1806:1972" id="10" />
+      <Sentence char_offsets="1983:2187" id="11" />
+      <Sentence char_offsets="2198:2370" id="12" />
+      <Sentence char_offsets="2372:2401" id="13" />
+      <Sentence char_offsets="2412:2559" id="14" />
+      <Sentence char_offsets="2570:2630" id="15" />
+      <Sentence char_offsets="2632:2670" id="16" />
+      <Sentence char_offsets="2681:2845" id="17" />
+      <Sentence char_offsets="2847:2976" id="18" />
+      <Sentence char_offsets="2987:3077" id="19" />
+      <Sentence char_offsets="3088:3292" id="20" />
+      <Sentence char_offsets="3303:3347" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="20" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="current" type="042">
+        <Participant actor_id="239252" actor_name="Sergio Marchionne" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="current" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="239252" actor_name="Sergio Marchionne" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

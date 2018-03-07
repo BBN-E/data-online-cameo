@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0382">
+    <Sentences>
+      <Sentence char_offsets="194:423" id="0" />
+      <Sentence char_offsets="434:611" id="1" />
+      <Sentence char_offsets="622:785" id="2" />
+      <Sentence char_offsets="796:935" id="3" />
+      <Sentence char_offsets="946:1232" id="4" />
+      <Sentence char_offsets="1243:1466" id="5" />
+      <Sentence char_offsets="1468:1555" id="6" />
+      <Sentence char_offsets="1566:1682" id="7" />
+      <Sentence char_offsets="1693:1847" id="8" />
+      <Sentence char_offsets="1849:1948" id="9" />
+      <Sentence char_offsets="1959:2127" id="10" />
+      <Sentence char_offsets="2138:2346" id="11" />
+      <Sentence char_offsets="2357:2576" id="12" />
+      <Sentence char_offsets="2587:2757" id="13" />
+      <Sentence char_offsets="2768:2868" id="14" />
+      <Sentence char_offsets="2879:3201" id="15" />
+      <Sentence char_offsets="3212:3341" id="16" />
+      <Sentence char_offsets="3343:3452" id="17" />
+      <Sentence char_offsets="3463:3501" id="18" />
+      <Sentence char_offsets="3503:3568" id="19" />
+      <Sentence char_offsets="3579:3719" id="20" />
+      <Sentence char_offsets="3730:3792" id="21" />
+      <Sentence char_offsets="3803:3882" id="22" />
+      <Sentence char_offsets="3884:4022" id="23" />
+      <Sentence char_offsets="4033:4214" id="24" />
+      <Sentence char_offsets="4216:4312" id="25" />
+      <Sentence char_offsets="4323:4496" id="26" />
+      <Sentence char_offsets="4507:4763" id="27" />
+      <Sentence char_offsets="4774:4995" id="28" />
+      <Sentence char_offsets="4997:5030" id="29" />
+      <Sentence char_offsets="5041:5046" id="30" />
+      <Sentence char_offsets="5057:5169" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="013">
+        <Participant actor_id="238162" actor_name="Anies Baswedan" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="457" agent_name="Democratic Party" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="historical" type="181">
+        <Participant actor_id="235595" actor_name="Prabowo Subianto" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,89 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090408.0119">
+    <Sentences>
+      <Sentence char_offsets="102:228" id="0" />
+      <Sentence char_offsets="235:556" id="1" />
+      <Sentence char_offsets="567:802" id="2" />
+      <Sentence char_offsets="813:939" id="3" />
+      <Sentence char_offsets="941:1141" id="4" />
+      <Sentence char_offsets="1143:1215" id="5" />
+      <Sentence char_offsets="1217:1336" id="6" />
+      <Sentence char_offsets="1347:1441" id="7" />
+      <Sentence char_offsets="1443:1554" id="8" />
+      <Sentence char_offsets="1556:1676" id="9" />
+      <Sentence char_offsets="1687:1875" id="10" />
+      <Sentence char_offsets="1877:2129" id="11" />
+      <Sentence char_offsets="2140:2229" id="12" />
+      <Sentence char_offsets="2231:2309" id="13" />
+      <Sentence char_offsets="2311:2393" id="14" />
+      <Sentence char_offsets="2404:2486" id="15" />
+      <Sentence char_offsets="2497:2659" id="16" />
+      <Sentence char_offsets="2661:2712" id="17" />
+      <Sentence char_offsets="2714:2724" id="18" />
+      <Sentence char_offsets="2726:2808" id="19" />
+      <Sentence char_offsets="2810:2910" id="20" />
+      <Sentence char_offsets="2921:3008" id="21" />
+      <Sentence char_offsets="3019:3201" id="22" />
+      <Sentence char_offsets="3212:3368" id="23" />
+      <Sentence char_offsets="3379:3493" id="24" />
+      <Sentence char_offsets="3495:3608" id="25" />
+      <Sentence char_offsets="3619:3767" id="26" />
+      <Sentence char_offsets="3769:3895" id="27" />
+      <Sentence char_offsets="3897:3955" id="28" />
+      <Sentence char_offsets="3966:4015" id="29" />
+      <Sentence char_offsets="4017:4188" id="30" />
+      <Sentence char_offsets="4190:4373" id="31" />
+      <Sentence char_offsets="4375:4427" id="32" />
+      <Sentence char_offsets="4438:4514" id="33" />
+      <Sentence char_offsets="4516:4581" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="30" tense="neutral" type="012">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="45010" actor_name="Inter-Services Intelligence" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="45010" actor_name="Inter-Services Intelligence" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="45010" actor_name="Inter-Services Intelligence" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="45010" actor_name="Inter-Services Intelligence" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

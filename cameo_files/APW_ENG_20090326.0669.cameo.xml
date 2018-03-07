@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0669">
+    <Sentences>
+      <Sentence char_offsets="182:425" id="0" />
+      <Sentence char_offsets="436:640" id="1" />
+      <Sentence char_offsets="651:822" id="2" />
+      <Sentence char_offsets="833:1049" id="3" />
+      <Sentence char_offsets="1060:1250" id="4" />
+      <Sentence char_offsets="1261:1374" id="5" />
+      <Sentence char_offsets="1385:1541" id="6" />
+      <Sentence char_offsets="1543:1668" id="7" />
+      <Sentence char_offsets="1679:1819" id="8" />
+      <Sentence char_offsets="1830:1975" id="9" />
+      <Sentence char_offsets="1977:2053" id="10" />
+      <Sentence char_offsets="2064:2262" id="11" />
+      <Sentence char_offsets="2273:2373" id="12" />
+      <Sentence char_offsets="2384:2559" id="13" />
+      <Sentence char_offsets="2561:2707" id="14" />
+      <Sentence char_offsets="2718:2817" id="15" />
+      <Sentence char_offsets="2828:2905" id="16" />
+      <Sentence char_offsets="2907:3015" id="17" />
+      <Sentence char_offsets="3026:3188" id="18" />
+      <Sentence char_offsets="3199:3410" id="19" />
+      <Sentence char_offsets="3421:3579" id="20" />
+      <Sentence char_offsets="3590:3732" id="21" />
+      <Sentence char_offsets="3734:3835" id="22" />
+      <Sentence char_offsets="3846:3969" id="23" />
+      <Sentence char_offsets="3980:4256" id="24" />
+      <Sentence char_offsets="4267:4378" id="25" />
+      <Sentence char_offsets="4389:4577" id="26" />
+      <Sentence char_offsets="4588:4842" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="47192" actor_name="Mark Malloch Brown" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="042">
+        <Participant actor_id="30976" actor_name="Group of Eight" role="Source" />
+        <Participant actor_id="23880" actor_name="Scotland" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="043">
+        <Participant actor_id="23880" actor_name="Scotland" role="Source" />
+        <Participant actor_id="30976" actor_name="Group of Eight" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

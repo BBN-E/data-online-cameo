@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.1258">
+    <Sentences>
+      <Sentence char_offsets="228:446" id="0" />
+      <Sentence char_offsets="457:648" id="1" />
+      <Sentence char_offsets="650:755" id="2" />
+      <Sentence char_offsets="766:923" id="3" />
+      <Sentence char_offsets="934:1123" id="4" />
+      <Sentence char_offsets="1134:1339" id="5" />
+      <Sentence char_offsets="1350:1471" id="6" />
+      <Sentence char_offsets="1473:1640" id="7" />
+      <Sentence char_offsets="1651:1854" id="8" />
+      <Sentence char_offsets="1856:1960" id="9" />
+      <Sentence char_offsets="1962:2001" id="10" />
+      <Sentence char_offsets="2012:2120" id="11" />
+      <Sentence char_offsets="2131:2283" id="12" />
+      <Sentence char_offsets="2285:2370" id="13" />
+      <Sentence char_offsets="2381:2483" id="14" />
+      <Sentence char_offsets="2485:2550" id="15" />
+      <Sentence char_offsets="2561:2735" id="16" />
+      <Sentence char_offsets="2746:2753" id="17" />
+      <Sentence char_offsets="2764:2851" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="117795" actor_name="Gordon Wetherell" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0384">
+    <Sentences>
+      <Sentence char_offsets="180:371" id="0" />
+      <Sentence char_offsets="382:638" id="1" />
+      <Sentence char_offsets="649:790" id="2" />
+      <Sentence char_offsets="792:819" id="3" />
+      <Sentence char_offsets="830:1074" id="4" />
+      <Sentence char_offsets="1085:1304" id="5" />
+      <Sentence char_offsets="1315:1402" id="6" />
+      <Sentence char_offsets="1413:1549" id="7" />
+      <Sentence char_offsets="1560:1656" id="8" />
+      <Sentence char_offsets="1667:1798" id="9" />
+      <Sentence char_offsets="1809:2009" id="10" />
+      <Sentence char_offsets="2020:2198" id="11" />
+      <Sentence char_offsets="2209:2355" id="12" />
+      <Sentence char_offsets="2366:2428" id="13" />
+      <Sentence char_offsets="2439:2559" id="14" />
+      <Sentence char_offsets="2570:2778" id="15" />
+      <Sentence char_offsets="2789:2924" id="16" />
+      <Sentence char_offsets="2935:3091" id="17" />
+      <Sentence char_offsets="3102:3341" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="0331">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="0331">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="current" type="120">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

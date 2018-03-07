@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0757">
+    <Sentences>
+      <Sentence char_offsets="178:366" id="0" />
+      <Sentence char_offsets="377:595" id="1" />
+      <Sentence char_offsets="606:835" id="2" />
+      <Sentence char_offsets="846:1063" id="3" />
+      <Sentence char_offsets="1074:1337" id="4" />
+      <Sentence char_offsets="1348:1594" id="5" />
+      <Sentence char_offsets="1605:1806" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="51884" actor_name="Nancy Pelosi" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

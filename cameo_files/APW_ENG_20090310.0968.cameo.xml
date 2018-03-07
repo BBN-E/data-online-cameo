@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0968">
+    <Sentences>
+      <Sentence char_offsets="205:450" id="0" />
+      <Sentence char_offsets="461:714" id="1" />
+      <Sentence char_offsets="716:774" id="2" />
+      <Sentence char_offsets="785:995" id="3" />
+      <Sentence char_offsets="1006:1276" id="4" />
+      <Sentence char_offsets="1287:1543" id="5" />
+      <Sentence char_offsets="1554:1712" id="6" />
+      <Sentence char_offsets="1723:1818" id="7" />
+      <Sentence char_offsets="1829:2111" id="8" />
+      <Sentence char_offsets="2113:2203" id="9" />
+      <Sentence char_offsets="2214:2310" id="10" />
+      <Sentence char_offsets="2321:2521" id="11" />
+      <Sentence char_offsets="2523:2631" id="12" />
+      <Sentence char_offsets="2642:2924" id="13" />
+      <Sentence char_offsets="2935:3038" id="14" />
+      <Sentence char_offsets="3049:3373" id="15" />
+      <Sentence char_offsets="3384:3582" id="16" />
+      <Sentence char_offsets="3593:3723" id="17" />
+      <Sentence char_offsets="3734:3813" id="18" />
+      <Sentence char_offsets="3824:3958" id="19" />
+      <Sentence char_offsets="3969:4083" id="20" />
+      <Sentence char_offsets="4094:4189" id="21" />
+      <Sentence char_offsets="4191:4239" id="22" />
+      <Sentence char_offsets="4250:4393" id="23" />
+      <Sentence char_offsets="4395:4440" id="24" />
+      <Sentence char_offsets="4451:4579" id="25" />
+      <Sentence char_offsets="4581:4648" id="26" />
+      <Sentence char_offsets="4659:4918" id="27" />
+      <Sentence char_offsets="4920:4960" id="28" />
+      <Sentence char_offsets="4962:5029" id="29" />
+      <Sentence char_offsets="5040:5226" id="30" />
+      <Sentence char_offsets="5237:5353" id="31" />
+      <Sentence char_offsets="5355:5477" id="32" />
+      <Sentence char_offsets="5479:5659" id="33" />
+      <Sentence char_offsets="5670:5839" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="215328" actor_name="Continuity Irish Republican Army" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="neutral" type="057">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="69" agent_name="Party Member" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="13" tense="neutral" type="057">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="69" agent_name="Party Member" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="6" tense="neutral" type="111">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="25" tense="neutral" type="1711">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0662">
+    <Sentences>
+      <Sentence char_offsets="190:363" id="0" />
+      <Sentence char_offsets="374:490" id="1" />
+      <Sentence char_offsets="492:567" id="2" />
+      <Sentence char_offsets="578:760" id="3" />
+      <Sentence char_offsets="771:868" id="4" />
+      <Sentence char_offsets="879:1072" id="5" />
+      <Sentence char_offsets="1083:1269" id="6" />
+      <Sentence char_offsets="1280:1395" id="7" />
+      <Sentence char_offsets="1406:1496" id="8" />
+      <Sentence char_offsets="1507:1669" id="9" />
+      <Sentence char_offsets="1680:1801" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="183">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="191">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="394" agent_name="Separatist Militant" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="current" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

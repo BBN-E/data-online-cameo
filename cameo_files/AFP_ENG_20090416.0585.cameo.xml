@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0585">
+    <Sentences>
+      <Sentence char_offsets="190:374" id="0" />
+      <Sentence char_offsets="385:585" id="1" />
+      <Sentence char_offsets="596:859" id="2" />
+      <Sentence char_offsets="870:1020" id="3" />
+      <Sentence char_offsets="1031:1152" id="4" />
+      <Sentence char_offsets="1163:1322" id="5" />
+      <Sentence char_offsets="1333:1465" id="6" />
+      <Sentence char_offsets="1467:1542" id="7" />
+      <Sentence char_offsets="1553:1752" id="8" />
+      <Sentence char_offsets="1763:1970" id="9" />
+      <Sentence char_offsets="1981:2137" id="10" />
+      <Sentence char_offsets="2148:2315" id="11" />
+      <Sentence char_offsets="2326:2425" id="12" />
+      <Sentence char_offsets="2427:2532" id="13" />
+      <Sentence char_offsets="2543:2710" id="14" />
+      <Sentence char_offsets="2712:2786" id="15" />
+      <Sentence char_offsets="2797:2920" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="204047" actor_name="Alexander B. Yano" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="064">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

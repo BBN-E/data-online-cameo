@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0196">
+    <Sentences>
+      <Sentence char_offsets="192:356" id="0" />
+      <Sentence char_offsets="367:469" id="1" />
+      <Sentence char_offsets="471:601" id="2" />
+      <Sentence char_offsets="612:780" id="3" />
+      <Sentence char_offsets="791:864" id="4" />
+      <Sentence char_offsets="866:917" id="5" />
+      <Sentence char_offsets="928:1133" id="6" />
+      <Sentence char_offsets="1144:1355" id="7" />
+      <Sentence char_offsets="1366:1453" id="8" />
+      <Sentence char_offsets="1455:1580" id="9" />
+      <Sentence char_offsets="1591:1709" id="10" />
+      <Sentence char_offsets="1711:1752" id="11" />
+      <Sentence char_offsets="1763:1962" id="12" />
+      <Sentence char_offsets="1973:2116" id="13" />
+      <Sentence char_offsets="2127:2255" id="14" />
+      <Sentence char_offsets="2266:2311" id="15" />
+      <Sentence char_offsets="2313:2530" id="16" />
+      <Sentence char_offsets="2541:2733" id="17" />
+      <Sentence char_offsets="2735:2813" id="18" />
+      <Sentence char_offsets="2824:2956" id="19" />
+      <Sentence char_offsets="2967:3202" id="20" />
+      <Sentence char_offsets="3204:3307" id="21" />
+      <Sentence char_offsets="3318:3359" id="22" />
+      <Sentence char_offsets="3361:3488" id="23" />
+      <Sentence char_offsets="3499:3588" id="24" />
+      <Sentence char_offsets="3599:3810" id="25" />
+      <Sentence char_offsets="3812:3908" id="26" />
+      <Sentence char_offsets="3919:4053" id="27" />
+      <Sentence char_offsets="4055:4113" id="28" />
+      <Sentence char_offsets="4124:4127" id="29" />
+      <Sentence char_offsets="4138:4214" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="53566" actor_name="Ralph Gonsalves" role="Source" />
+        <Participant actor_id="32722" actor_name="Caribbean" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="23" tense="neutral" type="111">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="040">
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

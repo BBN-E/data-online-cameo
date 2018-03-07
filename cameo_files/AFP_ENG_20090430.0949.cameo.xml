@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0949">
+    <Sentences>
+      <Sentence char_offsets="184:373" id="0" />
+      <Sentence char_offsets="384:601" id="1" />
+      <Sentence char_offsets="612:796" id="2" />
+      <Sentence char_offsets="807:932" id="3" />
+      <Sentence char_offsets="943:1002" id="4" />
+      <Sentence char_offsets="1004:1157" id="5" />
+      <Sentence char_offsets="1168:1210" id="6" />
+      <Sentence char_offsets="1212:1382" id="7" />
+      <Sentence char_offsets="1393:1549" id="8" />
+      <Sentence char_offsets="1560:1654" id="9" />
+      <Sentence char_offsets="1656:1829" id="10" />
+      <Sentence char_offsets="1840:2032" id="11" />
+      <Sentence char_offsets="2043:2164" id="12" />
+      <Sentence char_offsets="2166:2324" id="13" />
+      <Sentence char_offsets="2335:2513" id="14" />
+      <Sentence char_offsets="2524:2629" id="15" />
+      <Sentence char_offsets="2640:2863" id="16" />
+      <Sentence char_offsets="2874:3032" id="17" />
+      <Sentence char_offsets="3043:3207" id="18" />
+      <Sentence char_offsets="3218:3381" id="19" />
+      <Sentence char_offsets="3392:3557" id="20" />
+      <Sentence char_offsets="3568:3751" id="21" />
+      <Sentence char_offsets="3762:3926" id="22" />
+      <Sentence char_offsets="3937:4046" id="23" />
+      <Sentence char_offsets="4057:4136" id="24" />
+      <Sentence char_offsets="4147:4315" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="174">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="612" agent_name="Defector" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

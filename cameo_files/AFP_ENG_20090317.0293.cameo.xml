@@ -1,0 +1,17 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0293">
+    <Sentences>
+      <Sentence char_offsets="190:373" id="0" />
+      <Sentence char_offsets="384:636" id="1" />
+      <Sentence char_offsets="647:893" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="33931" actor_name="Federal Reserve" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0438">
+    <Sentences>
+      <Sentence char_offsets="187:368" id="0" />
+      <Sentence char_offsets="379:565" id="1" />
+      <Sentence char_offsets="576:768" id="2" />
+      <Sentence char_offsets="779:849" id="3" />
+      <Sentence char_offsets="860:940" id="4" />
+      <Sentence char_offsets="951:1124" id="5" />
+      <Sentence char_offsets="1135:1243" id="6" />
+      <Sentence char_offsets="1254:1280" id="7" />
+      <Sentence char_offsets="1282:1399" id="8" />
+      <Sentence char_offsets="1410:1521" id="9" />
+      <Sentence char_offsets="1532:1600" id="10" />
+      <Sentence char_offsets="1602:1663" id="11" />
+      <Sentence char_offsets="1665:1736" id="12" />
+      <Sentence char_offsets="1747:1917" id="13" />
+      <Sentence char_offsets="1928:2134" id="14" />
+      <Sentence char_offsets="2145:2289" id="15" />
+      <Sentence char_offsets="2300:2418" id="16" />
+      <Sentence char_offsets="2420:2496" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="112">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

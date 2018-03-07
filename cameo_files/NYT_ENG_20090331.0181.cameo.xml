@@ -1,0 +1,67 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090331.0181">
+    <Sentences>
+      <Sentence char_offsets="420:612" id="0" />
+      <Sentence char_offsets="623:927" id="1" />
+      <Sentence char_offsets="938:1192" id="2" />
+      <Sentence char_offsets="1203:1419" id="3" />
+      <Sentence char_offsets="1421:1522" id="4" />
+      <Sentence char_offsets="1533:1786" id="5" />
+      <Sentence char_offsets="1797:1984" id="6" />
+      <Sentence char_offsets="1995:2118" id="7" />
+      <Sentence char_offsets="2120:2273" id="8" />
+      <Sentence char_offsets="2284:2341" id="9" />
+      <Sentence char_offsets="2343:2430" id="10" />
+      <Sentence char_offsets="2441:2683" id="11" />
+      <Sentence char_offsets="2685:2804" id="12" />
+      <Sentence char_offsets="2815:2989" id="13" />
+      <Sentence char_offsets="3000:3057" id="14" />
+      <Sentence char_offsets="3059:3244" id="15" />
+      <Sentence char_offsets="3255:3475" id="16" />
+      <Sentence char_offsets="3486:3617" id="17" />
+      <Sentence char_offsets="3619:3693" id="18" />
+      <Sentence char_offsets="3704:3913" id="19" />
+      <Sentence char_offsets="3924:4025" id="20" />
+      <Sentence char_offsets="4027:4083" id="21" />
+      <Sentence char_offsets="4094:4281" id="22" />
+      <Sentence char_offsets="4292:4458" id="23" />
+      <Sentence char_offsets="4469:4611" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="041">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="29531" actor_name="Reuters" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="041">
+        <Participant actor_id="29531" actor_name="Reuters" role="Source" />
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="051">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="136080" actor_name="Tehrik-i-Taliban" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="111">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="180">
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="neutral" type="138">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.0026">
+    <Sentences>
+      <Sentence char_offsets="190:366" id="0" />
+      <Sentence char_offsets="377:582" id="1" />
+      <Sentence char_offsets="584:709" id="2" />
+      <Sentence char_offsets="720:910" id="3" />
+      <Sentence char_offsets="921:1050" id="4" />
+      <Sentence char_offsets="1052:1165" id="5" />
+      <Sentence char_offsets="1176:1354" id="6" />
+      <Sentence char_offsets="1356:1455" id="7" />
+      <Sentence char_offsets="1466:1587" id="8" />
+      <Sentence char_offsets="1589:1736" id="9" />
+      <Sentence char_offsets="1747:1881" id="10" />
+      <Sentence char_offsets="1883:1961" id="11" />
+      <Sentence char_offsets="1963:2008" id="12" />
+      <Sentence char_offsets="2019:2166" id="13" />
+      <Sentence char_offsets="2168:2287" id="14" />
+      <Sentence char_offsets="2289:2426" id="15" />
+      <Sentence char_offsets="2437:2605" id="16" />
+      <Sentence char_offsets="2616:2657" id="17" />
+      <Sentence char_offsets="2659:2798" id="18" />
+      <Sentence char_offsets="2809:2863" id="19" />
+      <Sentence char_offsets="2865:3009" id="20" />
+      <Sentence char_offsets="3020:3181" id="21" />
+      <Sentence char_offsets="3183:3232" id="22" />
+      <Sentence char_offsets="3243:3280" id="23" />
+      <Sentence char_offsets="3282:3399" id="24" />
+      <Sentence char_offsets="3410:3588" id="25" />
+      <Sentence char_offsets="3599:3749" id="26" />
+      <Sentence char_offsets="3760:3765" id="27" />
+      <Sentence char_offsets="3776:3853" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="633" agent_name="Main Opposition" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="141">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

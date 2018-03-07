@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0160">
+    <Sentences>
+      <Sentence char_offsets="189:356" id="0" />
+      <Sentence char_offsets="367:562" id="1" />
+      <Sentence char_offsets="573:676" id="2" />
+      <Sentence char_offsets="687:868" id="3" />
+      <Sentence char_offsets="879:981" id="4" />
+      <Sentence char_offsets="992:1101" id="5" />
+      <Sentence char_offsets="1112:1159" id="6" />
+      <Sentence char_offsets="1170:1411" id="7" />
+      <Sentence char_offsets="1413:1459" id="8" />
+      <Sentence char_offsets="1461:1513" id="9" />
+      <Sentence char_offsets="1524:1696" id="10" />
+      <Sentence char_offsets="1707:1797" id="11" />
+      <Sentence char_offsets="1799:1860" id="12" />
+      <Sentence char_offsets="1871:2071" id="13" />
+      <Sentence char_offsets="2073:2115" id="14" />
+      <Sentence char_offsets="2126:2285" id="15" />
+      <Sentence char_offsets="2287:2427" id="16" />
+      <Sentence char_offsets="2438:2671" id="17" />
+      <Sentence char_offsets="2682:2806" id="18" />
+      <Sentence char_offsets="2817:2950" id="19" />
+      <Sentence char_offsets="2961:3232" id="20" />
+      <Sentence char_offsets="3243:3361" id="21" />
+      <Sentence char_offsets="3363:3572" id="22" />
+      <Sentence char_offsets="3583:3714" id="23" />
+      <Sentence char_offsets="3716:3843" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="26255" actor_name="Josefa Iloilo" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="020">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="111">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" agent_id="97" agent_name="Military Ruler" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="23" tense="neutral" type="112">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="current" type="160">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

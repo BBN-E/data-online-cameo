@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0940">
+    <Sentences>
+      <Sentence char_offsets="184:342" id="0" />
+      <Sentence char_offsets="353:522" id="1" />
+      <Sentence char_offsets="533:718" id="2" />
+      <Sentence char_offsets="729:840" id="3" />
+      <Sentence char_offsets="851:1009" id="4" />
+      <Sentence char_offsets="1020:1282" id="5" />
+      <Sentence char_offsets="1293:1423" id="6" />
+      <Sentence char_offsets="1434:1653" id="7" />
+      <Sentence char_offsets="1664:1771" id="8" />
+      <Sentence char_offsets="1782:1836" id="9" />
+      <Sentence char_offsets="1838:1864" id="10" />
+      <Sentence char_offsets="1875:1966" id="11" />
+      <Sentence char_offsets="1977:2087" id="12" />
+      <Sentence char_offsets="2098:2189" id="13" />
+      <Sentence char_offsets="2200:2316" id="14" />
+      <Sentence char_offsets="2318:2413" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="238844" actor_name="Ayman al-Zawahri" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="111">
+        <Participant actor_id="238844" actor_name="Ayman al-Zawahri" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="23121" actor_name="Osama bin Laden" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="130">
+        <Participant actor_id="238844" actor_name="Ayman al-Zawahri" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

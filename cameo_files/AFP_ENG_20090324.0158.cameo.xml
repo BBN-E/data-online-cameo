@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0158">
+    <Sentences>
+      <Sentence char_offsets="184:364" id="0" />
+      <Sentence char_offsets="375:410" id="1" />
+      <Sentence char_offsets="412:588" id="2" />
+      <Sentence char_offsets="599:652" id="3" />
+      <Sentence char_offsets="654:767" id="4" />
+      <Sentence char_offsets="769:818" id="5" />
+      <Sentence char_offsets="829:1015" id="6" />
+      <Sentence char_offsets="1026:1187" id="7" />
+      <Sentence char_offsets="1198:1414" id="8" />
+      <Sentence char_offsets="1425:1716" id="9" />
+      <Sentence char_offsets="1727:1816" id="10" />
+      <Sentence char_offsets="1827:1946" id="11" />
+      <Sentence char_offsets="1948:1987" id="12" />
+      <Sentence char_offsets="1998:2196" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

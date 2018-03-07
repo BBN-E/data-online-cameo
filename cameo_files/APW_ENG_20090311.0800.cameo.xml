@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0800">
+    <Sentences>
+      <Sentence char_offsets="204:459" id="0" />
+      <Sentence char_offsets="470:638" id="1" />
+      <Sentence char_offsets="640:785" id="2" />
+      <Sentence char_offsets="796:846" id="3" />
+      <Sentence char_offsets="848:1042" id="4" />
+      <Sentence char_offsets="1053:1229" id="5" />
+      <Sentence char_offsets="1240:1430" id="6" />
+      <Sentence char_offsets="1441:1456" id="7" />
+      <Sentence char_offsets="1458:1510" id="8" />
+      <Sentence char_offsets="1512:1658" id="9" />
+      <Sentence char_offsets="1660:1734" id="10" />
+      <Sentence char_offsets="1736:1818" id="11" />
+      <Sentence char_offsets="1829:2029" id="12" />
+      <Sentence char_offsets="2040:2311" id="13" />
+      <Sentence char_offsets="2322:2400" id="14" />
+      <Sentence char_offsets="2402:2628" id="15" />
+      <Sentence char_offsets="2639:2864" id="16" />
+      <Sentence char_offsets="2875:3006" id="17" />
+      <Sentence char_offsets="3017:3215" id="18" />
+      <Sentence char_offsets="3226:3407" id="19" />
+      <Sentence char_offsets="3418:3767" id="20" />
+      <Sentence char_offsets="3778:3977" id="21" />
+      <Sentence char_offsets="3979:4219" id="22" />
+      <Sentence char_offsets="4230:4458" id="23" />
+      <Sentence char_offsets="4469:4700" id="24" />
+      <Sentence char_offsets="4702:4860" id="25" />
+      <Sentence char_offsets="4871:4876" id="26" />
+      <Sentence char_offsets="4887:4992" id="27" />
+      <Sentence char_offsets="5003:5008" id="28" />
+      <Sentence char_offsets="5019:5029" id="29" />
+      <Sentence char_offsets="5040:5090" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="215398" actor_name="Irish Republican Army" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="013">
+        <Participant actor_id="53754" actor_name="Irish Congress of Trade Unions" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="historical" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="historical" type="141">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="24" tense="current" type="1711">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="24" tense="neutral" type="173">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="714" agent_name="Children" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="24" tense="neutral" type="173">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

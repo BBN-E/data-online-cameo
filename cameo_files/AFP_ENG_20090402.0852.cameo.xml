@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0852">
+    <Sentences>
+      <Sentence char_offsets="186:333" id="0" />
+      <Sentence char_offsets="344:524" id="1" />
+      <Sentence char_offsets="535:757" id="2" />
+      <Sentence char_offsets="768:908" id="3" />
+      <Sentence char_offsets="919:1150" id="4" />
+      <Sentence char_offsets="1161:1327" id="5" />
+      <Sentence char_offsets="1338:1456" id="6" />
+      <Sentence char_offsets="1467:1633" id="7" />
+      <Sentence char_offsets="1644:1827" id="8" />
+      <Sentence char_offsets="1838:2015" id="9" />
+      <Sentence char_offsets="2026:2158" id="10" />
+      <Sentence char_offsets="2169:2350" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="32515" actor_name="Wayne Swan" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0343">
+    <Sentences>
+      <Sentence char_offsets="205:383" id="0" />
+      <Sentence char_offsets="394:625" id="1" />
+      <Sentence char_offsets="636:680" id="2" />
+      <Sentence char_offsets="691:872" id="3" />
+      <Sentence char_offsets="883:1175" id="4" />
+      <Sentence char_offsets="1186:1431" id="5" />
+      <Sentence char_offsets="1442:1646" id="6" />
+      <Sentence char_offsets="1657:1888" id="7" />
+      <Sentence char_offsets="1899:2100" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="300" agent_name="City Mayor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

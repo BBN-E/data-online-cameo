@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.1360">
+    <Sentences>
+      <Sentence char_offsets="199:365" id="0" />
+      <Sentence char_offsets="376:448" id="1" />
+      <Sentence char_offsets="450:519" id="2" />
+      <Sentence char_offsets="530:639" id="3" />
+      <Sentence char_offsets="641:686" id="4" />
+      <Sentence char_offsets="697:805" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="52379" actor_name="Maurice Hinchey" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0427">
+    <Sentences>
+      <Sentence char_offsets="188:375" id="0" />
+      <Sentence char_offsets="386:624" id="1" />
+      <Sentence char_offsets="635:809" id="2" />
+      <Sentence char_offsets="820:925" id="3" />
+      <Sentence char_offsets="936:1073" id="4" />
+      <Sentence char_offsets="1084:1218" id="5" />
+      <Sentence char_offsets="1220:1315" id="6" />
+      <Sentence char_offsets="1326:1553" id="7" />
+      <Sentence char_offsets="1564:1639" id="8" />
+      <Sentence char_offsets="1650:1825" id="9" />
+      <Sentence char_offsets="1836:1913" id="10" />
+      <Sentence char_offsets="1924:2085" id="11" />
+      <Sentence char_offsets="2096:2158" id="12" />
+      <Sentence char_offsets="2160:2269" id="13" />
+      <Sentence char_offsets="2280:2425" id="14" />
+      <Sentence char_offsets="2436:2613" id="15" />
+      <Sentence char_offsets="2624:2729" id="16" />
+      <Sentence char_offsets="2740:2800" id="17" />
+      <Sentence char_offsets="2802:2962" id="18" />
+      <Sentence char_offsets="2973:3192" id="19" />
+      <Sentence char_offsets="3203:3278" id="20" />
+      <Sentence char_offsets="3289:3459" id="21" />
+      <Sentence char_offsets="3470:3644" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="5958" actor_name="Yu Myung Hwan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="051">
+        <Participant actor_id="35118" actor_name="Korean Central News Agency" role="Source" />
+        <Participant actor_id="34689" actor_name="Kim Il Sung" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="051">
+        <Participant actor_id="35118" actor_name="Korean Central News Agency" role="Source" />
+        <Participant actor_id="34736" actor_name="Kim Jong-Il" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

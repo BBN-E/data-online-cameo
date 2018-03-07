@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0963">
+    <Sentences>
+      <Sentence char_offsets="186:413" id="0" />
+      <Sentence char_offsets="424:607" id="1" />
+      <Sentence char_offsets="618:842" id="2" />
+      <Sentence char_offsets="853:953" id="3" />
+      <Sentence char_offsets="964:1035" id="4" />
+      <Sentence char_offsets="1037:1348" id="5" />
+      <Sentence char_offsets="1359:1558" id="6" />
+      <Sentence char_offsets="1569:1692" id="7" />
+      <Sentence char_offsets="1694:1809" id="8" />
+      <Sentence char_offsets="1820:2005" id="9" />
+      <Sentence char_offsets="2016:2302" id="10" />
+      <Sentence char_offsets="2313:2524" id="11" />
+      <Sentence char_offsets="2526:2704" id="12" />
+      <Sentence char_offsets="2715:2907" id="13" />
+      <Sentence char_offsets="2918:3130" id="14" />
+      <Sentence char_offsets="3141:3347" id="15" />
+      <Sentence char_offsets="3349:3431" id="16" />
+      <Sentence char_offsets="3442:3580" id="17" />
+      <Sentence char_offsets="3582:3661" id="18" />
+      <Sentence char_offsets="3663:3708" id="19" />
+      <Sentence char_offsets="3719:3722" id="20" />
+      <Sentence char_offsets="3733:3816" id="21" />
+      <Sentence char_offsets="3827:3836" id="22" />
+      <Sentence char_offsets="3847:3889" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="072">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="51835" actor_name="England" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="172">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

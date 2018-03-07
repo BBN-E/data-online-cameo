@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0337">
+    <Sentences>
+      <Sentence char_offsets="186:379" id="0" />
+      <Sentence char_offsets="390:573" id="1" />
+      <Sentence char_offsets="584:748" id="2" />
+      <Sentence char_offsets="759:941" id="3" />
+      <Sentence char_offsets="952:1096" id="4" />
+      <Sentence char_offsets="1107:1324" id="5" />
+      <Sentence char_offsets="1335:1485" id="6" />
+      <Sentence char_offsets="1496:1706" id="7" />
+      <Sentence char_offsets="1717:1857" id="8" />
+      <Sentence char_offsets="1868:2019" id="9" />
+      <Sentence char_offsets="2030:2157" id="10" />
+      <Sentence char_offsets="2168:2311" id="11" />
+      <Sentence char_offsets="2322:2442" id="12" />
+      <Sentence char_offsets="2453:2655" id="13" />
+      <Sentence char_offsets="2666:2775" id="14" />
+      <Sentence char_offsets="2786:2992" id="15" />
+      <Sentence char_offsets="3003:3129" id="16" />
+      <Sentence char_offsets="3140:3310" id="17" />
+      <Sentence char_offsets="3321:3532" id="18" />
+      <Sentence char_offsets="3543:3729" id="19" />
+      <Sentence char_offsets="3740:3944" id="20" />
+      <Sentence char_offsets="3955:4199" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="46506" actor_name="Daily Nation" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="690" agent_name="Attacker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="108" agent_name="Rights Activist" role="Source" />
+        <Participant actor_id="43424" actor_name="Philip Alston" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="9788" actor_name="Kenya Police" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="neutral" type="112">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="108" agent_name="Rights Activist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

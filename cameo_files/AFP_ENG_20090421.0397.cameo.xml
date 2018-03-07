@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0397">
+    <Sentences>
+      <Sentence char_offsets="182:381" id="0" />
+      <Sentence char_offsets="392:578" id="1" />
+      <Sentence char_offsets="589:830" id="2" />
+      <Sentence char_offsets="841:966" id="3" />
+      <Sentence char_offsets="977:1176" id="4" />
+      <Sentence char_offsets="1187:1337" id="5" />
+      <Sentence char_offsets="1348:1607" id="6" />
+      <Sentence char_offsets="1618:1643" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="38615" actor_name="Department of the Treasury" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

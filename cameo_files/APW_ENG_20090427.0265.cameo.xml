@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0265">
+    <Sentences>
+      <Sentence char_offsets="198:425" id="0" />
+      <Sentence char_offsets="436:637" id="1" />
+      <Sentence char_offsets="648:887" id="2" />
+      <Sentence char_offsets="898:1052" id="3" />
+      <Sentence char_offsets="1063:1205" id="4" />
+      <Sentence char_offsets="1216:1333" id="5" />
+      <Sentence char_offsets="1335:1471" id="6" />
+      <Sentence char_offsets="1482:1556" id="7" />
+      <Sentence char_offsets="1567:1749" id="8" />
+      <Sentence char_offsets="1760:1978" id="9" />
+      <Sentence char_offsets="1989:2162" id="10" />
+      <Sentence char_offsets="2173:2369" id="11" />
+      <Sentence char_offsets="2380:2518" id="12" />
+      <Sentence char_offsets="2529:2636" id="13" />
+      <Sentence char_offsets="2647:2851" id="14" />
+      <Sentence char_offsets="2862:3022" id="15" />
+      <Sentence char_offsets="3033:3176" id="16" />
+      <Sentence char_offsets="3178:3294" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0174">
+    <Sentences>
+      <Sentence char_offsets="191:364" id="0" />
+      <Sentence char_offsets="375:558" id="1" />
+      <Sentence char_offsets="569:713" id="2" />
+      <Sentence char_offsets="724:778" id="3" />
+      <Sentence char_offsets="789:915" id="4" />
+      <Sentence char_offsets="926:989" id="5" />
+      <Sentence char_offsets="1000:1083" id="6" />
+      <Sentence char_offsets="1094:1257" id="7" />
+      <Sentence char_offsets="1268:1518" id="8" />
+      <Sentence char_offsets="1529:1645" id="9" />
+      <Sentence char_offsets="1656:1766" id="10" />
+      <Sentence char_offsets="1768:1825" id="11" />
+      <Sentence char_offsets="1836:1936" id="12" />
+      <Sentence char_offsets="1947:2102" id="13" />
+      <Sentence char_offsets="2113:2222" id="14" />
+      <Sentence char_offsets="2224:2339" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="120">
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="1721">
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="203" agent_name="Newspaper" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

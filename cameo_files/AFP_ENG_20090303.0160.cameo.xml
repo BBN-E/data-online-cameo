@@ -1,0 +1,76 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0160">
+    <Sentences>
+      <Sentence char_offsets="154:203" id="0" />
+      <Sentence char_offsets="205:262" id="1" />
+      <Sentence char_offsets="265:304" id="2" />
+      <Sentence char_offsets="307:324" id="3" />
+      <Sentence char_offsets="327:397" id="4" />
+      <Sentence char_offsets="400:421" id="5" />
+      <Sentence char_offsets="424:489" id="6" />
+      <Sentence char_offsets="492:513" id="7" />
+      <Sentence char_offsets="516:717" id="8" />
+      <Sentence char_offsets="720:801" id="9" />
+      <Sentence char_offsets="804:833" id="10" />
+      <Sentence char_offsets="836:843" id="11" />
+      <Sentence char_offsets="846:960" id="12" />
+      <Sentence char_offsets="962:1166" id="13" />
+      <Sentence char_offsets="1169:1190" id="14" />
+      <Sentence char_offsets="1193:1228" id="15" />
+      <Sentence char_offsets="1231:1237" id="16" />
+      <Sentence char_offsets="1240:1386" id="17" />
+      <Sentence char_offsets="1388:1521" id="18" />
+      <Sentence char_offsets="1524:1537" id="19" />
+      <Sentence char_offsets="1540:1588" id="20" />
+      <Sentence char_offsets="1591:1608" id="21" />
+      <Sentence char_offsets="1611:1680" id="22" />
+      <Sentence char_offsets="1682:1750" id="23" />
+      <Sentence char_offsets="1752:1806" id="24" />
+      <Sentence char_offsets="1808:1870" id="25" />
+      <Sentence char_offsets="1873:1886" id="26" />
+      <Sentence char_offsets="1889:1916" id="27" />
+      <Sentence char_offsets="1919:1925" id="28" />
+      <Sentence char_offsets="1928:2000" id="29" />
+      <Sentence char_offsets="2002:2068" id="30" />
+      <Sentence char_offsets="2071:2084" id="31" />
+      <Sentence char_offsets="2087:2133" id="32" />
+      <Sentence char_offsets="2136:2162" id="33" />
+      <Sentence char_offsets="2165:2253" id="34" />
+      <Sentence char_offsets="2255:2268" id="35" />
+      <Sentence char_offsets="2270:2364" id="36" />
+      <Sentence char_offsets="2367:2380" id="37" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="36648" actor_name="Middle East" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="36648" actor_name="Middle East" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

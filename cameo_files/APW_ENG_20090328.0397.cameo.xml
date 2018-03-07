@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0397">
+    <Sentences>
+      <Sentence char_offsets="182:360" id="0" />
+      <Sentence char_offsets="371:476" id="1" />
+      <Sentence char_offsets="478:570" id="2" />
+      <Sentence char_offsets="581:644" id="3" />
+      <Sentence char_offsets="646:662" id="4" />
+      <Sentence char_offsets="664:738" id="5" />
+      <Sentence char_offsets="749:839" id="6" />
+      <Sentence char_offsets="850:1045" id="7" />
+      <Sentence char_offsets="1056:1133" id="8" />
+      <Sentence char_offsets="1144:1281" id="9" />
+      <Sentence char_offsets="1292:1383" id="10" />
+      <Sentence char_offsets="1394:1592" id="11" />
+      <Sentence char_offsets="1603:1776" id="12" />
+      <Sentence char_offsets="1778:1823" id="13" />
+      <Sentence char_offsets="1834:1973" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="historical" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="246" agent_name="Militia" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

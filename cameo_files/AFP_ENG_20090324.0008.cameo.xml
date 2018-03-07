@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0008">
+    <Sentences>
+      <Sentence char_offsets="191:381" id="0" />
+      <Sentence char_offsets="392:596" id="1" />
+      <Sentence char_offsets="607:900" id="2" />
+      <Sentence char_offsets="911:1173" id="3" />
+      <Sentence char_offsets="1184:1407" id="4" />
+      <Sentence char_offsets="1418:1720" id="5" />
+      <Sentence char_offsets="1731:1905" id="6" />
+      <Sentence char_offsets="1916:2060" id="7" />
+      <Sentence char_offsets="2071:2330" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="013">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="035">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

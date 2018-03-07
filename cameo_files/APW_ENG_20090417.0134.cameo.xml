@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0134">
+    <Sentences>
+      <Sentence char_offsets="187:294" id="0" />
+      <Sentence char_offsets="305:445" id="1" />
+      <Sentence char_offsets="447:460" id="2" />
+      <Sentence char_offsets="471:616" id="3" />
+      <Sentence char_offsets="627:699" id="4" />
+      <Sentence char_offsets="710:715" id="5" />
+      <Sentence char_offsets="726:814" id="6" />
+      <Sentence char_offsets="825:940" id="7" />
+      <Sentence char_offsets="942:1164" id="8" />
+      <Sentence char_offsets="1175:1371" id="9" />
+      <Sentence char_offsets="1382:1387" id="10" />
+      <Sentence char_offsets="1398:1469" id="11" />
+      <Sentence char_offsets="1480:1717" id="12" />
+      <Sentence char_offsets="1728:1835" id="13" />
+      <Sentence char_offsets="1837:1937" id="14" />
+      <Sentence char_offsets="1939:1966" id="15" />
+      <Sentence char_offsets="1968:1998" id="16" />
+      <Sentence char_offsets="2000:2032" id="17" />
+      <Sentence char_offsets="2034:2104" id="18" />
+      <Sentence char_offsets="2115:2255" id="19" />
+      <Sentence char_offsets="2266:2421" id="20" />
+      <Sentence char_offsets="2432:2437" id="21" />
+      <Sentence char_offsets="2448:2617" id="22" />
+      <Sentence char_offsets="2628:2744" id="23" />
+      <Sentence char_offsets="2746:2833" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="236357" actor_name="John F. Kennedy" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="236357" actor_name="John F. Kennedy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

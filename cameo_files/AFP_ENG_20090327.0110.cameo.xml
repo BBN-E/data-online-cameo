@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0110">
+    <Sentences>
+      <Sentence char_offsets="189:384" id="0" />
+      <Sentence char_offsets="395:620" id="1" />
+      <Sentence char_offsets="631:714" id="2" />
+      <Sentence char_offsets="716:840" id="3" />
+      <Sentence char_offsets="851:994" id="4" />
+      <Sentence char_offsets="1005:1241" id="5" />
+      <Sentence char_offsets="1252:1466" id="6" />
+      <Sentence char_offsets="1477:1691" id="7" />
+      <Sentence char_offsets="1702:1847" id="8" />
+      <Sentence char_offsets="1858:2081" id="9" />
+      <Sentence char_offsets="2092:2192" id="10" />
+      <Sentence char_offsets="2203:2402" id="11" />
+      <Sentence char_offsets="2413:2620" id="12" />
+      <Sentence char_offsets="2631:2856" id="13" />
+      <Sentence char_offsets="2867:3054" id="14" />
+      <Sentence char_offsets="3065:3226" id="15" />
+      <Sentence char_offsets="3237:3328" id="16" />
+      <Sentence char_offsets="3330:3394" id="17" />
+      <Sentence char_offsets="3405:3630" id="18" />
+      <Sentence char_offsets="3641:3813" id="19" />
+      <Sentence char_offsets="3824:3897" id="20" />
+      <Sentence char_offsets="3908:4027" id="21" />
+      <Sentence char_offsets="4038:4264" id="22" />
+      <Sentence char_offsets="4275:4479" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="071">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

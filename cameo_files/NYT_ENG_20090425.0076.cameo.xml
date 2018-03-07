@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090425.0076">
+    <Sentences>
+      <Sentence char_offsets="167:471" id="0" />
+      <Sentence char_offsets="482:552" id="1" />
+      <Sentence char_offsets="563:743" id="2" />
+      <Sentence char_offsets="754:911" id="3" />
+      <Sentence char_offsets="913:1189" id="4" />
+      <Sentence char_offsets="1200:1346" id="5" />
+      <Sentence char_offsets="1348:1460" id="6" />
+      <Sentence char_offsets="1462:1556" id="7" />
+      <Sentence char_offsets="1567:1727" id="8" />
+      <Sentence char_offsets="1729:1787" id="9" />
+      <Sentence char_offsets="1798:1922" id="10" />
+      <Sentence char_offsets="1933:2022" id="11" />
+      <Sentence char_offsets="2033:2230" id="12" />
+      <Sentence char_offsets="2232:2409" id="13" />
+      <Sentence char_offsets="2411:2528" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="4275" actor_name="Ba'ath Party" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="current" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1365">
+    <Sentences>
+      <Sentence char_offsets="181:367" id="0" />
+      <Sentence char_offsets="378:591" id="1" />
+      <Sentence char_offsets="602:763" id="2" />
+      <Sentence char_offsets="774:1099" id="3" />
+      <Sentence char_offsets="1101:1211" id="4" />
+      <Sentence char_offsets="1213:1290" id="5" />
+      <Sentence char_offsets="1301:1471" id="6" />
+      <Sentence char_offsets="1482:1560" id="7" />
+      <Sentence char_offsets="1571:1779" id="8" />
+      <Sentence char_offsets="1781:1910" id="9" />
+      <Sentence char_offsets="1921:2108" id="10" />
+      <Sentence char_offsets="2119:2266" id="11" />
+      <Sentence char_offsets="2268:2328" id="12" />
+      <Sentence char_offsets="2339:2553" id="13" />
+      <Sentence char_offsets="2564:2742" id="14" />
+      <Sentence char_offsets="2753:2883" id="15" />
+      <Sentence char_offsets="2894:3163" id="16" />
+      <Sentence char_offsets="3165:3185" id="17" />
+      <Sentence char_offsets="3196:3414" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="55287" actor_name="General Electric" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="26825" actor_name="Deutsche Bank" role="Source" />
+        <Participant actor_id="55287" actor_name="General Electric" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

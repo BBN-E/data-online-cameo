@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0291">
+    <Sentences>
+      <Sentence char_offsets="196:374" id="0" />
+      <Sentence char_offsets="385:562" id="1" />
+      <Sentence char_offsets="573:795" id="2" />
+      <Sentence char_offsets="806:986" id="3" />
+      <Sentence char_offsets="997:1140" id="4" />
+      <Sentence char_offsets="1151:1322" id="5" />
+      <Sentence char_offsets="1333:1473" id="6" />
+      <Sentence char_offsets="1484:1632" id="7" />
+      <Sentence char_offsets="1643:1803" id="8" />
+      <Sentence char_offsets="1814:1903" id="9" />
+      <Sentence char_offsets="1905:2002" id="10" />
+      <Sentence char_offsets="2013:2130" id="11" />
+      <Sentence char_offsets="2141:2349" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29036" actor_name="Angola" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="587" agent_name="Representatives" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="historical" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32648" actor_name="Democratic Republic of Congo" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="587" agent_name="Representatives" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="historical" type="043">
+        <Participant actor_id="32648" actor_name="Democratic Republic of Congo" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

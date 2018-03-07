@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090405.0543">
+    <Sentences>
+      <Sentence char_offsets="200:391" id="0" />
+      <Sentence char_offsets="402:558" id="1" />
+      <Sentence char_offsets="560:714" id="2" />
+      <Sentence char_offsets="725:796" id="3" />
+      <Sentence char_offsets="798:968" id="4" />
+      <Sentence char_offsets="979:1160" id="5" />
+      <Sentence char_offsets="1171:1438" id="6" />
+      <Sentence char_offsets="1449:1724" id="7" />
+      <Sentence char_offsets="1735:1912" id="8" />
+      <Sentence char_offsets="1923:2143" id="9" />
+      <Sentence char_offsets="2154:2325" id="10" />
+      <Sentence char_offsets="2327:2504" id="11" />
+      <Sentence char_offsets="2515:2564" id="12" />
+      <Sentence char_offsets="2566:2716" id="13" />
+      <Sentence char_offsets="2727:2901" id="14" />
+      <Sentence char_offsets="2903:3056" id="15" />
+      <Sentence char_offsets="3067:3312" id="16" />
+      <Sentence char_offsets="3323:3437" id="17" />
+      <Sentence char_offsets="3448:3578" id="18" />
+      <Sentence char_offsets="3580:3624" id="19" />
+      <Sentence char_offsets="3635:3797" id="20" />
+      <Sentence char_offsets="3808:3935" id="21" />
+      <Sentence char_offsets="3937:4106" id="22" />
+      <Sentence char_offsets="4117:4292" id="23" />
+      <Sentence char_offsets="4303:4443" id="24" />
+      <Sentence char_offsets="4445:4591" id="25" />
+      <Sentence char_offsets="4602:4772" id="26" />
+      <Sentence char_offsets="4774:4879" id="27" />
+      <Sentence char_offsets="4890:4895" id="28" />
+      <Sentence char_offsets="4906:4976" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="130">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="1711">
+        <Participant actor_id="34736" actor_name="Kim Jong-Il" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

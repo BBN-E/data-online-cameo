@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0430">
+    <Sentences>
+      <Sentence char_offsets="188:380" id="0" />
+      <Sentence char_offsets="391:463" id="1" />
+      <Sentence char_offsets="465:587" id="2" />
+      <Sentence char_offsets="598:696" id="3" />
+      <Sentence char_offsets="707:857" id="4" />
+      <Sentence char_offsets="868:1068" id="5" />
+      <Sentence char_offsets="1079:1235" id="6" />
+      <Sentence char_offsets="1246:1428" id="7" />
+      <Sentence char_offsets="1439:1530" id="8" />
+      <Sentence char_offsets="1541:1687" id="9" />
+      <Sentence char_offsets="1698:1927" id="10" />
+      <Sentence char_offsets="1938:2027" id="11" />
+      <Sentence char_offsets="2029:2109" id="12" />
+      <Sentence char_offsets="2120:2213" id="13" />
+      <Sentence char_offsets="2224:2436" id="14" />
+      <Sentence char_offsets="2447:2628" id="15" />
+      <Sentence char_offsets="2639:2776" id="16" />
+      <Sentence char_offsets="2787:2960" id="17" />
+      <Sentence char_offsets="2971:3232" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="31133" actor_name="International Organization for Migration" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="010">
+        <Participant actor_id="36206" actor_name="Libya" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="277" agent_name="Transport" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

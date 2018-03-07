@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0490">
+    <Sentences>
+      <Sentence char_offsets="185:371" id="0" />
+      <Sentence char_offsets="382:582" id="1" />
+      <Sentence char_offsets="593:715" id="2" />
+      <Sentence char_offsets="726:835" id="3" />
+      <Sentence char_offsets="846:1051" id="4" />
+      <Sentence char_offsets="1062:1153" id="5" />
+      <Sentence char_offsets="1164:1266" id="6" />
+      <Sentence char_offsets="1277:1479" id="7" />
+      <Sentence char_offsets="1490:1616" id="8" />
+      <Sentence char_offsets="1627:1768" id="9" />
+      <Sentence char_offsets="1779:1881" id="10" />
+      <Sentence char_offsets="1892:2046" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="30889" actor_name="Miguel &#193;ngel Moratinos" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="154">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="154">
+        <Participant actor_id="30889" actor_name="Miguel &#193;ngel Moratinos" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

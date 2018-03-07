@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0707">
+    <Sentences>
+      <Sentence char_offsets="201:395" id="0" />
+      <Sentence char_offsets="406:611" id="1" />
+      <Sentence char_offsets="622:814" id="2" />
+      <Sentence char_offsets="825:1020" id="3" />
+      <Sentence char_offsets="1031:1164" id="4" />
+      <Sentence char_offsets="1175:1344" id="5" />
+      <Sentence char_offsets="1355:1546" id="6" />
+      <Sentence char_offsets="1557:1708" id="7" />
+      <Sentence char_offsets="1719:1830" id="8" />
+      <Sentence char_offsets="1832:1939" id="9" />
+      <Sentence char_offsets="1950:2152" id="10" />
+      <Sentence char_offsets="2163:2370" id="11" />
+      <Sentence char_offsets="2381:2543" id="12" />
+      <Sentence char_offsets="2554:2705" id="13" />
+      <Sentence char_offsets="2716:2816" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="26740" actor_name="Margaret Chan" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="036">
+        <Participant actor_id="26740" actor_name="Margaret Chan" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="036">
+        <Participant actor_id="42644" actor_name="World Health Assembly" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="39333" actor_name="Taiwan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="neutral" type="160">
+        <Participant actor_id="40495" actor_name="World Health Organization" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

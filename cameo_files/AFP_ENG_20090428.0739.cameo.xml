@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0739">
+    <Sentences>
+      <Sentence char_offsets="188:362" id="0" />
+      <Sentence char_offsets="373:591" id="1" />
+      <Sentence char_offsets="602:786" id="2" />
+      <Sentence char_offsets="797:919" id="3" />
+      <Sentence char_offsets="930:1133" id="4" />
+      <Sentence char_offsets="1144:1319" id="5" />
+      <Sentence char_offsets="1330:1437" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="531" agent_name="Transport and Communication" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="531" agent_name="Transport and Communication" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="531" agent_name="Transport and Communication" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="381" agent_name="Health Ministry/Department" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

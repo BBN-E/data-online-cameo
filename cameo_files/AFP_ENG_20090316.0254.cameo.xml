@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0254">
+    <Sentences>
+      <Sentence char_offsets="182:364" id="0" />
+      <Sentence char_offsets="375:403" id="1" />
+      <Sentence char_offsets="405:623" id="2" />
+      <Sentence char_offsets="634:744" id="3" />
+      <Sentence char_offsets="746:803" id="4" />
+      <Sentence char_offsets="814:898" id="5" />
+      <Sentence char_offsets="909:1089" id="6" />
+      <Sentence char_offsets="1100:1148" id="7" />
+      <Sentence char_offsets="1159:1247" id="8" />
+      <Sentence char_offsets="1258:1394" id="9" />
+      <Sentence char_offsets="1405:1459" id="10" />
+      <Sentence char_offsets="1470:1549" id="11" />
+      <Sentence char_offsets="1560:1635" id="12" />
+      <Sentence char_offsets="1646:1784" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="historical" type="010">
+        <Participant actor_id="14565" actor_name="Bingu wa Mutharika" role="Source" />
+        <Participant actor_id="36845" actor_name="Malawi" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

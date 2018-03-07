@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0850">
+    <Sentences>
+      <Sentence char_offsets="189:363" id="0" />
+      <Sentence char_offsets="374:579" id="1" />
+      <Sentence char_offsets="590:800" id="2" />
+      <Sentence char_offsets="811:949" id="3" />
+      <Sentence char_offsets="960:1100" id="4" />
+      <Sentence char_offsets="1111:1197" id="5" />
+      <Sentence char_offsets="1208:1274" id="6" />
+      <Sentence char_offsets="1276:1344" id="7" />
+      <Sentence char_offsets="1355:1503" id="8" />
+      <Sentence char_offsets="1514:1652" id="9" />
+      <Sentence char_offsets="1663:1755" id="10" />
+      <Sentence char_offsets="1766:1989" id="11" />
+      <Sentence char_offsets="2000:2204" id="12" />
+      <Sentence char_offsets="2215:2367" id="13" />
+      <Sentence char_offsets="2378:2387" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="10560" actor_name="Ali Ardashir Larijani" role="Source" />
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="111">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

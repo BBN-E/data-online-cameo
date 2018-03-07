@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090401.0182">
+    <Sentences>
+      <Sentence char_offsets="162:339" id="0" />
+      <Sentence char_offsets="350:574" id="1" />
+      <Sentence char_offsets="576:712" id="2" />
+      <Sentence char_offsets="723:1021" id="3" />
+      <Sentence char_offsets="1032:1135" id="4" />
+      <Sentence char_offsets="1137:1303" id="5" />
+      <Sentence char_offsets="1314:1485" id="6" />
+      <Sentence char_offsets="1487:1564" id="7" />
+      <Sentence char_offsets="1575:1803" id="8" />
+      <Sentence char_offsets="1814:1918" id="9" />
+      <Sentence char_offsets="1920:2087" id="10" />
+      <Sentence char_offsets="2098:2216" id="11" />
+      <Sentence char_offsets="2218:2256" id="12" />
+      <Sentence char_offsets="2258:2344" id="13" />
+      <Sentence char_offsets="2355:2406" id="14" />
+      <Sentence char_offsets="2408:2538" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

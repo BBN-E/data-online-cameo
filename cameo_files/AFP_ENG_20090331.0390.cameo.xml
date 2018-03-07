@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0390">
+    <Sentences>
+      <Sentence char_offsets="183:314" id="0" />
+      <Sentence char_offsets="325:393" id="1" />
+      <Sentence char_offsets="404:411" id="2" />
+      <Sentence char_offsets="422:542" id="3" />
+      <Sentence char_offsets="553:560" id="4" />
+      <Sentence char_offsets="571:653" id="5" />
+      <Sentence char_offsets="664:671" id="6" />
+      <Sentence char_offsets="682:824" id="7" />
+      <Sentence char_offsets="835:842" id="8" />
+      <Sentence char_offsets="853:1040" id="9" />
+      <Sentence char_offsets="1051:1058" id="10" />
+      <Sentence char_offsets="1069:1177" id="11" />
+      <Sentence char_offsets="1188:1338" id="12" />
+      <Sentence char_offsets="1349:1356" id="13" />
+      <Sentence char_offsets="1367:1488" id="14" />
+      <Sentence char_offsets="1490:1589" id="15" />
+      <Sentence char_offsets="1600:1708" id="16" />
+      <Sentence char_offsets="1719:1888" id="17" />
+      <Sentence char_offsets="1899:1906" id="18" />
+      <Sentence char_offsets="1917:2019" id="19" />
+      <Sentence char_offsets="2030:2201" id="20" />
+      <Sentence char_offsets="2212:2348" id="21" />
+      <Sentence char_offsets="2359:2482" id="22" />
+      <Sentence char_offsets="2493:2500" id="23" />
+      <Sentence char_offsets="2511:2605" id="24" />
+      <Sentence char_offsets="2616:2740" id="25" />
+      <Sentence char_offsets="2751:2892" id="26" />
+      <Sentence char_offsets="2903:2910" id="27" />
+      <Sentence char_offsets="2921:3030" id="28" />
+      <Sentence char_offsets="3032:3124" id="29" />
+      <Sentence char_offsets="3135:3266" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="neutral" type="042">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="542" agent_name="Immigrants" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="180">
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="043">
+        <Participant actor_id="37467" actor_name="Yemen" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="542" agent_name="Immigrants" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

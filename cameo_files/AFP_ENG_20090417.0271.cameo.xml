@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0271">
+    <Sentences>
+      <Sentence char_offsets="182:367" id="0" />
+      <Sentence char_offsets="378:592" id="1" />
+      <Sentence char_offsets="603:875" id="2" />
+      <Sentence char_offsets="886:1025" id="3" />
+      <Sentence char_offsets="1036:1262" id="4" />
+      <Sentence char_offsets="1273:1374" id="5" />
+      <Sentence char_offsets="1385:1630" id="6" />
+      <Sentence char_offsets="1641:1747" id="7" />
+      <Sentence char_offsets="1758:2025" id="8" />
+      <Sentence char_offsets="2036:2238" id="9" />
+      <Sentence char_offsets="2249:2328" id="10" />
+      <Sentence char_offsets="2339:2546" id="11" />
+      <Sentence char_offsets="2557:2783" id="12" />
+      <Sentence char_offsets="2794:3103" id="13" />
+      <Sentence char_offsets="3114:3304" id="14" />
+      <Sentence char_offsets="3315:3370" id="15" />
+      <Sentence char_offsets="3381:3593" id="16" />
+      <Sentence char_offsets="3604:3830" id="17" />
+      <Sentence char_offsets="3841:4010" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="current" type="030">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

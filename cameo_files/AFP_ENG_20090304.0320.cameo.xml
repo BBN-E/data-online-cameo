@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0320">
+    <Sentences>
+      <Sentence char_offsets="195:370" id="0" />
+      <Sentence char_offsets="381:609" id="1" />
+      <Sentence char_offsets="620:789" id="2" />
+      <Sentence char_offsets="800:880" id="3" />
+      <Sentence char_offsets="891:1008" id="4" />
+      <Sentence char_offsets="1010:1031" id="5" />
+      <Sentence char_offsets="1033:1062" id="6" />
+      <Sentence char_offsets="1073:1220" id="7" />
+      <Sentence char_offsets="1222:1360" id="8" />
+      <Sentence char_offsets="1371:1472" id="9" />
+      <Sentence char_offsets="1483:1600" id="10" />
+      <Sentence char_offsets="1602:1683" id="11" />
+      <Sentence char_offsets="1694:1713" id="12" />
+      <Sentence char_offsets="1715:2017" id="13" />
+      <Sentence char_offsets="2028:2173" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="238778" actor_name="George Clooney" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="238778" actor_name="George Clooney" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="238778" actor_name="George Clooney" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="44599" actor_name="The Hague" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="36142" actor_name="Slobodan Milosevic" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238778" actor_name="George Clooney" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="neutral" type="040">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="238778" actor_name="George Clooney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

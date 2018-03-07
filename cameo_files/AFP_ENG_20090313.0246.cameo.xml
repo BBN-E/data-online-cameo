@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0246">
+    <Sentences>
+      <Sentence char_offsets="188:373" id="0" />
+      <Sentence char_offsets="384:583" id="1" />
+      <Sentence char_offsets="594:847" id="2" />
+      <Sentence char_offsets="858:1077" id="3" />
+      <Sentence char_offsets="1088:1209" id="4" />
+      <Sentence char_offsets="1220:1399" id="5" />
+      <Sentence char_offsets="1410:1543" id="6" />
+      <Sentence char_offsets="1554:1776" id="7" />
+      <Sentence char_offsets="1787:1854" id="8" />
+      <Sentence char_offsets="1865:2054" id="9" />
+      <Sentence char_offsets="2065:2213" id="10" />
+      <Sentence char_offsets="2224:2306" id="11" />
+      <Sentence char_offsets="2317:2518" id="12" />
+      <Sentence char_offsets="2529:2731" id="13" />
+      <Sentence char_offsets="2742:2948" id="14" />
+      <Sentence char_offsets="2959:3097" id="15" />
+      <Sentence char_offsets="3108:3336" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="561" agent_name="Economist" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="130">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="130">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

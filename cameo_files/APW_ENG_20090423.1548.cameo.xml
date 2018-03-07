@@ -1,0 +1,79 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.1548">
+    <Sentences>
+      <Sentence char_offsets="189:342" id="0" />
+      <Sentence char_offsets="353:543" id="1" />
+      <Sentence char_offsets="545:573" id="2" />
+      <Sentence char_offsets="584:760" id="3" />
+      <Sentence char_offsets="771:830" id="4" />
+      <Sentence char_offsets="832:1074" id="5" />
+      <Sentence char_offsets="1076:1173" id="6" />
+      <Sentence char_offsets="1175:1238" id="7" />
+      <Sentence char_offsets="1249:1315" id="8" />
+      <Sentence char_offsets="1326:1423" id="9" />
+      <Sentence char_offsets="1434:1721" id="10" />
+      <Sentence char_offsets="1732:1884" id="11" />
+      <Sentence char_offsets="1886:1989" id="12" />
+      <Sentence char_offsets="2000:2088" id="13" />
+      <Sentence char_offsets="2090:2229" id="14" />
+      <Sentence char_offsets="2240:2434" id="15" />
+      <Sentence char_offsets="2436:2525" id="16" />
+      <Sentence char_offsets="2536:2658" id="17" />
+      <Sentence char_offsets="2669:2779" id="18" />
+      <Sentence char_offsets="2781:2905" id="19" />
+      <Sentence char_offsets="2916:2999" id="20" />
+      <Sentence char_offsets="3001:3177" id="21" />
+      <Sentence char_offsets="3179:3283" id="22" />
+      <Sentence char_offsets="3294:3418" id="23" />
+      <Sentence char_offsets="3429:3468" id="24" />
+      <Sentence char_offsets="3470:3637" id="25" />
+      <Sentence char_offsets="3648:3941" id="26" />
+      <Sentence char_offsets="3952:4054" id="27" />
+      <Sentence char_offsets="4056:4141" id="28" />
+      <Sentence char_offsets="4143:4214" id="29" />
+      <Sentence char_offsets="4225:4258" id="30" />
+      <Sentence char_offsets="4260:4511" id="31" />
+      <Sentence char_offsets="4513:4574" id="32" />
+      <Sentence char_offsets="4585:4704" id="33" />
+      <Sentence char_offsets="4706:4838" id="34" />
+      <Sentence char_offsets="4849:5002" id="35" />
+      <Sentence char_offsets="5013:5130" id="36" />
+      <Sentence char_offsets="5141:5251" id="37" />
+      <Sentence char_offsets="5262:5385" id="38" />
+      <Sentence char_offsets="5396:5474" id="39" />
+      <Sentence char_offsets="5485:5618" id="40" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="current" type="010">
+        <Participant actor_id="239252" actor_name="Sergio Marchionne" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="39" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="046">
+        <Participant actor_id="238660" actor_name="Chrysler" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="050">
+        <Participant actor_id="238660" actor_name="Chrysler" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="057">
+        <Participant actor_id="238660" actor_name="Chrysler" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="18" tense="neutral" type="057">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

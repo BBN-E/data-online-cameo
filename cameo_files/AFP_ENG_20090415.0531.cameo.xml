@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0531">
+    <Sentences>
+      <Sentence char_offsets="185:351" id="0" />
+      <Sentence char_offsets="362:457" id="1" />
+      <Sentence char_offsets="468:635" id="2" />
+      <Sentence char_offsets="646:816" id="3" />
+      <Sentence char_offsets="827:877" id="4" />
+      <Sentence char_offsets="888:948" id="5" />
+      <Sentence char_offsets="950:1044" id="6" />
+      <Sentence char_offsets="1055:1118" id="7" />
+      <Sentence char_offsets="1120:1176" id="8" />
+      <Sentence char_offsets="1178:1207" id="9" />
+      <Sentence char_offsets="1218:1268" id="10" />
+      <Sentence char_offsets="1270:1337" id="11" />
+      <Sentence char_offsets="1348:1503" id="12" />
+      <Sentence char_offsets="1514:1706" id="13" />
+      <Sentence char_offsets="1717:1799" id="14" />
+      <Sentence char_offsets="1801:1844" id="15" />
+      <Sentence char_offsets="1846:1929" id="16" />
+      <Sentence char_offsets="1940:2121" id="17" />
+      <Sentence char_offsets="2132:2195" id="18" />
+      <Sentence char_offsets="2197:2240" id="19" />
+      <Sentence char_offsets="2251:2442" id="20" />
+      <Sentence char_offsets="2453:2719" id="21" />
+      <Sentence char_offsets="2730:2902" id="22" />
+      <Sentence char_offsets="2913:3093" id="23" />
+      <Sentence char_offsets="3104:3228" id="24" />
+      <Sentence char_offsets="3239:3366" id="25" />
+      <Sentence char_offsets="3377:3646" id="26" />
+      <Sentence char_offsets="3657:3771" id="27" />
+      <Sentence char_offsets="3773:3815" id="28" />
+      <Sentence char_offsets="3826:3921" id="29" />
+      <Sentence char_offsets="3923:4015" id="30" />
+      <Sentence char_offsets="4026:4193" id="31" />
+      <Sentence char_offsets="4204:4330" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="neutral" type="057">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="31" tense="neutral" type="057">
+        <Participant actor_id="35866" actor_name="Kenya" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

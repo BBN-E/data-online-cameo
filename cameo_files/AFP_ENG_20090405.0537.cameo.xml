@@ -1,0 +1,76 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0537">
+    <Sentences>
+      <Sentence char_offsets="189:344" id="0" />
+      <Sentence char_offsets="355:607" id="1" />
+      <Sentence char_offsets="618:866" id="2" />
+      <Sentence char_offsets="877:1085" id="3" />
+      <Sentence char_offsets="1096:1384" id="4" />
+      <Sentence char_offsets="1395:1461" id="5" />
+      <Sentence char_offsets="1472:1530" id="6" />
+      <Sentence char_offsets="1541:1786" id="7" />
+      <Sentence char_offsets="1797:1998" id="8" />
+      <Sentence char_offsets="2009:2239" id="9" />
+      <Sentence char_offsets="2250:2339" id="10" />
+      <Sentence char_offsets="2341:2427" id="11" />
+      <Sentence char_offsets="2438:2642" id="12" />
+      <Sentence char_offsets="2653:2765" id="13" />
+      <Sentence char_offsets="2776:2959" id="14" />
+      <Sentence char_offsets="2970:3057" id="15" />
+      <Sentence char_offsets="3068:3216" id="16" />
+      <Sentence char_offsets="3227:3329" id="17" />
+      <Sentence char_offsets="3340:3569" id="18" />
+      <Sentence char_offsets="3580:3846" id="19" />
+      <Sentence char_offsets="3857:4014" id="20" />
+      <Sentence char_offsets="4025:4081" id="21" />
+      <Sentence char_offsets="4092:4362" id="22" />
+      <Sentence char_offsets="4373:4483" id="23" />
+      <Sentence char_offsets="4494:4770" id="24" />
+      <Sentence char_offsets="4781:5002" id="25" />
+      <Sentence char_offsets="5013:5091" id="26" />
+      <Sentence char_offsets="5093:5123" id="27" />
+      <Sentence char_offsets="5125:5185" id="28" />
+      <Sentence char_offsets="5196:5272" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="046">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="historical" type="051">
+        <Participant actor_id="51621" actor_name="Pervez Musharraf" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="527" agent_name="Army Personnel" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="neutral" type="128">
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="21" tense="neutral" type="046">
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

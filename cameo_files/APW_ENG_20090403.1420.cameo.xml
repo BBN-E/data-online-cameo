@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.1420">
+    <Sentences>
+      <Sentence char_offsets="186:208" id="0" />
+      <Sentence char_offsets="210:350" id="1" />
+      <Sentence char_offsets="361:569" id="2" />
+      <Sentence char_offsets="580:647" id="3" />
+      <Sentence char_offsets="658:803" id="4" />
+      <Sentence char_offsets="805:936" id="5" />
+      <Sentence char_offsets="938:1006" id="6" />
+      <Sentence char_offsets="1017:1199" id="7" />
+      <Sentence char_offsets="1201:1253" id="8" />
+      <Sentence char_offsets="1264:1322" id="9" />
+      <Sentence char_offsets="1324:1370" id="10" />
+      <Sentence char_offsets="1381:1507" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="141">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="141">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="141">
+        <Participant actor_id="41262" actor_name="United States" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

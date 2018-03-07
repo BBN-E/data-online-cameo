@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1479">
+    <Sentences>
+      <Sentence char_offsets="198:397" id="0" />
+      <Sentence char_offsets="408:586" id="1" />
+      <Sentence char_offsets="588:674" id="2" />
+      <Sentence char_offsets="685:775" id="3" />
+      <Sentence char_offsets="786:979" id="4" />
+      <Sentence char_offsets="990:1099" id="5" />
+      <Sentence char_offsets="1110:1278" id="6" />
+      <Sentence char_offsets="1289:1455" id="7" />
+      <Sentence char_offsets="1466:1558" id="8" />
+      <Sentence char_offsets="1560:1731" id="9" />
+      <Sentence char_offsets="1742:1829" id="10" />
+      <Sentence char_offsets="1840:1845" id="11" />
+      <Sentence char_offsets="1856:1918" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="022">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="192">
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

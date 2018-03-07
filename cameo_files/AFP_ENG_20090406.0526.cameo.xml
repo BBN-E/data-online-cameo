@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0526">
+    <Sentences>
+      <Sentence char_offsets="182:334" id="0" />
+      <Sentence char_offsets="345:500" id="1" />
+      <Sentence char_offsets="511:598" id="2" />
+      <Sentence char_offsets="600:680" id="3" />
+      <Sentence char_offsets="691:791" id="4" />
+      <Sentence char_offsets="802:874" id="5" />
+      <Sentence char_offsets="885:1163" id="6" />
+      <Sentence char_offsets="1174:1352" id="7" />
+      <Sentence char_offsets="1363:1581" id="8" />
+      <Sentence char_offsets="1592:1807" id="9" />
+      <Sentence char_offsets="1818:1924" id="10" />
+      <Sentence char_offsets="1935:2037" id="11" />
+      <Sentence char_offsets="2048:2261" id="12" />
+      <Sentence char_offsets="2272:2423" id="13" />
+      <Sentence char_offsets="2434:2664" id="14" />
+      <Sentence char_offsets="2675:2866" id="15" />
+      <Sentence char_offsets="2877:2949" id="16" />
+      <Sentence char_offsets="2960:3000" id="17" />
+      <Sentence char_offsets="3011:3134" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

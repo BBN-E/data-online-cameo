@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1343">
+    <Sentences>
+      <Sentence char_offsets="193:423" id="0" />
+      <Sentence char_offsets="434:713" id="1" />
+      <Sentence char_offsets="724:900" id="2" />
+      <Sentence char_offsets="902:1109" id="3" />
+      <Sentence char_offsets="1120:1206" id="4" />
+      <Sentence char_offsets="1217:1458" id="5" />
+      <Sentence char_offsets="1469:1624" id="6" />
+      <Sentence char_offsets="1626:1675" id="7" />
+      <Sentence char_offsets="1686:1890" id="8" />
+      <Sentence char_offsets="1901:2227" id="9" />
+      <Sentence char_offsets="2238:2390" id="10" />
+      <Sentence char_offsets="2401:2486" id="11" />
+      <Sentence char_offsets="2488:2689" id="12" />
+      <Sentence char_offsets="2700:2796" id="13" />
+      <Sentence char_offsets="2798:3141" id="14" />
+      <Sentence char_offsets="3152:3231" id="15" />
+      <Sentence char_offsets="3233:3295" id="16" />
+      <Sentence char_offsets="3306:3382" id="17" />
+      <Sentence char_offsets="3393:3585" id="18" />
+      <Sentence char_offsets="3587:3625" id="19" />
+      <Sentence char_offsets="3636:3682" id="20" />
+      <Sentence char_offsets="3684:3743" id="21" />
+      <Sentence char_offsets="3745:3903" id="22" />
+      <Sentence char_offsets="3914:4113" id="23" />
+      <Sentence char_offsets="4124:4338" id="24" />
+      <Sentence char_offsets="4349:4430" id="25" />
+      <Sentence char_offsets="4432:4501" id="26" />
+      <Sentence char_offsets="4512:4655" id="27" />
+      <Sentence char_offsets="4666:4671" id="28" />
+      <Sentence char_offsets="4682:4759" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="361" agent_name="Jew" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="361" agent_name="Jew" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="244" agent_name="Bishop" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="6097" actor_name="Anti Defamation League" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="244" agent_name="Bishop" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0105">
+    <Sentences>
+      <Sentence char_offsets="182:373" id="0" />
+      <Sentence char_offsets="384:428" id="1" />
+      <Sentence char_offsets="430:582" id="2" />
+      <Sentence char_offsets="593:860" id="3" />
+      <Sentence char_offsets="871:1034" id="4" />
+      <Sentence char_offsets="1045:1160" id="5" />
+      <Sentence char_offsets="1171:1341" id="6" />
+      <Sentence char_offsets="1352:1583" id="7" />
+      <Sentence char_offsets="1594:1630" id="8" />
+      <Sentence char_offsets="1632:1750" id="9" />
+      <Sentence char_offsets="1761:1957" id="10" />
+      <Sentence char_offsets="1968:1999" id="11" />
+      <Sentence char_offsets="2001:2172" id="12" />
+      <Sentence char_offsets="2183:2249" id="13" />
+      <Sentence char_offsets="2251:2382" id="14" />
+      <Sentence char_offsets="2393:2423" id="15" />
+      <Sentence char_offsets="2425:2459" id="16" />
+      <Sentence char_offsets="2461:2505" id="17" />
+      <Sentence char_offsets="2516:2722" id="18" />
+      <Sentence char_offsets="2733:2894" id="19" />
+      <Sentence char_offsets="2905:3027" id="20" />
+      <Sentence char_offsets="3029:3129" id="21" />
+      <Sentence char_offsets="3140:3265" id="22" />
+      <Sentence char_offsets="3276:3376" id="23" />
+      <Sentence char_offsets="3387:3428" id="24" />
+      <Sentence char_offsets="3430:3474" id="25" />
+      <Sentence char_offsets="3485:3692" id="26" />
+      <Sentence char_offsets="3703:3816" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0214">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="470" agent_name="Special Commission" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

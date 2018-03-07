@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0529">
+    <Sentences>
+      <Sentence char_offsets="191:391" id="0" />
+      <Sentence char_offsets="402:631" id="1" />
+      <Sentence char_offsets="642:870" id="2" />
+      <Sentence char_offsets="881:980" id="3" />
+      <Sentence char_offsets="982:1096" id="4" />
+      <Sentence char_offsets="1107:1278" id="5" />
+      <Sentence char_offsets="1289:1584" id="6" />
+      <Sentence char_offsets="1595:1774" id="7" />
+      <Sentence char_offsets="1785:1932" id="8" />
+      <Sentence char_offsets="1943:2015" id="9" />
+      <Sentence char_offsets="2026:2233" id="10" />
+      <Sentence char_offsets="2244:2550" id="11" />
+      <Sentence char_offsets="2561:2764" id="12" />
+      <Sentence char_offsets="2775:2991" id="13" />
+      <Sentence char_offsets="3002:3033" id="14" />
+      <Sentence char_offsets="3035:3189" id="15" />
+      <Sentence char_offsets="3200:3334" id="16" />
+      <Sentence char_offsets="3336:3454" id="17" />
+      <Sentence char_offsets="3465:3761" id="18" />
+      <Sentence char_offsets="3772:4015" id="19" />
+      <Sentence char_offsets="4026:4057" id="20" />
+      <Sentence char_offsets="4059:4087" id="21" />
+      <Sentence char_offsets="4098:4163" id="22" />
+      <Sentence char_offsets="4174:4300" id="23" />
+      <Sentence char_offsets="4311:4454" id="24" />
+      <Sentence char_offsets="4465:4537" id="25" />
+      <Sentence char_offsets="4548:4677" id="26" />
+      <Sentence char_offsets="4679:4787" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="362" agent_name="House of Representatives" role="Source" />
+        <Participant actor_id="53107" actor_name="Susilo Bambang Yudhoyono" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0479">
+    <Sentences>
+      <Sentence char_offsets="185:397" id="0" />
+      <Sentence char_offsets="408:501" id="1" />
+      <Sentence char_offsets="503:582" id="2" />
+      <Sentence char_offsets="593:862" id="3" />
+      <Sentence char_offsets="873:893" id="4" />
+      <Sentence char_offsets="895:1004" id="5" />
+      <Sentence char_offsets="1006:1083" id="6" />
+      <Sentence char_offsets="1094:1314" id="7" />
+      <Sentence char_offsets="1325:1530" id="8" />
+      <Sentence char_offsets="1541:1681" id="9" />
+      <Sentence char_offsets="1683:1771" id="10" />
+      <Sentence char_offsets="1773:1834" id="11" />
+      <Sentence char_offsets="1845:2043" id="12" />
+      <Sentence char_offsets="2054:2194" id="13" />
+      <Sentence char_offsets="2205:2425" id="14" />
+      <Sentence char_offsets="2436:2504" id="15" />
+      <Sentence char_offsets="2506:2633" id="16" />
+      <Sentence char_offsets="2635:2691" id="17" />
+      <Sentence char_offsets="2702:2862" id="18" />
+      <Sentence char_offsets="2873:3068" id="19" />
+      <Sentence char_offsets="3079:3286" id="20" />
+      <Sentence char_offsets="3297:3413" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="051">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="590" agent_name="Cleric" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="neutral" type="111">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="32622" actor_name="Switzerland" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

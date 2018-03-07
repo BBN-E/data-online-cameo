@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0338">
+    <Sentences>
+      <Sentence char_offsets="188:370" id="0" />
+      <Sentence char_offsets="381:522" id="1" />
+      <Sentence char_offsets="524:648" id="2" />
+      <Sentence char_offsets="650:763" id="3" />
+      <Sentence char_offsets="774:1062" id="4" />
+      <Sentence char_offsets="1073:1252" id="5" />
+      <Sentence char_offsets="1254:1430" id="6" />
+      <Sentence char_offsets="1441:1704" id="7" />
+      <Sentence char_offsets="1715:1810" id="8" />
+      <Sentence char_offsets="1812:2013" id="9" />
+      <Sentence char_offsets="2024:2195" id="10" />
+      <Sentence char_offsets="2197:2351" id="11" />
+      <Sentence char_offsets="2362:2467" id="12" />
+      <Sentence char_offsets="2469:2690" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="ongoing" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="69" agent_name="Party Member" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="historical" type="186">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0498">
+    <Sentences>
+      <Sentence char_offsets="172:351" id="0" />
+      <Sentence char_offsets="362:558" id="1" />
+      <Sentence char_offsets="569:781" id="2" />
+      <Sentence char_offsets="792:881" id="3" />
+      <Sentence char_offsets="892:1114" id="4" />
+      <Sentence char_offsets="1125:1341" id="5" />
+      <Sentence char_offsets="1352:1545" id="6" />
+      <Sentence char_offsets="1556:1663" id="7" />
+      <Sentence char_offsets="1674:1827" id="8" />
+      <Sentence char_offsets="1838:1916" id="9" />
+      <Sentence char_offsets="1927:2082" id="10" />
+      <Sentence char_offsets="2093:2295" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="036">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

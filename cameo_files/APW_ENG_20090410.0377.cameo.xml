@@ -1,0 +1,67 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0377">
+    <Sentences>
+      <Sentence char_offsets="197:366" id="0" />
+      <Sentence char_offsets="377:548" id="1" />
+      <Sentence char_offsets="559:657" id="2" />
+      <Sentence char_offsets="668:819" id="3" />
+      <Sentence char_offsets="830:902" id="4" />
+      <Sentence char_offsets="904:1045" id="5" />
+      <Sentence char_offsets="1056:1184" id="6" />
+      <Sentence char_offsets="1195:1245" id="7" />
+      <Sentence char_offsets="1247:1288" id="8" />
+      <Sentence char_offsets="1290:1322" id="9" />
+      <Sentence char_offsets="1324:1467" id="10" />
+      <Sentence char_offsets="1478:1595" id="11" />
+      <Sentence char_offsets="1597:1708" id="12" />
+      <Sentence char_offsets="1719:1836" id="13" />
+      <Sentence char_offsets="1838:1874" id="14" />
+      <Sentence char_offsets="1885:2079" id="15" />
+      <Sentence char_offsets="2081:2137" id="16" />
+      <Sentence char_offsets="2148:2254" id="17" />
+      <Sentence char_offsets="2256:2423" id="18" />
+      <Sentence char_offsets="2434:2621" id="19" />
+      <Sentence char_offsets="2632:2883" id="20" />
+      <Sentence char_offsets="2894:3052" id="21" />
+      <Sentence char_offsets="3063:3274" id="22" />
+      <Sentence char_offsets="3285:3395" id="23" />
+      <Sentence char_offsets="3406:3527" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="58441" actor_name="Mich&#232;le Montas" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="020">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="587" agent_name="Representatives" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="041">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="041">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="184">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="current" type="193">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

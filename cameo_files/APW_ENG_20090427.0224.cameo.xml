@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0224">
+    <Sentences>
+      <Sentence char_offsets="194:403" id="0" />
+      <Sentence char_offsets="414:521" id="1" />
+      <Sentence char_offsets="523:553" id="2" />
+      <Sentence char_offsets="555:700" id="3" />
+      <Sentence char_offsets="711:820" id="4" />
+      <Sentence char_offsets="822:933" id="5" />
+      <Sentence char_offsets="944:1041" id="6" />
+      <Sentence char_offsets="1052:1176" id="7" />
+      <Sentence char_offsets="1187:1259" id="8" />
+      <Sentence char_offsets="1261:1316" id="9" />
+      <Sentence char_offsets="1327:1430" id="10" />
+      <Sentence char_offsets="1432:1521" id="11" />
+      <Sentence char_offsets="1523:1621" id="12" />
+      <Sentence char_offsets="1623:1746" id="13" />
+      <Sentence char_offsets="1757:1923" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="080">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="173">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="690" agent_name="Attacker" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

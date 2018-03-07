@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.1060">
+    <Sentences>
+      <Sentence char_offsets="198:429" id="0" />
+      <Sentence char_offsets="440:653" id="1" />
+      <Sentence char_offsets="664:835" id="2" />
+      <Sentence char_offsets="846:1040" id="3" />
+      <Sentence char_offsets="1042:1225" id="4" />
+      <Sentence char_offsets="1236:1427" id="5" />
+      <Sentence char_offsets="1429:1497" id="6" />
+      <Sentence char_offsets="1508:1647" id="7" />
+      <Sentence char_offsets="1649:1832" id="8" />
+      <Sentence char_offsets="1843:2010" id="9" />
+      <Sentence char_offsets="2012:2152" id="10" />
+      <Sentence char_offsets="2163:2477" id="11" />
+      <Sentence char_offsets="2479:2520" id="12" />
+      <Sentence char_offsets="2531:2608" id="13" />
+      <Sentence char_offsets="2619:2751" id="14" />
+      <Sentence char_offsets="2753:2917" id="15" />
+      <Sentence char_offsets="2928:3113" id="16" />
+      <Sentence char_offsets="3124:3177" id="17" />
+      <Sentence char_offsets="3179:3265" id="18" />
+      <Sentence char_offsets="3267:3345" id="19" />
+      <Sentence char_offsets="3356:3554" id="20" />
+      <Sentence char_offsets="3556:3587" id="21" />
+      <Sentence char_offsets="3598:3829" id="22" />
+      <Sentence char_offsets="3831:3904" id="23" />
+      <Sentence char_offsets="3915:4096" id="24" />
+      <Sentence char_offsets="4107:4372" id="25" />
+      <Sentence char_offsets="4383:4586" id="26" />
+      <Sentence char_offsets="4588:4644" id="27" />
+      <Sentence char_offsets="4655:4660" id="28" />
+      <Sentence char_offsets="4671:4758" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="236567" actor_name="Farhan Haq" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="53662" actor_name="Vijay Nambiar" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="53662" actor_name="Vijay Nambiar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

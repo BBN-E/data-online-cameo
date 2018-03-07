@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0812">
+    <Sentences>
+      <Sentence char_offsets="188:376" id="0" />
+      <Sentence char_offsets="387:515" id="1" />
+      <Sentence char_offsets="517:660" id="2" />
+      <Sentence char_offsets="671:835" id="3" />
+      <Sentence char_offsets="837:958" id="4" />
+      <Sentence char_offsets="969:1132" id="5" />
+      <Sentence char_offsets="1143:1244" id="6" />
+      <Sentence char_offsets="1255:1396" id="7" />
+      <Sentence char_offsets="1398:1517" id="8" />
+      <Sentence char_offsets="1528:1615" id="9" />
+      <Sentence char_offsets="1617:1854" id="10" />
+      <Sentence char_offsets="1865:1991" id="11" />
+      <Sentence char_offsets="1993:2082" id="12" />
+      <Sentence char_offsets="2084:2155" id="13" />
+      <Sentence char_offsets="2166:2245" id="14" />
+      <Sentence char_offsets="2247:2348" id="15" />
+      <Sentence char_offsets="2359:2502" id="16" />
+      <Sentence char_offsets="2513:2572" id="17" />
+      <Sentence char_offsets="2574:2636" id="18" />
+      <Sentence char_offsets="2647:2694" id="19" />
+      <Sentence char_offsets="2696:2775" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="40365" actor_name="Northrop Grumman" role="Source" />
+        <Participant actor_id="7701" actor_name="Boeing" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

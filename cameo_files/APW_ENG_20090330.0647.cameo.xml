@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0647">
+    <Sentences>
+      <Sentence char_offsets="184:368" id="0" />
+      <Sentence char_offsets="379:566" id="1" />
+      <Sentence char_offsets="577:684" id="2" />
+      <Sentence char_offsets="695:925" id="3" />
+      <Sentence char_offsets="927:977" id="4" />
+      <Sentence char_offsets="988:1231" id="5" />
+      <Sentence char_offsets="1242:1371" id="6" />
+      <Sentence char_offsets="1373:1416" id="7" />
+      <Sentence char_offsets="1427:1571" id="8" />
+      <Sentence char_offsets="1582:1740" id="9" />
+      <Sentence char_offsets="1751:1878" id="10" />
+      <Sentence char_offsets="1880:1993" id="11" />
+      <Sentence char_offsets="2004:2151" id="12" />
+      <Sentence char_offsets="2162:2268" id="13" />
+      <Sentence char_offsets="2279:2444" id="14" />
+      <Sentence char_offsets="2455:2531" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="historical" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

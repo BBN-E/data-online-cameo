@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0106">
+    <Sentences>
+      <Sentence char_offsets="198:416" id="0" />
+      <Sentence char_offsets="427:616" id="1" />
+      <Sentence char_offsets="618:737" id="2" />
+      <Sentence char_offsets="748:920" id="3" />
+      <Sentence char_offsets="931:1269" id="4" />
+      <Sentence char_offsets="1280:1544" id="5" />
+      <Sentence char_offsets="1555:1752" id="6" />
+      <Sentence char_offsets="1763:1850" id="7" />
+      <Sentence char_offsets="1861:2024" id="8" />
+      <Sentence char_offsets="2026:2140" id="9" />
+      <Sentence char_offsets="2151:2226" id="10" />
+      <Sentence char_offsets="2228:2248" id="11" />
+      <Sentence char_offsets="2250:2376" id="12" />
+      <Sentence char_offsets="2387:2664" id="13" />
+      <Sentence char_offsets="2666:2792" id="14" />
+      <Sentence char_offsets="2803:2885" id="15" />
+      <Sentence char_offsets="2887:2962" id="16" />
+      <Sentence char_offsets="2973:3190" id="17" />
+      <Sentence char_offsets="3192:3278" id="18" />
+      <Sentence char_offsets="3289:3460" id="19" />
+      <Sentence char_offsets="3462:3536" id="20" />
+      <Sentence char_offsets="3547:3712" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="31388" actor_name="Haiti" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Source" />
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Source" />
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

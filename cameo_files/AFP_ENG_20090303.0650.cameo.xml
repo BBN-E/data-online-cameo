@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0650">
+    <Sentences>
+      <Sentence char_offsets="189:303" id="0" />
+      <Sentence char_offsets="314:514" id="1" />
+      <Sentence char_offsets="525:746" id="2" />
+      <Sentence char_offsets="757:891" id="3" />
+      <Sentence char_offsets="902:1127" id="4" />
+      <Sentence char_offsets="1138:1310" id="5" />
+      <Sentence char_offsets="1321:1546" id="6" />
+      <Sentence char_offsets="1557:1778" id="7" />
+      <Sentence char_offsets="1789:1937" id="8" />
+      <Sentence char_offsets="1948:2113" id="9" />
+      <Sentence char_offsets="2124:2301" id="10" />
+      <Sentence char_offsets="2312:2503" id="11" />
+      <Sentence char_offsets="2514:2694" id="12" />
+      <Sentence char_offsets="2696:2722" id="13" />
+      <Sentence char_offsets="2733:2863" id="14" />
+      <Sentence char_offsets="2874:3015" id="15" />
+      <Sentence char_offsets="3026:3206" id="16" />
+      <Sentence char_offsets="3217:3355" id="17" />
+      <Sentence char_offsets="3366:3550" id="18" />
+      <Sentence char_offsets="3552:3591" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

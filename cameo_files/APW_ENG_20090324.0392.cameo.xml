@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0392">
+    <Sentences>
+      <Sentence char_offsets="188:322" id="0" />
+      <Sentence char_offsets="333:464" id="1" />
+      <Sentence char_offsets="475:519" id="2" />
+      <Sentence char_offsets="521:682" id="3" />
+      <Sentence char_offsets="684:746" id="4" />
+      <Sentence char_offsets="757:908" id="5" />
+      <Sentence char_offsets="910:972" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

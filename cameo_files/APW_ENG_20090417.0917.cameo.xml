@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0917">
+    <Sentences>
+      <Sentence char_offsets="188:350" id="0" />
+      <Sentence char_offsets="361:549" id="1" />
+      <Sentence char_offsets="560:727" id="2" />
+      <Sentence char_offsets="729:830" id="3" />
+      <Sentence char_offsets="841:990" id="4" />
+      <Sentence char_offsets="992:1080" id="5" />
+      <Sentence char_offsets="1091:1253" id="6" />
+      <Sentence char_offsets="1255:1297" id="7" />
+      <Sentence char_offsets="1308:1507" id="8" />
+      <Sentence char_offsets="1518:1606" id="9" />
+      <Sentence char_offsets="1617:1734" id="10" />
+      <Sentence char_offsets="1736:1823" id="11" />
+      <Sentence char_offsets="1834:1933" id="12" />
+      <Sentence char_offsets="1944:2012" id="13" />
+      <Sentence char_offsets="2023:2363" id="14" />
+      <Sentence char_offsets="2374:2472" id="15" />
+      <Sentence char_offsets="2483:2622" id="16" />
+      <Sentence char_offsets="2633:2757" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="115">
+        <Participant actor_id="1751" actor_name="Starwood Hotels &amp; Resorts" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="115">
+        <Participant actor_id="1751" actor_name="Starwood Hotels &amp; Resorts" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

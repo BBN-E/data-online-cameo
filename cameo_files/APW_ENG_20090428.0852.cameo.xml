@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0852">
+    <Sentences>
+      <Sentence char_offsets="181:393" id="0" />
+      <Sentence char_offsets="404:658" id="1" />
+      <Sentence char_offsets="669:773" id="2" />
+      <Sentence char_offsets="775:891" id="3" />
+      <Sentence char_offsets="902:1098" id="4" />
+      <Sentence char_offsets="1109:1303" id="5" />
+      <Sentence char_offsets="1305:1437" id="6" />
+      <Sentence char_offsets="1448:1571" id="7" />
+      <Sentence char_offsets="1582:1680" id="8" />
+      <Sentence char_offsets="1682:1909" id="9" />
+      <Sentence char_offsets="1920:2081" id="10" />
+      <Sentence char_offsets="2083:2348" id="11" />
+      <Sentence char_offsets="2359:2499" id="12" />
+      <Sentence char_offsets="2501:2571" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="34517" actor_name="Tom Coburn" role="Source" />
+        <Participant actor_id="51189" actor_name="Kathleen Sebelius" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="51189" actor_name="Kathleen Sebelius" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

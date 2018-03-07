@@ -1,0 +1,17 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0667">
+    <Sentences>
+      <Sentence char_offsets="190:328" id="0" />
+      <Sentence char_offsets="339:410" id="1" />
+      <Sentence char_offsets="421:617" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

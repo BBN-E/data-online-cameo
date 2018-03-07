@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0034">
+    <Sentences>
+      <Sentence char_offsets="208:366" id="0" />
+      <Sentence char_offsets="368:384" id="1" />
+      <Sentence char_offsets="395:480" id="2" />
+      <Sentence char_offsets="482:557" id="3" />
+      <Sentence char_offsets="568:726" id="4" />
+      <Sentence char_offsets="728:1004" id="5" />
+      <Sentence char_offsets="1015:1272" id="6" />
+      <Sentence char_offsets="1283:1522" id="7" />
+      <Sentence char_offsets="1533:1562" id="8" />
+      <Sentence char_offsets="1564:1705" id="9" />
+      <Sentence char_offsets="1707:1943" id="10" />
+      <Sentence char_offsets="1954:2125" id="11" />
+      <Sentence char_offsets="2136:2250" id="12" />
+      <Sentence char_offsets="2252:2378" id="13" />
+      <Sentence char_offsets="2389:2558" id="14" />
+      <Sentence char_offsets="2560:2655" id="15" />
+      <Sentence char_offsets="2657:2683" id="16" />
+      <Sentence char_offsets="2694:2828" id="17" />
+      <Sentence char_offsets="2830:3023" id="18" />
+      <Sentence char_offsets="3034:3073" id="19" />
+      <Sentence char_offsets="3075:3296" id="20" />
+      <Sentence char_offsets="3307:3539" id="21" />
+      <Sentence char_offsets="3550:3717" id="22" />
+      <Sentence char_offsets="3719:3750" id="23" />
+      <Sentence char_offsets="3761:3950" id="24" />
+      <Sentence char_offsets="3961:4077" id="25" />
+      <Sentence char_offsets="4088:4265" id="26" />
+      <Sentence char_offsets="4276:4369" id="27" />
+      <Sentence char_offsets="4371:4442" id="28" />
+      <Sentence char_offsets="4453:4567" id="29" />
+      <Sentence char_offsets="4569:4774" id="30" />
+      <Sentence char_offsets="4785:5015" id="31" />
+      <Sentence char_offsets="5026:5234" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="32" tense="neutral" type="013">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

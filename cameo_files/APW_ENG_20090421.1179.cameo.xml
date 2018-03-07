@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.1179">
+    <Sentences>
+      <Sentence char_offsets="189:378" id="0" />
+      <Sentence char_offsets="389:589" id="1" />
+      <Sentence char_offsets="600:694" id="2" />
+      <Sentence char_offsets="696:815" id="3" />
+      <Sentence char_offsets="817:946" id="4" />
+      <Sentence char_offsets="957:1111" id="5" />
+      <Sentence char_offsets="1122:1302" id="6" />
+      <Sentence char_offsets="1313:1378" id="7" />
+      <Sentence char_offsets="1389:1510" id="8" />
+      <Sentence char_offsets="1512:1610" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="historical" type="010">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

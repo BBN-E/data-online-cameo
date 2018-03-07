@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0867">
+    <Sentences>
+      <Sentence char_offsets="197:282" id="0" />
+      <Sentence char_offsets="293:426" id="1" />
+      <Sentence char_offsets="437:505" id="2" />
+      <Sentence char_offsets="516:707" id="3" />
+      <Sentence char_offsets="718:940" id="4" />
+      <Sentence char_offsets="951:1046" id="5" />
+      <Sentence char_offsets="1057:1135" id="6" />
+      <Sentence char_offsets="1137:1221" id="7" />
+      <Sentence char_offsets="1232:1380" id="8" />
+      <Sentence char_offsets="1391:1557" id="9" />
+      <Sentence char_offsets="1568:1627" id="10" />
+      <Sentence char_offsets="1638:1803" id="11" />
+      <Sentence char_offsets="1814:2044" id="12" />
+      <Sentence char_offsets="2055:2135" id="13" />
+      <Sentence char_offsets="2137:2198" id="14" />
+      <Sentence char_offsets="2200:2266" id="15" />
+      <Sentence char_offsets="2277:2451" id="16" />
+      <Sentence char_offsets="2462:2493" id="17" />
+      <Sentence char_offsets="2495:2540" id="18" />
+      <Sentence char_offsets="2551:2648" id="19" />
+      <Sentence char_offsets="2650:2712" id="20" />
+      <Sentence char_offsets="2723:2779" id="21" />
+      <Sentence char_offsets="2781:2876" id="22" />
+      <Sentence char_offsets="2887:3051" id="23" />
+      <Sentence char_offsets="3062:3180" id="24" />
+      <Sentence char_offsets="3191:3269" id="25" />
+      <Sentence char_offsets="3271:3329" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="274" agent_name="Government Forces" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

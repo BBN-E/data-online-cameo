@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0209">
+    <Sentences>
+      <Sentence char_offsets="192:386" id="0" />
+      <Sentence char_offsets="397:626" id="1" />
+      <Sentence char_offsets="637:785" id="2" />
+      <Sentence char_offsets="796:1023" id="3" />
+      <Sentence char_offsets="1034:1141" id="4" />
+      <Sentence char_offsets="1152:1356" id="5" />
+      <Sentence char_offsets="1367:1562" id="6" />
+      <Sentence char_offsets="1573:1683" id="7" />
+      <Sentence char_offsets="1694:1866" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="23121" actor_name="Osama bin Laden" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="57880" actor_name="Sharif Sheikh Ahmed" role="Source" />
+        <Participant actor_id="24825" actor_name="Transitional Federal Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="100">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="132" agent_name="Information Ministry" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="190">
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

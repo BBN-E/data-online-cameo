@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0072">
+    <Sentences>
+      <Sentence char_offsets="184:306" id="0" />
+      <Sentence char_offsets="308:473" id="1" />
+      <Sentence char_offsets="484:687" id="2" />
+      <Sentence char_offsets="698:825" id="3" />
+      <Sentence char_offsets="836:907" id="4" />
+      <Sentence char_offsets="909:1073" id="5" />
+      <Sentence char_offsets="1084:1174" id="6" />
+      <Sentence char_offsets="1185:1363" id="7" />
+      <Sentence char_offsets="1374:1489" id="8" />
+      <Sentence char_offsets="1500:1638" id="9" />
+      <Sentence char_offsets="1649:1760" id="10" />
+      <Sentence char_offsets="1762:1925" id="11" />
+      <Sentence char_offsets="1936:2085" id="12" />
+      <Sentence char_offsets="2096:2321" id="13" />
+      <Sentence char_offsets="2323:2453" id="14" />
+      <Sentence char_offsets="2464:2535" id="15" />
+      <Sentence char_offsets="2537:2618" id="16" />
+      <Sentence char_offsets="2620:2774" id="17" />
+      <Sentence char_offsets="2785:2840" id="18" />
+      <Sentence char_offsets="2851:2983" id="19" />
+      <Sentence char_offsets="2994:3126" id="20" />
+      <Sentence char_offsets="3137:3209" id="21" />
+      <Sentence char_offsets="3211:3313" id="22" />
+      <Sentence char_offsets="3324:3511" id="23" />
+      <Sentence char_offsets="3513:3712" id="24" />
+      <Sentence char_offsets="3723:3898" id="25" />
+      <Sentence char_offsets="3909:4139" id="26" />
+      <Sentence char_offsets="4141:4310" id="27" />
+      <Sentence char_offsets="4321:4475" id="28" />
+      <Sentence char_offsets="4486:4538" id="29" />
+      <Sentence char_offsets="4540:4644" id="30" />
+      <Sentence char_offsets="4655:4834" id="31" />
+      <Sentence char_offsets="4845:4911" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="24657" actor_name="Mick Keelty" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

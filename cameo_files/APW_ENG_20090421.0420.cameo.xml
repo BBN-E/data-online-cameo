@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0420">
+    <Sentences>
+      <Sentence char_offsets="182:364" id="0" />
+      <Sentence char_offsets="375:644" id="1" />
+      <Sentence char_offsets="646:677" id="2" />
+      <Sentence char_offsets="688:770" id="3" />
+      <Sentence char_offsets="781:897" id="4" />
+      <Sentence char_offsets="908:1011" id="5" />
+      <Sentence char_offsets="1013:1041" id="6" />
+      <Sentence char_offsets="1052:1136" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="historical" type="010">
+        <Participant actor_id="32622" actor_name="Switzerland" agent_id="25" agent_name="Bank" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" agent_id="108" agent_name="Rights Activist" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="32622" actor_name="Switzerland" agent_id="108" agent_name="Rights Activist" role="Source" />
+        <Participant actor_id="17431" actor_name="Credit Suisse" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0066">
+    <Sentences>
+      <Sentence char_offsets="192:391" id="0" />
+      <Sentence char_offsets="402:639" id="1" />
+      <Sentence char_offsets="650:863" id="2" />
+      <Sentence char_offsets="874:1068" id="3" />
+      <Sentence char_offsets="1079:1282" id="4" />
+      <Sentence char_offsets="1293:1424" id="5" />
+      <Sentence char_offsets="1435:1590" id="6" />
+      <Sentence char_offsets="1601:1710" id="7" />
+      <Sentence char_offsets="1712:1820" id="8" />
+      <Sentence char_offsets="1831:1976" id="9" />
+      <Sentence char_offsets="1987:2164" id="10" />
+      <Sentence char_offsets="2175:2286" id="11" />
+      <Sentence char_offsets="2288:2390" id="12" />
+      <Sentence char_offsets="2401:2517" id="13" />
+      <Sentence char_offsets="2528:2659" id="14" />
+      <Sentence char_offsets="2670:2795" id="15" />
+      <Sentence char_offsets="2806:2942" id="16" />
+      <Sentence char_offsets="2953:3058" id="17" />
+      <Sentence char_offsets="3069:3355" id="18" />
+      <Sentence char_offsets="3366:3496" id="19" />
+      <Sentence char_offsets="3507:3695" id="20" />
+      <Sentence char_offsets="3706:3936" id="21" />
+      <Sentence char_offsets="3947:4163" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

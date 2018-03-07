@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090314.0110">
+    <Sentences>
+      <Sentence char_offsets="173:202" id="0" />
+      <Sentence char_offsets="204:244" id="1" />
+      <Sentence char_offsets="246:315" id="2" />
+      <Sentence char_offsets="326:351" id="3" />
+      <Sentence char_offsets="353:414" id="4" />
+      <Sentence char_offsets="416:477" id="5" />
+      <Sentence char_offsets="488:689" id="6" />
+      <Sentence char_offsets="700:871" id="7" />
+      <Sentence char_offsets="873:1031" id="8" />
+      <Sentence char_offsets="1042:1305" id="9" />
+      <Sentence char_offsets="1316:1593" id="10" />
+      <Sentence char_offsets="1595:1717" id="11" />
+      <Sentence char_offsets="1728:1903" id="12" />
+      <Sentence char_offsets="1914:2041" id="13" />
+      <Sentence char_offsets="2043:2164" id="14" />
+      <Sentence char_offsets="2175:2319" id="15" />
+      <Sentence char_offsets="2321:2520" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="040">
+        <Participant actor_id="50682" actor_name="Raymond W. Kelly" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Source" />
+        <Participant actor_id="50682" actor_name="Raymond W. Kelly" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

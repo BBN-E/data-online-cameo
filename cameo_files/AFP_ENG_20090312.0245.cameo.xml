@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0245">
+    <Sentences>
+      <Sentence char_offsets="189:385" id="0" />
+      <Sentence char_offsets="396:612" id="1" />
+      <Sentence char_offsets="623:764" id="2" />
+      <Sentence char_offsets="775:962" id="3" />
+      <Sentence char_offsets="973:1115" id="4" />
+      <Sentence char_offsets="1117:1189" id="5" />
+      <Sentence char_offsets="1200:1385" id="6" />
+      <Sentence char_offsets="1396:1598" id="7" />
+      <Sentence char_offsets="1609:1770" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41021" actor_name="Chechen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="7352" actor_name="Anna Stepanovna Politkovskaya" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="193">
+        <Participant actor_id="238531" actor_name="Rustam Makhmudov" role="Source" />
+        <Participant actor_id="7352" actor_name="Anna Stepanovna Politkovskaya" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

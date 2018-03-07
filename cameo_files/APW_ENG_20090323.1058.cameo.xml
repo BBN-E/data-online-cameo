@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.1058">
+    <Sentences>
+      <Sentence char_offsets="190:361" id="0" />
+      <Sentence char_offsets="372:624" id="1" />
+      <Sentence char_offsets="635:859" id="2" />
+      <Sentence char_offsets="870:1041" id="3" />
+      <Sentence char_offsets="1052:1238" id="4" />
+      <Sentence char_offsets="1249:1367" id="5" />
+      <Sentence char_offsets="1369:1529" id="6" />
+      <Sentence char_offsets="1540:1649" id="7" />
+      <Sentence char_offsets="1660:1851" id="8" />
+      <Sentence char_offsets="1862:1967" id="9" />
+      <Sentence char_offsets="1969:2084" id="10" />
+      <Sentence char_offsets="2095:2233" id="11" />
+      <Sentence char_offsets="2235:2268" id="12" />
+      <Sentence char_offsets="2270:2364" id="13" />
+      <Sentence char_offsets="2375:2600" id="14" />
+      <Sentence char_offsets="2602:2677" id="15" />
+      <Sentence char_offsets="2688:2890" id="16" />
+      <Sentence char_offsets="2901:3107" id="17" />
+      <Sentence char_offsets="3118:3365" id="18" />
+      <Sentence char_offsets="3376:3562" id="19" />
+      <Sentence char_offsets="3573:3683" id="20" />
+      <Sentence char_offsets="3685:3753" id="21" />
+      <Sentence char_offsets="3764:3999" id="22" />
+      <Sentence char_offsets="4010:4015" id="23" />
+      <Sentence char_offsets="4026:4098" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="current" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="051">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="127">
+        <Participant actor_id="32676" actor_name="Cameroon" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

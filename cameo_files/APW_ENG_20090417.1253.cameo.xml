@@ -1,0 +1,97 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.1253">
+    <Sentences>
+      <Sentence char_offsets="196:374" id="0" />
+      <Sentence char_offsets="376:514" id="1" />
+      <Sentence char_offsets="525:752" id="2" />
+      <Sentence char_offsets="763:969" id="3" />
+      <Sentence char_offsets="971:1092" id="4" />
+      <Sentence char_offsets="1103:1317" id="5" />
+      <Sentence char_offsets="1328:1447" id="6" />
+      <Sentence char_offsets="1449:1560" id="7" />
+      <Sentence char_offsets="1571:1611" id="8" />
+      <Sentence char_offsets="1613:1759" id="9" />
+      <Sentence char_offsets="1761:1882" id="10" />
+      <Sentence char_offsets="1893:2098" id="11" />
+      <Sentence char_offsets="2109:2164" id="12" />
+      <Sentence char_offsets="2166:2246" id="13" />
+      <Sentence char_offsets="2248:2361" id="14" />
+      <Sentence char_offsets="2372:2576" id="15" />
+      <Sentence char_offsets="2587:2620" id="16" />
+      <Sentence char_offsets="2631:2730" id="17" />
+      <Sentence char_offsets="2741:2872" id="18" />
+      <Sentence char_offsets="2874:2921" id="19" />
+      <Sentence char_offsets="2923:2949" id="20" />
+      <Sentence char_offsets="2960:3095" id="21" />
+      <Sentence char_offsets="3106:3255" id="22" />
+      <Sentence char_offsets="3266:3512" id="23" />
+      <Sentence char_offsets="3514:3641" id="24" />
+      <Sentence char_offsets="3652:3737" id="25" />
+      <Sentence char_offsets="3739:4000" id="26" />
+      <Sentence char_offsets="4011:4153" id="27" />
+      <Sentence char_offsets="4155:4296" id="28" />
+      <Sentence char_offsets="4307:4434" id="29" />
+      <Sentence char_offsets="4436:4591" id="30" />
+      <Sentence char_offsets="4602:4836" id="31" />
+      <Sentence char_offsets="4838:4997" id="32" />
+      <Sentence char_offsets="4999:5051" id="33" />
+      <Sentence char_offsets="5062:5212" id="34" />
+      <Sentence char_offsets="5214:5395" id="35" />
+      <Sentence char_offsets="5406:5612" id="36" />
+      <Sentence char_offsets="5623:5628" id="37" />
+      <Sentence char_offsets="5639:5809" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="25378" actor_name="Jos&#233; Miguel Insulza" role="Source" />
+        <Participant actor_id="33757" actor_name="Organization of American States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="26" tense="neutral" type="036">
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="29" tense="neutral" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="15" tense="neutral" type="111">
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="22" tense="historical" type="161">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="32" tense="neutral" type="180">
+        <Participant actor_id="40152" actor_name="El Salvador" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="648" agent_name="Tourist" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

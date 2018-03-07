@@ -1,0 +1,90 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0482">
+    <Sentences>
+      <Sentence char_offsets="200:420" id="0" />
+      <Sentence char_offsets="431:592" id="1" />
+      <Sentence char_offsets="594:707" id="2" />
+      <Sentence char_offsets="709:756" id="3" />
+      <Sentence char_offsets="767:880" id="4" />
+      <Sentence char_offsets="882:953" id="5" />
+      <Sentence char_offsets="964:1118" id="6" />
+      <Sentence char_offsets="1129:1261" id="7" />
+      <Sentence char_offsets="1272:1417" id="8" />
+      <Sentence char_offsets="1428:1495" id="9" />
+      <Sentence char_offsets="1506:1706" id="10" />
+      <Sentence char_offsets="1717:1867" id="11" />
+      <Sentence char_offsets="1878:1942" id="12" />
+      <Sentence char_offsets="1944:2053" id="13" />
+      <Sentence char_offsets="2064:2131" id="14" />
+      <Sentence char_offsets="2133:2180" id="15" />
+      <Sentence char_offsets="2191:2227" id="16" />
+      <Sentence char_offsets="2229:2260" id="17" />
+      <Sentence char_offsets="2271:2370" id="18" />
+      <Sentence char_offsets="2372:2487" id="19" />
+      <Sentence char_offsets="2489:2584" id="20" />
+      <Sentence char_offsets="2595:2656" id="21" />
+      <Sentence char_offsets="2667:2753" id="22" />
+      <Sentence char_offsets="2755:2809" id="23" />
+      <Sentence char_offsets="2820:3005" id="24" />
+      <Sentence char_offsets="3007:3074" id="25" />
+      <Sentence char_offsets="3085:3118" id="26" />
+      <Sentence char_offsets="3120:3333" id="27" />
+      <Sentence char_offsets="3344:3438" id="28" />
+      <Sentence char_offsets="3449:3534" id="29" />
+      <Sentence char_offsets="3536:3669" id="30" />
+      <Sentence char_offsets="3680:3821" id="31" />
+      <Sentence char_offsets="3823:3948" id="32" />
+      <Sentence char_offsets="3959:4037" id="33" />
+      <Sentence char_offsets="4039:4286" id="34" />
+      <Sentence char_offsets="4297:4348" id="35" />
+      <Sentence char_offsets="4350:4469" id="36" />
+      <Sentence char_offsets="4480:4585" id="37" />
+      <Sentence char_offsets="4587:4660" id="38" />
+      <Sentence char_offsets="4662:4693" id="39" />
+      <Sentence char_offsets="4695:4743" id="40" />
+      <Sentence char_offsets="4754:4835" id="41" />
+      <Sentence char_offsets="4846:4851" id="42" />
+      <Sentence char_offsets="4862:4938" id="43" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="28901" actor_name="Austria" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="ongoing" type="010">
+        <Participant actor_id="28901" actor_name="Austria" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="020">
+        <Participant actor_id="28901" actor_name="Austria" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="112">
+        <Participant actor_id="28901" actor_name="Austria" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="112">
+        <Participant actor_id="28901" actor_name="Austria" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="6" tense="neutral" type="173">
+        <Participant actor_id="28901" actor_name="Austria" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="1821">
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="8" tense="neutral" type="1821">
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="24" tense="neutral" type="1821">
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

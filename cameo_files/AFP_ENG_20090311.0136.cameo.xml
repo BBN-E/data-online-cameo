@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0136">
+    <Sentences>
+      <Sentence char_offsets="190:366" id="0" />
+      <Sentence char_offsets="377:603" id="1" />
+      <Sentence char_offsets="614:841" id="2" />
+      <Sentence char_offsets="852:1014" id="3" />
+      <Sentence char_offsets="1025:1167" id="4" />
+      <Sentence char_offsets="1178:1315" id="5" />
+      <Sentence char_offsets="1326:1417" id="6" />
+      <Sentence char_offsets="1428:1531" id="7" />
+      <Sentence char_offsets="1533:1574" id="8" />
+      <Sentence char_offsets="1585:1653" id="9" />
+      <Sentence char_offsets="1655:1711" id="10" />
+      <Sentence char_offsets="1722:1893" id="11" />
+      <Sentence char_offsets="1904:2074" id="12" />
+      <Sentence char_offsets="2085:2142" id="13" />
+      <Sentence char_offsets="2144:2234" id="14" />
+      <Sentence char_offsets="2236:2304" id="15" />
+      <Sentence char_offsets="2315:2499" id="16" />
+      <Sentence char_offsets="2510:2611" id="17" />
+      <Sentence char_offsets="2613:2740" id="18" />
+      <Sentence char_offsets="2751:2831" id="19" />
+      <Sentence char_offsets="2842:2998" id="20" />
+      <Sentence char_offsets="3009:3057" id="21" />
+      <Sentence char_offsets="3059:3104" id="22" />
+      <Sentence char_offsets="3106:3192" id="23" />
+      <Sentence char_offsets="3203:3340" id="24" />
+      <Sentence char_offsets="3351:3552" id="25" />
+      <Sentence char_offsets="3563:3612" id="26" />
+      <Sentence char_offsets="3614:3662" id="27" />
+      <Sentence char_offsets="3664:3727" id="28" />
+      <Sentence char_offsets="3738:3895" id="29" />
+      <Sentence char_offsets="3897:3961" id="30" />
+      <Sentence char_offsets="3972:4077" id="31" />
+      <Sentence char_offsets="4088:4208" id="32" />
+      <Sentence char_offsets="4219:4366" id="33" />
+      <Sentence char_offsets="4377:4592" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="193">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

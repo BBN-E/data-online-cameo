@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0295">
+    <Sentences>
+      <Sentence char_offsets="185:373" id="0" />
+      <Sentence char_offsets="384:533" id="1" />
+      <Sentence char_offsets="544:709" id="2" />
+      <Sentence char_offsets="720:943" id="3" />
+      <Sentence char_offsets="954:1170" id="4" />
+      <Sentence char_offsets="1181:1322" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="31081" actor_name="India" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="historical" type="042">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="35320" actor_name="South Asia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="130">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="historical" type="043">
+        <Participant actor_id="35320" actor_name="South Asia" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

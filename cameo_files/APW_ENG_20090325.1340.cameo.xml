@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1340">
+    <Sentences>
+      <Sentence char_offsets="190:423" id="0" />
+      <Sentence char_offsets="434:536" id="1" />
+      <Sentence char_offsets="538:708" id="2" />
+      <Sentence char_offsets="719:850" id="3" />
+      <Sentence char_offsets="852:970" id="4" />
+      <Sentence char_offsets="981:1135" id="5" />
+      <Sentence char_offsets="1146:1399" id="6" />
+      <Sentence char_offsets="1410:1528" id="7" />
+      <Sentence char_offsets="1530:1687" id="8" />
+      <Sentence char_offsets="1698:1771" id="9" />
+      <Sentence char_offsets="1782:1857" id="10" />
+      <Sentence char_offsets="1868:1908" id="11" />
+      <Sentence char_offsets="1919:2136" id="12" />
+      <Sentence char_offsets="2147:2231" id="13" />
+      <Sentence char_offsets="2233:2295" id="14" />
+      <Sentence char_offsets="2306:2426" id="15" />
+      <Sentence char_offsets="2437:2517" id="16" />
+      <Sentence char_offsets="2528:2688" id="17" />
+      <Sentence char_offsets="2699:2919" id="18" />
+      <Sentence char_offsets="2930:3105" id="19" />
+      <Sentence char_offsets="3116:3294" id="20" />
+      <Sentence char_offsets="3296:3381" id="21" />
+      <Sentence char_offsets="3392:3505" id="22" />
+      <Sentence char_offsets="3507:3601" id="23" />
+      <Sentence char_offsets="3612:3785" id="24" />
+      <Sentence char_offsets="3796:3869" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="35411" actor_name="Dick Durbin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090327.0043">
+    <Sentences>
+      <Sentence char_offsets="176:358" id="0" />
+      <Sentence char_offsets="369:540" id="1" />
+      <Sentence char_offsets="551:785" id="2" />
+      <Sentence char_offsets="796:851" id="3" />
+      <Sentence char_offsets="853:881" id="4" />
+      <Sentence char_offsets="892:1066" id="5" />
+      <Sentence char_offsets="1077:1373" id="6" />
+      <Sentence char_offsets="1384:1606" id="7" />
+      <Sentence char_offsets="1617:1816" id="8" />
+      <Sentence char_offsets="1827:2003" id="9" />
+      <Sentence char_offsets="2014:2214" id="10" />
+      <Sentence char_offsets="2225:2296" id="11" />
+      <Sentence char_offsets="2307:2458" id="12" />
+      <Sentence char_offsets="2469:2671" id="13" />
+      <Sentence char_offsets="2673:2725" id="14" />
+      <Sentence char_offsets="2736:2831" id="15" />
+      <Sentence char_offsets="2842:2942" id="16" />
+      <Sentence char_offsets="2944:3181" id="17" />
+      <Sentence char_offsets="3183:3232" id="18" />
+      <Sentence char_offsets="3243:3460" id="19" />
+      <Sentence char_offsets="3462:3502" id="20" />
+      <Sentence char_offsets="3513:3704" id="21" />
+      <Sentence char_offsets="3715:3811" id="22" />
+      <Sentence char_offsets="3822:3945" id="23" />
+      <Sentence char_offsets="3956:4128" id="24" />
+      <Sentence char_offsets="4139:4379" id="25" />
+      <Sentence char_offsets="4390:4601" id="26" />
+      <Sentence char_offsets="4612:4737" id="27" />
+      <Sentence char_offsets="4748:4930" id="28" />
+      <Sentence char_offsets="4941:5082" id="29" />
+      <Sentence char_offsets="5084:5185" id="30" />
+      <Sentence char_offsets="5196:5232" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="403" agent_name="Independence Party" role="Source" />
+        <Participant actor_id="235856" actor_name="Michael Bloomberg" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="050">
+        <Participant actor_id="41262" actor_name="United States" agent_id="403" agent_name="Independence Party" role="Source" />
+        <Participant actor_id="235856" actor_name="Michael Bloomberg" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="1121">
+        <Participant actor_id="41262" actor_name="United States" agent_id="403" agent_name="Independence Party" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="69" agent_name="Party Member" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0601">
+    <Sentences>
+      <Sentence char_offsets="172:359" id="0" />
+      <Sentence char_offsets="370:546" id="1" />
+      <Sentence char_offsets="557:769" id="2" />
+      <Sentence char_offsets="780:969" id="3" />
+      <Sentence char_offsets="980:1139" id="4" />
+      <Sentence char_offsets="1150:1255" id="5" />
+      <Sentence char_offsets="1257:1365" id="6" />
+      <Sentence char_offsets="1376:1452" id="7" />
+      <Sentence char_offsets="1463:1690" id="8" />
+      <Sentence char_offsets="1701:1857" id="9" />
+      <Sentence char_offsets="1868:2031" id="10" />
+      <Sentence char_offsets="2042:2164" id="11" />
+      <Sentence char_offsets="2175:2318" id="12" />
+      <Sentence char_offsets="2329:2405" id="13" />
+      <Sentence char_offsets="2416:2457" id="14" />
+      <Sentence char_offsets="2468:2653" id="15" />
+      <Sentence char_offsets="2664:2799" id="16" />
+      <Sentence char_offsets="2810:2863" id="17" />
+      <Sentence char_offsets="2874:3062" id="18" />
+      <Sentence char_offsets="3073:3132" id="19" />
+      <Sentence char_offsets="3143:3288" id="20" />
+      <Sentence char_offsets="3299:3486" id="21" />
+      <Sentence char_offsets="3497:3648" id="22" />
+      <Sentence char_offsets="3659:3747" id="23" />
+      <Sentence char_offsets="3749:3817" id="24" />
+      <Sentence char_offsets="3828:3953" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="historical" type="1711">
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Source" />
+        <Participant actor_id="29562" actor_name="Thabo Mvuyelwa Mbeki" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="193">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="352" agent_name="Armed Band" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

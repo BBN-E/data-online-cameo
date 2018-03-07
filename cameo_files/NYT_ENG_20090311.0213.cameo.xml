@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090311.0213">
+    <Sentences>
+      <Sentence char_offsets="191:401" id="0" />
+      <Sentence char_offsets="412:661" id="1" />
+      <Sentence char_offsets="672:701" id="2" />
+      <Sentence char_offsets="703:801" id="3" />
+      <Sentence char_offsets="803:917" id="4" />
+      <Sentence char_offsets="928:1082" id="5" />
+      <Sentence char_offsets="1084:1188" id="6" />
+      <Sentence char_offsets="1199:1328" id="7" />
+      <Sentence char_offsets="1330:1468" id="8" />
+      <Sentence char_offsets="1479:1523" id="9" />
+      <Sentence char_offsets="1525:1712" id="10" />
+      <Sentence char_offsets="1723:1875" id="11" />
+      <Sentence char_offsets="1886:2067" id="12" />
+      <Sentence char_offsets="2069:2231" id="13" />
+      <Sentence char_offsets="2242:2389" id="14" />
+      <Sentence char_offsets="2400:2581" id="15" />
+      <Sentence char_offsets="2583:2668" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="035">
+        <Participant actor_id="8174" actor_name="Farabundo Mart&#237; National Liberation Front" role="Source" />
+        <Participant actor_id="40152" actor_name="El Salvador" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0645">
+    <Sentences>
+      <Sentence char_offsets="183:361" id="0" />
+      <Sentence char_offsets="372:593" id="1" />
+      <Sentence char_offsets="604:836" id="2" />
+      <Sentence char_offsets="847:923" id="3" />
+      <Sentence char_offsets="925:1071" id="4" />
+      <Sentence char_offsets="1082:1190" id="5" />
+      <Sentence char_offsets="1192:1261" id="6" />
+      <Sentence char_offsets="1272:1326" id="7" />
+      <Sentence char_offsets="1328:1430" id="8" />
+      <Sentence char_offsets="1441:1673" id="9" />
+      <Sentence char_offsets="1684:1820" id="10" />
+      <Sentence char_offsets="1822:1895" id="11" />
+      <Sentence char_offsets="1906:2037" id="12" />
+      <Sentence char_offsets="2048:2201" id="13" />
+      <Sentence char_offsets="2212:2348" id="14" />
+      <Sentence char_offsets="2359:2569" id="15" />
+      <Sentence char_offsets="2580:2734" id="16" />
+      <Sentence char_offsets="2745:2959" id="17" />
+      <Sentence char_offsets="2970:3145" id="18" />
+      <Sentence char_offsets="3156:3302" id="19" />
+      <Sentence char_offsets="3313:3428" id="20" />
+      <Sentence char_offsets="3439:3625" id="21" />
+      <Sentence char_offsets="3636:3759" id="22" />
+      <Sentence char_offsets="3770:3912" id="23" />
+      <Sentence char_offsets="3923:4028" id="24" />
+      <Sentence char_offsets="4039:4204" id="25" />
+      <Sentence char_offsets="4215:4332" id="26" />
+      <Sentence char_offsets="4343:4380" id="27" />
+      <Sentence char_offsets="4391:4514" id="28" />
+      <Sentence char_offsets="4525:4669" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="34481" actor_name="Poland" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="051">
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

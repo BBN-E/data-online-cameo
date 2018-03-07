@@ -1,0 +1,101 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0700">
+    <Sentences>
+      <Sentence char_offsets="199:424" id="0" />
+      <Sentence char_offsets="435:630" id="1" />
+      <Sentence char_offsets="641:777" id="2" />
+      <Sentence char_offsets="779:814" id="3" />
+      <Sentence char_offsets="816:978" id="4" />
+      <Sentence char_offsets="989:1137" id="5" />
+      <Sentence char_offsets="1139:1347" id="6" />
+      <Sentence char_offsets="1358:1536" id="7" />
+      <Sentence char_offsets="1547:1753" id="8" />
+      <Sentence char_offsets="1764:1920" id="9" />
+      <Sentence char_offsets="1922:2055" id="10" />
+      <Sentence char_offsets="2066:2231" id="11" />
+      <Sentence char_offsets="2242:2424" id="12" />
+      <Sentence char_offsets="2435:2581" id="13" />
+      <Sentence char_offsets="2583:2810" id="14" />
+      <Sentence char_offsets="2821:2998" id="15" />
+      <Sentence char_offsets="3009:3217" id="16" />
+      <Sentence char_offsets="3219:3330" id="17" />
+      <Sentence char_offsets="3341:3471" id="18" />
+      <Sentence char_offsets="3482:3738" id="19" />
+      <Sentence char_offsets="3740:3895" id="20" />
+      <Sentence char_offsets="3906:4101" id="21" />
+      <Sentence char_offsets="4103:4228" id="22" />
+      <Sentence char_offsets="4239:4411" id="23" />
+      <Sentence char_offsets="4422:4689" id="24" />
+      <Sentence char_offsets="4700:4944" id="25" />
+      <Sentence char_offsets="4955:5095" id="26" />
+      <Sentence char_offsets="5097:5242" id="27" />
+      <Sentence char_offsets="5253:5369" id="28" />
+      <Sentence char_offsets="5371:5459" id="29" />
+      <Sentence char_offsets="5470:5553" id="30" />
+      <Sentence char_offsets="5555:5579" id="31" />
+      <Sentence char_offsets="5590:5719" id="32" />
+      <Sentence char_offsets="5721:5734" id="33" />
+      <Sentence char_offsets="5736:5940" id="34" />
+      <Sentence char_offsets="5951:6118" id="35" />
+      <Sentence char_offsets="6120:6243" id="36" />
+      <Sentence char_offsets="6254:6501" id="37" />
+      <Sentence char_offsets="6512:6740" id="38" />
+      <Sentence char_offsets="6751:6789" id="39" />
+      <Sentence char_offsets="6791:6905" id="40" />
+      <Sentence char_offsets="6907:7010" id="41" />
+      <Sentence char_offsets="7012:7051" id="42" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="257" agent_name="Extremist" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="690" agent_name="Attacker" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="33371" actor_name="Peter Robinson" role="Source" />
+        <Participant actor_id="230915" actor_name="Ulster Defence Association" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="current" type="036">
+        <Participant actor_id="33371" actor_name="Peter Robinson" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="16" tense="current" type="036">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="current" type="193">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="32" tense="historical" type="193">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

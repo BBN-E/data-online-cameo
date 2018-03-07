@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0992">
+    <Sentences>
+      <Sentence char_offsets="184:405" id="0" />
+      <Sentence char_offsets="416:631" id="1" />
+      <Sentence char_offsets="642:742" id="2" />
+      <Sentence char_offsets="753:900" id="3" />
+      <Sentence char_offsets="911:1190" id="4" />
+      <Sentence char_offsets="1201:1385" id="5" />
+      <Sentence char_offsets="1396:1516" id="6" />
+      <Sentence char_offsets="1518:1696" id="7" />
+      <Sentence char_offsets="1707:1751" id="8" />
+      <Sentence char_offsets="1762:1983" id="9" />
+      <Sentence char_offsets="1994:2204" id="10" />
+      <Sentence char_offsets="2215:2275" id="11" />
+      <Sentence char_offsets="2286:2496" id="12" />
+      <Sentence char_offsets="2507:2707" id="13" />
+      <Sentence char_offsets="2709:2777" id="14" />
+      <Sentence char_offsets="2788:2893" id="15" />
+      <Sentence char_offsets="2904:2911" id="16" />
+      <Sentence char_offsets="2922:2988" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="42511" actor_name="International Chamber of Commerce" role="Source" />
+        <Participant actor_id="32366" actor_name="Orascom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

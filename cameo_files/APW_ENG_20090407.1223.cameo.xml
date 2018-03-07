@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.1223">
+    <Sentences>
+      <Sentence char_offsets="183:383" id="0" />
+      <Sentence char_offsets="394:639" id="1" />
+      <Sentence char_offsets="650:986" id="2" />
+      <Sentence char_offsets="988:1058" id="3" />
+      <Sentence char_offsets="1069:1286" id="4" />
+      <Sentence char_offsets="1288:1456" id="5" />
+      <Sentence char_offsets="1467:1660" id="6" />
+      <Sentence char_offsets="1662:1786" id="7" />
+      <Sentence char_offsets="1797:2012" id="8" />
+      <Sentence char_offsets="2023:2086" id="9" />
+      <Sentence char_offsets="2088:2183" id="10" />
+      <Sentence char_offsets="2194:2452" id="11" />
+      <Sentence char_offsets="2463:2584" id="12" />
+      <Sentence char_offsets="2586:2679" id="13" />
+      <Sentence char_offsets="2681:2836" id="14" />
+      <Sentence char_offsets="2847:2971" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="090">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

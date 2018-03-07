@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090315.0374">
+    <Sentences>
+      <Sentence char_offsets="173:388" id="0" />
+      <Sentence char_offsets="399:611" id="1" />
+      <Sentence char_offsets="622:784" id="2" />
+      <Sentence char_offsets="795:947" id="3" />
+      <Sentence char_offsets="958:1051" id="4" />
+      <Sentence char_offsets="1062:1286" id="5" />
+      <Sentence char_offsets="1297:1487" id="6" />
+      <Sentence char_offsets="1498:1682" id="7" />
+      <Sentence char_offsets="1693:1870" id="8" />
+      <Sentence char_offsets="1881:2086" id="9" />
+      <Sentence char_offsets="2097:2388" id="10" />
+      <Sentence char_offsets="2399:2697" id="11" />
+      <Sentence char_offsets="2708:2895" id="12" />
+      <Sentence char_offsets="2906:3049" id="13" />
+      <Sentence char_offsets="3060:3251" id="14" />
+      <Sentence char_offsets="3262:3437" id="15" />
+      <Sentence char_offsets="3448:3596" id="16" />
+      <Sentence char_offsets="3607:3695" id="17" />
+      <Sentence char_offsets="3697:3728" id="18" />
+      <Sentence char_offsets="3739:3919" id="19" />
+      <Sentence char_offsets="3921:3986" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="046">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="1234">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="480" agent_name="Labor Party" role="Source" />
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="046">
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

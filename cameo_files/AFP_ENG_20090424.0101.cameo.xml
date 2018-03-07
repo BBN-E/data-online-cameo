@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0101">
+    <Sentences>
+      <Sentence char_offsets="183:382" id="0" />
+      <Sentence char_offsets="393:552" id="1" />
+      <Sentence char_offsets="563:803" id="2" />
+      <Sentence char_offsets="814:937" id="3" />
+      <Sentence char_offsets="948:1169" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="051">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

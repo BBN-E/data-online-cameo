@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0601">
+    <Sentences>
+      <Sentence char_offsets="186:372" id="0" />
+      <Sentence char_offsets="383:589" id="1" />
+      <Sentence char_offsets="600:702" id="2" />
+      <Sentence char_offsets="704:744" id="3" />
+      <Sentence char_offsets="755:969" id="4" />
+      <Sentence char_offsets="980:1103" id="5" />
+      <Sentence char_offsets="1105:1206" id="6" />
+      <Sentence char_offsets="1217:1390" id="7" />
+      <Sentence char_offsets="1401:1550" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="173">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

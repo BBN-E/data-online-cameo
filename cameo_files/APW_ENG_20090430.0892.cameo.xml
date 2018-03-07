@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.0892">
+    <Sentences>
+      <Sentence char_offsets="182:243" id="0" />
+      <Sentence char_offsets="254:381" id="1" />
+      <Sentence char_offsets="383:419" id="2" />
+      <Sentence char_offsets="430:512" id="3" />
+      <Sentence char_offsets="523:708" id="4" />
+      <Sentence char_offsets="710:797" id="5" />
+      <Sentence char_offsets="808:929" id="6" />
+      <Sentence char_offsets="931:1053" id="7" />
+      <Sentence char_offsets="1064:1181" id="8" />
+      <Sentence char_offsets="1183:1276" id="9" />
+      <Sentence char_offsets="1287:1456" id="10" />
+      <Sentence char_offsets="1458:1528" id="11" />
+      <Sentence char_offsets="1539:1615" id="12" />
+      <Sentence char_offsets="1617:1781" id="13" />
+      <Sentence char_offsets="1783:1857" id="14" />
+      <Sentence char_offsets="1868:1963" id="15" />
+      <Sentence char_offsets="1974:2008" id="16" />
+      <Sentence char_offsets="2010:2155" id="17" />
+      <Sentence char_offsets="2166:2246" id="18" />
+      <Sentence char_offsets="2257:2371" id="19" />
+      <Sentence char_offsets="2382:2479" id="20" />
+      <Sentence char_offsets="2481:2622" id="21" />
+      <Sentence char_offsets="2633:2813" id="22" />
+      <Sentence char_offsets="2815:2932" id="23" />
+      <Sentence char_offsets="2943:3050" id="24" />
+      <Sentence char_offsets="3052:3174" id="25" />
+      <Sentence char_offsets="3176:3308" id="26" />
+      <Sentence char_offsets="3310:3363" id="27" />
+      <Sentence char_offsets="3374:3406" id="28" />
+      <Sentence char_offsets="3408:3503" id="29" />
+      <Sentence char_offsets="3505:3535" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="26896" actor_name="Merrill Lynch" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

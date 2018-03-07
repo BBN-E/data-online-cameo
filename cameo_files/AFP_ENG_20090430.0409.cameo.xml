@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0409">
+    <Sentences>
+      <Sentence char_offsets="188:359" id="0" />
+      <Sentence char_offsets="370:501" id="1" />
+      <Sentence char_offsets="512:586" id="2" />
+      <Sentence char_offsets="588:730" id="3" />
+      <Sentence char_offsets="741:888" id="4" />
+      <Sentence char_offsets="899:1022" id="5" />
+      <Sentence char_offsets="1033:1145" id="6" />
+      <Sentence char_offsets="1156:1227" id="7" />
+      <Sentence char_offsets="1238:1338" id="8" />
+      <Sentence char_offsets="1349:1548" id="9" />
+      <Sentence char_offsets="1559:1690" id="10" />
+      <Sentence char_offsets="1701:1801" id="11" />
+      <Sentence char_offsets="1812:1913" id="12" />
+      <Sentence char_offsets="1924:2000" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="050">
+        <Participant actor_id="32098" actor_name="Canada" role="Source" />
+        <Participant actor_id="42940" actor_name="Rotary International" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="050">
+        <Participant actor_id="32098" actor_name="Canada" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

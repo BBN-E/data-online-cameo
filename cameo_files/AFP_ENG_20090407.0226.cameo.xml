@@ -1,0 +1,96 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0226">
+    <Sentences>
+      <Sentence char_offsets="182:373" id="0" />
+      <Sentence char_offsets="384:583" id="1" />
+      <Sentence char_offsets="594:817" id="2" />
+      <Sentence char_offsets="828:1021" id="3" />
+      <Sentence char_offsets="1032:1247" id="4" />
+      <Sentence char_offsets="1258:1354" id="5" />
+      <Sentence char_offsets="1365:1522" id="6" />
+      <Sentence char_offsets="1533:1692" id="7" />
+      <Sentence char_offsets="1703:1820" id="8" />
+      <Sentence char_offsets="1831:1969" id="9" />
+      <Sentence char_offsets="1971:2090" id="10" />
+      <Sentence char_offsets="2101:2301" id="11" />
+      <Sentence char_offsets="2312:2388" id="12" />
+      <Sentence char_offsets="2390:2456" id="13" />
+      <Sentence char_offsets="2467:2656" id="14" />
+      <Sentence char_offsets="2667:2785" id="15" />
+      <Sentence char_offsets="2787:2887" id="16" />
+      <Sentence char_offsets="2898:3011" id="17" />
+      <Sentence char_offsets="3013:3073" id="18" />
+      <Sentence char_offsets="3084:3167" id="19" />
+      <Sentence char_offsets="3178:3232" id="20" />
+      <Sentence char_offsets="3234:3340" id="21" />
+      <Sentence char_offsets="3351:3453" id="22" />
+      <Sentence char_offsets="3455:3523" id="23" />
+      <Sentence char_offsets="3534:3667" id="24" />
+      <Sentence char_offsets="3669:3733" id="25" />
+      <Sentence char_offsets="3744:3953" id="26" />
+      <Sentence char_offsets="3964:4113" id="27" />
+      <Sentence char_offsets="4124:4164" id="28" />
+      <Sentence char_offsets="4166:4303" id="29" />
+      <Sentence char_offsets="4314:4488" id="30" />
+      <Sentence char_offsets="4499:4719" id="31" />
+      <Sentence char_offsets="4730:4901" id="32" />
+      <Sentence char_offsets="4912:5074" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="3766" actor_name="Grigory Borisovich Karasin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="25646" actor_name="Vlad Filat" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="33" tense="neutral" type="050">
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="27" tense="neutral" type="127">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="25646" actor_name="Vlad Filat" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="27" tense="neutral" type="127">
+        <Participant actor_id="25646" actor_name="Vlad Filat" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="580" agent_name="Opposition Supporter" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="neutral" type="141">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="current" type="145">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="514" agent_name="Student Dissident" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="145">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="12" tense="neutral" type="145">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="25646" actor_name="Vlad Filat" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="27" tense="neutral" type="046">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="580" agent_name="Opposition Supporter" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

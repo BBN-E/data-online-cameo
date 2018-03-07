@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0780">
+    <Sentences>
+      <Sentence char_offsets="180:373" id="0" />
+      <Sentence char_offsets="384:597" id="1" />
+      <Sentence char_offsets="608:829" id="2" />
+      <Sentence char_offsets="840:1018" id="3" />
+      <Sentence char_offsets="1029:1257" id="4" />
+      <Sentence char_offsets="1268:1519" id="5" />
+      <Sentence char_offsets="1530:1582" id="6" />
+      <Sentence char_offsets="1593:1803" id="7" />
+      <Sentence char_offsets="1814:2037" id="8" />
+      <Sentence char_offsets="2048:2260" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="53601" actor_name="James Webb" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

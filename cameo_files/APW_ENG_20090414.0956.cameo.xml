@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0956">
+    <Sentences>
+      <Sentence char_offsets="188:275" id="0" />
+      <Sentence char_offsets="286:455" id="1" />
+      <Sentence char_offsets="457:582" id="2" />
+      <Sentence char_offsets="593:695" id="3" />
+      <Sentence char_offsets="706:862" id="4" />
+      <Sentence char_offsets="864:918" id="5" />
+      <Sentence char_offsets="929:1052" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="190">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090415.0136">
+    <Sentences>
+      <Sentence char_offsets="183:424" id="0" />
+      <Sentence char_offsets="435:630" id="1" />
+      <Sentence char_offsets="632:743" id="2" />
+      <Sentence char_offsets="754:886" id="3" />
+      <Sentence char_offsets="888:999" id="4" />
+      <Sentence char_offsets="1010:1071" id="5" />
+      <Sentence char_offsets="1073:1204" id="6" />
+      <Sentence char_offsets="1215:1415" id="7" />
+      <Sentence char_offsets="1417:1608" id="8" />
+      <Sentence char_offsets="1619:1706" id="9" />
+      <Sentence char_offsets="1708:1879" id="10" />
+      <Sentence char_offsets="1890:2022" id="11" />
+      <Sentence char_offsets="2033:2230" id="12" />
+      <Sentence char_offsets="2241:2409" id="13" />
+      <Sentence char_offsets="2420:2548" id="14" />
+      <Sentence char_offsets="2550:2608" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="27585" actor_name="Islamic Republic News Agency" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="current" type="040">
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

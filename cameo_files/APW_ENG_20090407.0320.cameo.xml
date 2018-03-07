@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.0320">
+    <Sentences>
+      <Sentence char_offsets="194:370" id="0" />
+      <Sentence char_offsets="381:584" id="1" />
+      <Sentence char_offsets="595:692" id="2" />
+      <Sentence char_offsets="694:892" id="3" />
+      <Sentence char_offsets="903:1005" id="4" />
+      <Sentence char_offsets="1007:1093" id="5" />
+      <Sentence char_offsets="1104:1268" id="6" />
+      <Sentence char_offsets="1279:1457" id="7" />
+      <Sentence char_offsets="1468:1589" id="8" />
+      <Sentence char_offsets="1600:1773" id="9" />
+      <Sentence char_offsets="1775:1831" id="10" />
+      <Sentence char_offsets="1842:2008" id="11" />
+      <Sentence char_offsets="2010:2058" id="12" />
+      <Sentence char_offsets="2069:2167" id="13" />
+      <Sentence char_offsets="2178:2380" id="14" />
+      <Sentence char_offsets="2391:2523" id="15" />
+      <Sentence char_offsets="2534:2695" id="16" />
+      <Sentence char_offsets="2697:2774" id="17" />
+      <Sentence char_offsets="2785:2893" id="18" />
+      <Sentence char_offsets="2904:3064" id="19" />
+      <Sentence char_offsets="3066:3104" id="20" />
+      <Sentence char_offsets="3106:3192" id="21" />
+      <Sentence char_offsets="3203:3208" id="22" />
+      <Sentence char_offsets="3219:3229" id="23" />
+      <Sentence char_offsets="3240:3281" id="24" />
+      <Sentence char_offsets="3292:3334" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="current" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="1164" actor_name="Sarath Fonseka" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="1164" actor_name="Sarath Fonseka" role="Source" />
+        <Participant actor_id="236164" actor_name="Robert Blake" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

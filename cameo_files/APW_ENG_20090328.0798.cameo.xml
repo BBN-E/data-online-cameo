@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0798">
+    <Sentences>
+      <Sentence char_offsets="188:356" id="0" />
+      <Sentence char_offsets="367:551" id="1" />
+      <Sentence char_offsets="562:696" id="2" />
+      <Sentence char_offsets="698:729" id="3" />
+      <Sentence char_offsets="740:839" id="4" />
+      <Sentence char_offsets="841:867" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="145">
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="145">
+        <Participant actor_id="30701" actor_name="France" agent_id="714" agent_name="Children" role="Source" />
+        <Participant actor_id="232380" actor_name="Corsica" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="current" type="173">
+        <Participant actor_id="30701" actor_name="France" agent_id="684" agent_name="Appeals Court" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="232380" actor_name="Corsica" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="714" agent_name="Children" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

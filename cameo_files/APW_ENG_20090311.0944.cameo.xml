@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0944">
+    <Sentences>
+      <Sentence char_offsets="180:311" id="0" />
+      <Sentence char_offsets="322:370" id="1" />
+      <Sentence char_offsets="372:482" id="2" />
+      <Sentence char_offsets="493:620" id="3" />
+      <Sentence char_offsets="622:735" id="4" />
+      <Sentence char_offsets="746:962" id="5" />
+      <Sentence char_offsets="973:1077" id="6" />
+      <Sentence char_offsets="1088:1324" id="7" />
+      <Sentence char_offsets="1326:1485" id="8" />
+      <Sentence char_offsets="1496:1716" id="9" />
+      <Sentence char_offsets="1718:1805" id="10" />
+      <Sentence char_offsets="1807:2059" id="11" />
+      <Sentence char_offsets="2070:2281" id="12" />
+      <Sentence char_offsets="2292:2407" id="13" />
+      <Sentence char_offsets="2418:2629" id="14" />
+      <Sentence char_offsets="2631:2826" id="15" />
+      <Sentence char_offsets="2837:2887" id="16" />
+      <Sentence char_offsets="2889:2954" id="17" />
+      <Sentence char_offsets="2965:3121" id="18" />
+      <Sentence char_offsets="3123:3175" id="19" />
+      <Sentence char_offsets="3186:3278" id="20" />
+      <Sentence char_offsets="3280:3347" id="21" />
+      <Sentence char_offsets="3358:3514" id="22" />
+      <Sentence char_offsets="3525:3590" id="23" />
+      <Sentence char_offsets="3601:3708" id="24" />
+      <Sentence char_offsets="3710:3779" id="25" />
+      <Sentence char_offsets="3790:3863" id="26" />
+      <Sentence char_offsets="3865:3951" id="27" />
+      <Sentence char_offsets="3953:4128" id="28" />
+      <Sentence char_offsets="4139:4193" id="29" />
+      <Sentence char_offsets="4195:4277" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="26820" actor_name="Citigroup" role="Source" />
+        <Participant actor_id="26780" actor_name="Bank of America" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="26780" actor_name="Bank of America" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

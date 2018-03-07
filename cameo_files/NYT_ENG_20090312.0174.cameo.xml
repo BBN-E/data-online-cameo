@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090312.0174">
+    <Sentences>
+      <Sentence char_offsets="302:549" id="0" />
+      <Sentence char_offsets="560:813" id="1" />
+      <Sentence char_offsets="824:1139" id="2" />
+      <Sentence char_offsets="1150:1388" id="3" />
+      <Sentence char_offsets="1399:1533" id="4" />
+      <Sentence char_offsets="1535:1661" id="5" />
+      <Sentence char_offsets="1672:1898" id="6" />
+      <Sentence char_offsets="1909:2040" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="305" agent_name="Treasury/Finance Ministry" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="80" agent_name="Member of Parliament" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="1121">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

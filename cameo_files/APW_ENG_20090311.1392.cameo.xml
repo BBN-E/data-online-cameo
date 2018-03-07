@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.1392">
+    <Sentences>
+      <Sentence char_offsets="172:354" id="0" />
+      <Sentence char_offsets="365:659" id="1" />
+      <Sentence char_offsets="670:883" id="2" />
+      <Sentence char_offsets="885:1036" id="3" />
+      <Sentence char_offsets="1047:1220" id="4" />
+      <Sentence char_offsets="1222:1276" id="5" />
+      <Sentence char_offsets="1287:1568" id="6" />
+      <Sentence char_offsets="1579:1674" id="7" />
+      <Sentence char_offsets="1685:1820" id="8" />
+      <Sentence char_offsets="1822:1864" id="9" />
+      <Sentence char_offsets="1866:1988" id="10" />
+      <Sentence char_offsets="1999:2165" id="11" />
+      <Sentence char_offsets="2167:2230" id="12" />
+      <Sentence char_offsets="2241:2330" id="13" />
+      <Sentence char_offsets="2332:2489" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="012">
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="714" agent_name="Children" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

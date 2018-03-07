@@ -1,0 +1,71 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0118">
+    <Sentences>
+      <Sentence char_offsets="189:381" id="0" />
+      <Sentence char_offsets="392:616" id="1" />
+      <Sentence char_offsets="627:720" id="2" />
+      <Sentence char_offsets="722:791" id="3" />
+      <Sentence char_offsets="802:967" id="4" />
+      <Sentence char_offsets="978:1067" id="5" />
+      <Sentence char_offsets="1069:1121" id="6" />
+      <Sentence char_offsets="1123:1156" id="7" />
+      <Sentence char_offsets="1167:1350" id="8" />
+      <Sentence char_offsets="1361:1418" id="9" />
+      <Sentence char_offsets="1429:1663" id="10" />
+      <Sentence char_offsets="1674:1825" id="11" />
+      <Sentence char_offsets="1836:1923" id="12" />
+      <Sentence char_offsets="1934:2151" id="13" />
+      <Sentence char_offsets="2162:2247" id="14" />
+      <Sentence char_offsets="2249:2298" id="15" />
+      <Sentence char_offsets="2309:2421" id="16" />
+      <Sentence char_offsets="2432:2470" id="17" />
+      <Sentence char_offsets="2472:2697" id="18" />
+      <Sentence char_offsets="2708:2828" id="19" />
+      <Sentence char_offsets="2839:2989" id="20" />
+      <Sentence char_offsets="3000:3218" id="21" />
+      <Sentence char_offsets="3229:3324" id="22" />
+      <Sentence char_offsets="3335:3492" id="23" />
+      <Sentence char_offsets="3503:3651" id="24" />
+      <Sentence char_offsets="3662:3797" id="25" />
+      <Sentence char_offsets="3808:3904" id="26" />
+      <Sentence char_offsets="3915:4051" id="27" />
+      <Sentence char_offsets="4062:4183" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="012">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="52097" actor_name="Hassan al-Turabi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="0256">
+        <Participant actor_id="52097" actor_name="Hassan al-Turabi" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="52097" actor_name="Hassan al-Turabi" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="0841">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="52097" actor_name="Hassan al-Turabi" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="28" tense="neutral" type="100">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="52097" actor_name="Hassan al-Turabi" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="historical" type="173">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="52097" actor_name="Hassan al-Turabi" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="21" tense="neutral" type="180">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0786">
+    <Sentences>
+      <Sentence char_offsets="190:382" id="0" />
+      <Sentence char_offsets="393:619" id="1" />
+      <Sentence char_offsets="630:822" id="2" />
+      <Sentence char_offsets="833:924" id="3" />
+      <Sentence char_offsets="935:1161" id="4" />
+      <Sentence char_offsets="1172:1359" id="5" />
+      <Sentence char_offsets="1370:1573" id="6" />
+      <Sentence char_offsets="1584:1775" id="7" />
+      <Sentence char_offsets="1786:1872" id="8" />
+      <Sentence char_offsets="1874:1981" id="9" />
+      <Sentence char_offsets="1992:2123" id="10" />
+      <Sentence char_offsets="2134:2277" id="11" />
+      <Sentence char_offsets="2288:2493" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="34263" actor_name="Jose Maria Sison" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="100">
+        <Participant actor_id="34096" actor_name="Philippines" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="120">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34263" actor_name="Jose Maria Sison" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="1243">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="current" type="180">
+        <Participant actor_id="34168" actor_name="New People's Army" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

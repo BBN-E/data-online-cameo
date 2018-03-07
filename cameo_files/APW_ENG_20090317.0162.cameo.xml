@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0162">
+    <Sentences>
+      <Sentence char_offsets="186:383" id="0" />
+      <Sentence char_offsets="394:598" id="1" />
+      <Sentence char_offsets="609:674" id="2" />
+      <Sentence char_offsets="676:818" id="3" />
+      <Sentence char_offsets="820:947" id="4" />
+      <Sentence char_offsets="958:1087" id="5" />
+      <Sentence char_offsets="1098:1275" id="6" />
+      <Sentence char_offsets="1286:1411" id="7" />
+      <Sentence char_offsets="1413:1499" id="8" />
+      <Sentence char_offsets="1510:1671" id="9" />
+      <Sentence char_offsets="1682:1820" id="10" />
+      <Sentence char_offsets="1822:1915" id="11" />
+      <Sentence char_offsets="1926:2130" id="12" />
+      <Sentence char_offsets="2132:2218" id="13" />
+      <Sentence char_offsets="2229:2431" id="14" />
+      <Sentence char_offsets="2433:2568" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="ongoing" type="042">
+        <Participant actor_id="34723" actor_name="Kim Yong Il" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="042">
+        <Participant actor_id="34723" actor_name="Kim Yong Il" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="ongoing" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="34723" actor_name="Kim Yong Il" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="15" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="34723" actor_name="Kim Yong Il" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

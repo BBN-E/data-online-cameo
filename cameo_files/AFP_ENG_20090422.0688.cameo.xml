@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0688">
+    <Sentences>
+      <Sentence char_offsets="169:363" id="0" />
+      <Sentence char_offsets="374:545" id="1" />
+      <Sentence char_offsets="556:754" id="2" />
+      <Sentence char_offsets="765:932" id="3" />
+      <Sentence char_offsets="943:1015" id="4" />
+      <Sentence char_offsets="1026:1199" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

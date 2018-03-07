@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0701">
+    <Sentences>
+      <Sentence char_offsets="172:354" id="0" />
+      <Sentence char_offsets="365:601" id="1" />
+      <Sentence char_offsets="612:841" id="2" />
+      <Sentence char_offsets="852:931" id="3" />
+      <Sentence char_offsets="942:1167" id="4" />
+      <Sentence char_offsets="1178:1480" id="5" />
+      <Sentence char_offsets="1491:1708" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="0331">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

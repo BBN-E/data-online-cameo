@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0091">
+    <Sentences>
+      <Sentence char_offsets="189:355" id="0" />
+      <Sentence char_offsets="366:732" id="1" />
+      <Sentence char_offsets="743:957" id="2" />
+      <Sentence char_offsets="968:994" id="3" />
+      <Sentence char_offsets="996:1029" id="4" />
+      <Sentence char_offsets="1031:1203" id="5" />
+      <Sentence char_offsets="1214:1455" id="6" />
+      <Sentence char_offsets="1466:1588" id="7" />
+      <Sentence char_offsets="1599:1762" id="8" />
+      <Sentence char_offsets="1764:1910" id="9" />
+      <Sentence char_offsets="1921:2150" id="10" />
+      <Sentence char_offsets="2161:2375" id="11" />
+      <Sentence char_offsets="2386:2501" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="120">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

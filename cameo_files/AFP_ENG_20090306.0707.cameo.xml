@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0707">
+    <Sentences>
+      <Sentence char_offsets="184:378" id="0" />
+      <Sentence char_offsets="389:545" id="1" />
+      <Sentence char_offsets="556:696" id="2" />
+      <Sentence char_offsets="707:910" id="3" />
+      <Sentence char_offsets="921:1095" id="4" />
+      <Sentence char_offsets="1106:1223" id="5" />
+      <Sentence char_offsets="1234:1418" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="204202" actor_name="Radio Mindanao Network" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="40346" actor_name="Cerge Remonde" role="Source" />
+        <Participant actor_id="26495" actor_name="Gloria Macapagal-Arroyo" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="26495" actor_name="Gloria Macapagal-Arroyo" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="163" agent_name="Director General" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="204202" actor_name="Radio Mindanao Network" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

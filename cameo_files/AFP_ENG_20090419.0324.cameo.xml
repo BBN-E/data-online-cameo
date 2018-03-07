@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0324">
+    <Sentences>
+      <Sentence char_offsets="190:396" id="0" />
+      <Sentence char_offsets="407:560" id="1" />
+      <Sentence char_offsets="571:786" id="2" />
+      <Sentence char_offsets="797:833" id="3" />
+      <Sentence char_offsets="844:964" id="4" />
+      <Sentence char_offsets="975:1231" id="5" />
+      <Sentence char_offsets="1242:1353" id="6" />
+      <Sentence char_offsets="1364:1519" id="7" />
+      <Sentence char_offsets="1530:1772" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="173">
+        <Participant actor_id="232922" actor_name="Basque Country" role="Source" />
+        <Participant actor_id="8321" actor_name="ETA" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

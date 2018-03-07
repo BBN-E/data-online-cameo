@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0268">
+    <Sentences>
+      <Sentence char_offsets="178:366" id="0" />
+      <Sentence char_offsets="377:577" id="1" />
+      <Sentence char_offsets="588:748" id="2" />
+      <Sentence char_offsets="759:998" id="3" />
+      <Sentence char_offsets="1009:1172" id="4" />
+      <Sentence char_offsets="1183:1275" id="5" />
+      <Sentence char_offsets="1286:1445" id="6" />
+      <Sentence char_offsets="1456:1621" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="21217" actor_name="Boiko Borisov" role="Source" />
+        <Participant actor_id="36626" actor_name="Sergey Stanishev" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="160">
+        <Participant actor_id="21217" actor_name="Boiko Borisov" role="Source" />
+        <Participant actor_id="32218" actor_name="Bulgaria" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

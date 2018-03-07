@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0145">
+    <Sentences>
+      <Sentence char_offsets="176:356" id="0" />
+      <Sentence char_offsets="367:574" id="1" />
+      <Sentence char_offsets="585:702" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="47658" actor_name="Heinz Fischer" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="35210" actor_name="Werner Faymann" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="47658" actor_name="Heinz Fischer" role="Source" />
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="47658" actor_name="Heinz Fischer" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="35210" actor_name="Werner Faymann" role="Source" />
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="35210" actor_name="Werner Faymann" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="28901" actor_name="Austria" role="Source" />
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

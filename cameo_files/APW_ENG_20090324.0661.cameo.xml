@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0661">
+    <Sentences>
+      <Sentence char_offsets="176:412" id="0" />
+      <Sentence char_offsets="423:621" id="1" />
+      <Sentence char_offsets="632:731" id="2" />
+      <Sentence char_offsets="733:899" id="3" />
+      <Sentence char_offsets="910:1034" id="4" />
+      <Sentence char_offsets="1036:1220" id="5" />
+      <Sentence char_offsets="1231:1455" id="6" />
+      <Sentence char_offsets="1466:1572" id="7" />
+      <Sentence char_offsets="1583:1608" id="8" />
+      <Sentence char_offsets="1610:1674" id="9" />
+      <Sentence char_offsets="1676:1703" id="10" />
+      <Sentence char_offsets="1714:1770" id="11" />
+      <Sentence char_offsets="1781:1980" id="12" />
+      <Sentence char_offsets="1991:2142" id="13" />
+      <Sentence char_offsets="2144:2236" id="14" />
+      <Sentence char_offsets="2247:2485" id="15" />
+      <Sentence char_offsets="2496:2613" id="16" />
+      <Sentence char_offsets="2624:2877" id="17" />
+      <Sentence char_offsets="2888:3032" id="18" />
+      <Sentence char_offsets="3043:3103" id="19" />
+      <Sentence char_offsets="3105:3339" id="20" />
+      <Sentence char_offsets="3341:3451" id="21" />
+      <Sentence char_offsets="3462:3579" id="22" />
+      <Sentence char_offsets="3590:3663" id="23" />
+      <Sentence char_offsets="3674:3782" id="24" />
+      <Sentence char_offsets="3784:3800" id="25" />
+      <Sentence char_offsets="3802:3835" id="26" />
+      <Sentence char_offsets="3846:3982" id="27" />
+      <Sentence char_offsets="3993:4069" id="28" />
+      <Sentence char_offsets="4071:4231" id="29" />
+      <Sentence char_offsets="4233:4336" id="30" />
+      <Sentence char_offsets="4338:4511" id="31" />
+      <Sentence char_offsets="4522:4527" id="32" />
+      <Sentence char_offsets="4538:4621" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="115">
+        <Participant actor_id="30701" actor_name="France" agent_id="445" agent_name="Veterans" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="2" agent_name="Defense Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

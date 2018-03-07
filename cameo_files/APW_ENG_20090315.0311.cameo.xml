@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0311">
+    <Sentences>
+      <Sentence char_offsets="202:407" id="0" />
+      <Sentence char_offsets="418:587" id="1" />
+      <Sentence char_offsets="589:649" id="2" />
+      <Sentence char_offsets="651:767" id="3" />
+      <Sentence char_offsets="778:914" id="4" />
+      <Sentence char_offsets="925:1093" id="5" />
+      <Sentence char_offsets="1104:1176" id="6" />
+      <Sentence char_offsets="1187:1439" id="7" />
+      <Sentence char_offsets="1450:1650" id="8" />
+      <Sentence char_offsets="1652:1673" id="9" />
+      <Sentence char_offsets="1684:1804" id="10" />
+      <Sentence char_offsets="1806:2007" id="11" />
+      <Sentence char_offsets="2018:2111" id="12" />
+      <Sentence char_offsets="2122:2288" id="13" />
+      <Sentence char_offsets="2299:2399" id="14" />
+      <Sentence char_offsets="2401:2481" id="15" />
+      <Sentence char_offsets="2483:2575" id="16" />
+      <Sentence char_offsets="2586:2719" id="17" />
+      <Sentence char_offsets="2730:2916" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="641" agent_name="Ruling Party" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="0251">
+        <Participant actor_id="1627" actor_name="Grand National Party" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="081">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

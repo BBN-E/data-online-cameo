@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0314">
+    <Sentences>
+      <Sentence char_offsets="183:309" id="0" />
+      <Sentence char_offsets="320:409" id="1" />
+      <Sentence char_offsets="411:575" id="2" />
+      <Sentence char_offsets="586:771" id="3" />
+      <Sentence char_offsets="782:890" id="4" />
+      <Sentence char_offsets="892:1013" id="5" />
+      <Sentence char_offsets="1024:1236" id="6" />
+      <Sentence char_offsets="1247:1444" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

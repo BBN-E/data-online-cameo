@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0178">
+    <Sentences>
+      <Sentence char_offsets="174:346" id="0" />
+      <Sentence char_offsets="357:505" id="1" />
+      <Sentence char_offsets="516:683" id="2" />
+      <Sentence char_offsets="694:892" id="3" />
+      <Sentence char_offsets="903:1045" id="4" />
+      <Sentence char_offsets="1056:1118" id="5" />
+      <Sentence char_offsets="1120:1190" id="6" />
+      <Sentence char_offsets="1201:1341" id="7" />
+      <Sentence char_offsets="1352:1527" id="8" />
+      <Sentence char_offsets="1538:1707" id="9" />
+      <Sentence char_offsets="1718:1889" id="10" />
+      <Sentence char_offsets="1900:2026" id="11" />
+      <Sentence char_offsets="2037:2209" id="12" />
+      <Sentence char_offsets="2220:2360" id="13" />
+      <Sentence char_offsets="2371:2608" id="14" />
+      <Sentence char_offsets="2619:2825" id="15" />
+      <Sentence char_offsets="2836:2983" id="16" />
+      <Sentence char_offsets="2985:3056" id="17" />
+      <Sentence char_offsets="3067:3160" id="18" />
+      <Sentence char_offsets="3162:3320" id="19" />
+      <Sentence char_offsets="3331:3454" id="20" />
+      <Sentence char_offsets="3465:3627" id="21" />
+      <Sentence char_offsets="3629:3685" id="22" />
+      <Sentence char_offsets="3696:3807" id="23" />
+      <Sentence char_offsets="3818:3975" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="2736" actor_name="Susan Tsvangirai" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="690" agent_name="Attacker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

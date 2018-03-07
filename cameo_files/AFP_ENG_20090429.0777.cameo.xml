@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0777">
+    <Sentences>
+      <Sentence char_offsets="179:346" id="0" />
+      <Sentence char_offsets="357:557" id="1" />
+      <Sentence char_offsets="568:789" id="2" />
+      <Sentence char_offsets="800:979" id="3" />
+      <Sentence char_offsets="990:1176" id="4" />
+      <Sentence char_offsets="1187:1365" id="5" />
+      <Sentence char_offsets="1376:1550" id="6" />
+      <Sentence char_offsets="1561:1791" id="7" />
+      <Sentence char_offsets="1802:2001" id="8" />
+      <Sentence char_offsets="2012:2210" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="29363" actor_name="Asia-Pacific Economic Cooperation" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="29363" actor_name="Asia-Pacific Economic Cooperation" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="29363" actor_name="Asia-Pacific Economic Cooperation" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

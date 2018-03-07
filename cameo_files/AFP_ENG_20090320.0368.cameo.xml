@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0368">
+    <Sentences>
+      <Sentence char_offsets="171:365" id="0" />
+      <Sentence char_offsets="376:571" id="1" />
+      <Sentence char_offsets="582:700" id="2" />
+      <Sentence char_offsets="711:921" id="3" />
+      <Sentence char_offsets="932:1061" id="4" />
+      <Sentence char_offsets="1072:1222" id="5" />
+      <Sentence char_offsets="1233:1266" id="6" />
+      <Sentence char_offsets="1277:1414" id="7" />
+      <Sentence char_offsets="1416:1449" id="8" />
+      <Sentence char_offsets="1451:1491" id="9" />
+      <Sentence char_offsets="1502:1642" id="10" />
+      <Sentence char_offsets="1653:1776" id="11" />
+      <Sentence char_offsets="1787:1980" id="12" />
+      <Sentence char_offsets="1991:2172" id="13" />
+      <Sentence char_offsets="2183:2295" id="14" />
+      <Sentence char_offsets="2306:2357" id="15" />
+      <Sentence char_offsets="2359:2407" id="16" />
+      <Sentence char_offsets="2409:2464" id="17" />
+      <Sentence char_offsets="2475:2508" id="18" />
+      <Sentence char_offsets="2510:2557" id="19" />
+      <Sentence char_offsets="2559:2637" id="20" />
+      <Sentence char_offsets="2648:2845" id="21" />
+      <Sentence char_offsets="2856:2918" id="22" />
+      <Sentence char_offsets="2929:3050" id="23" />
+      <Sentence char_offsets="3061:3265" id="24" />
+      <Sentence char_offsets="3276:3338" id="25" />
+      <Sentence char_offsets="3349:3451" id="26" />
+      <Sentence char_offsets="3462:3522" id="27" />
+      <Sentence char_offsets="3524:3598" id="28" />
+      <Sentence char_offsets="3609:3797" id="29" />
+      <Sentence char_offsets="3808:3932" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="190">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

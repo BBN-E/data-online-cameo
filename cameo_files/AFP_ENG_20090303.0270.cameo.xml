@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0270">
+    <Sentences>
+      <Sentence char_offsets="195:392" id="0" />
+      <Sentence char_offsets="403:605" id="1" />
+      <Sentence char_offsets="616:843" id="2" />
+      <Sentence char_offsets="854:1067" id="3" />
+      <Sentence char_offsets="1078:1295" id="4" />
+      <Sentence char_offsets="1306:1520" id="5" />
+      <Sentence char_offsets="1531:1748" id="6" />
+      <Sentence char_offsets="1759:1977" id="7" />
+      <Sentence char_offsets="1988:2214" id="8" />
+      <Sentence char_offsets="2225:2432" id="9" />
+      <Sentence char_offsets="2443:2719" id="10" />
+      <Sentence char_offsets="2730:2945" id="11" />
+      <Sentence char_offsets="2956:3152" id="12" />
+      <Sentence char_offsets="3163:3348" id="13" />
+      <Sentence char_offsets="3359:3483" id="14" />
+      <Sentence char_offsets="3494:3587" id="15" />
+      <Sentence char_offsets="3598:3897" id="16" />
+      <Sentence char_offsets="3908:4049" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0815">
+    <Sentences>
+      <Sentence char_offsets="192:412" id="0" />
+      <Sentence char_offsets="423:569" id="1" />
+      <Sentence char_offsets="580:803" id="2" />
+      <Sentence char_offsets="814:973" id="3" />
+      <Sentence char_offsets="984:1202" id="4" />
+      <Sentence char_offsets="1204:1254" id="5" />
+      <Sentence char_offsets="1265:1449" id="6" />
+      <Sentence char_offsets="1460:1564" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="21316" actor_name="Joseph Kabila" role="Source" />
+        <Participant actor_id="39364" actor_name="Uganda" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="022">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="21316" actor_name="Joseph Kabila" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="0874">
+        <Participant actor_id="31105" actor_name="International" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="historical" type="192">
+        <Participant actor_id="39364" actor_name="Uganda" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="6" tense="historical" type="192">
+        <Participant actor_id="35390" actor_name="Rwanda" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="21316" actor_name="Joseph Kabila" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

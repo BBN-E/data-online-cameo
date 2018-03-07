@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.1078">
+    <Sentences>
+      <Sentence char_offsets="187:438" id="0" />
+      <Sentence char_offsets="449:642" id="1" />
+      <Sentence char_offsets="653:696" id="2" />
+      <Sentence char_offsets="698:734" id="3" />
+      <Sentence char_offsets="736:795" id="4" />
+      <Sentence char_offsets="806:1078" id="5" />
+      <Sentence char_offsets="1089:1231" id="6" />
+      <Sentence char_offsets="1233:1362" id="7" />
+      <Sentence char_offsets="1373:1425" id="8" />
+      <Sentence char_offsets="1427:1511" id="9" />
+      <Sentence char_offsets="1522:1743" id="10" />
+      <Sentence char_offsets="1745:1813" id="11" />
+      <Sentence char_offsets="1824:2015" id="12" />
+      <Sentence char_offsets="2026:2169" id="13" />
+      <Sentence char_offsets="2171:2257" id="14" />
+      <Sentence char_offsets="2268:2497" id="15" />
+      <Sentence char_offsets="2508:2678" id="16" />
+      <Sentence char_offsets="2680:2796" id="17" />
+      <Sentence char_offsets="2807:2926" id="18" />
+      <Sentence char_offsets="2937:3043" id="19" />
+      <Sentence char_offsets="3045:3167" id="20" />
+      <Sentence char_offsets="3178:3332" id="21" />
+      <Sentence char_offsets="3343:3449" id="22" />
+      <Sentence char_offsets="3451:3536" id="23" />
+      <Sentence char_offsets="3547:3744" id="24" />
+      <Sentence char_offsets="3755:3828" id="25" />
+      <Sentence char_offsets="3839:3984" id="26" />
+      <Sentence char_offsets="3995:4073" id="27" />
+      <Sentence char_offsets="4084:4140" id="28" />
+      <Sentence char_offsets="4142:4188" id="29" />
+      <Sentence char_offsets="4190:4240" id="30" />
+      <Sentence char_offsets="4242:4296" id="31" />
+      <Sentence char_offsets="4307:4422" id="32" />
+      <Sentence char_offsets="4424:4548" id="33" />
+      <Sentence char_offsets="4559:4731" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="34" tense="neutral" type="010">
+        <Participant actor_id="19466" actor_name="Anupong Paochinda" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="020">
+        <Participant actor_id="492" actor_name="People's Alliance for Democracy" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="19399" actor_name="Sondhi Limthongkul" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

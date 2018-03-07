@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0585">
+    <Sentences>
+      <Sentence char_offsets="193:367" id="0" />
+      <Sentence char_offsets="378:549" id="1" />
+      <Sentence char_offsets="560:754" id="2" />
+      <Sentence char_offsets="765:884" id="3" />
+      <Sentence char_offsets="895:944" id="4" />
+      <Sentence char_offsets="946:1013" id="5" />
+      <Sentence char_offsets="1024:1122" id="6" />
+      <Sentence char_offsets="1133:1184" id="7" />
+      <Sentence char_offsets="1186:1271" id="8" />
+      <Sentence char_offsets="1273:1378" id="9" />
+      <Sentence char_offsets="1389:1642" id="10" />
+      <Sentence char_offsets="1653:1761" id="11" />
+      <Sentence char_offsets="1772:1912" id="12" />
+      <Sentence char_offsets="1914:1966" id="13" />
+      <Sentence char_offsets="1977:2221" id="14" />
+      <Sentence char_offsets="2232:2307" id="15" />
+      <Sentence char_offsets="2318:2446" id="16" />
+      <Sentence char_offsets="2457:2554" id="17" />
+      <Sentence char_offsets="2565:2615" id="18" />
+      <Sentence char_offsets="2617:2733" id="19" />
+      <Sentence char_offsets="2735:2860" id="20" />
+      <Sentence char_offsets="2871:2997" id="21" />
+      <Sentence char_offsets="3008:3187" id="22" />
+      <Sentence char_offsets="3189:3356" id="23" />
+      <Sentence char_offsets="3367:3462" id="24" />
+      <Sentence char_offsets="3464:3561" id="25" />
+      <Sentence char_offsets="3572:3610" id="26" />
+      <Sentence char_offsets="3621:3646" id="27" />
+      <Sentence char_offsets="3648:3690" id="28" />
+      <Sentence char_offsets="3692:3733" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="013">
+        <Participant actor_id="236769" actor_name="Scott Brown" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="100">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="23880" actor_name="Scotland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

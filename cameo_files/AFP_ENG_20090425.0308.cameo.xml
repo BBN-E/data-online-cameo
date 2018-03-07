@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090425.0308">
+    <Sentences>
+      <Sentence char_offsets="159:194" id="0" />
+      <Sentence char_offsets="197:213" id="1" />
+      <Sentence char_offsets="216:400" id="2" />
+      <Sentence char_offsets="403:426" id="3" />
+      <Sentence char_offsets="429:594" id="4" />
+      <Sentence char_offsets="597:607" id="5" />
+      <Sentence char_offsets="610:770" id="6" />
+      <Sentence char_offsets="773:793" id="7" />
+      <Sentence char_offsets="796:981" id="8" />
+      <Sentence char_offsets="984:999" id="9" />
+      <Sentence char_offsets="1002:1185" id="10" />
+      <Sentence char_offsets="1188:1209" id="11" />
+      <Sentence char_offsets="1212:1366" id="12" />
+      <Sentence char_offsets="1369:1394" id="13" />
+      <Sentence char_offsets="1397:1559" id="14" />
+      <Sentence char_offsets="1562:1581" id="15" />
+      <Sentence char_offsets="1584:1760" id="16" />
+      <Sentence char_offsets="1763:1791" id="17" />
+      <Sentence char_offsets="1794:1955" id="18" />
+      <Sentence char_offsets="1958:1983" id="19" />
+      <Sentence char_offsets="1986:2167" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="112">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="112">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="190">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="180">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

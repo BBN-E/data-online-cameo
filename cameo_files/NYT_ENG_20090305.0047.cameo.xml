@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090305.0047">
+    <Sentences>
+      <Sentence char_offsets="165:429" id="0" />
+      <Sentence char_offsets="440:632" id="1" />
+      <Sentence char_offsets="643:839" id="2" />
+      <Sentence char_offsets="850:989" id="3" />
+      <Sentence char_offsets="991:1181" id="4" />
+      <Sentence char_offsets="1192:1332" id="5" />
+      <Sentence char_offsets="1343:1467" id="6" />
+      <Sentence char_offsets="1469:1782" id="7" />
+      <Sentence char_offsets="1793:2023" id="8" />
+      <Sentence char_offsets="2034:2303" id="9" />
+      <Sentence char_offsets="2305:2367" id="10" />
+      <Sentence char_offsets="2369:2425" id="11" />
+      <Sentence char_offsets="2436:2659" id="12" />
+      <Sentence char_offsets="2670:2761" id="13" />
+      <Sentence char_offsets="2763:2911" id="14" />
+      <Sentence char_offsets="2922:3087" id="15" />
+      <Sentence char_offsets="3089:3186" id="16" />
+      <Sentence char_offsets="3197:3294" id="17" />
+      <Sentence char_offsets="3296:3407" id="18" />
+      <Sentence char_offsets="3418:3677" id="19" />
+      <Sentence char_offsets="3688:3759" id="20" />
+      <Sentence char_offsets="3770:3879" id="21" />
+      <Sentence char_offsets="3881:4003" id="22" />
+      <Sentence char_offsets="4014:4300" id="23" />
+      <Sentence char_offsets="4311:4435" id="24" />
+      <Sentence char_offsets="4437:4463" id="25" />
+      <Sentence char_offsets="4474:4797" id="26" />
+      <Sentence char_offsets="4808:4912" id="27" />
+      <Sentence char_offsets="4923:5034" id="28" />
+      <Sentence char_offsets="5036:5108" id="29" />
+      <Sentence char_offsets="5110:5165" id="30" />
+      <Sentence char_offsets="5167:5218" id="31" />
+      <Sentence char_offsets="5229:5387" id="32" />
+      <Sentence char_offsets="5398:5552" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="127">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0145">
+    <Sentences>
+      <Sentence char_offsets="184:350" id="0" />
+      <Sentence char_offsets="361:628" id="1" />
+      <Sentence char_offsets="639:931" id="2" />
+      <Sentence char_offsets="942:1099" id="3" />
+      <Sentence char_offsets="1110:1254" id="4" />
+      <Sentence char_offsets="1265:1427" id="5" />
+      <Sentence char_offsets="1438:1557" id="6" />
+      <Sentence char_offsets="1559:1636" id="7" />
+      <Sentence char_offsets="1647:1904" id="8" />
+      <Sentence char_offsets="1915:2035" id="9" />
+      <Sentence char_offsets="2046:2164" id="10" />
+      <Sentence char_offsets="2175:2459" id="11" />
+      <Sentence char_offsets="2470:2610" id="12" />
+      <Sentence char_offsets="2621:2757" id="13" />
+      <Sentence char_offsets="2768:2920" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="1121">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="historical" type="173">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="current" type="173">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

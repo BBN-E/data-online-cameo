@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0421">
+    <Sentences>
+      <Sentence char_offsets="185:345" id="0" />
+      <Sentence char_offsets="356:526" id="1" />
+      <Sentence char_offsets="537:708" id="2" />
+      <Sentence char_offsets="719:815" id="3" />
+      <Sentence char_offsets="826:1001" id="4" />
+      <Sentence char_offsets="1012:1143" id="5" />
+      <Sentence char_offsets="1145:1193" id="6" />
+      <Sentence char_offsets="1204:1370" id="7" />
+      <Sentence char_offsets="1381:1436" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34783" actor_name="Kim Yong Nam" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="125">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34736" actor_name="Kim Jong-Il" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="34783" actor_name="Kim Yong Nam" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

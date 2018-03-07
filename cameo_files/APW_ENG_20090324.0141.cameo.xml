@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0141">
+    <Sentences>
+      <Sentence char_offsets="186:392" id="0" />
+      <Sentence char_offsets="403:579" id="1" />
+      <Sentence char_offsets="590:868" id="2" />
+      <Sentence char_offsets="879:1150" id="3" />
+      <Sentence char_offsets="1161:1361" id="4" />
+      <Sentence char_offsets="1363:1413" id="5" />
+      <Sentence char_offsets="1424:1652" id="6" />
+      <Sentence char_offsets="1663:1973" id="7" />
+      <Sentence char_offsets="1984:2148" id="8" />
+      <Sentence char_offsets="2159:2340" id="9" />
+      <Sentence char_offsets="2342:2467" id="10" />
+      <Sentence char_offsets="2478:2616" id="11" />
+      <Sentence char_offsets="2627:2744" id="12" />
+      <Sentence char_offsets="2746:2855" id="13" />
+      <Sentence char_offsets="2866:3145" id="14" />
+      <Sentence char_offsets="3156:3273" id="15" />
+      <Sentence char_offsets="3284:3440" id="16" />
+      <Sentence char_offsets="3451:3616" id="17" />
+      <Sentence char_offsets="3627:3794" id="18" />
+      <Sentence char_offsets="3805:4017" id="19" />
+      <Sentence char_offsets="4028:4092" id="20" />
+      <Sentence char_offsets="4094:4157" id="21" />
+      <Sentence char_offsets="4168:4215" id="22" />
+      <Sentence char_offsets="4217:4300" id="23" />
+      <Sentence char_offsets="4302:4414" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="8570" actor_name="Aung San" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="current" type="010">
+        <Participant actor_id="8571" actor_name="National League for Democracy" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

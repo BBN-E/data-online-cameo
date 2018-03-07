@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0366">
+    <Sentences>
+      <Sentence char_offsets="185:297" id="0" />
+      <Sentence char_offsets="308:392" id="1" />
+      <Sentence char_offsets="403:533" id="2" />
+      <Sentence char_offsets="535:556" id="3" />
+      <Sentence char_offsets="567:654" id="4" />
+      <Sentence char_offsets="656:739" id="5" />
+      <Sentence char_offsets="750:850" id="6" />
+      <Sentence char_offsets="852:914" id="7" />
+      <Sentence char_offsets="925:952" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="061">
+        <Participant actor_id="41151" actor_name="Ukraine" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

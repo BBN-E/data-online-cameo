@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090429.0101">
+    <Sentences>
+      <Sentence char_offsets="166:384" id="0" />
+      <Sentence char_offsets="395:705" id="1" />
+      <Sentence char_offsets="716:977" id="2" />
+      <Sentence char_offsets="979:979" id="3" />
+      <Sentence char_offsets="990:1055" id="4" />
+      <Sentence char_offsets="1057:1133" id="5" />
+      <Sentence char_offsets="1135:1276" id="6" />
+      <Sentence char_offsets="1287:1562" id="7" />
+      <Sentence char_offsets="1573:1680" id="8" />
+      <Sentence char_offsets="1691:1802" id="9" />
+      <Sentence char_offsets="1804:1931" id="10" />
+      <Sentence char_offsets="1933:2054" id="11" />
+      <Sentence char_offsets="2065:2163" id="12" />
+      <Sentence char_offsets="2164:2172" id="13" />
+      <Sentence char_offsets="2183:2373" id="14" />
+      <Sentence char_offsets="2384:2642" id="15" />
+      <Sentence char_offsets="2653:2725" id="16" />
+      <Sentence char_offsets="2727:2768" id="17" />
+      <Sentence char_offsets="2770:2896" id="18" />
+      <Sentence char_offsets="2907:3056" id="19" />
+      <Sentence char_offsets="3058:3145" id="20" />
+      <Sentence char_offsets="3156:3280" id="21" />
+      <Sentence char_offsets="3282:3355" id="22" />
+      <Sentence char_offsets="3366:3548" id="23" />
+      <Sentence char_offsets="3559:3845" id="24" />
+      <Sentence char_offsets="3847:4009" id="25" />
+      <Sentence char_offsets="4020:4153" id="26" />
+      <Sentence char_offsets="4164:4368" id="27" />
+      <Sentence char_offsets="4370:4415" id="28" />
+      <Sentence char_offsets="4417:4457" id="29" />
+      <Sentence char_offsets="4468:4650" id="30" />
+      <Sentence char_offsets="4661:4748" id="31" />
+      <Sentence char_offsets="4750:4937" id="32" />
+      <Sentence char_offsets="4948:5024" id="33" />
+      <Sentence char_offsets="5026:5333" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="40062" actor_name="Southeast Asia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="40062" actor_name="Southeast Asia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

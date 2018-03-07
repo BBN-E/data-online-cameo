@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0606">
+    <Sentences>
+      <Sentence char_offsets="188:377" id="0" />
+      <Sentence char_offsets="388:586" id="1" />
+      <Sentence char_offsets="597:694" id="2" />
+      <Sentence char_offsets="705:831" id="3" />
+      <Sentence char_offsets="842:1061" id="4" />
+      <Sentence char_offsets="1072:1268" id="5" />
+      <Sentence char_offsets="1279:1393" id="6" />
+      <Sentence char_offsets="1404:1556" id="7" />
+      <Sentence char_offsets="1567:1634" id="8" />
+      <Sentence char_offsets="1645:1812" id="9" />
+      <Sentence char_offsets="1823:1986" id="10" />
+      <Sentence char_offsets="1997:2170" id="11" />
+      <Sentence char_offsets="2181:2287" id="12" />
+      <Sentence char_offsets="2298:2440" id="13" />
+      <Sentence char_offsets="2451:2613" id="14" />
+      <Sentence char_offsets="2624:2742" id="15" />
+      <Sentence char_offsets="2753:2882" id="16" />
+      <Sentence char_offsets="2893:3019" id="17" />
+      <Sentence char_offsets="3030:3147" id="18" />
+      <Sentence char_offsets="3158:3241" id="19" />
+      <Sentence char_offsets="3243:3291" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

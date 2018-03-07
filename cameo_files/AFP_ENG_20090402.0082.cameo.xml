@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0082">
+    <Sentences>
+      <Sentence char_offsets="175:376" id="0" />
+      <Sentence char_offsets="387:711" id="1" />
+      <Sentence char_offsets="722:1058" id="2" />
+      <Sentence char_offsets="1069:1343" id="3" />
+      <Sentence char_offsets="1354:1530" id="4" />
+      <Sentence char_offsets="1541:1701" id="5" />
+      <Sentence char_offsets="1712:1896" id="6" />
+      <Sentence char_offsets="1907:1983" id="7" />
+      <Sentence char_offsets="1994:2133" id="8" />
+      <Sentence char_offsets="2144:2353" id="9" />
+      <Sentence char_offsets="2364:2497" id="10" />
+      <Sentence char_offsets="2508:2710" id="11" />
+      <Sentence char_offsets="2721:2943" id="12" />
+      <Sentence char_offsets="2954:3100" id="13" />
+      <Sentence char_offsets="3111:3339" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Source" />
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="current" type="043">
+        <Participant actor_id="36605" actor_name="Mexico" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

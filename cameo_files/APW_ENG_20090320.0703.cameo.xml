@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.0703">
+    <Sentences>
+      <Sentence char_offsets="187:375" id="0" />
+      <Sentence char_offsets="386:560" id="1" />
+      <Sentence char_offsets="571:711" id="2" />
+      <Sentence char_offsets="713:798" id="3" />
+      <Sentence char_offsets="809:855" id="4" />
+      <Sentence char_offsets="866:985" id="5" />
+      <Sentence char_offsets="987:1159" id="6" />
+      <Sentence char_offsets="1170:1335" id="7" />
+      <Sentence char_offsets="1337:1461" id="8" />
+      <Sentence char_offsets="1472:1601" id="9" />
+      <Sentence char_offsets="1612:1700" id="10" />
+      <Sentence char_offsets="1702:1779" id="11" />
+      <Sentence char_offsets="1781:1841" id="12" />
+      <Sentence char_offsets="1852:2015" id="13" />
+      <Sentence char_offsets="2017:2075" id="14" />
+      <Sentence char_offsets="2086:2201" id="15" />
+      <Sentence char_offsets="2203:2351" id="16" />
+      <Sentence char_offsets="2362:2443" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="112">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="173">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

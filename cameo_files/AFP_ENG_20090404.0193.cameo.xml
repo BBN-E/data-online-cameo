@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090404.0193">
+    <Sentences>
+      <Sentence char_offsets="183:364" id="0" />
+      <Sentence char_offsets="375:585" id="1" />
+      <Sentence char_offsets="596:854" id="2" />
+      <Sentence char_offsets="865:1058" id="3" />
+      <Sentence char_offsets="1069:1308" id="4" />
+      <Sentence char_offsets="1319:1547" id="5" />
+      <Sentence char_offsets="1558:1639" id="6" />
+      <Sentence char_offsets="1641:1687" id="7" />
+      <Sentence char_offsets="1698:1861" id="8" />
+      <Sentence char_offsets="1872:2097" id="9" />
+      <Sentence char_offsets="2108:2314" id="10" />
+      <Sentence char_offsets="2325:2530" id="11" />
+      <Sentence char_offsets="2541:2756" id="12" />
+      <Sentence char_offsets="2767:2990" id="13" />
+      <Sentence char_offsets="3001:3183" id="14" />
+      <Sentence char_offsets="3194:3399" id="15" />
+      <Sentence char_offsets="3410:3593" id="16" />
+      <Sentence char_offsets="3604:3701" id="17" />
+      <Sentence char_offsets="3703:3769" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

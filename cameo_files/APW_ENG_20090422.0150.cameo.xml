@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0150">
+    <Sentences>
+      <Sentence char_offsets="192:240" id="0" />
+      <Sentence char_offsets="242:286" id="1" />
+      <Sentence char_offsets="297:447" id="2" />
+      <Sentence char_offsets="449:591" id="3" />
+      <Sentence char_offsets="602:841" id="4" />
+      <Sentence char_offsets="843:907" id="5" />
+      <Sentence char_offsets="918:1138" id="6" />
+      <Sentence char_offsets="1149:1480" id="7" />
+      <Sentence char_offsets="1491:1733" id="8" />
+      <Sentence char_offsets="1744:2017" id="9" />
+      <Sentence char_offsets="2028:2187" id="10" />
+      <Sentence char_offsets="2198:2326" id="11" />
+      <Sentence char_offsets="2328:2504" id="12" />
+      <Sentence char_offsets="2515:2570" id="13" />
+      <Sentence char_offsets="2572:2744" id="14" />
+      <Sentence char_offsets="2746:2835" id="15" />
+      <Sentence char_offsets="2837:2977" id="16" />
+      <Sentence char_offsets="2988:3069" id="17" />
+      <Sentence char_offsets="3071:3313" id="18" />
+      <Sentence char_offsets="3324:3511" id="19" />
+      <Sentence char_offsets="3522:3848" id="20" />
+      <Sentence char_offsets="3859:3974" id="21" />
+      <Sentence char_offsets="3976:4165" id="22" />
+      <Sentence char_offsets="4176:4357" id="23" />
+      <Sentence char_offsets="4368:4450" id="24" />
+      <Sentence char_offsets="4452:4572" id="25" />
+      <Sentence char_offsets="4574:4692" id="26" />
+      <Sentence char_offsets="4703:4858" id="27" />
+      <Sentence char_offsets="4860:5005" id="28" />
+      <Sentence char_offsets="5016:5021" id="29" />
+      <Sentence char_offsets="5032:5059" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="036">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="neutral" type="173">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

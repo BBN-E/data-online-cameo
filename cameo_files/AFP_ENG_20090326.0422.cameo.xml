@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0422">
+    <Sentences>
+      <Sentence char_offsets="174:340" id="0" />
+      <Sentence char_offsets="351:569" id="1" />
+      <Sentence char_offsets="580:730" id="2" />
+      <Sentence char_offsets="741:886" id="3" />
+      <Sentence char_offsets="897:978" id="4" />
+      <Sentence char_offsets="989:1240" id="5" />
+      <Sentence char_offsets="1251:1353" id="6" />
+      <Sentence char_offsets="1364:1476" id="7" />
+      <Sentence char_offsets="1487:1686" id="8" />
+      <Sentence char_offsets="1697:1785" id="9" />
+      <Sentence char_offsets="1796:1882" id="10" />
+      <Sentence char_offsets="1893:2085" id="11" />
+      <Sentence char_offsets="2096:2261" id="12" />
+      <Sentence char_offsets="2272:2334" id="13" />
+      <Sentence char_offsets="2345:2493" id="14" />
+      <Sentence char_offsets="2504:2718" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="030">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="030">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

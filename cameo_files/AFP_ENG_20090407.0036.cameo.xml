@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0036">
+    <Sentences>
+      <Sentence char_offsets="186:336" id="0" />
+      <Sentence char_offsets="347:519" id="1" />
+      <Sentence char_offsets="530:672" id="2" />
+      <Sentence char_offsets="683:856" id="3" />
+      <Sentence char_offsets="867:999" id="4" />
+      <Sentence char_offsets="1010:1114" id="5" />
+      <Sentence char_offsets="1125:1322" id="6" />
+      <Sentence char_offsets="1333:1501" id="7" />
+      <Sentence char_offsets="1512:1585" id="8" />
+      <Sentence char_offsets="1587:1690" id="9" />
+      <Sentence char_offsets="1701:1903" id="10" />
+      <Sentence char_offsets="1914:2015" id="11" />
+      <Sentence char_offsets="2026:2195" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="175">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0334">
+    <Sentences>
+      <Sentence char_offsets="191:361" id="0" />
+      <Sentence char_offsets="372:500" id="1" />
+      <Sentence char_offsets="511:632" id="2" />
+      <Sentence char_offsets="634:715" id="3" />
+      <Sentence char_offsets="726:880" id="4" />
+      <Sentence char_offsets="891:1022" id="5" />
+      <Sentence char_offsets="1033:1094" id="6" />
+      <Sentence char_offsets="1096:1210" id="7" />
+      <Sentence char_offsets="1212:1267" id="8" />
+      <Sentence char_offsets="1278:1421" id="9" />
+      <Sentence char_offsets="1432:1574" id="10" />
+      <Sentence char_offsets="1576:1644" id="11" />
+      <Sentence char_offsets="1655:1804" id="12" />
+      <Sentence char_offsets="1815:1989" id="13" />
+      <Sentence char_offsets="2000:2143" id="14" />
+      <Sentence char_offsets="2154:2251" id="15" />
+      <Sentence char_offsets="2262:2459" id="16" />
+      <Sentence char_offsets="2461:2485" id="17" />
+      <Sentence char_offsets="2496:2665" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="032">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="032">
+        <Participant actor_id="53107" actor_name="Susilo Bambang Yudhoyono" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="current" type="036">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="542" agent_name="Immigrants" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="current" type="173">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="542" agent_name="Immigrants" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0340">
+    <Sentences>
+      <Sentence char_offsets="197:378" id="0" />
+      <Sentence char_offsets="389:622" id="1" />
+      <Sentence char_offsets="633:805" id="2" />
+      <Sentence char_offsets="816:951" id="3" />
+      <Sentence char_offsets="962:1137" id="4" />
+      <Sentence char_offsets="1148:1233" id="5" />
+      <Sentence char_offsets="1235:1349" id="6" />
+      <Sentence char_offsets="1360:1530" id="7" />
+      <Sentence char_offsets="1541:1624" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="180">
+        <Participant actor_id="7997" actor_name="Hezbollah" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="193">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="7997" actor_name="Hezbollah" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

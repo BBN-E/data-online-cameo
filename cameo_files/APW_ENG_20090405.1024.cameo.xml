@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090405.1024">
+    <Sentences>
+      <Sentence char_offsets="195:347" id="0" />
+      <Sentence char_offsets="358:487" id="1" />
+      <Sentence char_offsets="498:608" id="2" />
+      <Sentence char_offsets="610:707" id="3" />
+      <Sentence char_offsets="718:847" id="4" />
+      <Sentence char_offsets="858:1008" id="5" />
+      <Sentence char_offsets="1019:1216" id="6" />
+      <Sentence char_offsets="1227:1317" id="7" />
+      <Sentence char_offsets="1328:1431" id="8" />
+      <Sentence char_offsets="1442:1571" id="9" />
+      <Sentence char_offsets="1573:1729" id="10" />
+      <Sentence char_offsets="1740:1846" id="11" />
+      <Sentence char_offsets="1857:1901" id="12" />
+      <Sentence char_offsets="1912:1976" id="13" />
+      <Sentence char_offsets="1978:2054" id="14" />
+      <Sentence char_offsets="2065:2274" id="15" />
+      <Sentence char_offsets="2285:2360" id="16" />
+      <Sentence char_offsets="2362:2497" id="17" />
+      <Sentence char_offsets="2508:2592" id="18" />
+      <Sentence char_offsets="2603:2753" id="19" />
+      <Sentence char_offsets="2764:2850" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="130">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

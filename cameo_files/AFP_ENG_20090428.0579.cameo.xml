@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0579">
+    <Sentences>
+      <Sentence char_offsets="184:340" id="0" />
+      <Sentence char_offsets="351:482" id="1" />
+      <Sentence char_offsets="493:652" id="2" />
+      <Sentence char_offsets="654:714" id="3" />
+      <Sentence char_offsets="725:907" id="4" />
+      <Sentence char_offsets="918:1008" id="5" />
+      <Sentence char_offsets="1019:1143" id="6" />
+      <Sentence char_offsets="1154:1371" id="7" />
+      <Sentence char_offsets="1382:1410" id="8" />
+      <Sentence char_offsets="1412:1479" id="9" />
+      <Sentence char_offsets="1490:1595" id="10" />
+      <Sentence char_offsets="1597:1618" id="11" />
+      <Sentence char_offsets="1620:1670" id="12" />
+      <Sentence char_offsets="1681:1788" id="13" />
+      <Sentence char_offsets="1799:1961" id="14" />
+      <Sentence char_offsets="1972:2199" id="15" />
+      <Sentence char_offsets="2210:2355" id="16" />
+      <Sentence char_offsets="2366:2505" id="17" />
+      <Sentence char_offsets="2516:2751" id="18" />
+      <Sentence char_offsets="2762:2912" id="19" />
+      <Sentence char_offsets="2923:3060" id="20" />
+      <Sentence char_offsets="3071:3212" id="21" />
+      <Sentence char_offsets="3223:3380" id="22" />
+      <Sentence char_offsets="3391:3524" id="23" />
+      <Sentence char_offsets="3526:3558" id="24" />
+      <Sentence char_offsets="3569:3662" id="25" />
+      <Sentence char_offsets="3673:3802" id="26" />
+      <Sentence char_offsets="3813:4021" id="27" />
+      <Sentence char_offsets="4032:4219" id="28" />
+      <Sentence char_offsets="4230:4300" id="29" />
+      <Sentence char_offsets="4302:4378" id="30" />
+      <Sentence char_offsets="4389:4518" id="31" />
+      <Sentence char_offsets="4529:4716" id="32" />
+      <Sentence char_offsets="4727:4824" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="29134" actor_name="Yasuo Fukuda" role="Source" />
+        <Participant actor_id="40495" actor_name="World Health Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

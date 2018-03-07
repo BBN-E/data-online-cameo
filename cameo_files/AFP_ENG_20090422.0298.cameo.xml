@@ -1,0 +1,77 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0298">
+    <Sentences>
+      <Sentence char_offsets="186:367" id="0" />
+      <Sentence char_offsets="378:600" id="1" />
+      <Sentence char_offsets="611:747" id="2" />
+      <Sentence char_offsets="758:901" id="3" />
+      <Sentence char_offsets="903:949" id="4" />
+      <Sentence char_offsets="960:1168" id="5" />
+      <Sentence char_offsets="1179:1397" id="6" />
+      <Sentence char_offsets="1408:1615" id="7" />
+      <Sentence char_offsets="1626:1715" id="8" />
+      <Sentence char_offsets="1726:1874" id="9" />
+      <Sentence char_offsets="1885:2013" id="10" />
+      <Sentence char_offsets="2024:2224" id="11" />
+      <Sentence char_offsets="2235:2454" id="12" />
+      <Sentence char_offsets="2465:2646" id="13" />
+      <Sentence char_offsets="2657:2840" id="14" />
+      <Sentence char_offsets="2851:2996" id="15" />
+      <Sentence char_offsets="3007:3207" id="16" />
+      <Sentence char_offsets="3218:3270" id="17" />
+      <Sentence char_offsets="3272:3386" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="current" type="012">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="012">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="3" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

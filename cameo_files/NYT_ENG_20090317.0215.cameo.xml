@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090317.0215">
+    <Sentences>
+      <Sentence char_offsets="107:137" id="0" />
+      <Sentence char_offsets="148:272" id="1" />
+      <Sentence char_offsets="283:406" id="2" />
+      <Sentence char_offsets="417:523" id="3" />
+      <Sentence char_offsets="525:694" id="4" />
+      <Sentence char_offsets="705:755" id="5" />
+      <Sentence char_offsets="757:818" id="6" />
+      <Sentence char_offsets="820:883" id="7" />
+      <Sentence char_offsets="894:1070" id="8" />
+      <Sentence char_offsets="1072:1244" id="9" />
+      <Sentence char_offsets="1255:1321" id="10" />
+      <Sentence char_offsets="1323:1478" id="11" />
+      <Sentence char_offsets="1489:1579" id="12" />
+      <Sentence char_offsets="1581:1599" id="13" />
+      <Sentence char_offsets="1610:1762" id="14" />
+      <Sentence char_offsets="1764:1890" id="15" />
+      <Sentence char_offsets="1901:2004" id="16" />
+      <Sentence char_offsets="2006:2104" id="17" />
+      <Sentence char_offsets="2106:2148" id="18" />
+      <Sentence char_offsets="2159:2313" id="19" />
+      <Sentence char_offsets="2324:2473" id="20" />
+      <Sentence char_offsets="2475:2570" id="21" />
+      <Sentence char_offsets="2581:2713" id="22" />
+      <Sentence char_offsets="2715:2865" id="23" />
+      <Sentence char_offsets="2867:2951" id="24" />
+      <Sentence char_offsets="2962:2988" id="25" />
+      <Sentence char_offsets="2999:3019" id="26" />
+      <Sentence char_offsets="3030:3047" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

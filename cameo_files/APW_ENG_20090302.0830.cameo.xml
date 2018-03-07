@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0830">
+    <Sentences>
+      <Sentence char_offsets="188:451" id="0" />
+      <Sentence char_offsets="462:560" id="1" />
+      <Sentence char_offsets="571:625" id="2" />
+      <Sentence char_offsets="627:750" id="3" />
+      <Sentence char_offsets="761:937" id="4" />
+      <Sentence char_offsets="948:1090" id="5" />
+      <Sentence char_offsets="1092:1197" id="6" />
+      <Sentence char_offsets="1208:1303" id="7" />
+      <Sentence char_offsets="1305:1493" id="8" />
+      <Sentence char_offsets="1504:1679" id="9" />
+      <Sentence char_offsets="1690:1814" id="10" />
+      <Sentence char_offsets="1825:2072" id="11" />
+      <Sentence char_offsets="2083:2183" id="12" />
+      <Sentence char_offsets="2194:2474" id="13" />
+      <Sentence char_offsets="2485:2737" id="14" />
+      <Sentence char_offsets="2748:2945" id="15" />
+      <Sentence char_offsets="2947:3041" id="16" />
+      <Sentence char_offsets="3052:3200" id="17" />
+      <Sentence char_offsets="3211:3328" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="historical" type="180">
+        <Participant actor_id="31081" actor_name="India" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

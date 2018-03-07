@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0188">
+    <Sentences>
+      <Sentence char_offsets="194:398" id="0" />
+      <Sentence char_offsets="409:538" id="1" />
+      <Sentence char_offsets="540:724" id="2" />
+      <Sentence char_offsets="735:816" id="3" />
+      <Sentence char_offsets="818:1008" id="4" />
+      <Sentence char_offsets="1019:1158" id="5" />
+      <Sentence char_offsets="1160:1193" id="6" />
+      <Sentence char_offsets="1204:1283" id="7" />
+      <Sentence char_offsets="1294:1502" id="8" />
+      <Sentence char_offsets="1513:1721" id="9" />
+      <Sentence char_offsets="1732:1880" id="10" />
+      <Sentence char_offsets="1882:1969" id="11" />
+      <Sentence char_offsets="1980:2037" id="12" />
+      <Sentence char_offsets="2048:2095" id="13" />
+      <Sentence char_offsets="2097:2168" id="14" />
+      <Sentence char_offsets="2179:2314" id="15" />
+      <Sentence char_offsets="2325:2552" id="16" />
+      <Sentence char_offsets="2563:2735" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="204096" actor_name="Ernesto Torres" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="204096" actor_name="Ernesto Torres" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="0353">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="0353">
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="historical" type="090">
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="neutral" type="138">
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="138">
+        <Participant actor_id="204066" actor_name="Albader Parad" role="Source" />
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="9" tense="current" type="193">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="310" agent_name="Government Official" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0086">
+    <Sentences>
+      <Sentence char_offsets="214:370" id="0" />
+      <Sentence char_offsets="381:606" id="1" />
+      <Sentence char_offsets="617:745" id="2" />
+      <Sentence char_offsets="756:869" id="3" />
+      <Sentence char_offsets="880:1055" id="4" />
+      <Sentence char_offsets="1066:1157" id="5" />
+      <Sentence char_offsets="1168:1388" id="6" />
+      <Sentence char_offsets="1399:1489" id="7" />
+      <Sentence char_offsets="1491:1546" id="8" />
+      <Sentence char_offsets="1557:1721" id="9" />
+      <Sentence char_offsets="1732:1868" id="10" />
+      <Sentence char_offsets="1879:2065" id="11" />
+      <Sentence char_offsets="2076:2226" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="35753" actor_name="Umaru Musa Yar'Adua" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="35753" actor_name="Umaru Musa Yar'Adua" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

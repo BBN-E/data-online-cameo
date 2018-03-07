@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0600">
+    <Sentences>
+      <Sentence char_offsets="176:361" id="0" />
+      <Sentence char_offsets="372:597" id="1" />
+      <Sentence char_offsets="608:749" id="2" />
+      <Sentence char_offsets="760:976" id="3" />
+      <Sentence char_offsets="987:1058" id="4" />
+      <Sentence char_offsets="1069:1317" id="5" />
+      <Sentence char_offsets="1328:1534" id="6" />
+      <Sentence char_offsets="1545:1758" id="7" />
+      <Sentence char_offsets="1769:2018" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="238429" actor_name="Fawzi Barhum" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="160">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

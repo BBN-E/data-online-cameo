@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0740">
+    <Sentences>
+      <Sentence char_offsets="182:370" id="0" />
+      <Sentence char_offsets="381:601" id="1" />
+      <Sentence char_offsets="612:818" id="2" />
+      <Sentence char_offsets="829:1005" id="3" />
+      <Sentence char_offsets="1016:1130" id="4" />
+      <Sentence char_offsets="1141:1359" id="5" />
+      <Sentence char_offsets="1370:1394" id="6" />
+      <Sentence char_offsets="1405:1576" id="7" />
+      <Sentence char_offsets="1587:1719" id="8" />
+      <Sentence char_offsets="1730:1906" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="112">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="6973" actor_name="Lashkar-e-Taiba" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="historical" type="180">
+        <Participant actor_id="31081" actor_name="India" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

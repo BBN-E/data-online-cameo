@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0280">
+    <Sentences>
+      <Sentence char_offsets="179:362" id="0" />
+      <Sentence char_offsets="373:577" id="1" />
+      <Sentence char_offsets="588:754" id="2" />
+      <Sentence char_offsets="765:928" id="3" />
+      <Sentence char_offsets="939:1103" id="4" />
+      <Sentence char_offsets="1114:1258" id="5" />
+      <Sentence char_offsets="1269:1337" id="6" />
+      <Sentence char_offsets="1348:1474" id="7" />
+      <Sentence char_offsets="1485:1571" id="8" />
+      <Sentence char_offsets="1582:1755" id="9" />
+      <Sentence char_offsets="1766:1900" id="10" />
+      <Sentence char_offsets="1911:2156" id="11" />
+      <Sentence char_offsets="2167:2218" id="12" />
+      <Sentence char_offsets="2220:2321" id="13" />
+      <Sentence char_offsets="2332:2464" id="14" />
+      <Sentence char_offsets="2475:2576" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="597" agent_name="Governor" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="597" agent_name="Governor" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="597" agent_name="Governor" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

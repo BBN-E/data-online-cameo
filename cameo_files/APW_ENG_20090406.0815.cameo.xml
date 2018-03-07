@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0815">
+    <Sentences>
+      <Sentence char_offsets="189:407" id="0" />
+      <Sentence char_offsets="418:579" id="1" />
+      <Sentence char_offsets="590:825" id="2" />
+      <Sentence char_offsets="836:883" id="3" />
+      <Sentence char_offsets="894:1096" id="4" />
+      <Sentence char_offsets="1107:1265" id="5" />
+      <Sentence char_offsets="1276:1429" id="6" />
+      <Sentence char_offsets="1431:1500" id="7" />
+      <Sentence char_offsets="1511:1675" id="8" />
+      <Sentence char_offsets="1686:1850" id="9" />
+      <Sentence char_offsets="1852:1894" id="10" />
+      <Sentence char_offsets="1905:2078" id="11" />
+      <Sentence char_offsets="2080:2150" id="12" />
+      <Sentence char_offsets="2161:2262" id="13" />
+      <Sentence char_offsets="2273:2388" id="14" />
+      <Sentence char_offsets="2399:2546" id="15" />
+      <Sentence char_offsets="2557:2777" id="16" />
+      <Sentence char_offsets="2788:2865" id="17" />
+      <Sentence char_offsets="2867:2925" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="31081" actor_name="India" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="20574" actor_name="Manmohan Singh" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="20574" actor_name="Manmohan Singh" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="182">
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="183">
+        <Participant actor_id="31081" actor_name="India" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="183">
+        <Participant actor_id="31081" actor_name="India" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="183">
+        <Participant actor_id="31081" actor_name="India" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

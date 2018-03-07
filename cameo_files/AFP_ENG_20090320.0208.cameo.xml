@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0208">
+    <Sentences>
+      <Sentence char_offsets="180:365" id="0" />
+      <Sentence char_offsets="368:519" id="1" />
+      <Sentence char_offsets="522:763" id="2" />
+      <Sentence char_offsets="766:935" id="3" />
+      <Sentence char_offsets="938:993" id="4" />
+      <Sentence char_offsets="995:1054" id="5" />
+      <Sentence char_offsets="1057:1271" id="6" />
+      <Sentence char_offsets="1274:1401" id="7" />
+      <Sentence char_offsets="1404:1513" id="8" />
+      <Sentence char_offsets="1516:1702" id="9" />
+      <Sentence char_offsets="1704:1756" id="10" />
+      <Sentence char_offsets="1759:1914" id="11" />
+      <Sentence char_offsets="1917:2090" id="12" />
+      <Sentence char_offsets="2093:2355" id="13" />
+      <Sentence char_offsets="2358:2540" id="14" />
+      <Sentence char_offsets="2543:2765" id="15" />
+      <Sentence char_offsets="2768:2936" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="48657" actor_name="Mohamed Abdullahi Omaar" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0254">
+        <Participant actor_id="48657" actor_name="Mohamed Abdullahi Omaar" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0035">
+    <Sentences>
+      <Sentence char_offsets="178:356" id="0" />
+      <Sentence char_offsets="367:520" id="1" />
+      <Sentence char_offsets="531:697" id="2" />
+      <Sentence char_offsets="708:810" id="3" />
+      <Sentence char_offsets="821:944" id="4" />
+      <Sentence char_offsets="955:1119" id="5" />
+      <Sentence char_offsets="1130:1313" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="20975" actor_name="Jean-Pierre Lacroix" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

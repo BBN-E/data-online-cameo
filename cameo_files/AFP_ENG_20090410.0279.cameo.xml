@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0279">
+    <Sentences>
+      <Sentence char_offsets="197:374" id="0" />
+      <Sentence char_offsets="385:599" id="1" />
+      <Sentence char_offsets="610:714" id="2" />
+      <Sentence char_offsets="725:857" id="3" />
+      <Sentence char_offsets="868:1075" id="4" />
+      <Sentence char_offsets="1086:1215" id="5" />
+      <Sentence char_offsets="1226:1374" id="6" />
+      <Sentence char_offsets="1385:1408" id="7" />
+      <Sentence char_offsets="1410:1500" id="8" />
+      <Sentence char_offsets="1511:1717" id="9" />
+      <Sentence char_offsets="1728:1840" id="10" />
+      <Sentence char_offsets="1842:1901" id="11" />
+      <Sentence char_offsets="1912:2097" id="12" />
+      <Sentence char_offsets="2108:2216" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="160" agent_name="Admiral" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="36517" actor_name="USS Bainbridge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="062">
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Source" />
+        <Participant actor_id="36517" actor_name="USS Bainbridge" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="36517" actor_name="USS Bainbridge" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

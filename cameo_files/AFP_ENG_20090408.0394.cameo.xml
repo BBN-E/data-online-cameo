@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0394">
+    <Sentences>
+      <Sentence char_offsets="204:382" id="0" />
+      <Sentence char_offsets="393:662" id="1" />
+      <Sentence char_offsets="673:770" id="2" />
+      <Sentence char_offsets="781:917" id="3" />
+      <Sentence char_offsets="919:987" id="4" />
+      <Sentence char_offsets="998:1155" id="5" />
+      <Sentence char_offsets="1166:1263" id="6" />
+      <Sentence char_offsets="1274:1441" id="7" />
+      <Sentence char_offsets="1452:1616" id="8" />
+      <Sentence char_offsets="1618:1716" id="9" />
+      <Sentence char_offsets="1727:1905" id="10" />
+      <Sentence char_offsets="1916:2034" id="11" />
+      <Sentence char_offsets="2036:2170" id="12" />
+      <Sentence char_offsets="2181:2326" id="13" />
+      <Sentence char_offsets="2328:2419" id="14" />
+      <Sentence char_offsets="2430:2635" id="15" />
+      <Sentence char_offsets="2646:2857" id="16" />
+      <Sentence char_offsets="2868:3154" id="17" />
+      <Sentence char_offsets="3165:3258" id="18" />
+      <Sentence char_offsets="3269:3396" id="19" />
+      <Sentence char_offsets="3398:3574" id="20" />
+      <Sentence char_offsets="3585:3702" id="21" />
+      <Sentence char_offsets="3704:3809" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="190">
+        <Participant actor_id="8905" actor_name="Revolutionary United Front" role="Source" />
+        <Participant actor_id="40134" actor_name="Sierra Leone" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

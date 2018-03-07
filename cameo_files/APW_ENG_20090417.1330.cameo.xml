@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.1330">
+    <Sentences>
+      <Sentence char_offsets="190:431" id="0" />
+      <Sentence char_offsets="442:490" id="1" />
+      <Sentence char_offsets="492:511" id="2" />
+      <Sentence char_offsets="513:600" id="3" />
+      <Sentence char_offsets="602:681" id="4" />
+      <Sentence char_offsets="692:810" id="5" />
+      <Sentence char_offsets="821:959" id="6" />
+      <Sentence char_offsets="970:1109" id="7" />
+      <Sentence char_offsets="1111:1298" id="8" />
+      <Sentence char_offsets="1309:1392" id="9" />
+      <Sentence char_offsets="1403:1423" id="10" />
+      <Sentence char_offsets="1425:1460" id="11" />
+      <Sentence char_offsets="1471:1517" id="12" />
+      <Sentence char_offsets="1519:1594" id="13" />
+      <Sentence char_offsets="1596:1689" id="14" />
+      <Sentence char_offsets="1700:1849" id="15" />
+      <Sentence char_offsets="1860:1986" id="16" />
+      <Sentence char_offsets="1997:2130" id="17" />
+      <Sentence char_offsets="2141:2347" id="18" />
+      <Sentence char_offsets="2349:2408" id="19" />
+      <Sentence char_offsets="2419:2459" id="20" />
+      <Sentence char_offsets="2461:2705" id="21" />
+      <Sentence char_offsets="2716:2772" id="22" />
+      <Sentence char_offsets="2774:2929" id="23" />
+      <Sentence char_offsets="2940:3065" id="24" />
+      <Sentence char_offsets="3076:3081" id="25" />
+      <Sentence char_offsets="3092:3210" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="073">
+        <Participant actor_id="36517" actor_name="USS Bainbridge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="current" type="190">
+        <Participant actor_id="41262" actor_name="United States" agent_id="386" agent_name="Naval" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

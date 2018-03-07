@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0104">
+    <Sentences>
+      <Sentence char_offsets="194:389" id="0" />
+      <Sentence char_offsets="400:623" id="1" />
+      <Sentence char_offsets="634:823" id="2" />
+      <Sentence char_offsets="834:1051" id="3" />
+      <Sentence char_offsets="1062:1264" id="4" />
+      <Sentence char_offsets="1275:1428" id="5" />
+      <Sentence char_offsets="1439:1558" id="6" />
+      <Sentence char_offsets="1560:1641" id="7" />
+      <Sentence char_offsets="1652:1870" id="8" />
+      <Sentence char_offsets="1881:1994" id="9" />
+      <Sentence char_offsets="1996:2094" id="10" />
+      <Sentence char_offsets="2105:2318" id="11" />
+      <Sentence char_offsets="2329:2503" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

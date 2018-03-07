@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0348">
+    <Sentences>
+      <Sentence char_offsets="188:377" id="0" />
+      <Sentence char_offsets="388:604" id="1" />
+      <Sentence char_offsets="615:758" id="2" />
+      <Sentence char_offsets="769:827" id="3" />
+      <Sentence char_offsets="829:916" id="4" />
+      <Sentence char_offsets="927:1108" id="5" />
+      <Sentence char_offsets="1119:1325" id="6" />
+      <Sentence char_offsets="1336:1516" id="7" />
+      <Sentence char_offsets="1527:1726" id="8" />
+      <Sentence char_offsets="1737:1857" id="9" />
+      <Sentence char_offsets="1868:2033" id="10" />
+      <Sentence char_offsets="2044:2133" id="11" />
+      <Sentence char_offsets="2144:2316" id="12" />
+      <Sentence char_offsets="2327:2472" id="13" />
+      <Sentence char_offsets="2483:2649" id="14" />
+      <Sentence char_offsets="2660:2855" id="15" />
+      <Sentence char_offsets="2866:3015" id="16" />
+      <Sentence char_offsets="3026:3210" id="17" />
+      <Sentence char_offsets="3221:3307" id="18" />
+      <Sentence char_offsets="3318:3481" id="19" />
+      <Sentence char_offsets="3492:3643" id="20" />
+      <Sentence char_offsets="3654:3858" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="238259" actor_name="Renault" role="Source" />
+        <Participant actor_id="39893" actor_name="Slovenia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="051">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="238259" actor_name="Renault" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

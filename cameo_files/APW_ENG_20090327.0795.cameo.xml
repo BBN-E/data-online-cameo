@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090327.0795">
+    <Sentences>
+      <Sentence char_offsets="191:411" id="0" />
+      <Sentence char_offsets="422:539" id="1" />
+      <Sentence char_offsets="550:695" id="2" />
+      <Sentence char_offsets="697:733" id="3" />
+      <Sentence char_offsets="735:803" id="4" />
+      <Sentence char_offsets="814:1055" id="5" />
+      <Sentence char_offsets="1066:1302" id="6" />
+      <Sentence char_offsets="1304:1391" id="7" />
+      <Sentence char_offsets="1402:1460" id="8" />
+      <Sentence char_offsets="1462:1585" id="9" />
+      <Sentence char_offsets="1587:1618" id="10" />
+      <Sentence char_offsets="1620:1648" id="11" />
+      <Sentence char_offsets="1659:1846" id="12" />
+      <Sentence char_offsets="1857:2019" id="13" />
+      <Sentence char_offsets="2030:2216" id="14" />
+      <Sentence char_offsets="2227:2367" id="15" />
+      <Sentence char_offsets="2369:2450" id="16" />
+      <Sentence char_offsets="2461:2566" id="17" />
+      <Sentence char_offsets="2568:2607" id="18" />
+      <Sentence char_offsets="2609:2707" id="19" />
+      <Sentence char_offsets="2718:2879" id="20" />
+      <Sentence char_offsets="2890:3143" id="21" />
+      <Sentence char_offsets="3154:3408" id="22" />
+      <Sentence char_offsets="3419:3583" id="23" />
+      <Sentence char_offsets="3594:3727" id="24" />
+      <Sentence char_offsets="3729:3838" id="25" />
+      <Sentence char_offsets="3849:4034" id="26" />
+      <Sentence char_offsets="4045:4275" id="27" />
+      <Sentence char_offsets="4286:4451" id="28" />
+      <Sentence char_offsets="4462:4676" id="29" />
+      <Sentence char_offsets="4687:4841" id="30" />
+      <Sentence char_offsets="4852:5021" id="31" />
+      <Sentence char_offsets="5023:5088" id="32" />
+      <Sentence char_offsets="5099:5220" id="33" />
+      <Sentence char_offsets="5231:5236" id="34" />
+      <Sentence char_offsets="5247:5363" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="current" type="010">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="020">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

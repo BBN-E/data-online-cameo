@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0111">
+    <Sentences>
+      <Sentence char_offsets="184:352" id="0" />
+      <Sentence char_offsets="363:498" id="1" />
+      <Sentence char_offsets="509:738" id="2" />
+      <Sentence char_offsets="749:907" id="3" />
+      <Sentence char_offsets="918:1089" id="4" />
+      <Sentence char_offsets="1100:1275" id="5" />
+      <Sentence char_offsets="1286:1335" id="6" />
+      <Sentence char_offsets="1346:1475" id="7" />
+      <Sentence char_offsets="1477:1529" id="8" />
+      <Sentence char_offsets="1540:1680" id="9" />
+      <Sentence char_offsets="1691:1818" id="10" />
+      <Sentence char_offsets="1829:2034" id="11" />
+      <Sentence char_offsets="2045:2123" id="12" />
+      <Sentence char_offsets="2134:2252" id="13" />
+      <Sentence char_offsets="2263:2484" id="14" />
+      <Sentence char_offsets="2495:2633" id="15" />
+      <Sentence char_offsets="2644:2740" id="16" />
+      <Sentence char_offsets="2751:2887" id="17" />
+      <Sentence char_offsets="2898:3117" id="18" />
+      <Sentence char_offsets="3128:3267" id="19" />
+      <Sentence char_offsets="3278:3410" id="20" />
+      <Sentence char_offsets="3421:3526" id="21" />
+      <Sentence char_offsets="3537:3713" id="22" />
+      <Sentence char_offsets="3724:3940" id="23" />
+      <Sentence char_offsets="3951:4098" id="24" />
+      <Sentence char_offsets="4109:4322" id="25" />
+      <Sentence char_offsets="4333:4408" id="26" />
+      <Sentence char_offsets="4419:4467" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="236526" actor_name="Arkady Dvorkovich" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="236526" actor_name="Arkady Dvorkovich" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="043">
+        <Participant actor_id="33198" actor_name="Finland" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="27" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="042">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="33198" actor_name="Finland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

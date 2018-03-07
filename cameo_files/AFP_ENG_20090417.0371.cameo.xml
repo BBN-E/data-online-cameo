@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0371">
+    <Sentences>
+      <Sentence char_offsets="184:368" id="0" />
+      <Sentence char_offsets="379:598" id="1" />
+      <Sentence char_offsets="609:817" id="2" />
+      <Sentence char_offsets="828:1013" id="3" />
+      <Sentence char_offsets="1024:1154" id="4" />
+      <Sentence char_offsets="1156:1220" id="5" />
+      <Sentence char_offsets="1231:1322" id="6" />
+      <Sentence char_offsets="1333:1555" id="7" />
+      <Sentence char_offsets="1566:1736" id="8" />
+      <Sentence char_offsets="1747:1887" id="9" />
+      <Sentence char_offsets="1898:2043" id="10" />
+      <Sentence char_offsets="2054:2125" id="11" />
+      <Sentence char_offsets="2136:2346" id="12" />
+      <Sentence char_offsets="2357:2521" id="13" />
+      <Sentence char_offsets="2532:2709" id="14" />
+      <Sentence char_offsets="2720:2840" id="15" />
+      <Sentence char_offsets="2851:2916" id="16" />
+      <Sentence char_offsets="2927:3089" id="17" />
+      <Sentence char_offsets="3100:3281" id="18" />
+      <Sentence char_offsets="3292:3502" id="19" />
+      <Sentence char_offsets="3513:3600" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

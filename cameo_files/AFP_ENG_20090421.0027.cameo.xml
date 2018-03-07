@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0027">
+    <Sentences>
+      <Sentence char_offsets="191:357" id="0" />
+      <Sentence char_offsets="368:593" id="1" />
+      <Sentence char_offsets="604:652" id="2" />
+      <Sentence char_offsets="654:804" id="3" />
+      <Sentence char_offsets="815:994" id="4" />
+      <Sentence char_offsets="1005:1233" id="5" />
+      <Sentence char_offsets="1244:1394" id="6" />
+      <Sentence char_offsets="1405:1605" id="7" />
+      <Sentence char_offsets="1616:1738" id="8" />
+      <Sentence char_offsets="1749:1910" id="9" />
+      <Sentence char_offsets="1921:2106" id="10" />
+      <Sentence char_offsets="2117:2351" id="11" />
+      <Sentence char_offsets="2362:2502" id="12" />
+      <Sentence char_offsets="2513:2672" id="13" />
+      <Sentence char_offsets="2683:2875" id="14" />
+      <Sentence char_offsets="2886:3053" id="15" />
+      <Sentence char_offsets="3064:3260" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="current" type="1711">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="current" type="1711">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

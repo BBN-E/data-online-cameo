@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.1431">
+    <Sentences>
+      <Sentence char_offsets="189:385" id="0" />
+      <Sentence char_offsets="396:501" id="1" />
+      <Sentence char_offsets="512:570" id="2" />
+      <Sentence char_offsets="572:837" id="3" />
+      <Sentence char_offsets="848:922" id="4" />
+      <Sentence char_offsets="924:1044" id="5" />
+      <Sentence char_offsets="1055:1229" id="6" />
+      <Sentence char_offsets="1240:1385" id="7" />
+      <Sentence char_offsets="1387:1456" id="8" />
+      <Sentence char_offsets="1467:1693" id="9" />
+      <Sentence char_offsets="1704:1970" id="10" />
+      <Sentence char_offsets="1981:2018" id="11" />
+      <Sentence char_offsets="2020:2039" id="12" />
+      <Sentence char_offsets="2041:2129" id="13" />
+      <Sentence char_offsets="2131:2192" id="14" />
+      <Sentence char_offsets="2194:2317" id="15" />
+      <Sentence char_offsets="2328:2470" id="16" />
+      <Sentence char_offsets="2481:2666" id="17" />
+      <Sentence char_offsets="2668:2683" id="18" />
+      <Sentence char_offsets="2685:2727" id="19" />
+      <Sentence char_offsets="2729:2748" id="20" />
+      <Sentence char_offsets="2750:2844" id="21" />
+      <Sentence char_offsets="2855:2924" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="010">
+        <Participant actor_id="50672" actor_name="Richard Cheney" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

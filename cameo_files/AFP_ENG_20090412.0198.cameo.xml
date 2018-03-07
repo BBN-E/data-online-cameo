@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0198">
+    <Sentences>
+      <Sentence char_offsets="174:368" id="0" />
+      <Sentence char_offsets="379:604" id="1" />
+      <Sentence char_offsets="615:787" id="2" />
+      <Sentence char_offsets="798:868" id="3" />
+      <Sentence char_offsets="879:975" id="4" />
+      <Sentence char_offsets="986:1134" id="5" />
+      <Sentence char_offsets="1145:1255" id="6" />
+      <Sentence char_offsets="1266:1449" id="7" />
+      <Sentence char_offsets="1460:1635" id="8" />
+      <Sentence char_offsets="1646:1748" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

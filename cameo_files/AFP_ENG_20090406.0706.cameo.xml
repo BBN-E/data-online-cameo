@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0706">
+    <Sentences>
+      <Sentence char_offsets="196:390" id="0" />
+      <Sentence char_offsets="401:687" id="1" />
+      <Sentence char_offsets="698:901" id="2" />
+      <Sentence char_offsets="912:994" id="3" />
+      <Sentence char_offsets="1005:1180" id="4" />
+      <Sentence char_offsets="1191:1237" id="5" />
+      <Sentence char_offsets="1248:1441" id="6" />
+      <Sentence char_offsets="1452:1566" id="7" />
+      <Sentence char_offsets="1568:1664" id="8" />
+      <Sentence char_offsets="1675:1829" id="9" />
+      <Sentence char_offsets="1840:1964" id="10" />
+      <Sentence char_offsets="1975:2191" id="11" />
+      <Sentence char_offsets="2202:2322" id="12" />
+      <Sentence char_offsets="2333:2400" id="13" />
+      <Sentence char_offsets="2402:2470" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="0841">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="138">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="723" agent_name="Kidnapper" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="193" agent_name="Islamic Militant" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="historical" type="181">
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

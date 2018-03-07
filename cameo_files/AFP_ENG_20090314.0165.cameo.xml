@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0165">
+    <Sentences>
+      <Sentence char_offsets="192:360" id="0" />
+      <Sentence char_offsets="371:535" id="1" />
+      <Sentence char_offsets="546:631" id="2" />
+      <Sentence char_offsets="642:785" id="3" />
+      <Sentence char_offsets="796:977" id="4" />
+      <Sentence char_offsets="988:1118" id="5" />
+      <Sentence char_offsets="1120:1176" id="6" />
+      <Sentence char_offsets="1187:1274" id="7" />
+      <Sentence char_offsets="1285:1442" id="8" />
+      <Sentence char_offsets="1453:1540" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="173">
+        <Participant actor_id="40134" actor_name="Sierra Leone" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="40134" actor_name="Sierra Leone" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

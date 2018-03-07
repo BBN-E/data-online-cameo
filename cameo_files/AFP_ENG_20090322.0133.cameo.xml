@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0133">
+    <Sentences>
+      <Sentence char_offsets="185:386" id="0" />
+      <Sentence char_offsets="397:568" id="1" />
+      <Sentence char_offsets="579:725" id="2" />
+      <Sentence char_offsets="736:884" id="3" />
+      <Sentence char_offsets="895:1039" id="4" />
+      <Sentence char_offsets="1050:1240" id="5" />
+      <Sentence char_offsets="1251:1317" id="6" />
+      <Sentence char_offsets="1328:1436" id="7" />
+      <Sentence char_offsets="1447:1525" id="8" />
+      <Sentence char_offsets="1527:1632" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

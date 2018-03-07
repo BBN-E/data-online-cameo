@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090404.0503">
+    <Sentences>
+      <Sentence char_offsets="177:376" id="0" />
+      <Sentence char_offsets="387:578" id="1" />
+      <Sentence char_offsets="589:741" id="2" />
+      <Sentence char_offsets="752:986" id="3" />
+      <Sentence char_offsets="997:1145" id="4" />
+      <Sentence char_offsets="1156:1386" id="5" />
+      <Sentence char_offsets="1397:1569" id="6" />
+      <Sentence char_offsets="1580:1780" id="7" />
+      <Sentence char_offsets="1791:2083" id="8" />
+      <Sentence char_offsets="2094:2199" id="9" />
+      <Sentence char_offsets="2210:2424" id="10" />
+      <Sentence char_offsets="2435:2679" id="11" />
+      <Sentence char_offsets="2690:2877" id="12" />
+      <Sentence char_offsets="2888:3088" id="13" />
+      <Sentence char_offsets="3099:3289" id="14" />
+      <Sentence char_offsets="3300:3577" id="15" />
+      <Sentence char_offsets="3588:3850" id="16" />
+      <Sentence char_offsets="3861:4025" id="17" />
+      <Sentence char_offsets="4036:4269" id="18" />
+      <Sentence char_offsets="4280:4450" id="19" />
+      <Sentence char_offsets="4461:4585" id="20" />
+      <Sentence char_offsets="4587:4651" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="035">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

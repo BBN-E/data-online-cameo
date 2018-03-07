@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0038">
+    <Sentences>
+      <Sentence char_offsets="188:359" id="0" />
+      <Sentence char_offsets="370:555" id="1" />
+      <Sentence char_offsets="566:782" id="2" />
+      <Sentence char_offsets="793:995" id="3" />
+      <Sentence char_offsets="1006:1218" id="4" />
+      <Sentence char_offsets="1229:1423" id="5" />
+      <Sentence char_offsets="1434:1513" id="6" />
+      <Sentence char_offsets="1515:1646" id="7" />
+      <Sentence char_offsets="1657:1836" id="8" />
+      <Sentence char_offsets="1847:1991" id="9" />
+      <Sentence char_offsets="2002:2120" id="10" />
+      <Sentence char_offsets="2131:2349" id="11" />
+      <Sentence char_offsets="2360:2476" id="12" />
+      <Sentence char_offsets="2487:2637" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

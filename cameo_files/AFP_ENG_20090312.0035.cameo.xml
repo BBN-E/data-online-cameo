@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0035">
+    <Sentences>
+      <Sentence char_offsets="185:370" id="0" />
+      <Sentence char_offsets="381:566" id="1" />
+      <Sentence char_offsets="577:784" id="2" />
+      <Sentence char_offsets="795:883" id="3" />
+      <Sentence char_offsets="894:1031" id="4" />
+      <Sentence char_offsets="1042:1299" id="5" />
+      <Sentence char_offsets="1310:1450" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="013">
+        <Participant actor_id="32631" actor_name="China" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

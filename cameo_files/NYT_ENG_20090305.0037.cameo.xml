@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090305.0037">
+    <Sentences>
+      <Sentence char_offsets="207:406" id="0" />
+      <Sentence char_offsets="417:681" id="1" />
+      <Sentence char_offsets="692:873" id="2" />
+      <Sentence char_offsets="875:918" id="3" />
+      <Sentence char_offsets="929:1069" id="4" />
+      <Sentence char_offsets="1071:1148" id="5" />
+      <Sentence char_offsets="1159:1467" id="6" />
+      <Sentence char_offsets="1478:1660" id="7" />
+      <Sentence char_offsets="1671:1802" id="8" />
+      <Sentence char_offsets="1804:1921" id="9" />
+      <Sentence char_offsets="1923:2035" id="10" />
+      <Sentence char_offsets="2046:2213" id="11" />
+      <Sentence char_offsets="2224:2476" id="12" />
+      <Sentence char_offsets="2478:2655" id="13" />
+      <Sentence char_offsets="2666:2813" id="14" />
+      <Sentence char_offsets="2815:2846" id="15" />
+      <Sentence char_offsets="2857:3053" id="16" />
+      <Sentence char_offsets="3064:3247" id="17" />
+      <Sentence char_offsets="3249:3351" id="18" />
+      <Sentence char_offsets="3362:3541" id="19" />
+      <Sentence char_offsets="3543:3713" id="20" />
+      <Sentence char_offsets="3724:3847" id="21" />
+      <Sentence char_offsets="3849:3997" id="22" />
+      <Sentence char_offsets="3999:4058" id="23" />
+      <Sentence char_offsets="4069:4218" id="24" />
+      <Sentence char_offsets="4220:4362" id="25" />
+      <Sentence char_offsets="4373:4503" id="26" />
+      <Sentence char_offsets="4514:4665" id="27" />
+      <Sentence char_offsets="4667:4855" id="28" />
+      <Sentence char_offsets="4866:5174" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="4099" actor_name="Delta Air Lines" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

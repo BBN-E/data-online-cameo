@@ -1,0 +1,67 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0784">
+    <Sentences>
+      <Sentence char_offsets="189:453" id="0" />
+      <Sentence char_offsets="464:674" id="1" />
+      <Sentence char_offsets="685:808" id="2" />
+      <Sentence char_offsets="810:865" id="3" />
+      <Sentence char_offsets="876:1009" id="4" />
+      <Sentence char_offsets="1020:1207" id="5" />
+      <Sentence char_offsets="1209:1376" id="6" />
+      <Sentence char_offsets="1387:1444" id="7" />
+      <Sentence char_offsets="1446:1510" id="8" />
+      <Sentence char_offsets="1521:1712" id="9" />
+      <Sentence char_offsets="1714:1848" id="10" />
+      <Sentence char_offsets="1859:2040" id="11" />
+      <Sentence char_offsets="2042:2363" id="12" />
+      <Sentence char_offsets="2374:2476" id="13" />
+      <Sentence char_offsets="2478:2636" id="14" />
+      <Sentence char_offsets="2638:2743" id="15" />
+      <Sentence char_offsets="2745:2779" id="16" />
+      <Sentence char_offsets="2790:2944" id="17" />
+      <Sentence char_offsets="2955:3049" id="18" />
+      <Sentence char_offsets="3051:3149" id="19" />
+      <Sentence char_offsets="3160:3331" id="20" />
+      <Sentence char_offsets="3342:3492" id="21" />
+      <Sentence char_offsets="3494:3682" id="22" />
+      <Sentence char_offsets="3693:3762" id="23" />
+      <Sentence char_offsets="3764:3863" id="24" />
+      <Sentence char_offsets="3874:4095" id="25" />
+      <Sentence char_offsets="4106:4164" id="26" />
+      <Sentence char_offsets="4166:4401" id="27" />
+      <Sentence char_offsets="4412:4531" id="28" />
+      <Sentence char_offsets="4533:4622" id="29" />
+      <Sentence char_offsets="4624:4800" id="30" />
+      <Sentence char_offsets="4811:5037" id="31" />
+      <Sentence char_offsets="5048:5197" id="32" />
+      <Sentence char_offsets="5208:5406" id="33" />
+      <Sentence char_offsets="5417:5509" id="34" />
+      <Sentence char_offsets="5520:5642" id="35" />
+      <Sentence char_offsets="5653:5866" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="historical" type="010">
+        <Participant actor_id="55768" actor_name="Thabo Masebe" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="30" tense="neutral" type="052">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="36" tense="neutral" type="112">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

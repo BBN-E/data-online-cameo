@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0756">
+    <Sentences>
+      <Sentence char_offsets="163:353" id="0" />
+      <Sentence char_offsets="364:614" id="1" />
+      <Sentence char_offsets="625:730" id="2" />
+      <Sentence char_offsets="732:847" id="3" />
+      <Sentence char_offsets="858:1072" id="4" />
+      <Sentence char_offsets="1083:1364" id="5" />
+      <Sentence char_offsets="1375:1527" id="6" />
+      <Sentence char_offsets="1529:1642" id="7" />
+      <Sentence char_offsets="1644:1727" id="8" />
+      <Sentence char_offsets="1738:1866" id="9" />
+      <Sentence char_offsets="1868:2030" id="10" />
+      <Sentence char_offsets="2041:2211" id="11" />
+      <Sentence char_offsets="2222:2287" id="12" />
+      <Sentence char_offsets="2298:2383" id="13" />
+      <Sentence char_offsets="2385:2558" id="14" />
+      <Sentence char_offsets="2569:2747" id="15" />
+      <Sentence char_offsets="2749:2901" id="16" />
+      <Sentence char_offsets="2912:3060" id="17" />
+      <Sentence char_offsets="3071:3281" id="18" />
+      <Sentence char_offsets="3292:3384" id="19" />
+      <Sentence char_offsets="3386:3598" id="20" />
+      <Sentence char_offsets="3609:3861" id="21" />
+      <Sentence char_offsets="3872:3933" id="22" />
+      <Sentence char_offsets="3935:3985" id="23" />
+      <Sentence char_offsets="3987:4040" id="24" />
+      <Sentence char_offsets="4051:4215" id="25" />
+      <Sentence char_offsets="4217:4338" id="26" />
+      <Sentence char_offsets="4349:4458" id="27" />
+      <Sentence char_offsets="4460:4605" id="28" />
+      <Sentence char_offsets="4616:4850" id="29" />
+      <Sentence char_offsets="4861:4943" id="30" />
+      <Sentence char_offsets="4945:5199" id="31" />
+      <Sentence char_offsets="5210:5215" id="32" />
+      <Sentence char_offsets="5226:5256" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="29" tense="current" type="010">
+        <Participant actor_id="9514" actor_name="Igor Ivanovich Sechin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="020">
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

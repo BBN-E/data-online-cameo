@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0684">
+    <Sentences>
+      <Sentence char_offsets="183:380" id="0" />
+      <Sentence char_offsets="391:578" id="1" />
+      <Sentence char_offsets="589:740" id="2" />
+      <Sentence char_offsets="751:882" id="3" />
+      <Sentence char_offsets="884:983" id="4" />
+      <Sentence char_offsets="994:1075" id="5" />
+      <Sentence char_offsets="1086:1364" id="6" />
+      <Sentence char_offsets="1375:1585" id="7" />
+      <Sentence char_offsets="1596:1789" id="8" />
+      <Sentence char_offsets="1800:1965" id="9" />
+      <Sentence char_offsets="1976:2155" id="10" />
+      <Sentence char_offsets="2166:2261" id="11" />
+      <Sentence char_offsets="2263:2451" id="12" />
+      <Sentence char_offsets="2462:2718" id="13" />
+      <Sentence char_offsets="2729:2927" id="14" />
+      <Sentence char_offsets="2938:3016" id="15" />
+      <Sentence char_offsets="3018:3223" id="16" />
+      <Sentence char_offsets="3234:3342" id="17" />
+      <Sentence char_offsets="3353:3584" id="18" />
+      <Sentence char_offsets="3595:3755" id="19" />
+      <Sentence char_offsets="3766:3929" id="20" />
+      <Sentence char_offsets="3940:4059" id="21" />
+      <Sentence char_offsets="4061:4173" id="22" />
+      <Sentence char_offsets="4184:4467" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="47743" actor_name="Ilham Aliyev" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

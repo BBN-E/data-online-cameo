@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0588">
+    <Sentences>
+      <Sentence char_offsets="185:379" id="0" />
+      <Sentence char_offsets="390:594" id="1" />
+      <Sentence char_offsets="605:716" id="2" />
+      <Sentence char_offsets="718:851" id="3" />
+      <Sentence char_offsets="862:1081" id="4" />
+      <Sentence char_offsets="1092:1288" id="5" />
+      <Sentence char_offsets="1299:1384" id="6" />
+      <Sentence char_offsets="1395:1605" id="7" />
+      <Sentence char_offsets="1616:1697" id="8" />
+      <Sentence char_offsets="1708:1872" id="9" />
+      <Sentence char_offsets="1883:2008" id="10" />
+      <Sentence char_offsets="2019:2089" id="11" />
+      <Sentence char_offsets="2091:2165" id="12" />
+      <Sentence char_offsets="2176:2272" id="13" />
+      <Sentence char_offsets="2283:2428" id="14" />
+      <Sentence char_offsets="2439:2546" id="15" />
+      <Sentence char_offsets="2557:2637" id="16" />
+      <Sentence char_offsets="2648:2859" id="17" />
+      <Sentence char_offsets="2870:3043" id="18" />
+      <Sentence char_offsets="3054:3194" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="235682" actor_name="Ivan Melnikov" role="Source" />
+        <Participant actor_id="7378" actor_name="Liberal Democratic Party of Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="050">
+        <Participant actor_id="6810" actor_name="Vladimir Volfovich Zhirinovsky" role="Source" />
+        <Participant actor_id="215100" actor_name="Gennady Andreyevich Zyuganov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

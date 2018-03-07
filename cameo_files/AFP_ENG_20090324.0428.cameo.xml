@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0428">
+    <Sentences>
+      <Sentence char_offsets="199:383" id="0" />
+      <Sentence char_offsets="394:521" id="1" />
+      <Sentence char_offsets="532:673" id="2" />
+      <Sentence char_offsets="684:901" id="3" />
+      <Sentence char_offsets="912:1126" id="4" />
+      <Sentence char_offsets="1137:1350" id="5" />
+      <Sentence char_offsets="1361:1491" id="6" />
+      <Sentence char_offsets="1502:1695" id="7" />
+      <Sentence char_offsets="1697:1785" id="8" />
+      <Sentence char_offsets="1796:1870" id="9" />
+      <Sentence char_offsets="1881:2082" id="10" />
+      <Sentence char_offsets="2093:2207" id="11" />
+      <Sentence char_offsets="2218:2354" id="12" />
+      <Sentence char_offsets="2365:2389" id="13" />
+      <Sentence char_offsets="2400:2505" id="14" />
+      <Sentence char_offsets="2507:2555" id="15" />
+      <Sentence char_offsets="2566:2613" id="16" />
+      <Sentence char_offsets="2615:2658" id="17" />
+      <Sentence char_offsets="2669:2807" id="18" />
+      <Sentence char_offsets="2809:2862" id="19" />
+      <Sentence char_offsets="2873:3045" id="20" />
+      <Sentence char_offsets="3056:3274" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="090">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="145">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

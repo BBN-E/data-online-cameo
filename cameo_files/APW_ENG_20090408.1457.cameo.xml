@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.1457">
+    <Sentences>
+      <Sentence char_offsets="174:316" id="0" />
+      <Sentence char_offsets="327:543" id="1" />
+      <Sentence char_offsets="554:664" id="2" />
+      <Sentence char_offsets="666:820" id="3" />
+      <Sentence char_offsets="831:928" id="4" />
+      <Sentence char_offsets="930:995" id="5" />
+      <Sentence char_offsets="1006:1100" id="6" />
+      <Sentence char_offsets="1102:1283" id="7" />
+      <Sentence char_offsets="1294:1355" id="8" />
+      <Sentence char_offsets="1357:1509" id="9" />
+      <Sentence char_offsets="1520:1630" id="10" />
+      <Sentence char_offsets="1632:1735" id="11" />
+      <Sentence char_offsets="1746:1930" id="12" />
+      <Sentence char_offsets="1932:2123" id="13" />
+      <Sentence char_offsets="2134:2306" id="14" />
+      <Sentence char_offsets="2308:2371" id="15" />
+      <Sentence char_offsets="2373:2444" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="4617" actor_name="Electronic Arts Inc." role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

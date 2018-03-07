@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0638">
+    <Sentences>
+      <Sentence char_offsets="188:359" id="0" />
+      <Sentence char_offsets="370:570" id="1" />
+      <Sentence char_offsets="581:713" id="2" />
+      <Sentence char_offsets="724:852" id="3" />
+      <Sentence char_offsets="863:943" id="4" />
+      <Sentence char_offsets="954:1060" id="5" />
+      <Sentence char_offsets="1071:1294" id="6" />
+      <Sentence char_offsets="1305:1488" id="7" />
+      <Sentence char_offsets="1499:1596" id="8" />
+      <Sentence char_offsets="1607:1792" id="9" />
+      <Sentence char_offsets="1803:2021" id="10" />
+      <Sentence char_offsets="2032:2148" id="11" />
+      <Sentence char_offsets="2150:2245" id="12" />
+      <Sentence char_offsets="2256:2455" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="625" agent_name="House Speaker" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="120">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="633" agent_name="Main Opposition" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="120">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="633" agent_name="Main Opposition" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0469">
+    <Sentences>
+      <Sentence char_offsets="189:389" id="0" />
+      <Sentence char_offsets="400:698" id="1" />
+      <Sentence char_offsets="709:937" id="2" />
+      <Sentence char_offsets="948:1045" id="3" />
+      <Sentence char_offsets="1047:1059" id="4" />
+      <Sentence char_offsets="1070:1193" id="5" />
+      <Sentence char_offsets="1204:1389" id="6" />
+      <Sentence char_offsets="1400:1599" id="7" />
+      <Sentence char_offsets="1610:1792" id="8" />
+      <Sentence char_offsets="1794:1927" id="9" />
+      <Sentence char_offsets="1938:2050" id="10" />
+      <Sentence char_offsets="2061:2126" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="141">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="640" agent_name="Employee" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="141">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="640" agent_name="Employee" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="145">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,70 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0217">
+    <Sentences>
+      <Sentence char_offsets="188:369" id="0" />
+      <Sentence char_offsets="380:594" id="1" />
+      <Sentence char_offsets="605:725" id="2" />
+      <Sentence char_offsets="736:880" id="3" />
+      <Sentence char_offsets="891:979" id="4" />
+      <Sentence char_offsets="981:1115" id="5" />
+      <Sentence char_offsets="1126:1221" id="6" />
+      <Sentence char_offsets="1232:1435" id="7" />
+      <Sentence char_offsets="1446:1647" id="8" />
+      <Sentence char_offsets="1658:1932" id="9" />
+      <Sentence char_offsets="1943:2178" id="10" />
+      <Sentence char_offsets="2189:2362" id="11" />
+      <Sentence char_offsets="2373:2494" id="12" />
+      <Sentence char_offsets="2505:2791" id="13" />
+      <Sentence char_offsets="2802:2879" id="14" />
+      <Sentence char_offsets="2890:3017" id="15" />
+      <Sentence char_offsets="3028:3096" id="16" />
+      <Sentence char_offsets="3107:3185" id="17" />
+      <Sentence char_offsets="3196:3292" id="18" />
+      <Sentence char_offsets="3294:3341" id="19" />
+      <Sentence char_offsets="3352:3494" id="20" />
+      <Sentence char_offsets="3505:3695" id="21" />
+      <Sentence char_offsets="3706:3849" id="22" />
+      <Sentence char_offsets="3860:3877" id="23" />
+      <Sentence char_offsets="3879:3940" id="24" />
+      <Sentence char_offsets="3951:4128" id="25" />
+      <Sentence char_offsets="4139:4214" id="26" />
+      <Sentence char_offsets="4216:4269" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="20826" actor_name="Lars L&#248;kke Rasmussen" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="052">
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="203" agent_name="Newspaper" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="080">
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="305" agent_name="Treasury/Finance Ministry" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="120">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="455" agent_name="Royal Administration" role="Source" />
+        <Participant actor_id="20826" actor_name="Lars L&#248;kke Rasmussen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

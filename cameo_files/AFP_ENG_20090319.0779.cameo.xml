@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0779">
+    <Sentences>
+      <Sentence char_offsets="188:362" id="0" />
+      <Sentence char_offsets="373:433" id="1" />
+      <Sentence char_offsets="435:565" id="2" />
+      <Sentence char_offsets="576:723" id="3" />
+      <Sentence char_offsets="734:921" id="4" />
+      <Sentence char_offsets="932:1109" id="5" />
+      <Sentence char_offsets="1120:1326" id="6" />
+      <Sentence char_offsets="1337:1484" id="7" />
+      <Sentence char_offsets="1495:1707" id="8" />
+      <Sentence char_offsets="1718:1858" id="9" />
+      <Sentence char_offsets="1860:1896" id="10" />
+      <Sentence char_offsets="1907:2093" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="664" actor_name="Chen Shui Bian" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="664" actor_name="Chen Shui Bian" role="Source" />
+        <Participant actor_id="567" actor_name="Kuomintang" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="664" actor_name="Chen Shui Bian" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="historical" type="193">
+        <Participant actor_id="39333" actor_name="Taiwan" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="664" actor_name="Chen Shui Bian" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

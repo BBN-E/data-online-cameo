@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090321.0383">
+    <Sentences>
+      <Sentence char_offsets="186:411" id="0" />
+      <Sentence char_offsets="422:612" id="1" />
+      <Sentence char_offsets="614:677" id="2" />
+      <Sentence char_offsets="688:915" id="3" />
+      <Sentence char_offsets="926:1047" id="4" />
+      <Sentence char_offsets="1049:1135" id="5" />
+      <Sentence char_offsets="1146:1306" id="6" />
+      <Sentence char_offsets="1317:1508" id="7" />
+      <Sentence char_offsets="1519:1678" id="8" />
+      <Sentence char_offsets="1689:1714" id="9" />
+      <Sentence char_offsets="1716:1782" id="10" />
+      <Sentence char_offsets="1793:1894" id="11" />
+      <Sentence char_offsets="1896:2029" id="12" />
+      <Sentence char_offsets="2040:2242" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="042">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="043">
+        <Participant actor_id="30701" actor_name="France" agent_id="317" agent_name="Academics" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

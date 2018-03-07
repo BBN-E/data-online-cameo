@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0292">
+    <Sentences>
+      <Sentence char_offsets="180:353" id="0" />
+      <Sentence char_offsets="364:487" id="1" />
+      <Sentence char_offsets="498:607" id="2" />
+      <Sentence char_offsets="609:660" id="3" />
+      <Sentence char_offsets="671:884" id="4" />
+      <Sentence char_offsets="895:992" id="5" />
+      <Sentence char_offsets="1003:1174" id="6" />
+      <Sentence char_offsets="1185:1346" id="7" />
+      <Sentence char_offsets="1357:1449" id="8" />
+      <Sentence char_offsets="1460:1598" id="9" />
+      <Sentence char_offsets="1609:1842" id="10" />
+      <Sentence char_offsets="1853:2029" id="11" />
+      <Sentence char_offsets="2040:2124" id="12" />
+      <Sentence char_offsets="2126:2288" id="13" />
+      <Sentence char_offsets="2299:2437" id="14" />
+      <Sentence char_offsets="2448:2615" id="15" />
+      <Sentence char_offsets="2626:2795" id="16" />
+      <Sentence char_offsets="2806:2955" id="17" />
+      <Sentence char_offsets="2966:3031" id="18" />
+      <Sentence char_offsets="3042:3063" id="19" />
+      <Sentence char_offsets="3065:3153" id="20" />
+      <Sentence char_offsets="3164:3270" id="21" />
+      <Sentence char_offsets="3281:3386" id="22" />
+      <Sentence char_offsets="3397:3514" id="23" />
+      <Sentence char_offsets="3525:3685" id="24" />
+      <Sentence char_offsets="3696:3800" id="25" />
+      <Sentence char_offsets="3811:3999" id="26" />
+      <Sentence char_offsets="4010:4169" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="current" type="020">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="633" agent_name="Main Opposition" role="Source" />
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="47743" actor_name="Ilham Aliyev" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

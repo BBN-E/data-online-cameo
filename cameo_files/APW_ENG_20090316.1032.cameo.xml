@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.1032">
+    <Sentences>
+      <Sentence char_offsets="190:339" id="0" />
+      <Sentence char_offsets="350:574" id="1" />
+      <Sentence char_offsets="585:664" id="2" />
+      <Sentence char_offsets="666:760" id="3" />
+      <Sentence char_offsets="771:875" id="4" />
+      <Sentence char_offsets="877:951" id="5" />
+      <Sentence char_offsets="953:1092" id="6" />
+      <Sentence char_offsets="1103:1193" id="7" />
+      <Sentence char_offsets="1204:1392" id="8" />
+      <Sentence char_offsets="1394:1531" id="9" />
+      <Sentence char_offsets="1542:1639" id="10" />
+      <Sentence char_offsets="1650:1747" id="11" />
+      <Sentence char_offsets="1749:1889" id="12" />
+      <Sentence char_offsets="1900:2134" id="13" />
+      <Sentence char_offsets="2145:2221" id="14" />
+      <Sentence char_offsets="2223:2323" id="15" />
+      <Sentence char_offsets="2334:2474" id="16" />
+      <Sentence char_offsets="2485:2490" id="17" />
+      <Sentence char_offsets="2501:2563" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="current" type="040">
+        <Participant actor_id="26924" actor_name="Xie Zhenhua" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Source" />
+        <Participant actor_id="26924" actor_name="Xie Zhenhua" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

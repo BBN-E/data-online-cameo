@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0342">
+    <Sentences>
+      <Sentence char_offsets="182:309" id="0" />
+      <Sentence char_offsets="320:509" id="1" />
+      <Sentence char_offsets="520:611" id="2" />
+      <Sentence char_offsets="613:736" id="3" />
+      <Sentence char_offsets="747:845" id="4" />
+      <Sentence char_offsets="856:1070" id="5" />
+      <Sentence char_offsets="1081:1166" id="6" />
+      <Sentence char_offsets="1168:1251" id="7" />
+      <Sentence char_offsets="1253:1419" id="8" />
+      <Sentence char_offsets="1430:1593" id="9" />
+      <Sentence char_offsets="1595:1773" id="10" />
+      <Sentence char_offsets="1784:1944" id="11" />
+      <Sentence char_offsets="1955:2082" id="12" />
+      <Sentence char_offsets="2084:2264" id="13" />
+      <Sentence char_offsets="2275:2344" id="14" />
+      <Sentence char_offsets="2355:2469" id="15" />
+      <Sentence char_offsets="2471:2675" id="16" />
+      <Sentence char_offsets="2686:2920" id="17" />
+      <Sentence char_offsets="2922:3125" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="4242" actor_name="Mikhail Borisovich Khodorkovsky" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="236346" actor_name="Platon Lebedev" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

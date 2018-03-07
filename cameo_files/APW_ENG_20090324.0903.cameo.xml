@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0903">
+    <Sentences>
+      <Sentence char_offsets="183:371" id="0" />
+      <Sentence char_offsets="382:634" id="1" />
+      <Sentence char_offsets="645:734" id="2" />
+      <Sentence char_offsets="736:889" id="3" />
+      <Sentence char_offsets="900:1018" id="4" />
+      <Sentence char_offsets="1020:1068" id="5" />
+      <Sentence char_offsets="1079:1219" id="6" />
+      <Sentence char_offsets="1221:1279" id="7" />
+      <Sentence char_offsets="1290:1476" id="8" />
+      <Sentence char_offsets="1487:1785" id="9" />
+      <Sentence char_offsets="1796:1889" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="21275" actor_name="Juan Manuel Santos" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

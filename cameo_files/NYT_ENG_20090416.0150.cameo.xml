@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090416.0150">
+    <Sentences>
+      <Sentence char_offsets="158:362" id="0" />
+      <Sentence char_offsets="364:461" id="1" />
+      <Sentence char_offsets="472:742" id="2" />
+      <Sentence char_offsets="753:912" id="3" />
+      <Sentence char_offsets="914:1070" id="4" />
+      <Sentence char_offsets="1081:1244" id="5" />
+      <Sentence char_offsets="1255:1445" id="6" />
+      <Sentence char_offsets="1456:1611" id="7" />
+      <Sentence char_offsets="1613:1807" id="8" />
+      <Sentence char_offsets="1818:2111" id="9" />
+      <Sentence char_offsets="2122:2289" id="10" />
+      <Sentence char_offsets="2291:2511" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="163">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="411" agent_name="Drug Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

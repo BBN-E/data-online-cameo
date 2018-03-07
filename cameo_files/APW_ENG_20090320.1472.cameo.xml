@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.1472">
+    <Sentences>
+      <Sentence char_offsets="188:388" id="0" />
+      <Sentence char_offsets="399:502" id="1" />
+      <Sentence char_offsets="504:637" id="2" />
+      <Sentence char_offsets="648:758" id="3" />
+      <Sentence char_offsets="760:814" id="4" />
+      <Sentence char_offsets="816:1011" id="5" />
+      <Sentence char_offsets="1022:1153" id="6" />
+      <Sentence char_offsets="1155:1321" id="7" />
+      <Sentence char_offsets="1332:1365" id="8" />
+      <Sentence char_offsets="1376:1535" id="9" />
+      <Sentence char_offsets="1537:1651" id="10" />
+      <Sentence char_offsets="1662:1762" id="11" />
+      <Sentence char_offsets="1764:1837" id="12" />
+      <Sentence char_offsets="1848:1973" id="13" />
+      <Sentence char_offsets="1975:2138" id="14" />
+      <Sentence char_offsets="2149:2220" id="15" />
+      <Sentence char_offsets="2231:2313" id="16" />
+      <Sentence char_offsets="2324:2476" id="17" />
+      <Sentence char_offsets="2478:2549" id="18" />
+      <Sentence char_offsets="2560:2687" id="19" />
+      <Sentence char_offsets="2698:2829" id="20" />
+      <Sentence char_offsets="2831:2930" id="21" />
+      <Sentence char_offsets="2941:3116" id="22" />
+      <Sentence char_offsets="3127:3151" id="23" />
+      <Sentence char_offsets="3153:3273" id="24" />
+      <Sentence char_offsets="3275:3506" id="25" />
+      <Sentence char_offsets="3517:3666" id="26" />
+      <Sentence char_offsets="3668:3797" id="27" />
+      <Sentence char_offsets="3808:3941" id="28" />
+      <Sentence char_offsets="3943:4105" id="29" />
+      <Sentence char_offsets="4116:4227" id="30" />
+      <Sentence char_offsets="4229:4317" id="31" />
+      <Sentence char_offsets="4328:4415" id="32" />
+      <Sentence char_offsets="4417:4503" id="33" />
+      <Sentence char_offsets="4514:4622" id="34" />
+      <Sentence char_offsets="4624:4707" id="35" />
+      <Sentence char_offsets="4718:4723" id="36" />
+      <Sentence char_offsets="4734:4744" id="37" />
+      <Sentence char_offsets="4755:4799" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="50065" actor_name="Ali Akbar Javanfekr" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="032">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="032">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="6" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="20" tense="neutral" type="051">
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

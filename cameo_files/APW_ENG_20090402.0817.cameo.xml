@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0817">
+    <Sentences>
+      <Sentence char_offsets="197:392" id="0" />
+      <Sentence char_offsets="403:583" id="1" />
+      <Sentence char_offsets="594:718" id="2" />
+      <Sentence char_offsets="729:885" id="3" />
+      <Sentence char_offsets="896:1031" id="4" />
+      <Sentence char_offsets="1042:1111" id="5" />
+      <Sentence char_offsets="1122:1410" id="6" />
+      <Sentence char_offsets="1421:1585" id="7" />
+      <Sentence char_offsets="1596:1692" id="8" />
+      <Sentence char_offsets="1703:1874" id="9" />
+      <Sentence char_offsets="1885:2153" id="10" />
+      <Sentence char_offsets="2164:2290" id="11" />
+      <Sentence char_offsets="2292:2333" id="12" />
+      <Sentence char_offsets="2344:2436" id="13" />
+      <Sentence char_offsets="2447:2571" id="14" />
+      <Sentence char_offsets="2582:2684" id="15" />
+      <Sentence char_offsets="2686:2795" id="16" />
+      <Sentence char_offsets="2806:2811" id="17" />
+      <Sentence char_offsets="2822:2891" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="32659" actor_name="Colombia" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="141">
+        <Participant actor_id="30701" actor_name="France" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

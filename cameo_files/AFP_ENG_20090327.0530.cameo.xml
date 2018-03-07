@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0530">
+    <Sentences>
+      <Sentence char_offsets="170:338" id="0" />
+      <Sentence char_offsets="349:560" id="1" />
+      <Sentence char_offsets="571:723" id="2" />
+      <Sentence char_offsets="734:873" id="3" />
+      <Sentence char_offsets="875:995" id="4" />
+      <Sentence char_offsets="1006:1117" id="5" />
+      <Sentence char_offsets="1128:1300" id="6" />
+      <Sentence char_offsets="1311:1490" id="7" />
+      <Sentence char_offsets="1501:1582" id="8" />
+      <Sentence char_offsets="1593:1775" id="9" />
+      <Sentence char_offsets="1786:1924" id="10" />
+      <Sentence char_offsets="1926:1979" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="073">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="073">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="historical" type="181">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

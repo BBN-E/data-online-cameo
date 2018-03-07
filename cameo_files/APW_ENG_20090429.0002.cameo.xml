@@ -1,0 +1,83 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0002">
+    <Sentences>
+      <Sentence char_offsets="141:189" id="0" />
+      <Sentence char_offsets="191:226" id="1" />
+      <Sentence char_offsets="229:263" id="2" />
+      <Sentence char_offsets="266:362" id="3" />
+      <Sentence char_offsets="364:450" id="4" />
+      <Sentence char_offsets="453:517" id="5" />
+      <Sentence char_offsets="520:597" id="6" />
+      <Sentence char_offsets="600:721" id="7" />
+      <Sentence char_offsets="724:781" id="8" />
+      <Sentence char_offsets="784:853" id="9" />
+      <Sentence char_offsets="856:959" id="10" />
+      <Sentence char_offsets="962:1075" id="11" />
+      <Sentence char_offsets="1078:1145" id="12" />
+      <Sentence char_offsets="1148:1251" id="13" />
+      <Sentence char_offsets="1254:1398" id="14" />
+      <Sentence char_offsets="1401:1501" id="15" />
+      <Sentence char_offsets="1503:1522" id="16" />
+      <Sentence char_offsets="1525:1580" id="17" />
+      <Sentence char_offsets="1583:1676" id="18" />
+      <Sentence char_offsets="1679:1796" id="19" />
+      <Sentence char_offsets="1798:1853" id="20" />
+      <Sentence char_offsets="1856:1961" id="21" />
+      <Sentence char_offsets="1964:2096" id="22" />
+      <Sentence char_offsets="2099:2348" id="23" />
+      <Sentence char_offsets="2351:2594" id="24" />
+      <Sentence char_offsets="2597:2740" id="25" />
+      <Sentence char_offsets="2743:3017" id="26" />
+      <Sentence char_offsets="3020:3140" id="27" />
+      <Sentence char_offsets="3143:3235" id="28" />
+      <Sentence char_offsets="3237:3289" id="29" />
+      <Sentence char_offsets="3292:3490" id="30" />
+      <Sentence char_offsets="3493:3638" id="31" />
+      <Sentence char_offsets="3641:3889" id="32" />
+      <Sentence char_offsets="3892:4009" id="33" />
+      <Sentence char_offsets="4011:4092" id="34" />
+      <Sentence char_offsets="4095:4388" id="35" />
+      <Sentence char_offsets="4391:4578" id="36" />
+      <Sentence char_offsets="4581:4818" id="37" />
+      <Sentence char_offsets="4820:4860" id="38" />
+      <Sentence char_offsets="4863:4970" id="39" />
+      <Sentence char_offsets="4972:5109" id="40" />
+      <Sentence char_offsets="5112:5129" id="41" />
+      <Sentence char_offsets="5132:5482" id="42" />
+      <Sentence char_offsets="5485:5502" id="43" />
+      <Sentence char_offsets="5505:5635" id="44" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="32" tense="historical" type="010">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="31" tense="historical" type="042">
+        <Participant actor_id="33414" actor_name="John Paul II" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="historical" type="111">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="23" tense="historical" type="115">
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="historical" type="1721">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="542" agent_name="Immigrants" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="historical" type="192">
+        <Participant actor_id="39010" actor_name="South Africa" role="Source" />
+        <Participant actor_id="29036" actor_name="Angola" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="31" tense="historical" type="043">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="33414" actor_name="John Paul II" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

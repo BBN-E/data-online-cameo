@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090323.0175">
+    <Sentences>
+      <Sentence char_offsets="117:293" id="0" />
+      <Sentence char_offsets="304:472" id="1" />
+      <Sentence char_offsets="483:669" id="2" />
+      <Sentence char_offsets="680:950" id="3" />
+      <Sentence char_offsets="952:1101" id="4" />
+      <Sentence char_offsets="1112:1270" id="5" />
+      <Sentence char_offsets="1281:1555" id="6" />
+      <Sentence char_offsets="1566:1708" id="7" />
+      <Sentence char_offsets="1710:1803" id="8" />
+      <Sentence char_offsets="1805:1939" id="9" />
+      <Sentence char_offsets="1950:2046" id="10" />
+      <Sentence char_offsets="2057:2212" id="11" />
+      <Sentence char_offsets="2223:2441" id="12" />
+      <Sentence char_offsets="2452:2536" id="13" />
+      <Sentence char_offsets="2538:2702" id="14" />
+      <Sentence char_offsets="2713:2843" id="15" />
+      <Sentence char_offsets="2854:2947" id="16" />
+      <Sentence char_offsets="2949:3009" id="17" />
+      <Sentence char_offsets="3020:3192" id="18" />
+      <Sentence char_offsets="3194:3288" id="19" />
+      <Sentence char_offsets="3299:3478" id="20" />
+      <Sentence char_offsets="3489:3668" id="21" />
+      <Sentence char_offsets="3679:3859" id="22" />
+      <Sentence char_offsets="3870:4095" id="23" />
+      <Sentence char_offsets="4106:4422" id="24" />
+      <Sentence char_offsets="4433:4489" id="25" />
+      <Sentence char_offsets="4491:4651" id="26" />
+      <Sentence char_offsets="4653:4854" id="27" />
+      <Sentence char_offsets="4865:5128" id="28" />
+      <Sentence char_offsets="5139:5251" id="29" />
+      <Sentence char_offsets="5262:5406" id="30" />
+      <Sentence char_offsets="5408:5579" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="historical" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

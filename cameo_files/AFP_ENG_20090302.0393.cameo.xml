@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0393">
+    <Sentences>
+      <Sentence char_offsets="186:372" id="0" />
+      <Sentence char_offsets="383:632" id="1" />
+      <Sentence char_offsets="643:791" id="2" />
+      <Sentence char_offsets="802:986" id="3" />
+      <Sentence char_offsets="997:1097" id="4" />
+      <Sentence char_offsets="1108:1280" id="5" />
+      <Sentence char_offsets="1291:1417" id="6" />
+      <Sentence char_offsets="1428:1620" id="7" />
+      <Sentence char_offsets="1631:1824" id="8" />
+      <Sentence char_offsets="1835:1951" id="9" />
+      <Sentence char_offsets="1953:2014" id="10" />
+      <Sentence char_offsets="2025:2197" id="11" />
+      <Sentence char_offsets="2208:2347" id="12" />
+      <Sentence char_offsets="2358:2489" id="13" />
+      <Sentence char_offsets="2500:2625" id="14" />
+      <Sentence char_offsets="2636:2699" id="15" />
+      <Sentence char_offsets="2710:2952" id="16" />
+      <Sentence char_offsets="2963:3150" id="17" />
+      <Sentence char_offsets="3161:3266" id="18" />
+      <Sentence char_offsets="3277:3423" id="19" />
+      <Sentence char_offsets="3434:3530" id="20" />
+      <Sentence char_offsets="3532:3629" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="090">
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="604" agent_name="Muslim" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="112">
+        <Participant actor_id="29193" actor_name="Muslim Brotherhood" agent_id="314" agent_name="People Associated with the Opposition" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="112">
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="80" agent_name="Member of Parliament" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="historical" type="130">
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="80" agent_name="Member of Parliament" role="Source" />
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0272">
+    <Sentences>
+      <Sentence char_offsets="183:373" id="0" />
+      <Sentence char_offsets="384:551" id="1" />
+      <Sentence char_offsets="562:677" id="2" />
+      <Sentence char_offsets="688:846" id="3" />
+      <Sentence char_offsets="857:953" id="4" />
+      <Sentence char_offsets="955:1046" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="040">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="125">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="historical" type="040">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0368">
+    <Sentences>
+      <Sentence char_offsets="181:340" id="0" />
+      <Sentence char_offsets="351:445" id="1" />
+      <Sentence char_offsets="447:541" id="2" />
+      <Sentence char_offsets="552:650" id="3" />
+      <Sentence char_offsets="652:765" id="4" />
+      <Sentence char_offsets="767:865" id="5" />
+      <Sentence char_offsets="876:1043" id="6" />
+      <Sentence char_offsets="1054:1123" id="7" />
+      <Sentence char_offsets="1125:1260" id="8" />
+      <Sentence char_offsets="1262:1369" id="9" />
+      <Sentence char_offsets="1380:1529" id="10" />
+      <Sentence char_offsets="1531:1644" id="11" />
+      <Sentence char_offsets="1655:1814" id="12" />
+      <Sentence char_offsets="1816:1880" id="13" />
+      <Sentence char_offsets="1891:1961" id="14" />
+      <Sentence char_offsets="1963:2122" id="15" />
+      <Sentence char_offsets="2133:2215" id="16" />
+      <Sentence char_offsets="2226:2285" id="17" />
+      <Sentence char_offsets="2287:2445" id="18" />
+      <Sentence char_offsets="2456:2565" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="118131" actor_name="Yi Gang" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

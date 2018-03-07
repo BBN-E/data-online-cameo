@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0709">
+    <Sentences>
+      <Sentence char_offsets="178:325" id="0" />
+      <Sentence char_offsets="336:581" id="1" />
+      <Sentence char_offsets="592:702" id="2" />
+      <Sentence char_offsets="713:879" id="3" />
+      <Sentence char_offsets="890:955" id="4" />
+      <Sentence char_offsets="966:1088" id="5" />
+      <Sentence char_offsets="1099:1245" id="6" />
+      <Sentence char_offsets="1256:1318" id="7" />
+      <Sentence char_offsets="1320:1381" id="8" />
+      <Sentence char_offsets="1392:1535" id="9" />
+      <Sentence char_offsets="1537:1600" id="10" />
+      <Sentence char_offsets="1611:1748" id="11" />
+      <Sentence char_offsets="1759:1830" id="12" />
+      <Sentence char_offsets="1841:1891" id="13" />
+      <Sentence char_offsets="1902:2071" id="14" />
+      <Sentence char_offsets="2082:2175" id="15" />
+      <Sentence char_offsets="2186:2331" id="16" />
+      <Sentence char_offsets="2333:2465" id="17" />
+      <Sentence char_offsets="2476:2655" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="181">
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="28924" actor_name="Azerbaijan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

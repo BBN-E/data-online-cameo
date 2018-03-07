@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.0904">
+    <Sentences>
+      <Sentence char_offsets="177:392" id="0" />
+      <Sentence char_offsets="403:610" id="1" />
+      <Sentence char_offsets="621:765" id="2" />
+      <Sentence char_offsets="767:866" id="3" />
+      <Sentence char_offsets="877:1050" id="4" />
+      <Sentence char_offsets="1061:1188" id="5" />
+      <Sentence char_offsets="1190:1294" id="6" />
+      <Sentence char_offsets="1305:1462" id="7" />
+      <Sentence char_offsets="1464:1515" id="8" />
+      <Sentence char_offsets="1526:1603" id="9" />
+      <Sentence char_offsets="1605:1774" id="10" />
+      <Sentence char_offsets="1785:1985" id="11" />
+      <Sentence char_offsets="1996:2220" id="12" />
+      <Sentence char_offsets="2231:2282" id="13" />
+      <Sentence char_offsets="2284:2394" id="14" />
+      <Sentence char_offsets="2405:2430" id="15" />
+      <Sentence char_offsets="2432:2609" id="16" />
+      <Sentence char_offsets="2620:2681" id="17" />
+      <Sentence char_offsets="2683:2844" id="18" />
+      <Sentence char_offsets="2855:3024" id="19" />
+      <Sentence char_offsets="3035:3234" id="20" />
+      <Sentence char_offsets="3245:3381" id="21" />
+      <Sentence char_offsets="3392:3395" id="22" />
+      <Sentence char_offsets="3406:3460" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="451" agent_name="Catholic Bishop" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="historical" type="020">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="451" agent_name="Catholic Bishop" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

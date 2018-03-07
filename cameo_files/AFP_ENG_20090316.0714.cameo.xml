@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0714">
+    <Sentences>
+      <Sentence char_offsets="188:387" id="0" />
+      <Sentence char_offsets="398:626" id="1" />
+      <Sentence char_offsets="637:785" id="2" />
+      <Sentence char_offsets="796:1024" id="3" />
+      <Sentence char_offsets="1035:1254" id="4" />
+      <Sentence char_offsets="1265:1450" id="5" />
+      <Sentence char_offsets="1461:1684" id="6" />
+      <Sentence char_offsets="1695:1905" id="7" />
+      <Sentence char_offsets="1916:2138" id="8" />
+      <Sentence char_offsets="2149:2372" id="9" />
+      <Sentence char_offsets="2383:2527" id="10" />
+      <Sentence char_offsets="2538:2751" id="11" />
+      <Sentence char_offsets="2762:2976" id="12" />
+      <Sentence char_offsets="2987:3061" id="13" />
+      <Sentence char_offsets="3063:3107" id="14" />
+      <Sentence char_offsets="3109:3157" id="15" />
+      <Sentence char_offsets="3168:3231" id="16" />
+      <Sentence char_offsets="3242:3362" id="17" />
+      <Sentence char_offsets="3373:3467" id="18" />
+      <Sentence char_offsets="3478:3603" id="19" />
+      <Sentence char_offsets="3605:3657" id="20" />
+      <Sentence char_offsets="3668:3743" id="21" />
+      <Sentence char_offsets="3754:3872" id="22" />
+      <Sentence char_offsets="3874:3946" id="23" />
+      <Sentence char_offsets="3957:4105" id="24" />
+      <Sentence char_offsets="4116:4274" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="1721">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="145">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

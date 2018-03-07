@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0162">
+    <Sentences>
+      <Sentence char_offsets="199:354" id="0" />
+      <Sentence char_offsets="365:560" id="1" />
+      <Sentence char_offsets="571:744" id="2" />
+      <Sentence char_offsets="755:932" id="3" />
+      <Sentence char_offsets="943:1142" id="4" />
+      <Sentence char_offsets="1153:1363" id="5" />
+      <Sentence char_offsets="1374:1601" id="6" />
+      <Sentence char_offsets="1612:1858" id="7" />
+      <Sentence char_offsets="1869:1900" id="8" />
+      <Sentence char_offsets="1902:2054" id="9" />
+      <Sentence char_offsets="2065:2181" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="022">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="35247" actor_name="Viktor Yushchenko" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="35247" actor_name="Viktor Yushchenko" role="Source" />
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

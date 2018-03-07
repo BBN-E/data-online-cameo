@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0367">
+    <Sentences>
+      <Sentence char_offsets="190:309" id="0" />
+      <Sentence char_offsets="311:425" id="1" />
+      <Sentence char_offsets="436:536" id="2" />
+      <Sentence char_offsets="538:650" id="3" />
+      <Sentence char_offsets="661:855" id="4" />
+      <Sentence char_offsets="866:1058" id="5" />
+      <Sentence char_offsets="1069:1234" id="6" />
+      <Sentence char_offsets="1245:1388" id="7" />
+      <Sentence char_offsets="1399:1560" id="8" />
+      <Sentence char_offsets="1571:1643" id="9" />
+      <Sentence char_offsets="1654:1882" id="10" />
+      <Sentence char_offsets="1893:1972" id="11" />
+      <Sentence char_offsets="1974:2069" id="12" />
+      <Sentence char_offsets="2080:2254" id="13" />
+      <Sentence char_offsets="2265:2447" id="14" />
+      <Sentence char_offsets="2458:2581" id="15" />
+      <Sentence char_offsets="2592:2763" id="16" />
+      <Sentence char_offsets="2774:2954" id="17" />
+      <Sentence char_offsets="2965:3097" id="18" />
+      <Sentence char_offsets="3099:3216" id="19" />
+      <Sentence char_offsets="3227:3274" id="20" />
+      <Sentence char_offsets="3285:3394" id="21" />
+      <Sentence char_offsets="3405:3526" id="22" />
+      <Sentence char_offsets="3537:3542" id="23" />
+      <Sentence char_offsets="3553:3636" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="54651" actor_name="Lucio Gutierrez" role="Source" />
+        <Participant actor_id="37108" actor_name="Rafael Correa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

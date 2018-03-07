@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0030">
+    <Sentences>
+      <Sentence char_offsets="188:372" id="0" />
+      <Sentence char_offsets="383:589" id="1" />
+      <Sentence char_offsets="600:667" id="2" />
+      <Sentence char_offsets="678:826" id="3" />
+      <Sentence char_offsets="837:987" id="4" />
+      <Sentence char_offsets="998:1192" id="5" />
+      <Sentence char_offsets="1194:1388" id="6" />
+      <Sentence char_offsets="1399:1622" id="7" />
+      <Sentence char_offsets="1633:1925" id="8" />
+      <Sentence char_offsets="1936:2146" id="9" />
+      <Sentence char_offsets="2148:2241" id="10" />
+      <Sentence char_offsets="2252:2409" id="11" />
+      <Sentence char_offsets="2411:2497" id="12" />
+      <Sentence char_offsets="2508:2722" id="13" />
+      <Sentence char_offsets="2733:2941" id="14" />
+      <Sentence char_offsets="2943:3024" id="15" />
+      <Sentence char_offsets="3035:3191" id="16" />
+      <Sentence char_offsets="3202:3356" id="17" />
+      <Sentence char_offsets="3358:3414" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="014">
+        <Participant actor_id="38510" actor_name="Senate Finance Committee" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="35027" actor_name="Chuck Grassley" role="Source" />
+        <Participant actor_id="39756" actor_name="Pfizer" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

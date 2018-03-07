@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.1115">
+    <Sentences>
+      <Sentence char_offsets="184:415" id="0" />
+      <Sentence char_offsets="426:532" id="1" />
+      <Sentence char_offsets="543:547" id="2" />
+      <Sentence char_offsets="549:726" id="3" />
+      <Sentence char_offsets="737:820" id="4" />
+      <Sentence char_offsets="822:987" id="5" />
+      <Sentence char_offsets="998:1116" id="6" />
+      <Sentence char_offsets="1127:1236" id="7" />
+      <Sentence char_offsets="1247:1346" id="8" />
+      <Sentence char_offsets="1348:1504" id="9" />
+      <Sentence char_offsets="1515:1729" id="10" />
+      <Sentence char_offsets="1740:1916" id="11" />
+      <Sentence char_offsets="1918:2078" id="12" />
+      <Sentence char_offsets="2080:2101" id="13" />
+      <Sentence char_offsets="2112:2194" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="062">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="51142" actor_name="Sam Brownback" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

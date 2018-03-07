@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0807">
+    <Sentences>
+      <Sentence char_offsets="201:378" id="0" />
+      <Sentence char_offsets="389:610" id="1" />
+      <Sentence char_offsets="621:843" id="2" />
+      <Sentence char_offsets="854:1075" id="3" />
+      <Sentence char_offsets="1086:1263" id="4" />
+      <Sentence char_offsets="1274:1485" id="5" />
+      <Sentence char_offsets="1496:1678" id="6" />
+      <Sentence char_offsets="1689:1740" id="7" />
+      <Sentence char_offsets="1742:1785" id="8" />
+      <Sentence char_offsets="1796:1984" id="9" />
+      <Sentence char_offsets="1995:2196" id="10" />
+      <Sentence char_offsets="2207:2432" id="11" />
+      <Sentence char_offsets="2443:2551" id="12" />
+      <Sentence char_offsets="2562:2778" id="13" />
+      <Sentence char_offsets="2789:2893" id="14" />
+      <Sentence char_offsets="2904:3115" id="15" />
+      <Sentence char_offsets="3126:3269" id="16" />
+      <Sentence char_offsets="3280:3394" id="17" />
+      <Sentence char_offsets="3405:3443" id="18" />
+      <Sentence char_offsets="3445:3605" id="19" />
+      <Sentence char_offsets="3616:3823" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="24" agent_name="Fighter Bomber" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="192">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

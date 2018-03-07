@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0027">
+    <Sentences>
+      <Sentence char_offsets="197:372" id="0" />
+      <Sentence char_offsets="383:665" id="1" />
+      <Sentence char_offsets="676:798" id="2" />
+      <Sentence char_offsets="800:968" id="3" />
+      <Sentence char_offsets="979:1161" id="4" />
+      <Sentence char_offsets="1172:1288" id="5" />
+      <Sentence char_offsets="1299:1491" id="6" />
+      <Sentence char_offsets="1502:1612" id="7" />
+      <Sentence char_offsets="1614:1738" id="8" />
+      <Sentence char_offsets="1749:1955" id="9" />
+      <Sentence char_offsets="1966:2197" id="10" />
+      <Sentence char_offsets="2208:2433" id="11" />
+      <Sentence char_offsets="2444:2649" id="12" />
+      <Sentence char_offsets="2660:2819" id="13" />
+      <Sentence char_offsets="2821:2900" id="14" />
+      <Sentence char_offsets="2911:3054" id="15" />
+      <Sentence char_offsets="3056:3140" id="16" />
+      <Sentence char_offsets="3151:3414" id="17" />
+      <Sentence char_offsets="3425:3573" id="18" />
+      <Sentence char_offsets="3575:3666" id="19" />
+      <Sentence char_offsets="3677:3891" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="current" type="036">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="238591" actor_name="Sok An" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="15361" actor_name="Hun Sen" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="582" agent_name="Public Courts" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

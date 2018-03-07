@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0415">
+    <Sentences>
+      <Sentence char_offsets="167:312" id="0" />
+      <Sentence char_offsets="323:503" id="1" />
+      <Sentence char_offsets="514:656" id="2" />
+      <Sentence char_offsets="667:712" id="3" />
+      <Sentence char_offsets="723:831" id="4" />
+      <Sentence char_offsets="842:956" id="5" />
+      <Sentence char_offsets="967:1089" id="6" />
+      <Sentence char_offsets="1100:1211" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="120">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

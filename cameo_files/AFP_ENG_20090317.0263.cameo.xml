@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0263">
+    <Sentences>
+      <Sentence char_offsets="177:339" id="0" />
+      <Sentence char_offsets="350:544" id="1" />
+      <Sentence char_offsets="555:692" id="2" />
+      <Sentence char_offsets="703:906" id="3" />
+      <Sentence char_offsets="917:1026" id="4" />
+      <Sentence char_offsets="1037:1169" id="5" />
+      <Sentence char_offsets="1180:1250" id="6" />
+      <Sentence char_offsets="1252:1302" id="7" />
+      <Sentence char_offsets="1313:1520" id="8" />
+      <Sentence char_offsets="1531:1648" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="36655" actor_name="Sheikh Khalifa ibn Zaid al Nahayan" role="Source" />
+        <Participant actor_id="38573" actor_name="Manuchehr Mottaki" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="38573" actor_name="Manuchehr Mottaki" role="Source" />
+        <Participant actor_id="36655" actor_name="Sheikh Khalifa ibn Zaid al Nahayan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0827">
+    <Sentences>
+      <Sentence char_offsets="197:448" id="0" />
+      <Sentence char_offsets="459:721" id="1" />
+      <Sentence char_offsets="732:906" id="2" />
+      <Sentence char_offsets="908:1087" id="3" />
+      <Sentence char_offsets="1098:1252" id="4" />
+      <Sentence char_offsets="1254:1322" id="5" />
+      <Sentence char_offsets="1333:1668" id="6" />
+      <Sentence char_offsets="1679:1747" id="7" />
+      <Sentence char_offsets="1758:1896" id="8" />
+      <Sentence char_offsets="1898:1984" id="9" />
+      <Sentence char_offsets="1995:2159" id="10" />
+      <Sentence char_offsets="2161:2259" id="11" />
+      <Sentence char_offsets="2270:2397" id="12" />
+      <Sentence char_offsets="2408:2607" id="13" />
+      <Sentence char_offsets="2609:2642" id="14" />
+      <Sentence char_offsets="2653:2864" id="15" />
+      <Sentence char_offsets="2875:3167" id="16" />
+      <Sentence char_offsets="3178:3369" id="17" />
+      <Sentence char_offsets="3371:3461" id="18" />
+      <Sentence char_offsets="3472:3564" id="19" />
+      <Sentence char_offsets="3566:3694" id="20" />
+      <Sentence char_offsets="3705:3754" id="21" />
+      <Sentence char_offsets="3756:3855" id="22" />
+      <Sentence char_offsets="3857:3917" id="23" />
+      <Sentence char_offsets="3928:4102" id="24" />
+      <Sentence char_offsets="4113:4143" id="25" />
+      <Sentence char_offsets="4145:4195" id="26" />
+      <Sentence char_offsets="4197:4295" id="27" />
+      <Sentence char_offsets="4306:4501" id="28" />
+      <Sentence char_offsets="4503:4682" id="29" />
+      <Sentence char_offsets="4693:4698" id="30" />
+      <Sentence char_offsets="4709:4824" id="31" />
+      <Sentence char_offsets="4835:4840" id="32" />
+      <Sentence char_offsets="4851:4861" id="33" />
+      <Sentence char_offsets="4872:4897" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="38558" actor_name="Food and Drug Administration" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

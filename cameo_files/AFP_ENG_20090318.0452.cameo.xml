@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0452">
+    <Sentences>
+      <Sentence char_offsets="202:391" id="0" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="032">
+        <Participant actor_id="35486" actor_name="Transnistria" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="032">
+        <Participant actor_id="36630" actor_name="Moldova" role="Source" />
+        <Participant actor_id="35486" actor_name="Transnistria" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

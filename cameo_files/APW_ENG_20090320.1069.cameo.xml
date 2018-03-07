@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.1069">
+    <Sentences>
+      <Sentence char_offsets="196:336" id="0" />
+      <Sentence char_offsets="347:438" id="1" />
+      <Sentence char_offsets="449:670" id="2" />
+      <Sentence char_offsets="681:813" id="3" />
+      <Sentence char_offsets="815:874" id="4" />
+      <Sentence char_offsets="885:1114" id="5" />
+      <Sentence char_offsets="1125:1170" id="6" />
+      <Sentence char_offsets="1181:1393" id="7" />
+      <Sentence char_offsets="1395:1495" id="8" />
+      <Sentence char_offsets="1506:1585" id="9" />
+      <Sentence char_offsets="1587:1706" id="10" />
+      <Sentence char_offsets="1717:1885" id="11" />
+      <Sentence char_offsets="1896:2014" id="12" />
+      <Sentence char_offsets="2025:2240" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="55204" actor_name="Mikulas Dzurinda" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="48779" actor_name="Ivan Gasparovic" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0292">
+    <Sentences>
+      <Sentence char_offsets="190:422" id="0" />
+      <Sentence char_offsets="433:665" id="1" />
+      <Sentence char_offsets="676:883" id="2" />
+      <Sentence char_offsets="894:1174" id="3" />
+      <Sentence char_offsets="1185:1392" id="4" />
+      <Sentence char_offsets="1403:1503" id="5" />
+      <Sentence char_offsets="1514:1636" id="6" />
+      <Sentence char_offsets="1638:1670" id="7" />
+      <Sentence char_offsets="1681:1905" id="8" />
+      <Sentence char_offsets="1916:2037" id="9" />
+      <Sentence char_offsets="2048:2184" id="10" />
+      <Sentence char_offsets="2186:2310" id="11" />
+      <Sentence char_offsets="2321:2497" id="12" />
+      <Sentence char_offsets="2508:2792" id="13" />
+      <Sentence char_offsets="2803:2849" id="14" />
+      <Sentence char_offsets="2860:3077" id="15" />
+      <Sentence char_offsets="3088:3410" id="16" />
+      <Sentence char_offsets="3421:3669" id="17" />
+      <Sentence char_offsets="3680:3759" id="18" />
+      <Sentence char_offsets="3770:4060" id="19" />
+      <Sentence char_offsets="4071:4186" id="20" />
+      <Sentence char_offsets="4197:4202" id="21" />
+      <Sentence char_offsets="4213:4303" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

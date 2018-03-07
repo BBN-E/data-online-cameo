@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0118">
+    <Sentences>
+      <Sentence char_offsets="184:382" id="0" />
+      <Sentence char_offsets="393:585" id="1" />
+      <Sentence char_offsets="596:724" id="2" />
+      <Sentence char_offsets="726:870" id="3" />
+      <Sentence char_offsets="881:1016" id="4" />
+      <Sentence char_offsets="1018:1128" id="5" />
+      <Sentence char_offsets="1139:1251" id="6" />
+      <Sentence char_offsets="1253:1514" id="7" />
+      <Sentence char_offsets="1525:1580" id="8" />
+      <Sentence char_offsets="1591:1669" id="9" />
+      <Sentence char_offsets="1680:1843" id="10" />
+      <Sentence char_offsets="1845:1943" id="11" />
+      <Sentence char_offsets="1954:2115" id="12" />
+      <Sentence char_offsets="2117:2199" id="13" />
+      <Sentence char_offsets="2210:2431" id="14" />
+      <Sentence char_offsets="2442:2579" id="15" />
+      <Sentence char_offsets="2590:2756" id="16" />
+      <Sentence char_offsets="2758:2820" id="17" />
+      <Sentence char_offsets="2831:2961" id="18" />
+      <Sentence char_offsets="2963:3097" id="19" />
+      <Sentence char_offsets="3108:3133" id="20" />
+      <Sentence char_offsets="3144:3196" id="21" />
+      <Sentence char_offsets="3207:3457" id="22" />
+      <Sentence char_offsets="3459:3553" id="23" />
+      <Sentence char_offsets="3564:3703" id="24" />
+      <Sentence char_offsets="3705:3749" id="25" />
+      <Sentence char_offsets="3760:3767" id="26" />
+      <Sentence char_offsets="3778:3897" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

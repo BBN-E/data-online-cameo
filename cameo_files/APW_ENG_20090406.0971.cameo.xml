@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0971">
+    <Sentences>
+      <Sentence char_offsets="174:373" id="0" />
+      <Sentence char_offsets="384:594" id="1" />
+      <Sentence char_offsets="605:812" id="2" />
+      <Sentence char_offsets="823:962" id="3" />
+      <Sentence char_offsets="973:1107" id="4" />
+      <Sentence char_offsets="1109:1173" id="5" />
+      <Sentence char_offsets="1175:1257" id="6" />
+      <Sentence char_offsets="1268:1384" id="7" />
+      <Sentence char_offsets="1386:1651" id="8" />
+      <Sentence char_offsets="1662:1779" id="9" />
+      <Sentence char_offsets="1790:1925" id="10" />
+      <Sentence char_offsets="1936:2096" id="11" />
+      <Sentence char_offsets="2107:2242" id="12" />
+      <Sentence char_offsets="2244:2307" id="13" />
+      <Sentence char_offsets="2318:2473" id="14" />
+      <Sentence char_offsets="2475:2523" id="15" />
+      <Sentence char_offsets="2534:2748" id="16" />
+      <Sentence char_offsets="2759:2981" id="17" />
+      <Sentence char_offsets="2992:3100" id="18" />
+      <Sentence char_offsets="3102:3208" id="19" />
+      <Sentence char_offsets="3219:3346" id="20" />
+      <Sentence char_offsets="3348:3502" id="21" />
+      <Sentence char_offsets="3513:3675" id="22" />
+      <Sentence char_offsets="3677:3773" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090329.0080">
+    <Sentences>
+      <Sentence char_offsets="187:456" id="0" />
+      <Sentence char_offsets="467:710" id="1" />
+      <Sentence char_offsets="721:974" id="2" />
+      <Sentence char_offsets="985:1008" id="3" />
+      <Sentence char_offsets="1010:1120" id="4" />
+      <Sentence char_offsets="1131:1254" id="5" />
+      <Sentence char_offsets="1256:1387" id="6" />
+      <Sentence char_offsets="1398:1618" id="7" />
+      <Sentence char_offsets="1629:1875" id="8" />
+      <Sentence char_offsets="1886:2013" id="9" />
+      <Sentence char_offsets="2024:2206" id="10" />
+      <Sentence char_offsets="2217:2350" id="11" />
+      <Sentence char_offsets="2352:2500" id="12" />
+      <Sentence char_offsets="2511:2715" id="13" />
+      <Sentence char_offsets="2726:2863" id="14" />
+      <Sentence char_offsets="2874:2937" id="15" />
+      <Sentence char_offsets="2939:3206" id="16" />
+      <Sentence char_offsets="3217:3371" id="17" />
+      <Sentence char_offsets="3382:3505" id="18" />
+      <Sentence char_offsets="3516:3673" id="19" />
+      <Sentence char_offsets="3675:3703" id="20" />
+      <Sentence char_offsets="3714:3892" id="21" />
+      <Sentence char_offsets="3903:4051" id="22" />
+      <Sentence char_offsets="4062:4202" id="23" />
+      <Sentence char_offsets="4204:4297" id="24" />
+      <Sentence char_offsets="4308:4368" id="25" />
+      <Sentence char_offsets="4379:4502" id="26" />
+      <Sentence char_offsets="4504:4625" id="27" />
+      <Sentence char_offsets="4636:4883" id="28" />
+      <Sentence char_offsets="4894:5002" id="29" />
+      <Sentence char_offsets="5013:5018" id="30" />
+      <Sentence char_offsets="5029:5135" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="030">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="9328" actor_name="Baltasar Garz&#243;n" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="030">
+        <Participant actor_id="9328" actor_name="Baltasar Garz&#243;n" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="030">
+        <Participant actor_id="30889" actor_name="Miguel &#193;ngel Moratinos" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="28" tense="neutral" type="032">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="29" tense="neutral" type="036">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

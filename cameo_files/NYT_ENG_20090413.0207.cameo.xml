@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090413.0207">
+    <Sentences>
+      <Sentence char_offsets="233:416" id="0" />
+      <Sentence char_offsets="427:626" id="1" />
+      <Sentence char_offsets="628:761" id="2" />
+      <Sentence char_offsets="772:892" id="3" />
+      <Sentence char_offsets="894:988" id="4" />
+      <Sentence char_offsets="999:1168" id="5" />
+      <Sentence char_offsets="1179:1297" id="6" />
+      <Sentence char_offsets="1308:1442" id="7" />
+      <Sentence char_offsets="1444:1564" id="8" />
+      <Sentence char_offsets="1575:1636" id="9" />
+      <Sentence char_offsets="1638:1743" id="10" />
+      <Sentence char_offsets="1745:1888" id="11" />
+      <Sentence char_offsets="1899:2028" id="12" />
+      <Sentence char_offsets="2039:2271" id="13" />
+      <Sentence char_offsets="2282:2323" id="14" />
+      <Sentence char_offsets="2334:2437" id="15" />
+      <Sentence char_offsets="2439:2489" id="16" />
+      <Sentence char_offsets="2491:2509" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="120">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="43686" actor_name="Fernando Armindo Lugo M&#233;ndez" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

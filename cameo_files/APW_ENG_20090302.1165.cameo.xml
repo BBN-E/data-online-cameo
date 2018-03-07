@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.1165">
+    <Sentences>
+      <Sentence char_offsets="225:400" id="0" />
+      <Sentence char_offsets="411:553" id="1" />
+      <Sentence char_offsets="555:674" id="2" />
+      <Sentence char_offsets="685:864" id="3" />
+      <Sentence char_offsets="875:975" id="4" />
+      <Sentence char_offsets="977:1033" id="5" />
+      <Sentence char_offsets="1044:1153" id="6" />
+      <Sentence char_offsets="1155:1298" id="7" />
+      <Sentence char_offsets="1309:1465" id="8" />
+      <Sentence char_offsets="1467:1559" id="9" />
+      <Sentence char_offsets="1570:1678" id="10" />
+      <Sentence char_offsets="1680:1834" id="11" />
+      <Sentence char_offsets="1845:1936" id="12" />
+      <Sentence char_offsets="1938:2033" id="13" />
+      <Sentence char_offsets="2044:2112" id="14" />
+      <Sentence char_offsets="2123:2239" id="15" />
+      <Sentence char_offsets="2250:2359" id="16" />
+      <Sentence char_offsets="2370:2523" id="17" />
+      <Sentence char_offsets="2534:2641" id="18" />
+      <Sentence char_offsets="2652:2721" id="19" />
+      <Sentence char_offsets="2723:2774" id="20" />
+      <Sentence char_offsets="2785:2854" id="21" />
+      <Sentence char_offsets="2865:3046" id="22" />
+      <Sentence char_offsets="3057:3156" id="23" />
+      <Sentence char_offsets="3158:3232" id="24" />
+      <Sentence char_offsets="3243:3336" id="25" />
+      <Sentence char_offsets="3338:3406" id="26" />
+      <Sentence char_offsets="3417:3659" id="27" />
+      <Sentence char_offsets="3670:3734" id="28" />
+      <Sentence char_offsets="3736:3851" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="36254" actor_name="Stephen Harper" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

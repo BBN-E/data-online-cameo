@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.0397">
+    <Sentences>
+      <Sentence char_offsets="187:327" id="0" />
+      <Sentence char_offsets="338:546" id="1" />
+      <Sentence char_offsets="557:785" id="2" />
+      <Sentence char_offsets="796:929" id="3" />
+      <Sentence char_offsets="931:1173" id="4" />
+      <Sentence char_offsets="1184:1402" id="5" />
+      <Sentence char_offsets="1413:1613" id="6" />
+      <Sentence char_offsets="1615:1782" id="7" />
+      <Sentence char_offsets="1784:1884" id="8" />
+      <Sentence char_offsets="1895:2083" id="9" />
+      <Sentence char_offsets="2094:2275" id="10" />
+      <Sentence char_offsets="2286:2419" id="11" />
+      <Sentence char_offsets="2421:2532" id="12" />
+      <Sentence char_offsets="2543:2665" id="13" />
+      <Sentence char_offsets="2676:2813" id="14" />
+      <Sentence char_offsets="2815:3023" id="15" />
+      <Sentence char_offsets="3025:3169" id="16" />
+      <Sentence char_offsets="3180:3317" id="17" />
+      <Sentence char_offsets="3328:3481" id="18" />
+      <Sentence char_offsets="3492:3646" id="19" />
+      <Sentence char_offsets="3657:3769" id="20" />
+      <Sentence char_offsets="3771:3940" id="21" />
+      <Sentence char_offsets="3951:4090" id="22" />
+      <Sentence char_offsets="4101:4365" id="23" />
+      <Sentence char_offsets="4367:4446" id="24" />
+      <Sentence char_offsets="4457:4622" id="25" />
+      <Sentence char_offsets="4633:4802" id="26" />
+      <Sentence char_offsets="4804:4928" id="27" />
+      <Sentence char_offsets="4939:4944" id="28" />
+      <Sentence char_offsets="4955:5066" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="current" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="current" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="25" tense="neutral" type="141">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="141">
+        <Participant actor_id="30701" actor_name="France" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="25" tense="neutral" type="175">
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="13" tense="historical" type="190">
+        <Participant actor_id="30435" actor_name="Georgia" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="13" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="current" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

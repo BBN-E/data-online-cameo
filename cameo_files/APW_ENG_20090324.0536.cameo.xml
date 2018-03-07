@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0536">
+    <Sentences>
+      <Sentence char_offsets="195:313" id="0" />
+      <Sentence char_offsets="324:475" id="1" />
+      <Sentence char_offsets="477:699" id="2" />
+      <Sentence char_offsets="710:964" id="3" />
+      <Sentence char_offsets="975:1092" id="4" />
+      <Sentence char_offsets="1103:1217" id="5" />
+      <Sentence char_offsets="1228:1342" id="6" />
+      <Sentence char_offsets="1344:1368" id="7" />
+      <Sentence char_offsets="1379:1491" id="8" />
+      <Sentence char_offsets="1493:1572" id="9" />
+      <Sentence char_offsets="1583:1795" id="10" />
+      <Sentence char_offsets="1797:1863" id="11" />
+      <Sentence char_offsets="1874:2061" id="12" />
+      <Sentence char_offsets="2063:2150" id="13" />
+      <Sentence char_offsets="2152:2186" id="14" />
+      <Sentence char_offsets="2197:2204" id="15" />
+      <Sentence char_offsets="2215:2225" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="041">
+        <Participant actor_id="235842" actor_name="Mark Simmonds" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="235842" actor_name="Mark Simmonds" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="050">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="112">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="193">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

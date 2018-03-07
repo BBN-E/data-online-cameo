@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0429">
+    <Sentences>
+      <Sentence char_offsets="180:349" id="0" />
+      <Sentence char_offsets="360:567" id="1" />
+      <Sentence char_offsets="578:708" id="2" />
+      <Sentence char_offsets="710:828" id="3" />
+      <Sentence char_offsets="839:1056" id="4" />
+      <Sentence char_offsets="1067:1270" id="5" />
+      <Sentence char_offsets="1281:1458" id="6" />
+      <Sentence char_offsets="1469:1618" id="7" />
+      <Sentence char_offsets="1629:1857" id="8" />
+      <Sentence char_offsets="1868:1996" id="9" />
+      <Sentence char_offsets="1998:2092" id="10" />
+      <Sentence char_offsets="2103:2340" id="11" />
+      <Sentence char_offsets="2351:2556" id="12" />
+      <Sentence char_offsets="2567:2765" id="13" />
+      <Sentence char_offsets="2776:2961" id="14" />
+      <Sentence char_offsets="2972:3136" id="15" />
+      <Sentence char_offsets="3147:3375" id="16" />
+      <Sentence char_offsets="3386:3582" id="17" />
+      <Sentence char_offsets="3593:3709" id="18" />
+      <Sentence char_offsets="3720:3852" id="19" />
+      <Sentence char_offsets="3863:4080" id="20" />
+      <Sentence char_offsets="4091:4155" id="21" />
+      <Sentence char_offsets="4157:4266" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

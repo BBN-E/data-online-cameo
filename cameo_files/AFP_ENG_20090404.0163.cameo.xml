@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090404.0163">
+    <Sentences>
+      <Sentence char_offsets="184:360" id="0" />
+      <Sentence char_offsets="371:575" id="1" />
+      <Sentence char_offsets="586:812" id="2" />
+      <Sentence char_offsets="823:956" id="3" />
+      <Sentence char_offsets="967:1013" id="4" />
+      <Sentence char_offsets="1024:1133" id="5" />
+      <Sentence char_offsets="1144:1362" id="6" />
+      <Sentence char_offsets="1373:1554" id="7" />
+      <Sentence char_offsets="1565:1679" id="8" />
+      <Sentence char_offsets="1681:1751" id="9" />
+      <Sentence char_offsets="1762:1968" id="10" />
+      <Sentence char_offsets="1979:2172" id="11" />
+      <Sentence char_offsets="2183:2314" id="12" />
+      <Sentence char_offsets="2325:2510" id="13" />
+      <Sentence char_offsets="2521:2566" id="14" />
+      <Sentence char_offsets="2577:2727" id="15" />
+      <Sentence char_offsets="2738:2931" id="16" />
+      <Sentence char_offsets="2942:3034" id="17" />
+      <Sentence char_offsets="3045:3225" id="18" />
+      <Sentence char_offsets="3236:3459" id="19" />
+      <Sentence char_offsets="3470:3641" id="20" />
+      <Sentence char_offsets="3652:3834" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="historical" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" agent_id="125" agent_name="Rebel Commander" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="592" agent_name="Displaced Families" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="neutral" type="042">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="19" tense="neutral" type="100">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="neutral" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="current" type="192">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="7" tense="neutral" type="193">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="592" agent_name="Displaced Families" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="15" tense="neutral" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

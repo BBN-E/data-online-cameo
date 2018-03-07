@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0833">
+    <Sentences>
+      <Sentence char_offsets="187:379" id="0" />
+      <Sentence char_offsets="390:521" id="1" />
+      <Sentence char_offsets="523:729" id="2" />
+      <Sentence char_offsets="740:834" id="3" />
+      <Sentence char_offsets="836:925" id="4" />
+      <Sentence char_offsets="936:1166" id="5" />
+      <Sentence char_offsets="1177:1297" id="6" />
+      <Sentence char_offsets="1299:1443" id="7" />
+      <Sentence char_offsets="1445:1503" id="8" />
+      <Sentence char_offsets="1514:1690" id="9" />
+      <Sentence char_offsets="1701:2091" id="10" />
+      <Sentence char_offsets="2102:2170" id="11" />
+      <Sentence char_offsets="2181:2514" id="12" />
+      <Sentence char_offsets="2525:2691" id="13" />
+      <Sentence char_offsets="2702:2839" id="14" />
+      <Sentence char_offsets="2841:3047" id="15" />
+      <Sentence char_offsets="3049:3220" id="16" />
+      <Sentence char_offsets="3231:3532" id="17" />
+      <Sentence char_offsets="3543:3775" id="18" />
+      <Sentence char_offsets="3786:3961" id="19" />
+      <Sentence char_offsets="3972:4126" id="20" />
+      <Sentence char_offsets="4137:4513" id="21" />
+      <Sentence char_offsets="4524:4691" id="22" />
+      <Sentence char_offsets="4693:4868" id="23" />
+      <Sentence char_offsets="4879:5107" id="24" />
+      <Sentence char_offsets="5118:5123" id="25" />
+      <Sentence char_offsets="5134:5244" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="516" agent_name="Joint Chiefs of Staff" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="46594" actor_name="Frank-Walter Steinmeier" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

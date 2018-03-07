@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1247">
+    <Sentences>
+      <Sentence char_offsets="182:384" id="0" />
+      <Sentence char_offsets="395:584" id="1" />
+      <Sentence char_offsets="595:791" id="2" />
+      <Sentence char_offsets="793:858" id="3" />
+      <Sentence char_offsets="869:1075" id="4" />
+      <Sentence char_offsets="1086:1238" id="5" />
+      <Sentence char_offsets="1240:1334" id="6" />
+      <Sentence char_offsets="1345:1620" id="7" />
+      <Sentence char_offsets="1631:1882" id="8" />
+      <Sentence char_offsets="1893:2181" id="9" />
+      <Sentence char_offsets="2192:2369" id="10" />
+      <Sentence char_offsets="2380:2702" id="11" />
+      <Sentence char_offsets="2713:2910" id="12" />
+      <Sentence char_offsets="2921:3063" id="13" />
+      <Sentence char_offsets="3074:3169" id="14" />
+      <Sentence char_offsets="3180:3185" id="15" />
+      <Sentence char_offsets="3196:3206" id="16" />
+      <Sentence char_offsets="3217:3265" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="historical" type="010">
+        <Participant actor_id="31847" actor_name="Iceland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="31847" actor_name="Iceland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

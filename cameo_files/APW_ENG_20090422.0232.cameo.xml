@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0232">
+    <Sentences>
+      <Sentence char_offsets="192:369" id="0" />
+      <Sentence char_offsets="380:543" id="1" />
+      <Sentence char_offsets="554:754" id="2" />
+      <Sentence char_offsets="765:921" id="3" />
+      <Sentence char_offsets="932:1053" id="4" />
+      <Sentence char_offsets="1064:1210" id="5" />
+      <Sentence char_offsets="1221:1286" id="6" />
+      <Sentence char_offsets="1288:1428" id="7" />
+      <Sentence char_offsets="1439:1515" id="8" />
+      <Sentence char_offsets="1526:1779" id="9" />
+      <Sentence char_offsets="1790:1932" id="10" />
+      <Sentence char_offsets="1934:2060" id="11" />
+      <Sentence char_offsets="2071:2268" id="12" />
+      <Sentence char_offsets="2270:2317" id="13" />
+      <Sentence char_offsets="2319:2342" id="14" />
+      <Sentence char_offsets="2353:2492" id="15" />
+      <Sentence char_offsets="2503:2621" id="16" />
+      <Sentence char_offsets="2623:2745" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="30701" actor_name="France" agent_id="386" agent_name="Naval" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="35866" actor_name="Kenya" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="386" agent_name="Naval" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

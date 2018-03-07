@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.1067">
+    <Sentences>
+      <Sentence char_offsets="195:401" id="0" />
+      <Sentence char_offsets="412:692" id="1" />
+      <Sentence char_offsets="703:940" id="2" />
+      <Sentence char_offsets="951:1171" id="3" />
+      <Sentence char_offsets="1173:1245" id="4" />
+      <Sentence char_offsets="1256:1502" id="5" />
+      <Sentence char_offsets="1513:1602" id="6" />
+      <Sentence char_offsets="1604:1644" id="7" />
+      <Sentence char_offsets="1655:1813" id="8" />
+      <Sentence char_offsets="1824:2103" id="9" />
+      <Sentence char_offsets="2114:2372" id="10" />
+      <Sentence char_offsets="2374:2431" id="11" />
+      <Sentence char_offsets="2442:2713" id="12" />
+      <Sentence char_offsets="2724:2973" id="13" />
+      <Sentence char_offsets="2984:3125" id="14" />
+      <Sentence char_offsets="3127:3180" id="15" />
+      <Sentence char_offsets="3191:3557" id="16" />
+      <Sentence char_offsets="3568:3811" id="17" />
+      <Sentence char_offsets="3822:4088" id="18" />
+      <Sentence char_offsets="4099:4261" id="19" />
+      <Sentence char_offsets="4272:4355" id="20" />
+      <Sentence char_offsets="4366:4583" id="21" />
+      <Sentence char_offsets="4594:4690" id="22" />
+      <Sentence char_offsets="4692:4771" id="23" />
+      <Sentence char_offsets="4773:4882" id="24" />
+      <Sentence char_offsets="4893:5028" id="25" />
+      <Sentence char_offsets="5039:5210" id="26" />
+      <Sentence char_offsets="5221:5500" id="27" />
+      <Sentence char_offsets="5511:5668" id="28" />
+      <Sentence char_offsets="5670:5847" id="29" />
+      <Sentence char_offsets="5858:5993" id="30" />
+      <Sentence char_offsets="6004:6244" id="31" />
+      <Sentence char_offsets="6255:6262" id="32" />
+      <Sentence char_offsets="6273:6368" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="040">
+        <Participant actor_id="25494" actor_name="Jean-Claude Trichet" role="Source" />
+        <Participant actor_id="56777" actor_name="Kaoru Yosano" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="50595" actor_name="Robert B. Zoellick" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="56777" actor_name="Kaoru Yosano" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="current" type="040">
+        <Participant actor_id="56777" actor_name="Kaoru Yosano" role="Source" />
+        <Participant actor_id="25494" actor_name="Jean-Claude Trichet" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="50595" actor_name="Robert B. Zoellick" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

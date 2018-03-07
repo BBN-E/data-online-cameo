@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0365">
+    <Sentences>
+      <Sentence char_offsets="177:371" id="0" />
+      <Sentence char_offsets="382:517" id="1" />
+      <Sentence char_offsets="528:713" id="2" />
+      <Sentence char_offsets="724:843" id="3" />
+      <Sentence char_offsets="854:967" id="4" />
+      <Sentence char_offsets="978:1125" id="5" />
+      <Sentence char_offsets="1136:1260" id="6" />
+      <Sentence char_offsets="1271:1477" id="7" />
+      <Sentence char_offsets="1488:1695" id="8" />
+      <Sentence char_offsets="1706:1912" id="9" />
+      <Sentence char_offsets="1923:1987" id="10" />
+      <Sentence char_offsets="1998:2163" id="11" />
+      <Sentence char_offsets="2174:2245" id="12" />
+      <Sentence char_offsets="2256:2461" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="132">
+        <Participant actor_id="3838" actor_name="Gazprom" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

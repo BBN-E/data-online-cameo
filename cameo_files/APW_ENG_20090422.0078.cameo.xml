@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0078">
+    <Sentences>
+      <Sentence char_offsets="198:356" id="0" />
+      <Sentence char_offsets="358:476" id="1" />
+      <Sentence char_offsets="487:659" id="2" />
+      <Sentence char_offsets="670:836" id="3" />
+      <Sentence char_offsets="838:906" id="4" />
+      <Sentence char_offsets="917:1039" id="5" />
+      <Sentence char_offsets="1041:1120" id="6" />
+      <Sentence char_offsets="1131:1215" id="7" />
+      <Sentence char_offsets="1217:1306" id="8" />
+      <Sentence char_offsets="1317:1357" id="9" />
+      <Sentence char_offsets="1368:1483" id="10" />
+      <Sentence char_offsets="1494:1582" id="11" />
+      <Sentence char_offsets="1593:1651" id="12" />
+      <Sentence char_offsets="1653:1705" id="13" />
+      <Sentence char_offsets="1716:1823" id="14" />
+      <Sentence char_offsets="1825:1932" id="15" />
+      <Sentence char_offsets="1943:2054" id="16" />
+      <Sentence char_offsets="2065:2131" id="17" />
+      <Sentence char_offsets="2142:2317" id="18" />
+      <Sentence char_offsets="2328:2475" id="19" />
+      <Sentence char_offsets="2486:2695" id="20" />
+      <Sentence char_offsets="2706:2936" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

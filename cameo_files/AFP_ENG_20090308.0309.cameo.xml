@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0309">
+    <Sentences>
+      <Sentence char_offsets="182:386" id="0" />
+      <Sentence char_offsets="397:503" id="1" />
+      <Sentence char_offsets="514:667" id="2" />
+      <Sentence char_offsets="678:748" id="3" />
+      <Sentence char_offsets="759:914" id="4" />
+      <Sentence char_offsets="916:951" id="5" />
+      <Sentence char_offsets="962:1022" id="6" />
+      <Sentence char_offsets="1024:1171" id="7" />
+      <Sentence char_offsets="1182:1297" id="8" />
+      <Sentence char_offsets="1308:1442" id="9" />
+      <Sentence char_offsets="1453:1596" id="10" />
+      <Sentence char_offsets="1607:1724" id="11" />
+      <Sentence char_offsets="1735:1838" id="12" />
+      <Sentence char_offsets="1849:1984" id="13" />
+      <Sentence char_offsets="1995:2094" id="14" />
+      <Sentence char_offsets="2096:2148" id="15" />
+      <Sentence char_offsets="2159:2199" id="16" />
+      <Sentence char_offsets="2210:2341" id="17" />
+      <Sentence char_offsets="2343:2380" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="30469" actor_name="Guinea" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="30469" actor_name="Guinea" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="186">
+        <Participant actor_id="30469" actor_name="Guinea" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="48346" actor_name="Joao Bernardo Vieira" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090307.0102">
+    <Sentences>
+      <Sentence char_offsets="194:355" id="0" />
+      <Sentence char_offsets="366:510" id="1" />
+      <Sentence char_offsets="521:776" id="2" />
+      <Sentence char_offsets="787:901" id="3" />
+      <Sentence char_offsets="903:999" id="4" />
+      <Sentence char_offsets="1010:1171" id="5" />
+      <Sentence char_offsets="1182:1383" id="6" />
+      <Sentence char_offsets="1394:1466" id="7" />
+      <Sentence char_offsets="1477:1552" id="8" />
+      <Sentence char_offsets="1554:1752" id="9" />
+      <Sentence char_offsets="1763:1995" id="10" />
+      <Sentence char_offsets="2006:2126" id="11" />
+      <Sentence char_offsets="2137:2266" id="12" />
+      <Sentence char_offsets="2277:2391" id="13" />
+      <Sentence char_offsets="2393:2541" id="14" />
+      <Sentence char_offsets="2552:2718" id="15" />
+      <Sentence char_offsets="2729:2878" id="16" />
+      <Sentence char_offsets="2889:3022" id="17" />
+      <Sentence char_offsets="3033:3205" id="18" />
+      <Sentence char_offsets="3216:3442" id="19" />
+      <Sentence char_offsets="3453:3541" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="11605" actor_name="Rafael Ram&#237;rez" role="Source" />
+        <Participant actor_id="30684" actor_name="Petroleum of Venezuela" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

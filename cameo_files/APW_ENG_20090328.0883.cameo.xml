@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0883">
+    <Sentences>
+      <Sentence char_offsets="182:328" id="0" />
+      <Sentence char_offsets="339:451" id="1" />
+      <Sentence char_offsets="462:605" id="2" />
+      <Sentence char_offsets="607:813" id="3" />
+      <Sentence char_offsets="824:947" id="4" />
+      <Sentence char_offsets="958:1114" id="5" />
+      <Sentence char_offsets="1125:1190" id="6" />
+      <Sentence char_offsets="1201:1269" id="7" />
+      <Sentence char_offsets="1271:1473" id="8" />
+      <Sentence char_offsets="1484:1591" id="9" />
+      <Sentence char_offsets="1593:1729" id="10" />
+      <Sentence char_offsets="1740:1877" id="11" />
+      <Sentence char_offsets="1888:2214" id="12" />
+      <Sentence char_offsets="2225:2297" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="013">
+        <Participant actor_id="33317" actor_name="Alex Salmond" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0375">
+    <Sentences>
+      <Sentence char_offsets="201:414" id="0" />
+      <Sentence char_offsets="425:652" id="1" />
+      <Sentence char_offsets="663:690" id="2" />
+      <Sentence char_offsets="692:749" id="3" />
+      <Sentence char_offsets="760:947" id="4" />
+      <Sentence char_offsets="958:1103" id="5" />
+      <Sentence char_offsets="1114:1254" id="6" />
+      <Sentence char_offsets="1265:1426" id="7" />
+      <Sentence char_offsets="1428:1472" id="8" />
+      <Sentence char_offsets="1483:1642" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

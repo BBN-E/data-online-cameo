@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0293">
+    <Sentences>
+      <Sentence char_offsets="191:390" id="0" />
+      <Sentence char_offsets="401:609" id="1" />
+      <Sentence char_offsets="620:747" id="2" />
+      <Sentence char_offsets="758:987" id="3" />
+      <Sentence char_offsets="998:1163" id="4" />
+      <Sentence char_offsets="1174:1288" id="5" />
+      <Sentence char_offsets="1290:1370" id="6" />
+      <Sentence char_offsets="1381:1575" id="7" />
+      <Sentence char_offsets="1586:1747" id="8" />
+      <Sentence char_offsets="1758:1876" id="9" />
+      <Sentence char_offsets="1887:2111" id="10" />
+      <Sentence char_offsets="2122:2311" id="11" />
+      <Sentence char_offsets="2322:2462" id="12" />
+      <Sentence char_offsets="2464:2638" id="13" />
+      <Sentence char_offsets="2649:2835" id="14" />
+      <Sentence char_offsets="2846:2939" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="39333" actor_name="Taiwan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="591" actor_name="Ma Ying Jeou" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="39333" actor_name="Taiwan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0233">
+    <Sentences>
+      <Sentence char_offsets="180:361" id="0" />
+      <Sentence char_offsets="372:593" id="1" />
+      <Sentence char_offsets="604:688" id="2" />
+      <Sentence char_offsets="699:864" id="3" />
+      <Sentence char_offsets="875:1013" id="4" />
+      <Sentence char_offsets="1024:1214" id="5" />
+      <Sentence char_offsets="1225:1335" id="6" />
+      <Sentence char_offsets="1337:1428" id="7" />
+      <Sentence char_offsets="1439:1619" id="8" />
+      <Sentence char_offsets="1630:1758" id="9" />
+      <Sentence char_offsets="1769:1937" id="10" />
+      <Sentence char_offsets="1948:2083" id="11" />
+      <Sentence char_offsets="2094:2293" id="12" />
+      <Sentence char_offsets="2304:2523" id="13" />
+      <Sentence char_offsets="2534:2811" id="14" />
+      <Sentence char_offsets="2822:3048" id="15" />
+      <Sentence char_offsets="3059:3111" id="16" />
+      <Sentence char_offsets="3122:3251" id="17" />
+      <Sentence char_offsets="3262:3435" id="18" />
+      <Sentence char_offsets="3446:3650" id="19" />
+      <Sentence char_offsets="3661:3764" id="20" />
+      <Sentence char_offsets="3766:3843" id="21" />
+      <Sentence char_offsets="3854:4035" id="22" />
+      <Sentence char_offsets="4046:4136" id="23" />
+      <Sentence char_offsets="4138:4188" id="24" />
+      <Sentence char_offsets="4199:4415" id="25" />
+      <Sentence char_offsets="4426:4515" id="26" />
+      <Sentence char_offsets="4517:4603" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="historical" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="5585" actor_name="Armed Forces of the Russian Federation" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="2" agent_name="Defense Department/Ministry" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="072">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

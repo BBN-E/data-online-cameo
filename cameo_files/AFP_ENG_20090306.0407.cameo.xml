@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0407">
+    <Sentences>
+      <Sentence char_offsets="185:362" id="0" />
+      <Sentence char_offsets="373:543" id="1" />
+      <Sentence char_offsets="554:686" id="2" />
+      <Sentence char_offsets="697:774" id="3" />
+      <Sentence char_offsets="785:930" id="4" />
+      <Sentence char_offsets="941:1135" id="5" />
+      <Sentence char_offsets="1146:1298" id="6" />
+      <Sentence char_offsets="1309:1468" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="0353">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="0841">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

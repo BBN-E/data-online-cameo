@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0891">
+    <Sentences>
+      <Sentence char_offsets="185:355" id="0" />
+      <Sentence char_offsets="366:628" id="1" />
+      <Sentence char_offsets="639:717" id="2" />
+      <Sentence char_offsets="728:894" id="3" />
+      <Sentence char_offsets="896:972" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="8321" actor_name="ETA" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="8321" actor_name="ETA" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="8321" actor_name="ETA" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="current" type="173">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="8321" actor_name="ETA" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="173">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="8321" actor_name="ETA" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

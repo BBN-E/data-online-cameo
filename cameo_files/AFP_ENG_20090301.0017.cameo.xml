@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0017">
+    <Sentences>
+      <Sentence char_offsets="183:411" id="0" />
+      <Sentence char_offsets="422:644" id="1" />
+      <Sentence char_offsets="655:871" id="2" />
+      <Sentence char_offsets="882:1109" id="3" />
+      <Sentence char_offsets="1120:1274" id="4" />
+      <Sentence char_offsets="1276:1329" id="5" />
+      <Sentence char_offsets="1340:1502" id="6" />
+      <Sentence char_offsets="1513:1762" id="7" />
+      <Sentence char_offsets="1773:1899" id="8" />
+      <Sentence char_offsets="1910:2026" id="9" />
+      <Sentence char_offsets="2037:2164" id="10" />
+      <Sentence char_offsets="2175:2462" id="11" />
+      <Sentence char_offsets="2473:2595" id="12" />
+      <Sentence char_offsets="2606:2781" id="13" />
+      <Sentence char_offsets="2792:3013" id="14" />
+      <Sentence char_offsets="3024:3195" id="15" />
+      <Sentence char_offsets="3206:3323" id="16" />
+      <Sentence char_offsets="3334:3545" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="051">
+        <Participant actor_id="232076" actor_name="Galicia" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="historical" type="190">
+        <Participant actor_id="8321" actor_name="ETA" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

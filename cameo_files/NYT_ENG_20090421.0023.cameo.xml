@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090421.0023">
+    <Sentences>
+      <Sentence char_offsets="169:448" id="0" />
+      <Sentence char_offsets="459:809" id="1" />
+      <Sentence char_offsets="820:1103" id="2" />
+      <Sentence char_offsets="1114:1377" id="3" />
+      <Sentence char_offsets="1379:1421" id="4" />
+      <Sentence char_offsets="1432:1595" id="5" />
+      <Sentence char_offsets="1597:1680" id="6" />
+      <Sentence char_offsets="1691:1878" id="7" />
+      <Sentence char_offsets="1880:2042" id="8" />
+      <Sentence char_offsets="2053:2285" id="9" />
+      <Sentence char_offsets="2296:2495" id="10" />
+      <Sentence char_offsets="2497:2635" id="11" />
+      <Sentence char_offsets="2646:2857" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="013">
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Source" />
+        <Participant actor_id="53576" actor_name="Jane Harman" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0446">
+    <Sentences>
+      <Sentence char_offsets="186:351" id="0" />
+      <Sentence char_offsets="362:462" id="1" />
+      <Sentence char_offsets="473:585" id="2" />
+      <Sentence char_offsets="596:791" id="3" />
+      <Sentence char_offsets="802:849" id="4" />
+      <Sentence char_offsets="860:965" id="5" />
+      <Sentence char_offsets="976:1093" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

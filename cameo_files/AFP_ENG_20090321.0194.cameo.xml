@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090321.0194">
+    <Sentences>
+      <Sentence char_offsets="185:372" id="0" />
+      <Sentence char_offsets="383:612" id="1" />
+      <Sentence char_offsets="623:855" id="2" />
+      <Sentence char_offsets="866:972" id="3" />
+      <Sentence char_offsets="983:1162" id="4" />
+      <Sentence char_offsets="1173:1302" id="5" />
+      <Sentence char_offsets="1313:1464" id="6" />
+      <Sentence char_offsets="1466:1521" id="7" />
+      <Sentence char_offsets="1532:1638" id="8" />
+      <Sentence char_offsets="1649:1742" id="9" />
+      <Sentence char_offsets="1753:1947" id="10" />
+      <Sentence char_offsets="1958:2172" id="11" />
+      <Sentence char_offsets="2183:2398" id="12" />
+      <Sentence char_offsets="2409:2444" id="13" />
+      <Sentence char_offsets="2446:2513" id="14" />
+      <Sentence char_offsets="2515:2556" id="15" />
+      <Sentence char_offsets="2558:2628" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="090">
+        <Participant actor_id="31254" actor_name="International Atomic Energy Agency" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

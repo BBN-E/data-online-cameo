@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0524">
+    <Sentences>
+      <Sentence char_offsets="176:365" id="0" />
+      <Sentence char_offsets="376:522" id="1" />
+      <Sentence char_offsets="524:652" id="2" />
+      <Sentence char_offsets="663:1005" id="3" />
+      <Sentence char_offsets="1016:1199" id="4" />
+      <Sentence char_offsets="1201:1333" id="5" />
+      <Sentence char_offsets="1344:1550" id="6" />
+      <Sentence char_offsets="1561:1636" id="7" />
+      <Sentence char_offsets="1638:1690" id="8" />
+      <Sentence char_offsets="1701:1822" id="9" />
+      <Sentence char_offsets="1833:1951" id="10" />
+      <Sentence char_offsets="1953:2025" id="11" />
+      <Sentence char_offsets="2027:2115" id="12" />
+      <Sentence char_offsets="2126:2221" id="13" />
+      <Sentence char_offsets="2232:2332" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="42660" actor_name="Manfred Nowak" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="036">
+        <Participant actor_id="42660" actor_name="Manfred Nowak" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="041">
+        <Participant actor_id="42660" actor_name="Manfred Nowak" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="42660" actor_name="Manfred Nowak" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

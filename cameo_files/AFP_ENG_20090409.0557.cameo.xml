@@ -1,0 +1,131 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0557">
+    <Sentences>
+      <Sentence char_offsets="175:377" id="0" />
+      <Sentence char_offsets="388:554" id="1" />
+      <Sentence char_offsets="565:665" id="2" />
+      <Sentence char_offsets="676:885" id="3" />
+      <Sentence char_offsets="896:1067" id="4" />
+      <Sentence char_offsets="1078:1267" id="5" />
+      <Sentence char_offsets="1278:1507" id="6" />
+      <Sentence char_offsets="1518:1614" id="7" />
+      <Sentence char_offsets="1625:1824" id="8" />
+      <Sentence char_offsets="1835:1941" id="9" />
+      <Sentence char_offsets="1952:2140" id="10" />
+      <Sentence char_offsets="2151:2352" id="11" />
+      <Sentence char_offsets="2363:2447" id="12" />
+      <Sentence char_offsets="2458:2497" id="13" />
+      <Sentence char_offsets="2508:2648" id="14" />
+      <Sentence char_offsets="2659:2745" id="15" />
+      <Sentence char_offsets="2756:2939" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="32631" actor_name="China" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="022">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="24978" actor_name="Liang Guanglie" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Source" />
+        <Participant actor_id="24978" actor_name="Liang Guanglie" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="35439" actor_name="Amy Klobuchar" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="35439" actor_name="Amy Klobuchar" role="Source" />
+        <Participant actor_id="24978" actor_name="Liang Guanglie" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="20" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+      <Event id="21" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="24978" actor_name="Liang Guanglie" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+      <Event id="22" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Target" />
+      </Event>
+      <Event id="23" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="24978" actor_name="Liang Guanglie" role="Source" />
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Target" />
+      </Event>
+      <Event id="24" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="35439" actor_name="Amy Klobuchar" role="Target" />
+      </Event>
+      <Event id="25" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="24978" actor_name="Liang Guanglie" role="Source" />
+        <Participant actor_id="35439" actor_name="Amy Klobuchar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

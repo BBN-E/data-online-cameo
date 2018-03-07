@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090430.0026">
+    <Sentences>
+      <Sentence char_offsets="122:318" id="0" />
+      <Sentence char_offsets="329:460" id="1" />
+      <Sentence char_offsets="462:654" id="2" />
+      <Sentence char_offsets="665:827" id="3" />
+      <Sentence char_offsets="829:960" id="4" />
+      <Sentence char_offsets="971:1075" id="5" />
+      <Sentence char_offsets="1077:1198" id="6" />
+      <Sentence char_offsets="1209:1291" id="7" />
+      <Sentence char_offsets="1293:1404" id="8" />
+      <Sentence char_offsets="1406:1523" id="9" />
+      <Sentence char_offsets="1534:1686" id="10" />
+      <Sentence char_offsets="1697:1774" id="11" />
+      <Sentence char_offsets="1776:2027" id="12" />
+      <Sentence char_offsets="2038:2190" id="13" />
+      <Sentence char_offsets="2192:2366" id="14" />
+      <Sentence char_offsets="2377:2550" id="15" />
+      <Sentence char_offsets="2561:2768" id="16" />
+      <Sentence char_offsets="2770:2931" id="17" />
+      <Sentence char_offsets="2933:3167" id="18" />
+      <Sentence char_offsets="3178:3223" id="19" />
+      <Sentence char_offsets="3225:3342" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="26780" actor_name="Bank of America" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

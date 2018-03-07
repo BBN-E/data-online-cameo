@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0258">
+    <Sentences>
+      <Sentence char_offsets="174:371" id="0" />
+      <Sentence char_offsets="382:447" id="1" />
+      <Sentence char_offsets="449:488" id="2" />
+      <Sentence char_offsets="490:593" id="3" />
+      <Sentence char_offsets="604:664" id="4" />
+      <Sentence char_offsets="675:767" id="5" />
+      <Sentence char_offsets="769:874" id="6" />
+      <Sentence char_offsets="885:1024" id="7" />
+      <Sentence char_offsets="1026:1079" id="8" />
+      <Sentence char_offsets="1090:1218" id="9" />
+      <Sentence char_offsets="1229:1425" id="10" />
+      <Sentence char_offsets="1436:1600" id="11" />
+      <Sentence char_offsets="1611:1693" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="32187" actor_name="Belgium" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="32187" actor_name="Belgium" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

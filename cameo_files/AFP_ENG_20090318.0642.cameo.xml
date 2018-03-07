@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0642">
+    <Sentences>
+      <Sentence char_offsets="156:256" id="0" />
+      <Sentence char_offsets="267:501" id="1" />
+      <Sentence char_offsets="512:629" id="2" />
+      <Sentence char_offsets="640:796" id="3" />
+      <Sentence char_offsets="807:938" id="4" />
+      <Sentence char_offsets="949:1018" id="5" />
+      <Sentence char_offsets="1020:1086" id="6" />
+      <Sentence char_offsets="1097:1223" id="7" />
+      <Sentence char_offsets="1225:1260" id="8" />
+      <Sentence char_offsets="1262:1324" id="9" />
+      <Sentence char_offsets="1335:1485" id="10" />
+      <Sentence char_offsets="1496:1549" id="11" />
+      <Sentence char_offsets="1551:1674" id="12" />
+      <Sentence char_offsets="1685:1786" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

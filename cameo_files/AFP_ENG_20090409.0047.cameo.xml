@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0047">
+    <Sentences>
+      <Sentence char_offsets="188:360" id="0" />
+      <Sentence char_offsets="371:596" id="1" />
+      <Sentence char_offsets="607:746" id="2" />
+      <Sentence char_offsets="757:908" id="3" />
+      <Sentence char_offsets="919:1032" id="4" />
+      <Sentence char_offsets="1043:1198" id="5" />
+      <Sentence char_offsets="1209:1455" id="6" />
+      <Sentence char_offsets="1466:1669" id="7" />
+      <Sentence char_offsets="1680:1828" id="8" />
+      <Sentence char_offsets="1839:2030" id="9" />
+      <Sentence char_offsets="2041:2238" id="10" />
+      <Sentence char_offsets="2249:2463" id="11" />
+      <Sentence char_offsets="2474:2697" id="12" />
+      <Sentence char_offsets="2708:2914" id="13" />
+      <Sentence char_offsets="2925:3096" id="14" />
+      <Sentence char_offsets="3107:3313" id="15" />
+      <Sentence char_offsets="3324:3482" id="16" />
+      <Sentence char_offsets="3493:3573" id="17" />
+      <Sentence char_offsets="3584:3760" id="18" />
+      <Sentence char_offsets="3771:3993" id="19" />
+      <Sentence char_offsets="4004:4192" id="20" />
+      <Sentence char_offsets="4203:4377" id="21" />
+      <Sentence char_offsets="4388:4550" id="22" />
+      <Sentence char_offsets="4561:4720" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="0333">
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="687" agent_name="Container Ship" role="Source" />
+        <Participant actor_id="40329" actor_name="World Food Program" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="current" type="036">
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="687" agent_name="Container Ship" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

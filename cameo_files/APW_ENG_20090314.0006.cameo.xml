@@ -1,0 +1,86 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090314.0006">
+    <Sentences>
+      <Sentence char_offsets="172:378" id="0" />
+      <Sentence char_offsets="380:438" id="1" />
+      <Sentence char_offsets="449:454" id="2" />
+      <Sentence char_offsets="465:471" id="3" />
+      <Sentence char_offsets="473:476" id="4" />
+      <Sentence char_offsets="478:634" id="5" />
+      <Sentence char_offsets="645:827" id="6" />
+      <Sentence char_offsets="838:981" id="7" />
+      <Sentence char_offsets="983:1132" id="8" />
+      <Sentence char_offsets="1143:1261" id="9" />
+      <Sentence char_offsets="1272:1469" id="10" />
+      <Sentence char_offsets="1480:1660" id="11" />
+      <Sentence char_offsets="1662:1743" id="12" />
+      <Sentence char_offsets="1754:1910" id="13" />
+      <Sentence char_offsets="1921:2086" id="14" />
+      <Sentence char_offsets="2088:2249" id="15" />
+      <Sentence char_offsets="2260:2439" id="16" />
+      <Sentence char_offsets="2441:2583" id="17" />
+      <Sentence char_offsets="2594:2689" id="18" />
+      <Sentence char_offsets="2691:2866" id="19" />
+      <Sentence char_offsets="2877:3028" id="20" />
+      <Sentence char_offsets="3030:3114" id="21" />
+      <Sentence char_offsets="3125:3457" id="22" />
+      <Sentence char_offsets="3459:3492" id="23" />
+      <Sentence char_offsets="3503:3591" id="24" />
+      <Sentence char_offsets="3593:3741" id="25" />
+      <Sentence char_offsets="3752:3881" id="26" />
+      <Sentence char_offsets="3883:3993" id="27" />
+      <Sentence char_offsets="4004:4152" id="28" />
+      <Sentence char_offsets="4163:4348" id="29" />
+      <Sentence char_offsets="4359:4469" id="30" />
+      <Sentence char_offsets="4471:4592" id="31" />
+      <Sentence char_offsets="4603:4682" id="32" />
+      <Sentence char_offsets="4693:4800" id="33" />
+      <Sentence char_offsets="4811:4866" id="34" />
+      <Sentence char_offsets="4868:5005" id="35" />
+      <Sentence char_offsets="5016:5120" id="36" />
+      <Sentence char_offsets="5122:5286" id="37" />
+      <Sentence char_offsets="5288:5410" id="38" />
+      <Sentence char_offsets="5421:5458" id="39" />
+      <Sentence char_offsets="5469:5720" id="40" />
+      <Sentence char_offsets="5731:5825" id="41" />
+      <Sentence char_offsets="5827:5921" id="42" />
+      <Sentence char_offsets="5932:6135" id="43" />
+      <Sentence char_offsets="6146:6234" id="44" />
+      <Sentence char_offsets="6236:6296" id="45" />
+      <Sentence char_offsets="6307:6548" id="46" />
+      <Sentence char_offsets="6559:6849" id="47" />
+      <Sentence char_offsets="6860:6952" id="48" />
+      <Sentence char_offsets="6954:7064" id="49" />
+      <Sentence char_offsets="7075:7234" id="50" />
+      <Sentence char_offsets="7236:7400" id="51" />
+      <Sentence char_offsets="7402:7440" id="52" />
+      <Sentence char_offsets="7451:7713" id="53" />
+      <Sentence char_offsets="7715:7900" id="54" />
+      <Sentence char_offsets="7911:8026" id="55" />
+      <Sentence char_offsets="8028:8159" id="56" />
+      <Sentence char_offsets="8170:8224" id="57" />
+      <Sentence char_offsets="8226:8411" id="58" />
+      <Sentence char_offsets="8422:8651" id="59" />
+      <Sentence char_offsets="8662:8857" id="60" />
+      <Sentence char_offsets="8868:9066" id="61" />
+      <Sentence char_offsets="9068:9204" id="62" />
+      <Sentence char_offsets="9215:9220" id="63" />
+      <Sentence char_offsets="9231:9395" id="64" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="141">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" agent_id="449" agent_name="Activist" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="173">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="117988" actor_name="Liu Xiaobo" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

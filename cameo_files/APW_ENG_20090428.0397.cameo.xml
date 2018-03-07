@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0397">
+    <Sentences>
+      <Sentence char_offsets="189:370" id="0" />
+      <Sentence char_offsets="381:533" id="1" />
+      <Sentence char_offsets="535:590" id="2" />
+      <Sentence char_offsets="601:676" id="3" />
+      <Sentence char_offsets="678:707" id="4" />
+      <Sentence char_offsets="718:850" id="5" />
+      <Sentence char_offsets="861:947" id="6" />
+      <Sentence char_offsets="958:1069" id="7" />
+      <Sentence char_offsets="1071:1124" id="8" />
+      <Sentence char_offsets="1135:1341" id="9" />
+      <Sentence char_offsets="1352:1529" id="10" />
+      <Sentence char_offsets="1540:1668" id="11" />
+      <Sentence char_offsets="1670:1800" id="12" />
+      <Sentence char_offsets="1811:2042" id="13" />
+      <Sentence char_offsets="2053:2201" id="14" />
+      <Sentence char_offsets="2203:2361" id="15" />
+      <Sentence char_offsets="2372:2377" id="16" />
+      <Sentence char_offsets="2388:2496" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="14312" actor_name="Carl Bildt" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="14312" actor_name="Carl Bildt" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="14312" actor_name="Carl Bildt" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="041">
+        <Participant actor_id="14312" actor_name="Carl Bildt" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="14312" actor_name="Carl Bildt" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="current" type="172">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

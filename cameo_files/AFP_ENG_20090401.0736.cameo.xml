@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0736">
+    <Sentences>
+      <Sentence char_offsets="185:365" id="0" />
+      <Sentence char_offsets="376:535" id="1" />
+      <Sentence char_offsets="546:701" id="2" />
+      <Sentence char_offsets="712:976" id="3" />
+      <Sentence char_offsets="987:1196" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

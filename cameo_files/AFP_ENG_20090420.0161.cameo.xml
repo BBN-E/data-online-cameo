@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0161">
+    <Sentences>
+      <Sentence char_offsets="188:376" id="0" />
+      <Sentence char_offsets="387:610" id="1" />
+      <Sentence char_offsets="621:783" id="2" />
+      <Sentence char_offsets="785:819" id="3" />
+      <Sentence char_offsets="830:905" id="4" />
+      <Sentence char_offsets="916:1071" id="5" />
+      <Sentence char_offsets="1082:1183" id="6" />
+      <Sentence char_offsets="1185:1267" id="7" />
+      <Sentence char_offsets="1278:1453" id="8" />
+      <Sentence char_offsets="1464:1606" id="9" />
+      <Sentence char_offsets="1617:1752" id="10" />
+      <Sentence char_offsets="1763:1988" id="11" />
+      <Sentence char_offsets="1999:2180" id="12" />
+      <Sentence char_offsets="2191:2394" id="13" />
+      <Sentence char_offsets="2405:2571" id="14" />
+      <Sentence char_offsets="2582:2755" id="15" />
+      <Sentence char_offsets="2766:2912" id="16" />
+      <Sentence char_offsets="2923:3051" id="17" />
+      <Sentence char_offsets="3062:3183" id="18" />
+      <Sentence char_offsets="3194:3357" id="19" />
+      <Sentence char_offsets="3368:3569" id="20" />
+      <Sentence char_offsets="3580:3804" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="25556" actor_name="Muhammad al-Baradei" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="current" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="32622" actor_name="Switzerland" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

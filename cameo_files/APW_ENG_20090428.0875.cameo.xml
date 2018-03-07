@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0875">
+    <Sentences>
+      <Sentence char_offsets="195:337" id="0" />
+      <Sentence char_offsets="348:435" id="1" />
+      <Sentence char_offsets="437:534" id="2" />
+      <Sentence char_offsets="545:614" id="3" />
+      <Sentence char_offsets="616:648" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="118275" actor_name="Kosovo Police" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" agent_id="711" agent_name="Thief" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="118275" actor_name="Kosovo Police" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" agent_id="711" agent_name="Thief" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="118275" actor_name="Kosovo Police" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

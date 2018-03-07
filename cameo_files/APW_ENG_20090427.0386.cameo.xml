@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0386">
+    <Sentences>
+      <Sentence char_offsets="171:346" id="0" />
+      <Sentence char_offsets="357:438" id="1" />
+      <Sentence char_offsets="449:586" id="2" />
+      <Sentence char_offsets="588:651" id="3" />
+      <Sentence char_offsets="662:743" id="4" />
+      <Sentence char_offsets="754:934" id="5" />
+      <Sentence char_offsets="945:970" id="6" />
+      <Sentence char_offsets="972:1110" id="7" />
+      <Sentence char_offsets="1112:1259" id="8" />
+      <Sentence char_offsets="1270:1349" id="9" />
+      <Sentence char_offsets="1360:1621" id="10" />
+      <Sentence char_offsets="1632:1797" id="11" />
+      <Sentence char_offsets="1799:1883" id="12" />
+      <Sentence char_offsets="1894:2104" id="13" />
+      <Sentence char_offsets="2115:2341" id="14" />
+      <Sentence char_offsets="2352:2473" id="15" />
+      <Sentence char_offsets="2484:2657" id="16" />
+      <Sentence char_offsets="2659:2765" id="17" />
+      <Sentence char_offsets="2776:2855" id="18" />
+      <Sentence char_offsets="2866:3038" id="19" />
+      <Sentence char_offsets="3040:3222" id="20" />
+      <Sentence char_offsets="3233:3320" id="21" />
+      <Sentence char_offsets="3331:3600" id="22" />
+      <Sentence char_offsets="3611:3826" id="23" />
+      <Sentence char_offsets="3837:3960" id="24" />
+      <Sentence char_offsets="3971:4105" id="25" />
+      <Sentence char_offsets="4107:4184" id="26" />
+      <Sentence char_offsets="4195:4200" id="27" />
+      <Sentence char_offsets="4211:4287" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="36043" actor_name="Kuwait" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

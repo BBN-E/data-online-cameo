@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090415.0157">
+    <Sentences>
+      <Sentence char_offsets="167:328" id="0" />
+      <Sentence char_offsets="339:636" id="1" />
+      <Sentence char_offsets="638:772" id="2" />
+      <Sentence char_offsets="783:922" id="3" />
+      <Sentence char_offsets="924:1125" id="4" />
+      <Sentence char_offsets="1136:1281" id="5" />
+      <Sentence char_offsets="1292:1424" id="6" />
+      <Sentence char_offsets="1435:1624" id="7" />
+      <Sentence char_offsets="1635:1884" id="8" />
+      <Sentence char_offsets="1895:2111" id="9" />
+      <Sentence char_offsets="2122:2257" id="10" />
+      <Sentence char_offsets="2268:2449" id="11" />
+      <Sentence char_offsets="2460:2598" id="12" />
+      <Sentence char_offsets="2600:2712" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

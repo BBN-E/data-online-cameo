@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.0700">
+    <Sentences>
+      <Sentence char_offsets="186:389" id="0" />
+      <Sentence char_offsets="400:501" id="1" />
+      <Sentence char_offsets="503:587" id="2" />
+      <Sentence char_offsets="598:755" id="3" />
+      <Sentence char_offsets="757:918" id="4" />
+      <Sentence char_offsets="929:1017" id="5" />
+      <Sentence char_offsets="1019:1138" id="6" />
+      <Sentence char_offsets="1149:1244" id="7" />
+      <Sentence char_offsets="1246:1348" id="8" />
+      <Sentence char_offsets="1359:1530" id="9" />
+      <Sentence char_offsets="1541:1714" id="10" />
+      <Sentence char_offsets="1716:1845" id="11" />
+      <Sentence char_offsets="1856:2030" id="12" />
+      <Sentence char_offsets="2041:2254" id="13" />
+      <Sentence char_offsets="2265:2353" id="14" />
+      <Sentence char_offsets="2355:2421" id="15" />
+      <Sentence char_offsets="2423:2505" id="16" />
+      <Sentence char_offsets="2516:2521" id="17" />
+      <Sentence char_offsets="2532:2664" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="33931" actor_name="Federal Reserve" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

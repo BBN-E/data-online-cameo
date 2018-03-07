@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090301.0715">
+    <Sentences>
+      <Sentence char_offsets="195:422" id="0" />
+      <Sentence char_offsets="433:724" id="1" />
+      <Sentence char_offsets="735:922" id="2" />
+      <Sentence char_offsets="924:955" id="3" />
+      <Sentence char_offsets="966:1285" id="4" />
+      <Sentence char_offsets="1296:1544" id="5" />
+      <Sentence char_offsets="1555:1662" id="6" />
+      <Sentence char_offsets="1664:1714" id="7" />
+      <Sentence char_offsets="1725:1908" id="8" />
+      <Sentence char_offsets="1910:1983" id="9" />
+      <Sentence char_offsets="1994:2182" id="10" />
+      <Sentence char_offsets="2193:2292" id="11" />
+      <Sentence char_offsets="2303:2385" id="12" />
+      <Sentence char_offsets="2387:2509" id="13" />
+      <Sentence char_offsets="2511:2655" id="14" />
+      <Sentence char_offsets="2666:2780" id="15" />
+      <Sentence char_offsets="2782:2972" id="16" />
+      <Sentence char_offsets="2983:3053" id="17" />
+      <Sentence char_offsets="3064:3138" id="18" />
+      <Sentence char_offsets="3140:3332" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="111">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" agent_id="727" agent_name="Scholar" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

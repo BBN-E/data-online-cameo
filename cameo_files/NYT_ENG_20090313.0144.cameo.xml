@@ -1,0 +1,70 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090313.0144">
+    <Sentences>
+      <Sentence char_offsets="123:135" id="0" />
+      <Sentence char_offsets="136:396" id="1" />
+      <Sentence char_offsets="407:667" id="2" />
+      <Sentence char_offsets="678:1082" id="3" />
+      <Sentence char_offsets="1093:1234" id="4" />
+      <Sentence char_offsets="1236:1427" id="5" />
+      <Sentence char_offsets="1438:1557" id="6" />
+      <Sentence char_offsets="1568:1966" id="7" />
+      <Sentence char_offsets="1977:2071" id="8" />
+      <Sentence char_offsets="2073:2108" id="9" />
+      <Sentence char_offsets="2119:2178" id="10" />
+      <Sentence char_offsets="2180:2407" id="11" />
+      <Sentence char_offsets="2418:2541" id="12" />
+      <Sentence char_offsets="2552:2716" id="13" />
+      <Sentence char_offsets="2727:2837" id="14" />
+      <Sentence char_offsets="2839:2907" id="15" />
+      <Sentence char_offsets="2909:2992" id="16" />
+      <Sentence char_offsets="3003:3560" id="17" />
+      <Sentence char_offsets="3571:3720" id="18" />
+      <Sentence char_offsets="3731:3955" id="19" />
+      <Sentence char_offsets="3966:4027" id="20" />
+      <Sentence char_offsets="4029:4131" id="21" />
+      <Sentence char_offsets="4142:4416" id="22" />
+      <Sentence char_offsets="4427:4566" id="23" />
+      <Sentence char_offsets="4568:4623" id="24" />
+      <Sentence char_offsets="4625:4676" id="25" />
+      <Sentence char_offsets="4678:4859" id="26" />
+      <Sentence char_offsets="4870:5083" id="27" />
+      <Sentence char_offsets="5094:5285" id="28" />
+      <Sentence char_offsets="5296:5575" id="29" />
+      <Sentence char_offsets="5586:5677" id="30" />
+      <Sentence char_offsets="5688:5769" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="419" agent_name="National Security Advisor" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="020">
+        <Participant actor_id="46667" actor_name="Michael Ancram" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="026">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="ongoing" type="040">
+        <Participant actor_id="46667" actor_name="Michael Ancram" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="054">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="historical" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="19" tense="ongoing" type="040">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="46667" actor_name="Michael Ancram" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

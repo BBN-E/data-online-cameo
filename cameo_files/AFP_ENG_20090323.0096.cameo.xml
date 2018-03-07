@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0096">
+    <Sentences>
+      <Sentence char_offsets="184:418" id="0" />
+      <Sentence char_offsets="429:645" id="1" />
+      <Sentence char_offsets="656:731" id="2" />
+      <Sentence char_offsets="733:844" id="3" />
+      <Sentence char_offsets="855:1000" id="4" />
+      <Sentence char_offsets="1011:1099" id="5" />
+      <Sentence char_offsets="1110:1182" id="6" />
+      <Sentence char_offsets="1193:1262" id="7" />
+      <Sentence char_offsets="1273:1362" id="8" />
+      <Sentence char_offsets="1364:1421" id="9" />
+      <Sentence char_offsets="1432:1609" id="10" />
+      <Sentence char_offsets="1620:1803" id="11" />
+      <Sentence char_offsets="1814:1821" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="193">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="193">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="193">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="neutral" type="193">
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

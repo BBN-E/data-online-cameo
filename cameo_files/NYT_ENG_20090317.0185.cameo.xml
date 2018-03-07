@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090317.0185">
+    <Sentences>
+      <Sentence char_offsets="155:281" id="0" />
+      <Sentence char_offsets="283:399" id="1" />
+      <Sentence char_offsets="410:508" id="2" />
+      <Sentence char_offsets="510:740" id="3" />
+      <Sentence char_offsets="751:911" id="4" />
+      <Sentence char_offsets="913:1082" id="5" />
+      <Sentence char_offsets="1084:1136" id="6" />
+      <Sentence char_offsets="1147:1266" id="7" />
+      <Sentence char_offsets="1268:1481" id="8" />
+      <Sentence char_offsets="1483:1667" id="9" />
+      <Sentence char_offsets="1678:1866" id="10" />
+      <Sentence char_offsets="1868:2021" id="11" />
+      <Sentence char_offsets="2023:2099" id="12" />
+      <Sentence char_offsets="2101:2119" id="13" />
+      <Sentence char_offsets="2121:2181" id="14" />
+      <Sentence char_offsets="2192:2308" id="15" />
+      <Sentence char_offsets="2310:2463" id="16" />
+      <Sentence char_offsets="2465:2617" id="17" />
+      <Sentence char_offsets="2619:2740" id="18" />
+      <Sentence char_offsets="2751:2941" id="19" />
+      <Sentence char_offsets="2943:3008" id="20" />
+      <Sentence char_offsets="3019:3342" id="21" />
+      <Sentence char_offsets="3353:3529" id="22" />
+      <Sentence char_offsets="3531:3587" id="23" />
+      <Sentence char_offsets="3589:3763" id="24" />
+      <Sentence char_offsets="3774:3925" id="25" />
+      <Sentence char_offsets="3927:4045" id="26" />
+      <Sentence char_offsets="4047:4097" id="27" />
+      <Sentence char_offsets="4108:4177" id="28" />
+      <Sentence char_offsets="4179:4446" id="29" />
+      <Sentence char_offsets="4457:4530" id="30" />
+      <Sentence char_offsets="4532:4701" id="31" />
+      <Sentence char_offsets="4703:4920" id="32" />
+      <Sentence char_offsets="4931:5006" id="33" />
+      <Sentence char_offsets="5008:5349" id="34" />
+      <Sentence char_offsets="5360:5444" id="35" />
+      <Sentence char_offsets="5446:5631" id="36" />
+      <Sentence char_offsets="5633:5739" id="37" />
+      <Sentence char_offsets="5741:5793" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="032">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="36" tense="neutral" type="100">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="1125">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="37063" actor_name="Non-Governmental Organizations" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="neutral" type="160">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="37063" actor_name="Non-Governmental Organizations" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="current" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

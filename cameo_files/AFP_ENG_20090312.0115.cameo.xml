@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0115">
+    <Sentences>
+      <Sentence char_offsets="193:361" id="0" />
+      <Sentence char_offsets="372:523" id="1" />
+      <Sentence char_offsets="534:590" id="2" />
+      <Sentence char_offsets="592:742" id="3" />
+      <Sentence char_offsets="753:954" id="4" />
+      <Sentence char_offsets="965:1189" id="5" />
+      <Sentence char_offsets="1200:1404" id="6" />
+      <Sentence char_offsets="1415:1516" id="7" />
+      <Sentence char_offsets="1518:1596" id="8" />
+      <Sentence char_offsets="1607:1843" id="9" />
+      <Sentence char_offsets="1854:2061" id="10" />
+      <Sentence char_offsets="2072:2232" id="11" />
+      <Sentence char_offsets="2243:2283" id="12" />
+      <Sentence char_offsets="2285:2395" id="13" />
+      <Sentence char_offsets="2406:2429" id="14" />
+      <Sentence char_offsets="2431:2468" id="15" />
+      <Sentence char_offsets="2479:2554" id="16" />
+      <Sentence char_offsets="2556:2640" id="17" />
+      <Sentence char_offsets="2651:2675" id="18" />
+      <Sentence char_offsets="2677:2726" id="19" />
+      <Sentence char_offsets="2737:2805" id="20" />
+      <Sentence char_offsets="2816:2949" id="21" />
+      <Sentence char_offsets="2960:3083" id="22" />
+      <Sentence char_offsets="3085:3184" id="23" />
+      <Sentence char_offsets="3195:3315" id="24" />
+      <Sentence char_offsets="3326:3413" id="25" />
+      <Sentence char_offsets="3424:3470" id="26" />
+      <Sentence char_offsets="3472:3623" id="27" />
+      <Sentence char_offsets="3634:3714" id="28" />
+      <Sentence char_offsets="3725:3875" id="29" />
+      <Sentence char_offsets="3886:4007" id="30" />
+      <Sentence char_offsets="4018:4221" id="31" />
+      <Sentence char_offsets="4232:4416" id="32" />
+      <Sentence char_offsets="4427:4529" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="historical" type="020">
+        <Participant actor_id="238410" actor_name="Gao Zhisheng" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="31" tense="historical" type="113">
+        <Participant actor_id="238410" actor_name="Gao Zhisheng" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="historical" type="172">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="25210" actor_name="Falun Gong" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0672">
+    <Sentences>
+      <Sentence char_offsets="189:362" id="0" />
+      <Sentence char_offsets="373:535" id="1" />
+      <Sentence char_offsets="546:694" id="2" />
+      <Sentence char_offsets="705:861" id="3" />
+      <Sentence char_offsets="872:972" id="4" />
+      <Sentence char_offsets="974:1081" id="5" />
+      <Sentence char_offsets="1092:1156" id="6" />
+      <Sentence char_offsets="1158:1283" id="7" />
+      <Sentence char_offsets="1294:1450" id="8" />
+      <Sentence char_offsets="1461:1538" id="9" />
+      <Sentence char_offsets="1549:1637" id="10" />
+      <Sentence char_offsets="1648:1876" id="11" />
+      <Sentence char_offsets="1887:1998" id="12" />
+      <Sentence char_offsets="2009:2190" id="13" />
+      <Sentence char_offsets="2201:2351" id="14" />
+      <Sentence char_offsets="2362:2537" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="090">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

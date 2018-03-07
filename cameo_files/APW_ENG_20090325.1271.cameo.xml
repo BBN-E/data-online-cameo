@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1271">
+    <Sentences>
+      <Sentence char_offsets="187:446" id="0" />
+      <Sentence char_offsets="457:626" id="1" />
+      <Sentence char_offsets="637:943" id="2" />
+      <Sentence char_offsets="945:1027" id="3" />
+      <Sentence char_offsets="1038:1161" id="4" />
+      <Sentence char_offsets="1172:1468" id="5" />
+      <Sentence char_offsets="1479:1538" id="6" />
+      <Sentence char_offsets="1549:1714" id="7" />
+      <Sentence char_offsets="1716:1915" id="8" />
+      <Sentence char_offsets="1926:2157" id="9" />
+      <Sentence char_offsets="2168:2382" id="10" />
+      <Sentence char_offsets="2393:2478" id="11" />
+      <Sentence char_offsets="2489:2795" id="12" />
+      <Sentence char_offsets="2797:2854" id="13" />
+      <Sentence char_offsets="2865:3101" id="14" />
+      <Sentence char_offsets="3112:3334" id="15" />
+      <Sentence char_offsets="3345:3586" id="16" />
+      <Sentence char_offsets="3597:3800" id="17" />
+      <Sentence char_offsets="3811:4014" id="18" />
+      <Sentence char_offsets="4025:4180" id="19" />
+      <Sentence char_offsets="4191:4386" id="20" />
+      <Sentence char_offsets="4397:4547" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="19" tense="neutral" type="043">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="19" tense="neutral" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

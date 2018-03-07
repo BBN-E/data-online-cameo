@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090404.0173">
+    <Sentences>
+      <Sentence char_offsets="188:377" id="0" />
+      <Sentence char_offsets="388:570" id="1" />
+      <Sentence char_offsets="581:624" id="2" />
+      <Sentence char_offsets="635:860" id="3" />
+      <Sentence char_offsets="871:1016" id="4" />
+      <Sentence char_offsets="1027:1192" id="5" />
+      <Sentence char_offsets="1203:1428" id="6" />
+      <Sentence char_offsets="1439:1565" id="7" />
+      <Sentence char_offsets="1576:1726" id="8" />
+      <Sentence char_offsets="1737:1945" id="9" />
+      <Sentence char_offsets="1956:2111" id="10" />
+      <Sentence char_offsets="2122:2218" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="54507" actor_name="Lech Kaczynski" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="current" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="historical" type="057">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="34481" actor_name="Poland" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="current" type="043">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="historical" type="057">
+        <Participant actor_id="34481" actor_name="Poland" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

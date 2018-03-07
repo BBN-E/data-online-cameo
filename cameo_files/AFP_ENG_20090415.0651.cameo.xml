@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0651">
+    <Sentences>
+      <Sentence char_offsets="187:374" id="0" />
+      <Sentence char_offsets="385:631" id="1" />
+      <Sentence char_offsets="642:716" id="2" />
+      <Sentence char_offsets="718:829" id="3" />
+      <Sentence char_offsets="840:1071" id="4" />
+      <Sentence char_offsets="1082:1223" id="5" />
+      <Sentence char_offsets="1234:1364" id="6" />
+      <Sentence char_offsets="1375:1513" id="7" />
+      <Sentence char_offsets="1524:1765" id="8" />
+      <Sentence char_offsets="1776:1931" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="53107" actor_name="Susilo Bambang Yudhoyono" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="597" agent_name="Governor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="291" agent_name="Election Commission" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

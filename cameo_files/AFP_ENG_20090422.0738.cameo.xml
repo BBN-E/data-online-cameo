@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0738">
+    <Sentences>
+      <Sentence char_offsets="186:365" id="0" />
+      <Sentence char_offsets="376:531" id="1" />
+      <Sentence char_offsets="542:743" id="2" />
+      <Sentence char_offsets="754:946" id="3" />
+      <Sentence char_offsets="957:1120" id="4" />
+      <Sentence char_offsets="1131:1174" id="5" />
+      <Sentence char_offsets="1176:1254" id="6" />
+      <Sentence char_offsets="1256:1348" id="7" />
+      <Sentence char_offsets="1359:1583" id="8" />
+      <Sentence char_offsets="1594:1653" id="9" />
+      <Sentence char_offsets="1664:1797" id="10" />
+      <Sentence char_offsets="1808:2003" id="11" />
+      <Sentence char_offsets="2014:2180" id="12" />
+      <Sentence char_offsets="2191:2262" id="13" />
+      <Sentence char_offsets="2273:2418" id="14" />
+      <Sentence char_offsets="2429:2570" id="15" />
+      <Sentence char_offsets="2581:2682" id="16" />
+      <Sentence char_offsets="2693:2855" id="17" />
+      <Sentence char_offsets="2866:2917" id="18" />
+      <Sentence char_offsets="2928:3031" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="181">
+        <Participant actor_id="31081" actor_name="India" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="180">
+        <Participant actor_id="31081" actor_name="India" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

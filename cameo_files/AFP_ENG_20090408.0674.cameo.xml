@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0674">
+    <Sentences>
+      <Sentence char_offsets="175:349" id="0" />
+      <Sentence char_offsets="360:585" id="1" />
+      <Sentence char_offsets="596:793" id="2" />
+      <Sentence char_offsets="804:858" id="3" />
+      <Sentence char_offsets="860:964" id="4" />
+      <Sentence char_offsets="975:1208" id="5" />
+      <Sentence char_offsets="1219:1288" id="6" />
+      <Sentence char_offsets="1290:1379" id="7" />
+      <Sentence char_offsets="1390:1638" id="8" />
+      <Sentence char_offsets="1649:1859" id="9" />
+      <Sentence char_offsets="1870:2063" id="10" />
+      <Sentence char_offsets="2074:2209" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="historical" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="28842" actor_name="Association of Southeast Asian Nations" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="current" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="historical" type="042">
+        <Participant actor_id="28842" actor_name="Association of Southeast Asian Nations" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

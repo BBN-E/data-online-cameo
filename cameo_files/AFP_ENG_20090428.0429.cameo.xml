@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0429">
+    <Sentences>
+      <Sentence char_offsets="184:408" id="0" />
+      <Sentence char_offsets="419:608" id="1" />
+      <Sentence char_offsets="619:832" id="2" />
+      <Sentence char_offsets="843:975" id="3" />
+      <Sentence char_offsets="986:1205" id="4" />
+      <Sentence char_offsets="1216:1394" id="5" />
+      <Sentence char_offsets="1405:1605" id="6" />
+      <Sentence char_offsets="1616:1738" id="7" />
+      <Sentence char_offsets="1740:1822" id="8" />
+      <Sentence char_offsets="1833:2046" id="9" />
+      <Sentence char_offsets="2057:2215" id="10" />
+      <Sentence char_offsets="2226:2400" id="11" />
+      <Sentence char_offsets="2411:2565" id="12" />
+      <Sentence char_offsets="2576:2784" id="13" />
+      <Sentence char_offsets="2795:3095" id="14" />
+      <Sentence char_offsets="3106:3227" id="15" />
+      <Sentence char_offsets="3238:3465" id="16" />
+      <Sentence char_offsets="3476:3681" id="17" />
+      <Sentence char_offsets="3692:3881" id="18" />
+      <Sentence char_offsets="3892:4021" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

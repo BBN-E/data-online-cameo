@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0086">
+    <Sentences>
+      <Sentence char_offsets="186:353" id="0" />
+      <Sentence char_offsets="364:531" id="1" />
+      <Sentence char_offsets="542:658" id="2" />
+      <Sentence char_offsets="660:759" id="3" />
+      <Sentence char_offsets="770:885" id="4" />
+      <Sentence char_offsets="887:1076" id="5" />
+      <Sentence char_offsets="1087:1160" id="6" />
+      <Sentence char_offsets="1171:1277" id="7" />
+      <Sentence char_offsets="1279:1420" id="8" />
+      <Sentence char_offsets="1431:1552" id="9" />
+      <Sentence char_offsets="1563:1758" id="10" />
+      <Sentence char_offsets="1760:1842" id="11" />
+      <Sentence char_offsets="1853:1989" id="12" />
+      <Sentence char_offsets="1991:2094" id="13" />
+      <Sentence char_offsets="2105:2171" id="14" />
+      <Sentence char_offsets="2182:2278" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="0841">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

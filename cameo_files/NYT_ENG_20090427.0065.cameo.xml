@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090427.0065">
+    <Sentences>
+      <Sentence char_offsets="149:300" id="0" />
+      <Sentence char_offsets="311:536" id="1" />
+      <Sentence char_offsets="547:878" id="2" />
+      <Sentence char_offsets="889:1047" id="3" />
+      <Sentence char_offsets="1058:1188" id="4" />
+      <Sentence char_offsets="1199:1382" id="5" />
+      <Sentence char_offsets="1384:1430" id="6" />
+      <Sentence char_offsets="1441:1736" id="7" />
+      <Sentence char_offsets="1747:1762" id="8" />
+      <Sentence char_offsets="1773:1972" id="9" />
+      <Sentence char_offsets="1983:2321" id="10" />
+      <Sentence char_offsets="2332:2515" id="11" />
+      <Sentence char_offsets="2526:2681" id="12" />
+      <Sentence char_offsets="2692:2788" id="13" />
+      <Sentence char_offsets="2790:2928" id="14" />
+      <Sentence char_offsets="2939:3075" id="15" />
+      <Sentence char_offsets="3077:3293" id="16" />
+      <Sentence char_offsets="3304:3455" id="17" />
+      <Sentence char_offsets="3466:3633" id="18" />
+      <Sentence char_offsets="3635:3778" id="19" />
+      <Sentence char_offsets="3780:3945" id="20" />
+      <Sentence char_offsets="3956:4075" id="21" />
+      <Sentence char_offsets="4086:4192" id="22" />
+      <Sentence char_offsets="4194:4278" id="23" />
+      <Sentence char_offsets="4289:4516" id="24" />
+      <Sentence char_offsets="4518:4692" id="25" />
+      <Sentence char_offsets="4703:4862" id="26" />
+      <Sentence char_offsets="4873:5142" id="27" />
+      <Sentence char_offsets="5153:5227" id="28" />
+      <Sentence char_offsets="5238:5398" id="29" />
+      <Sentence char_offsets="5409:5464" id="30" />
+      <Sentence char_offsets="5475:5506" id="31" />
+      <Sentence char_offsets="5517:5678" id="32" />
+      <Sentence char_offsets="5689:5770" id="33" />
+      <Sentence char_offsets="5781:5851" id="34" />
+      <Sentence char_offsets="5853:5927" id="35" />
+      <Sentence char_offsets="5938:5975" id="36" />
+      <Sentence char_offsets="5986:6039" id="37" />
+      <Sentence char_offsets="6041:6063" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="51122" actor_name="Saxby Chambliss" role="Source" />
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="5" agent_name="Attack Craft" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="276" agent_name="Defense Industry" role="Source" />
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="5" agent_name="Attack Craft" role="Source" />
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="050">
+        <Participant actor_id="41262" actor_name="United States" agent_id="276" agent_name="Defense Industry" role="Source" />
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="24248" actor_name="Lockheed Martin" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

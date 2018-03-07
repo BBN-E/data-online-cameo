@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0142">
+    <Sentences>
+      <Sentence char_offsets="180:368" id="0" />
+      <Sentence char_offsets="379:484" id="1" />
+      <Sentence char_offsets="495:715" id="2" />
+      <Sentence char_offsets="726:882" id="3" />
+      <Sentence char_offsets="893:1105" id="4" />
+      <Sentence char_offsets="1116:1222" id="5" />
+      <Sentence char_offsets="1233:1445" id="6" />
+      <Sentence char_offsets="1456:1554" id="7" />
+      <Sentence char_offsets="1556:1666" id="8" />
+      <Sentence char_offsets="1677:1803" id="9" />
+      <Sentence char_offsets="1814:2020" id="10" />
+      <Sentence char_offsets="2031:2128" id="11" />
+      <Sentence char_offsets="2139:2308" id="12" />
+      <Sentence char_offsets="2319:2413" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="14714" actor_name="Boris Tadic" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="16690" actor_name="Ivica Da&#269;i&#263;" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="14714" actor_name="Boris Tadic" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="16690" actor_name="Ivica Da&#269;i&#263;" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="118334" actor_name="Serbia" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

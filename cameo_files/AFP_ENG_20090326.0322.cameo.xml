@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0322">
+    <Sentences>
+      <Sentence char_offsets="185:384" id="0" />
+      <Sentence char_offsets="395:559" id="1" />
+      <Sentence char_offsets="570:707" id="2" />
+      <Sentence char_offsets="718:915" id="3" />
+      <Sentence char_offsets="926:989" id="4" />
+      <Sentence char_offsets="1000:1213" id="5" />
+      <Sentence char_offsets="1224:1466" id="6" />
+      <Sentence char_offsets="1477:1657" id="7" />
+      <Sentence char_offsets="1668:1755" id="8" />
+      <Sentence char_offsets="1757:1882" id="9" />
+      <Sentence char_offsets="1893:2050" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

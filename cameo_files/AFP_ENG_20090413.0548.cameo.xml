@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0548">
+    <Sentences>
+      <Sentence char_offsets="195:386" id="0" />
+      <Sentence char_offsets="397:605" id="1" />
+      <Sentence char_offsets="616:731" id="2" />
+      <Sentence char_offsets="742:784" id="3" />
+      <Sentence char_offsets="786:959" id="4" />
+      <Sentence char_offsets="970:1196" id="5" />
+      <Sentence char_offsets="1207:1441" id="6" />
+      <Sentence char_offsets="1452:1539" id="7" />
+      <Sentence char_offsets="1550:1740" id="8" />
+      <Sentence char_offsets="1751:1974" id="9" />
+      <Sentence char_offsets="1985:2167" id="10" />
+      <Sentence char_offsets="2178:2268" id="11" />
+      <Sentence char_offsets="2279:2386" id="12" />
+      <Sentence char_offsets="2388:2459" id="13" />
+      <Sentence char_offsets="2470:2691" id="14" />
+      <Sentence char_offsets="2702:2938" id="15" />
+      <Sentence char_offsets="2949:3077" id="16" />
+      <Sentence char_offsets="3088:3134" id="17" />
+      <Sentence char_offsets="3136:3258" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

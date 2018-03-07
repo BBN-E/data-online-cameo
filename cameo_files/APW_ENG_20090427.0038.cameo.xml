@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0038">
+    <Sentences>
+      <Sentence char_offsets="191:396" id="0" />
+      <Sentence char_offsets="407:585" id="1" />
+      <Sentence char_offsets="596:822" id="2" />
+      <Sentence char_offsets="833:907" id="3" />
+      <Sentence char_offsets="909:961" id="4" />
+      <Sentence char_offsets="963:1073" id="5" />
+      <Sentence char_offsets="1084:1163" id="6" />
+      <Sentence char_offsets="1174:1382" id="7" />
+      <Sentence char_offsets="1393:1557" id="8" />
+      <Sentence char_offsets="1568:1752" id="9" />
+      <Sentence char_offsets="1763:1871" id="10" />
+      <Sentence char_offsets="1873:2033" id="11" />
+      <Sentence char_offsets="2044:2191" id="12" />
+      <Sentence char_offsets="2193:2246" id="13" />
+      <Sentence char_offsets="2257:2497" id="14" />
+      <Sentence char_offsets="2508:2720" id="15" />
+      <Sentence char_offsets="2731:2811" id="16" />
+      <Sentence char_offsets="2813:3004" id="17" />
+      <Sentence char_offsets="3015:3077" id="18" />
+      <Sentence char_offsets="3079:3203" id="19" />
+      <Sentence char_offsets="3214:3354" id="20" />
+      <Sentence char_offsets="3365:3520" id="21" />
+      <Sentence char_offsets="3531:3601" id="22" />
+      <Sentence char_offsets="3603:3752" id="23" />
+      <Sentence char_offsets="3763:3993" id="24" />
+      <Sentence char_offsets="4004:4220" id="25" />
+      <Sentence char_offsets="4231:4236" id="26" />
+      <Sentence char_offsets="4247:4364" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="54651" actor_name="Lucio Gutierrez" role="Source" />
+        <Participant actor_id="37108" actor_name="Rafael Correa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="32882" actor_name="Ecuador" role="Source" />
+        <Participant actor_id="37108" actor_name="Rafael Correa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="historical" type="161">
+        <Participant actor_id="37108" actor_name="Rafael Correa" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

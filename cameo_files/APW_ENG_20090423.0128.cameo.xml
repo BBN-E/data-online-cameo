@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0128">
+    <Sentences>
+      <Sentence char_offsets="198:385" id="0" />
+      <Sentence char_offsets="396:614" id="1" />
+      <Sentence char_offsets="625:722" id="2" />
+      <Sentence char_offsets="733:835" id="3" />
+      <Sentence char_offsets="837:988" id="4" />
+      <Sentence char_offsets="999:1100" id="5" />
+      <Sentence char_offsets="1102:1189" id="6" />
+      <Sentence char_offsets="1191:1269" id="7" />
+      <Sentence char_offsets="1280:1406" id="8" />
+      <Sentence char_offsets="1408:1505" id="9" />
+      <Sentence char_offsets="1516:1641" id="10" />
+      <Sentence char_offsets="1652:1928" id="11" />
+      <Sentence char_offsets="1939:2119" id="12" />
+      <Sentence char_offsets="2130:2206" id="13" />
+      <Sentence char_offsets="2217:2283" id="14" />
+      <Sentence char_offsets="2285:2454" id="15" />
+      <Sentence char_offsets="2465:2669" id="16" />
+      <Sentence char_offsets="2671:2737" id="17" />
+      <Sentence char_offsets="2748:2872" id="18" />
+      <Sentence char_offsets="2874:3003" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="current" type="036">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="100">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="neutral" type="111">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="1243">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="16" tense="neutral" type="1243">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="1661">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="5" tense="neutral" type="1661">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="53790" actor_name="Daily Monitor" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

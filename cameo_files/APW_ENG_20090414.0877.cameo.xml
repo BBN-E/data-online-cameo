@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0877">
+    <Sentences>
+      <Sentence char_offsets="184:367" id="0" />
+      <Sentence char_offsets="378:563" id="1" />
+      <Sentence char_offsets="565:664" id="2" />
+      <Sentence char_offsets="675:857" id="3" />
+      <Sentence char_offsets="859:910" id="4" />
+      <Sentence char_offsets="921:1091" id="5" />
+      <Sentence char_offsets="1102:1268" id="6" />
+      <Sentence char_offsets="1270:1326" id="7" />
+      <Sentence char_offsets="1337:1499" id="8" />
+      <Sentence char_offsets="1501:1635" id="9" />
+      <Sentence char_offsets="1646:1738" id="10" />
+      <Sentence char_offsets="1740:1804" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="413" agent_name="Justice Department/Ministery" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="historical" type="112">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

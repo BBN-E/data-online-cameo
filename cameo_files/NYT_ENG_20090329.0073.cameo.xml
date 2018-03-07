@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090329.0073">
+    <Sentences>
+      <Sentence char_offsets="141:383" id="0" />
+      <Sentence char_offsets="394:554" id="1" />
+      <Sentence char_offsets="565:637" id="2" />
+      <Sentence char_offsets="639:902" id="3" />
+      <Sentence char_offsets="913:1130" id="4" />
+      <Sentence char_offsets="1132:1419" id="5" />
+      <Sentence char_offsets="1421:1579" id="6" />
+      <Sentence char_offsets="1590:1933" id="7" />
+      <Sentence char_offsets="1944:2242" id="8" />
+      <Sentence char_offsets="2253:2506" id="9" />
+      <Sentence char_offsets="2517:2735" id="10" />
+      <Sentence char_offsets="2737:2955" id="11" />
+      <Sentence char_offsets="2957:3136" id="12" />
+      <Sentence char_offsets="3147:3417" id="13" />
+      <Sentence char_offsets="3428:3695" id="14" />
+      <Sentence char_offsets="3697:3790" id="15" />
+      <Sentence char_offsets="3801:4015" id="16" />
+      <Sentence char_offsets="4017:4101" id="17" />
+      <Sentence char_offsets="4103:4103" id="18" />
+      <Sentence char_offsets="4114:4282" id="19" />
+      <Sentence char_offsets="4284:4655" id="20" />
+      <Sentence char_offsets="4666:5060" id="21" />
+      <Sentence char_offsets="5062:5372" id="22" />
+      <Sentence char_offsets="5383:5584" id="23" />
+      <Sentence char_offsets="5595:5908" id="24" />
+      <Sentence char_offsets="5919:6087" id="25" />
+      <Sentence char_offsets="6098:6239" id="26" />
+      <Sentence char_offsets="6250:6506" id="27" />
+      <Sentence char_offsets="6517:6534" id="28" />
+      <Sentence char_offsets="6545:6608" id="29" />
+      <Sentence char_offsets="6619:6636" id="30" />
+      <Sentence char_offsets="6647:6656" id="31" />
+      <Sentence char_offsets="6658:6672" id="32" />
+      <Sentence char_offsets="6674:6680" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="historical" type="111">
+        <Participant actor_id="26685" actor_name="Olara Otunnu" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

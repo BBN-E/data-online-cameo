@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0078">
+    <Sentences>
+      <Sentence char_offsets="190:436" id="0" />
+      <Sentence char_offsets="447:590" id="1" />
+      <Sentence char_offsets="592:833" id="2" />
+      <Sentence char_offsets="844:1099" id="3" />
+      <Sentence char_offsets="1110:1286" id="4" />
+      <Sentence char_offsets="1288:1387" id="5" />
+      <Sentence char_offsets="1398:1548" id="6" />
+      <Sentence char_offsets="1550:1630" id="7" />
+      <Sentence char_offsets="1641:1880" id="8" />
+      <Sentence char_offsets="1882:1947" id="9" />
+      <Sentence char_offsets="1958:2201" id="10" />
+      <Sentence char_offsets="2212:2383" id="11" />
+      <Sentence char_offsets="2385:2582" id="12" />
+      <Sentence char_offsets="2593:2696" id="13" />
+      <Sentence char_offsets="2698:2945" id="14" />
+      <Sentence char_offsets="2956:3110" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="34488" actor_name="Timothy J. Keating" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

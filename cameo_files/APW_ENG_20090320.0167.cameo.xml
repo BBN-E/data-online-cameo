@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.0167">
+    <Sentences>
+      <Sentence char_offsets="193:366" id="0" />
+      <Sentence char_offsets="377:471" id="1" />
+      <Sentence char_offsets="482:670" id="2" />
+      <Sentence char_offsets="681:792" id="3" />
+      <Sentence char_offsets="794:1008" id="4" />
+      <Sentence char_offsets="1019:1241" id="5" />
+      <Sentence char_offsets="1252:1410" id="6" />
+      <Sentence char_offsets="1421:1590" id="7" />
+      <Sentence char_offsets="1601:1736" id="8" />
+      <Sentence char_offsets="1738:1862" id="9" />
+      <Sentence char_offsets="1873:1987" id="10" />
+      <Sentence char_offsets="1998:2095" id="11" />
+      <Sentence char_offsets="2106:2173" id="12" />
+      <Sentence char_offsets="2175:2213" id="13" />
+      <Sentence char_offsets="2215:2309" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="35118" actor_name="Korean Central News Agency" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

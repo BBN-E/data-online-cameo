@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0433">
+    <Sentences>
+      <Sentence char_offsets="182:375" id="0" />
+      <Sentence char_offsets="386:593" id="1" />
+      <Sentence char_offsets="604:793" id="2" />
+      <Sentence char_offsets="804:909" id="3" />
+      <Sentence char_offsets="920:1057" id="4" />
+      <Sentence char_offsets="1068:1261" id="5" />
+      <Sentence char_offsets="1272:1471" id="6" />
+      <Sentence char_offsets="1482:1625" id="7" />
+      <Sentence char_offsets="1636:1751" id="8" />
+      <Sentence char_offsets="1762:1952" id="9" />
+      <Sentence char_offsets="1963:2096" id="10" />
+      <Sentence char_offsets="2107:2291" id="11" />
+      <Sentence char_offsets="2302:2431" id="12" />
+      <Sentence char_offsets="2433:2479" id="13" />
+      <Sentence char_offsets="2490:2653" id="14" />
+      <Sentence char_offsets="2664:2770" id="15" />
+      <Sentence char_offsets="2772:2864" id="16" />
+      <Sentence char_offsets="2875:3004" id="17" />
+      <Sentence char_offsets="3015:3151" id="18" />
+      <Sentence char_offsets="3162:3372" id="19" />
+      <Sentence char_offsets="3383:3533" id="20" />
+      <Sentence char_offsets="3544:3707" id="21" />
+      <Sentence char_offsets="3709:3766" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="31299" actor_name="International Crisis Group" role="Source" />
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="32192" actor_name="Bangladesh" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="040">
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Source" />
+        <Participant actor_id="22471" actor_name="Bangladesh Rifles" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="040">
+        <Participant actor_id="22471" actor_name="Bangladesh Rifles" role="Source" />
+        <Participant actor_id="23482" actor_name="Sheikh Hasina Wajed" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.1001">
+    <Sentences>
+      <Sentence char_offsets="193:319" id="0" />
+      <Sentence char_offsets="321:429" id="1" />
+      <Sentence char_offsets="440:591" id="2" />
+      <Sentence char_offsets="602:766" id="3" />
+      <Sentence char_offsets="777:965" id="4" />
+      <Sentence char_offsets="976:1232" id="5" />
+      <Sentence char_offsets="1243:1409" id="6" />
+      <Sentence char_offsets="1420:1463" id="7" />
+      <Sentence char_offsets="1465:1515" id="8" />
+      <Sentence char_offsets="1517:1543" id="9" />
+      <Sentence char_offsets="1545:1629" id="10" />
+      <Sentence char_offsets="1640:1875" id="11" />
+      <Sentence char_offsets="1886:1907" id="12" />
+      <Sentence char_offsets="1909:1940" id="13" />
+      <Sentence char_offsets="1942:1982" id="14" />
+      <Sentence char_offsets="1993:2173" id="15" />
+      <Sentence char_offsets="2184:2334" id="16" />
+      <Sentence char_offsets="2336:2389" id="17" />
+      <Sentence char_offsets="2400:2496" id="18" />
+      <Sentence char_offsets="2498:2518" id="19" />
+      <Sentence char_offsets="2520:2590" id="20" />
+      <Sentence char_offsets="2592:2638" id="21" />
+      <Sentence char_offsets="2649:2807" id="22" />
+      <Sentence char_offsets="2818:3011" id="23" />
+      <Sentence char_offsets="3022:3027" id="24" />
+      <Sentence char_offsets="3038:3116" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="23121" actor_name="Osama bin Laden" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="23121" actor_name="Osama bin Laden" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="29713" actor_name="Brigadier Mehmood Shah" role="Source" />
+        <Participant actor_id="23121" actor_name="Osama bin Laden" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="historical" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0629">
+    <Sentences>
+      <Sentence char_offsets="188:315" id="0" />
+      <Sentence char_offsets="326:446" id="1" />
+      <Sentence char_offsets="457:597" id="2" />
+      <Sentence char_offsets="599:757" id="3" />
+      <Sentence char_offsets="768:865" id="4" />
+      <Sentence char_offsets="867:890" id="5" />
+      <Sentence char_offsets="901:1009" id="6" />
+      <Sentence char_offsets="1011:1069" id="7" />
+      <Sentence char_offsets="1071:1218" id="8" />
+      <Sentence char_offsets="1229:1342" id="9" />
+      <Sentence char_offsets="1353:1491" id="10" />
+      <Sentence char_offsets="1493:1618" id="11" />
+      <Sentence char_offsets="1629:1751" id="12" />
+      <Sentence char_offsets="1753:1871" id="13" />
+      <Sentence char_offsets="1873:2009" id="14" />
+      <Sentence char_offsets="2020:2063" id="15" />
+      <Sentence char_offsets="2065:2170" id="16" />
+      <Sentence char_offsets="2172:2287" id="17" />
+      <Sentence char_offsets="2298:2328" id="18" />
+      <Sentence char_offsets="2330:2462" id="19" />
+      <Sentence char_offsets="2464:2581" id="20" />
+      <Sentence char_offsets="2592:2686" id="21" />
+      <Sentence char_offsets="2697:2780" id="22" />
+      <Sentence char_offsets="2791:2847" id="23" />
+      <Sentence char_offsets="2849:2982" id="24" />
+      <Sentence char_offsets="2993:2998" id="25" />
+      <Sentence char_offsets="3009:3019" id="26" />
+      <Sentence char_offsets="3030:3073" id="27" />
+      <Sentence char_offsets="3084:3125" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="120">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="120">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

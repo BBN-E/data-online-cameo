@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1029">
+    <Sentences>
+      <Sentence char_offsets="190:364" id="0" />
+      <Sentence char_offsets="375:520" id="1" />
+      <Sentence char_offsets="522:581" id="2" />
+      <Sentence char_offsets="592:676" id="3" />
+      <Sentence char_offsets="687:853" id="4" />
+      <Sentence char_offsets="864:949" id="5" />
+      <Sentence char_offsets="951:1047" id="6" />
+      <Sentence char_offsets="1058:1200" id="7" />
+      <Sentence char_offsets="1202:1388" id="8" />
+      <Sentence char_offsets="1399:1625" id="9" />
+      <Sentence char_offsets="1627:1839" id="10" />
+      <Sentence char_offsets="1850:2063" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="190">
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

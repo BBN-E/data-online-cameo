@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0176">
+    <Sentences>
+      <Sentence char_offsets="186:368" id="0" />
+      <Sentence char_offsets="379:578" id="1" />
+      <Sentence char_offsets="580:632" id="2" />
+      <Sentence char_offsets="643:752" id="3" />
+      <Sentence char_offsets="754:820" id="4" />
+      <Sentence char_offsets="831:892" id="5" />
+      <Sentence char_offsets="903:1089" id="6" />
+      <Sentence char_offsets="1091:1231" id="7" />
+      <Sentence char_offsets="1242:1392" id="8" />
+      <Sentence char_offsets="1403:1527" id="9" />
+      <Sentence char_offsets="1538:1617" id="10" />
+      <Sentence char_offsets="1628:1737" id="11" />
+      <Sentence char_offsets="1748:1946" id="12" />
+      <Sentence char_offsets="1948:2011" id="13" />
+      <Sentence char_offsets="2022:2143" id="14" />
+      <Sentence char_offsets="2154:2313" id="15" />
+      <Sentence char_offsets="2324:2462" id="16" />
+      <Sentence char_offsets="2464:2575" id="17" />
+      <Sentence char_offsets="2586:2831" id="18" />
+      <Sentence char_offsets="2842:2995" id="19" />
+      <Sentence char_offsets="3006:3069" id="20" />
+      <Sentence char_offsets="3080:3307" id="21" />
+      <Sentence char_offsets="3318:3323" id="22" />
+      <Sentence char_offsets="3334:3423" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="24618" actor_name="Chris Evans" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="100">
+        <Participant actor_id="117934" actor_name="Malcolm Bligh Turnbull" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

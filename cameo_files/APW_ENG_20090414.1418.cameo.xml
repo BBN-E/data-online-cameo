@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.1418">
+    <Sentences>
+      <Sentence char_offsets="187:424" id="0" />
+      <Sentence char_offsets="435:691" id="1" />
+      <Sentence char_offsets="702:851" id="2" />
+      <Sentence char_offsets="862:942" id="3" />
+      <Sentence char_offsets="953:1163" id="4" />
+      <Sentence char_offsets="1165:1266" id="5" />
+      <Sentence char_offsets="1277:1453" id="6" />
+      <Sentence char_offsets="1455:1530" id="7" />
+      <Sentence char_offsets="1541:1782" id="8" />
+      <Sentence char_offsets="1784:1926" id="9" />
+      <Sentence char_offsets="1937:2047" id="10" />
+      <Sentence char_offsets="2049:2215" id="11" />
+      <Sentence char_offsets="2226:2328" id="12" />
+      <Sentence char_offsets="2339:2593" id="13" />
+      <Sentence char_offsets="2604:2817" id="14" />
+      <Sentence char_offsets="2828:3062" id="15" />
+      <Sentence char_offsets="3064:3161" id="16" />
+      <Sentence char_offsets="3172:3275" id="17" />
+      <Sentence char_offsets="3277:3411" id="18" />
+      <Sentence char_offsets="3422:3627" id="19" />
+      <Sentence char_offsets="3629:3805" id="20" />
+      <Sentence char_offsets="3816:4019" id="21" />
+      <Sentence char_offsets="4030:4188" id="22" />
+      <Sentence char_offsets="4199:4404" id="23" />
+      <Sentence char_offsets="4406:4534" id="24" />
+      <Sentence char_offsets="4545:4625" id="25" />
+      <Sentence char_offsets="4636:4816" id="26" />
+      <Sentence char_offsets="4818:4921" id="27" />
+      <Sentence char_offsets="4932:5146" id="28" />
+      <Sentence char_offsets="5157:5307" id="29" />
+      <Sentence char_offsets="5309:5364" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="238660" actor_name="Chrysler" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

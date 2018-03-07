@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0248">
+    <Sentences>
+      <Sentence char_offsets="195:338" id="0" />
+      <Sentence char_offsets="349:578" id="1" />
+      <Sentence char_offsets="589:776" id="2" />
+      <Sentence char_offsets="787:952" id="3" />
+      <Sentence char_offsets="954:997" id="4" />
+      <Sentence char_offsets="1008:1128" id="5" />
+      <Sentence char_offsets="1139:1256" id="6" />
+      <Sentence char_offsets="1267:1447" id="7" />
+      <Sentence char_offsets="1458:1570" id="8" />
+      <Sentence char_offsets="1572:1649" id="9" />
+      <Sentence char_offsets="1660:1873" id="10" />
+      <Sentence char_offsets="1884:2014" id="11" />
+      <Sentence char_offsets="2025:2114" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

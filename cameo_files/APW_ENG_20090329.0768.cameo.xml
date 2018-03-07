@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090329.0768">
+    <Sentences>
+      <Sentence char_offsets="183:401" id="0" />
+      <Sentence char_offsets="412:613" id="1" />
+      <Sentence char_offsets="624:837" id="2" />
+      <Sentence char_offsets="848:1129" id="3" />
+      <Sentence char_offsets="1140:1331" id="4" />
+      <Sentence char_offsets="1342:1467" id="5" />
+      <Sentence char_offsets="1478:1625" id="6" />
+      <Sentence char_offsets="1636:1758" id="7" />
+      <Sentence char_offsets="1769:1847" id="8" />
+      <Sentence char_offsets="1849:1943" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="11976" actor_name="Mar&#237;a Teresa Fern&#225;ndez de la Vega" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="030">
+        <Participant actor_id="12007" actor_name="Pedro Solbes" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="030">
+        <Participant actor_id="12007" actor_name="Pedro Solbes" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="0331">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="051">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="33237" actor_name="Bank of Spain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

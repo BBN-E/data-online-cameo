@@ -1,0 +1,105 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.1197">
+    <Sentences>
+      <Sentence char_offsets="184:349" id="0" />
+      <Sentence char_offsets="351:497" id="1" />
+      <Sentence char_offsets="508:678" id="2" />
+      <Sentence char_offsets="680:883" id="3" />
+      <Sentence char_offsets="894:982" id="4" />
+      <Sentence char_offsets="993:1162" id="5" />
+      <Sentence char_offsets="1173:1337" id="6" />
+      <Sentence char_offsets="1348:1414" id="7" />
+      <Sentence char_offsets="1416:1465" id="8" />
+      <Sentence char_offsets="1476:1634" id="9" />
+      <Sentence char_offsets="1645:1796" id="10" />
+      <Sentence char_offsets="1807:1976" id="11" />
+      <Sentence char_offsets="1987:2086" id="12" />
+      <Sentence char_offsets="2097:2136" id="13" />
+      <Sentence char_offsets="2138:2243" id="14" />
+      <Sentence char_offsets="2254:2420" id="15" />
+      <Sentence char_offsets="2431:2786" id="16" />
+      <Sentence char_offsets="2797:2937" id="17" />
+      <Sentence char_offsets="2939:2959" id="18" />
+      <Sentence char_offsets="2961:3032" id="19" />
+      <Sentence char_offsets="3043:3215" id="20" />
+      <Sentence char_offsets="3226:3367" id="21" />
+      <Sentence char_offsets="3369:3479" id="22" />
+      <Sentence char_offsets="3490:3659" id="23" />
+      <Sentence char_offsets="3670:3853" id="24" />
+      <Sentence char_offsets="3855:4005" id="25" />
+      <Sentence char_offsets="4016:4162" id="26" />
+      <Sentence char_offsets="4164:4229" id="27" />
+      <Sentence char_offsets="4240:4330" id="28" />
+      <Sentence char_offsets="4341:4412" id="29" />
+      <Sentence char_offsets="4423:4628" id="30" />
+      <Sentence char_offsets="4639:4731" id="31" />
+      <Sentence char_offsets="4742:4863" id="32" />
+      <Sentence char_offsets="4874:5006" id="33" />
+      <Sentence char_offsets="5008:5105" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="030">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="030">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="5" tense="neutral" type="046">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="24" tense="neutral" type="046">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="24" tense="neutral" type="046">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

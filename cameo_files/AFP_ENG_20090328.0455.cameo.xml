@@ -1,0 +1,77 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0455">
+    <Sentences>
+      <Sentence char_offsets="182:350" id="0" />
+      <Sentence char_offsets="361:565" id="1" />
+      <Sentence char_offsets="576:762" id="2" />
+      <Sentence char_offsets="773:847" id="3" />
+      <Sentence char_offsets="858:1039" id="4" />
+      <Sentence char_offsets="1050:1071" id="5" />
+      <Sentence char_offsets="1082:1267" id="6" />
+      <Sentence char_offsets="1278:1397" id="7" />
+      <Sentence char_offsets="1408:1450" id="8" />
+      <Sentence char_offsets="1461:1653" id="9" />
+      <Sentence char_offsets="1655:1708" id="10" />
+      <Sentence char_offsets="1719:1883" id="11" />
+      <Sentence char_offsets="1894:1971" id="12" />
+      <Sentence char_offsets="1982:2054" id="13" />
+      <Sentence char_offsets="2056:2117" id="14" />
+      <Sentence char_offsets="2119:2174" id="15" />
+      <Sentence char_offsets="2185:2409" id="16" />
+      <Sentence char_offsets="2420:2598" id="17" />
+      <Sentence char_offsets="2609:2722" id="18" />
+      <Sentence char_offsets="2733:2965" id="19" />
+      <Sentence char_offsets="2976:3065" id="20" />
+      <Sentence char_offsets="3076:3161" id="21" />
+      <Sentence char_offsets="3163:3209" id="22" />
+      <Sentence char_offsets="3220:3333" id="23" />
+      <Sentence char_offsets="3344:3439" id="24" />
+      <Sentence char_offsets="3441:3547" id="25" />
+      <Sentence char_offsets="3558:3646" id="26" />
+      <Sentence char_offsets="3648:3759" id="27" />
+      <Sentence char_offsets="3770:3908" id="28" />
+      <Sentence char_offsets="3919:4017" id="29" />
+      <Sentence char_offsets="4028:4154" id="30" />
+      <Sentence char_offsets="4156:4205" id="31" />
+      <Sentence char_offsets="4216:4291" id="32" />
+      <Sentence char_offsets="4302:4519" id="33" />
+      <Sentence char_offsets="4530:4624" id="34" />
+      <Sentence char_offsets="4626:4677" id="35" />
+      <Sentence char_offsets="4688:4734" id="36" />
+      <Sentence char_offsets="4745:4819" id="37" />
+      <Sentence char_offsets="4821:4879" id="38" />
+      <Sentence char_offsets="4881:4937" id="39" />
+      <Sentence char_offsets="4948:5034" id="40" />
+      <Sentence char_offsets="5045:5088" id="41" />
+      <Sentence char_offsets="5099:5152" id="42" />
+      <Sentence char_offsets="5154:5175" id="43" />
+      <Sentence char_offsets="5177:5221" id="44" />
+      <Sentence char_offsets="5232:5270" id="45" />
+      <Sentence char_offsets="5271:5271" id="46" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="neutral" type="015">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="0233">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="714" agent_name="Children" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="1712">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="30" tense="historical" type="180">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="690" agent_name="Attacker" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

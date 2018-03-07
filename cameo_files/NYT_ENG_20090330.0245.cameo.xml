@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090330.0245">
+    <Sentences>
+      <Sentence char_offsets="128:298" id="0" />
+      <Sentence char_offsets="309:414" id="1" />
+      <Sentence char_offsets="416:549" id="2" />
+      <Sentence char_offsets="551:653" id="3" />
+      <Sentence char_offsets="655:720" id="4" />
+      <Sentence char_offsets="731:881" id="5" />
+      <Sentence char_offsets="892:1025" id="6" />
+      <Sentence char_offsets="1027:1136" id="7" />
+      <Sentence char_offsets="1147:1203" id="8" />
+      <Sentence char_offsets="1205:1301" id="9" />
+      <Sentence char_offsets="1312:1377" id="10" />
+      <Sentence char_offsets="1379:1471" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="317" agent_name="Academics" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="317" agent_name="Academics" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

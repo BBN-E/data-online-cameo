@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0307">
+    <Sentences>
+      <Sentence char_offsets="202:428" id="0" />
+      <Sentence char_offsets="439:688" id="1" />
+      <Sentence char_offsets="699:951" id="2" />
+      <Sentence char_offsets="962:1200" id="3" />
+      <Sentence char_offsets="1211:1277" id="4" />
+      <Sentence char_offsets="1288:1464" id="5" />
+      <Sentence char_offsets="1475:1575" id="6" />
+      <Sentence char_offsets="1577:1838" id="7" />
+      <Sentence char_offsets="1849:1969" id="8" />
+      <Sentence char_offsets="1971:2090" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="413" agent_name="Justice Department/Ministery" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="051">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="177" agent_name="Sharia Court" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="604" agent_name="Muslim" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="401" agent_name="Ethnic Group" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="177" agent_name="Sharia Court" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

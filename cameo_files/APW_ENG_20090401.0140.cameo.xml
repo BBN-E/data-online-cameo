@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.0140">
+    <Sentences>
+      <Sentence char_offsets="198:406" id="0" />
+      <Sentence char_offsets="417:601" id="1" />
+      <Sentence char_offsets="603:824" id="2" />
+      <Sentence char_offsets="835:1021" id="3" />
+      <Sentence char_offsets="1032:1148" id="4" />
+      <Sentence char_offsets="1159:1273" id="5" />
+      <Sentence char_offsets="1284:1518" id="6" />
+      <Sentence char_offsets="1529:1619" id="7" />
+      <Sentence char_offsets="1621:1689" id="8" />
+      <Sentence char_offsets="1691:1786" id="9" />
+      <Sentence char_offsets="1797:1965" id="10" />
+      <Sentence char_offsets="1976:2047" id="11" />
+      <Sentence char_offsets="2049:2135" id="12" />
+      <Sentence char_offsets="2146:2199" id="13" />
+      <Sentence char_offsets="2201:2302" id="14" />
+      <Sentence char_offsets="2313:2509" id="15" />
+      <Sentence char_offsets="2511:2638" id="16" />
+      <Sentence char_offsets="2649:2696" id="17" />
+      <Sentence char_offsets="2707:2712" id="18" />
+      <Sentence char_offsets="2723:2834" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="51856" actor_name="Norm Coleman" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.0890">
+    <Sentences>
+      <Sentence char_offsets="191:389" id="0" />
+      <Sentence char_offsets="400:546" id="1" />
+      <Sentence char_offsets="557:741" id="2" />
+      <Sentence char_offsets="752:846" id="3" />
+      <Sentence char_offsets="857:996" id="4" />
+      <Sentence char_offsets="998:1092" id="5" />
+      <Sentence char_offsets="1103:1336" id="6" />
+      <Sentence char_offsets="1347:1518" id="7" />
+      <Sentence char_offsets="1520:1592" id="8" />
+      <Sentence char_offsets="1603:1692" id="9" />
+      <Sentence char_offsets="1694:1849" id="10" />
+      <Sentence char_offsets="1860:2034" id="11" />
+      <Sentence char_offsets="2036:2082" id="12" />
+      <Sentence char_offsets="2093:2216" id="13" />
+      <Sentence char_offsets="2227:2390" id="14" />
+      <Sentence char_offsets="2401:2471" id="15" />
+      <Sentence char_offsets="2473:2621" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="current" type="113">
+        <Participant actor_id="39391" actor_name="Kabinga Pande" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

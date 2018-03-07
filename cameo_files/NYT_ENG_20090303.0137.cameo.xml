@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090303.0137">
+    <Sentences>
+      <Sentence char_offsets="174:388" id="0" />
+      <Sentence char_offsets="399:521" id="1" />
+      <Sentence char_offsets="523:737" id="2" />
+      <Sentence char_offsets="748:968" id="3" />
+      <Sentence char_offsets="970:1077" id="4" />
+      <Sentence char_offsets="1088:1260" id="5" />
+      <Sentence char_offsets="1262:1365" id="6" />
+      <Sentence char_offsets="1376:1566" id="7" />
+      <Sentence char_offsets="1568:1740" id="8" />
+      <Sentence char_offsets="1742:1935" id="9" />
+      <Sentence char_offsets="1946:2140" id="10" />
+      <Sentence char_offsets="2142:2245" id="11" />
+      <Sentence char_offsets="2256:2468" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="091">
+        <Participant actor_id="41262" actor_name="United States" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="091">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

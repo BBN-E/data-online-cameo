@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0696">
+    <Sentences>
+      <Sentence char_offsets="184:370" id="0" />
+      <Sentence char_offsets="381:571" id="1" />
+      <Sentence char_offsets="582:712" id="2" />
+      <Sentence char_offsets="723:949" id="3" />
+      <Sentence char_offsets="960:1254" id="4" />
+      <Sentence char_offsets="1265:1422" id="5" />
+      <Sentence char_offsets="1433:1526" id="6" />
+      <Sentence char_offsets="1537:1701" id="7" />
+      <Sentence char_offsets="1712:1818" id="8" />
+      <Sentence char_offsets="1829:2050" id="9" />
+      <Sentence char_offsets="2061:2143" id="10" />
+      <Sentence char_offsets="2154:2196" id="11" />
+      <Sentence char_offsets="2207:2265" id="12" />
+      <Sentence char_offsets="2276:2453" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="18955" actor_name="Business Day" role="Source" />
+        <Participant actor_id="45897" actor_name="African National Congress" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="18955" actor_name="Business Day" role="Source" />
+        <Participant actor_id="238452" actor_name="Mokotedi Mpshe" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="0351">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

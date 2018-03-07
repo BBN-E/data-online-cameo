@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090423.0084">
+    <Sentences>
+      <Sentence char_offsets="163:363" id="0" />
+      <Sentence char_offsets="374:547" id="1" />
+      <Sentence char_offsets="558:713" id="2" />
+      <Sentence char_offsets="724:915" id="3" />
+      <Sentence char_offsets="917:1007" id="4" />
+      <Sentence char_offsets="1018:1161" id="5" />
+      <Sentence char_offsets="1163:1336" id="6" />
+      <Sentence char_offsets="1347:1499" id="7" />
+      <Sentence char_offsets="1510:1715" id="8" />
+      <Sentence char_offsets="1726:1901" id="9" />
+      <Sentence char_offsets="1912:1998" id="10" />
+      <Sentence char_offsets="2000:2049" id="11" />
+      <Sentence char_offsets="2051:2106" id="12" />
+      <Sentence char_offsets="2117:2261" id="13" />
+      <Sentence char_offsets="2263:2385" id="14" />
+      <Sentence char_offsets="2396:2536" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="34961" actor_name="Claire McCaskill" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="1312">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

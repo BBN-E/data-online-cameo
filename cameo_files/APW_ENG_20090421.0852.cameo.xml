@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0852">
+    <Sentences>
+      <Sentence char_offsets="188:407" id="0" />
+      <Sentence char_offsets="418:497" id="1" />
+      <Sentence char_offsets="499:678" id="2" />
+      <Sentence char_offsets="689:782" id="3" />
+      <Sentence char_offsets="793:880" id="4" />
+      <Sentence char_offsets="882:910" id="5" />
+      <Sentence char_offsets="921:1121" id="6" />
+      <Sentence char_offsets="1132:1330" id="7" />
+      <Sentence char_offsets="1341:1480" id="8" />
+      <Sentence char_offsets="1482:1615" id="9" />
+      <Sentence char_offsets="1626:1719" id="10" />
+      <Sentence char_offsets="1721:1815" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="32733" actor_name="Omar Barboza" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="39606" actor_name="Jos&#233; Antonio Garc&#237;a Bela&#250;nde" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="580" agent_name="Opposition Supporter" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

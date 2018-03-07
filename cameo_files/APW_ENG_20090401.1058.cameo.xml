@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.1058">
+    <Sentences>
+      <Sentence char_offsets="178:293" id="0" />
+      <Sentence char_offsets="304:446" id="1" />
+      <Sentence char_offsets="448:522" id="2" />
+      <Sentence char_offsets="533:621" id="3" />
+      <Sentence char_offsets="632:731" id="4" />
+      <Sentence char_offsets="733:790" id="5" />
+      <Sentence char_offsets="801:909" id="6" />
+      <Sentence char_offsets="911:1078" id="7" />
+      <Sentence char_offsets="1089:1302" id="8" />
+      <Sentence char_offsets="1313:1385" id="9" />
+      <Sentence char_offsets="1396:1480" id="10" />
+      <Sentence char_offsets="1482:1643" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

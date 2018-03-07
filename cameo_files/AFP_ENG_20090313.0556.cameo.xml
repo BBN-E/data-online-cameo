@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0556">
+    <Sentences>
+      <Sentence char_offsets="169:350" id="0" />
+      <Sentence char_offsets="361:588" id="1" />
+      <Sentence char_offsets="599:750" id="2" />
+      <Sentence char_offsets="761:946" id="3" />
+      <Sentence char_offsets="957:1094" id="4" />
+      <Sentence char_offsets="1105:1313" id="5" />
+      <Sentence char_offsets="1324:1555" id="6" />
+      <Sentence char_offsets="1566:1755" id="7" />
+      <Sentence char_offsets="1766:1888" id="8" />
+      <Sentence char_offsets="1890:1951" id="9" />
+      <Sentence char_offsets="1962:2125" id="10" />
+      <Sentence char_offsets="2136:2249" id="11" />
+      <Sentence char_offsets="2251:2286" id="12" />
+      <Sentence char_offsets="2297:2407" id="13" />
+      <Sentence char_offsets="2418:2582" id="14" />
+      <Sentence char_offsets="2593:2774" id="15" />
+      <Sentence char_offsets="2785:2837" id="16" />
+      <Sentence char_offsets="2839:3002" id="17" />
+      <Sentence char_offsets="3013:3150" id="18" />
+      <Sentence char_offsets="3161:3290" id="19" />
+      <Sentence char_offsets="3301:3499" id="20" />
+      <Sentence char_offsets="3510:3718" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="046">
+        <Participant actor_id="31105" actor_name="International" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="112">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="historical" type="191">
+        <Participant actor_id="32631" actor_name="China" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="5" tense="historical" type="191">
+        <Participant actor_id="32631" actor_name="China" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="6" tense="neutral" type="046">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

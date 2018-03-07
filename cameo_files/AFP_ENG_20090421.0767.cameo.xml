@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0767">
+    <Sentences>
+      <Sentence char_offsets="191:352" id="0" />
+      <Sentence char_offsets="363:615" id="1" />
+      <Sentence char_offsets="626:797" id="2" />
+      <Sentence char_offsets="808:1036" id="3" />
+      <Sentence char_offsets="1047:1111" id="4" />
+      <Sentence char_offsets="1122:1251" id="5" />
+      <Sentence char_offsets="1253:1286" id="6" />
+      <Sentence char_offsets="1297:1447" id="7" />
+      <Sentence char_offsets="1458:1618" id="8" />
+      <Sentence char_offsets="1629:1768" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="012">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="139">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

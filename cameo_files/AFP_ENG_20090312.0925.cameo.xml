@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0925">
+    <Sentences>
+      <Sentence char_offsets="194:363" id="0" />
+      <Sentence char_offsets="374:594" id="1" />
+      <Sentence char_offsets="605:776" id="2" />
+      <Sentence char_offsets="787:969" id="3" />
+      <Sentence char_offsets="980:1075" id="4" />
+      <Sentence char_offsets="1086:1135" id="5" />
+      <Sentence char_offsets="1137:1188" id="6" />
+      <Sentence char_offsets="1190:1251" id="7" />
+      <Sentence char_offsets="1262:1395" id="8" />
+      <Sentence char_offsets="1397:1483" id="9" />
+      <Sentence char_offsets="1494:1658" id="10" />
+      <Sentence char_offsets="1669:1758" id="11" />
+      <Sentence char_offsets="1769:1872" id="12" />
+      <Sentence char_offsets="1874:1915" id="13" />
+      <Sentence char_offsets="1926:1994" id="14" />
+      <Sentence char_offsets="1996:2052" id="15" />
+      <Sentence char_offsets="2063:2200" id="16" />
+      <Sentence char_offsets="2211:2302" id="17" />
+      <Sentence char_offsets="2313:2524" id="18" />
+      <Sentence char_offsets="2535:2598" id="19" />
+      <Sentence char_offsets="2600:2656" id="20" />
+      <Sentence char_offsets="2667:2815" id="21" />
+      <Sentence char_offsets="2826:2894" id="22" />
+      <Sentence char_offsets="2896:2928" id="23" />
+      <Sentence char_offsets="2939:3070" id="24" />
+      <Sentence char_offsets="3072:3141" id="25" />
+      <Sentence char_offsets="3152:3283" id="26" />
+      <Sentence char_offsets="3294:3379" id="27" />
+      <Sentence char_offsets="3390:3564" id="28" />
+      <Sentence char_offsets="3575:3758" id="29" />
+      <Sentence char_offsets="3769:3940" id="30" />
+      <Sentence char_offsets="3951:4093" id="31" />
+      <Sentence char_offsets="4104:4231" id="32" />
+      <Sentence char_offsets="4242:4360" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="193">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

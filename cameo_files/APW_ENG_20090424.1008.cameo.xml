@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.1008">
+    <Sentences>
+      <Sentence char_offsets="181:360" id="0" />
+      <Sentence char_offsets="371:493" id="1" />
+      <Sentence char_offsets="495:614" id="2" />
+      <Sentence char_offsets="625:761" id="3" />
+      <Sentence char_offsets="772:890" id="4" />
+      <Sentence char_offsets="901:1007" id="5" />
+      <Sentence char_offsets="1018:1221" id="6" />
+      <Sentence char_offsets="1232:1325" id="7" />
+      <Sentence char_offsets="1336:1475" id="8" />
+      <Sentence char_offsets="1477:1665" id="9" />
+      <Sentence char_offsets="1676:1785" id="10" />
+      <Sentence char_offsets="1796:1991" id="11" />
+      <Sentence char_offsets="2002:2090" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="120">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

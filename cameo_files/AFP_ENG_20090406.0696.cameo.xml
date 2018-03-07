@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0696">
+    <Sentences>
+      <Sentence char_offsets="192:384" id="0" />
+      <Sentence char_offsets="395:612" id="1" />
+      <Sentence char_offsets="623:794" id="2" />
+      <Sentence char_offsets="805:870" id="3" />
+      <Sentence char_offsets="872:1097" id="4" />
+      <Sentence char_offsets="1108:1319" id="5" />
+      <Sentence char_offsets="1330:1516" id="6" />
+      <Sentence char_offsets="1527:1703" id="7" />
+      <Sentence char_offsets="1714:1938" id="8" />
+      <Sentence char_offsets="1949:2002" id="9" />
+      <Sentence char_offsets="2013:2235" id="10" />
+      <Sentence char_offsets="2246:2326" id="11" />
+      <Sentence char_offsets="2328:2435" id="12" />
+      <Sentence char_offsets="2446:2604" id="13" />
+      <Sentence char_offsets="2615:2746" id="14" />
+      <Sentence char_offsets="2757:2889" id="15" />
+      <Sentence char_offsets="2900:3008" id="16" />
+      <Sentence char_offsets="3019:3247" id="17" />
+      <Sentence char_offsets="3258:3432" id="18" />
+      <Sentence char_offsets="3443:3564" id="19" />
+      <Sentence char_offsets="3575:3634" id="20" />
+      <Sentence char_offsets="3636:3649" id="21" />
+      <Sentence char_offsets="3651:3700" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0189">
+    <Sentences>
+      <Sentence char_offsets="193:385" id="0" />
+      <Sentence char_offsets="396:561" id="1" />
+      <Sentence char_offsets="572:775" id="2" />
+      <Sentence char_offsets="786:921" id="3" />
+      <Sentence char_offsets="932:1218" id="4" />
+      <Sentence char_offsets="1229:1406" id="5" />
+      <Sentence char_offsets="1417:1654" id="6" />
+      <Sentence char_offsets="1665:1787" id="7" />
+      <Sentence char_offsets="1798:2011" id="8" />
+      <Sentence char_offsets="2022:2167" id="9" />
+      <Sentence char_offsets="2169:2226" id="10" />
+      <Sentence char_offsets="2237:2356" id="11" />
+      <Sentence char_offsets="2367:2623" id="12" />
+      <Sentence char_offsets="2634:2683" id="13" />
+      <Sentence char_offsets="2694:2894" id="14" />
+      <Sentence char_offsets="2905:2970" id="15" />
+      <Sentence char_offsets="2981:3200" id="16" />
+      <Sentence char_offsets="3211:3386" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="050">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="7997" actor_name="Hezbollah" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="057">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="12" tense="neutral" type="090">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="057">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0686">
+    <Sentences>
+      <Sentence char_offsets="188:367" id="0" />
+      <Sentence char_offsets="378:589" id="1" />
+      <Sentence char_offsets="600:809" id="2" />
+      <Sentence char_offsets="820:1040" id="3" />
+      <Sentence char_offsets="1051:1206" id="4" />
+      <Sentence char_offsets="1217:1278" id="5" />
+      <Sentence char_offsets="1280:1491" id="6" />
+      <Sentence char_offsets="1502:1723" id="7" />
+      <Sentence char_offsets="1734:1883" id="8" />
+      <Sentence char_offsets="1894:1997" id="9" />
+      <Sentence char_offsets="2008:2200" id="10" />
+      <Sentence char_offsets="2211:2299" id="11" />
+      <Sentence char_offsets="2301:2349" id="12" />
+      <Sentence char_offsets="2360:2565" id="13" />
+      <Sentence char_offsets="2576:2765" id="14" />
+      <Sentence char_offsets="2776:2877" id="15" />
+      <Sentence char_offsets="2888:3033" id="16" />
+      <Sentence char_offsets="3044:3187" id="17" />
+      <Sentence char_offsets="3198:3351" id="18" />
+      <Sentence char_offsets="3362:3505" id="19" />
+      <Sentence char_offsets="3516:3661" id="20" />
+      <Sentence char_offsets="3672:3782" id="21" />
+      <Sentence char_offsets="3793:3827" id="22" />
+      <Sentence char_offsets="3829:3875" id="23" />
+      <Sentence char_offsets="3877:3977" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="112">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,89 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0228">
+    <Sentences>
+      <Sentence char_offsets="186:385" id="0" />
+      <Sentence char_offsets="396:546" id="1" />
+      <Sentence char_offsets="548:656" id="2" />
+      <Sentence char_offsets="667:865" id="3" />
+      <Sentence char_offsets="876:1002" id="4" />
+      <Sentence char_offsets="1013:1195" id="5" />
+      <Sentence char_offsets="1206:1373" id="6" />
+      <Sentence char_offsets="1375:1446" id="7" />
+      <Sentence char_offsets="1457:1740" id="8" />
+      <Sentence char_offsets="1751:1855" id="9" />
+      <Sentence char_offsets="1857:2030" id="10" />
+      <Sentence char_offsets="2041:2223" id="11" />
+      <Sentence char_offsets="2234:2410" id="12" />
+      <Sentence char_offsets="2421:2583" id="13" />
+      <Sentence char_offsets="2585:2706" id="14" />
+      <Sentence char_offsets="2708:2896" id="15" />
+      <Sentence char_offsets="2907:3025" id="16" />
+      <Sentence char_offsets="3027:3354" id="17" />
+      <Sentence char_offsets="3365:3577" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="historical" type="042">
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="historical" type="042">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="29134" actor_name="Yasuo Fukuda" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="neutral" type="100">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="17" tense="neutral" type="113">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="8" tense="neutral" type="141">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="12" tense="historical" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="12" tense="historical" type="043">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="29134" actor_name="Yasuo Fukuda" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

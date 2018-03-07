@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0362">
+    <Sentences>
+      <Sentence char_offsets="185:367" id="0" />
+      <Sentence char_offsets="378:557" id="1" />
+      <Sentence char_offsets="568:798" id="2" />
+      <Sentence char_offsets="809:959" id="3" />
+      <Sentence char_offsets="970:1066" id="4" />
+      <Sentence char_offsets="1068:1111" id="5" />
+      <Sentence char_offsets="1122:1292" id="6" />
+      <Sentence char_offsets="1303:1452" id="7" />
+      <Sentence char_offsets="1463:1556" id="8" />
+      <Sentence char_offsets="1558:1677" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32180" actor_name="Burkina Faso" role="Source" />
+        <Participant actor_id="32186" actor_name="Benin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32186" actor_name="Benin" role="Source" />
+        <Participant actor_id="32180" actor_name="Burkina Faso" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

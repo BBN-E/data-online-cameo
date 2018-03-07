@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090301.0518">
+    <Sentences>
+      <Sentence char_offsets="188:395" id="0" />
+      <Sentence char_offsets="406:595" id="1" />
+      <Sentence char_offsets="606:786" id="2" />
+      <Sentence char_offsets="797:999" id="3" />
+      <Sentence char_offsets="1010:1236" id="4" />
+      <Sentence char_offsets="1247:1353" id="5" />
+      <Sentence char_offsets="1355:1485" id="6" />
+      <Sentence char_offsets="1496:1707" id="7" />
+      <Sentence char_offsets="1709:1798" id="8" />
+      <Sentence char_offsets="1809:2077" id="9" />
+      <Sentence char_offsets="2088:2198" id="10" />
+      <Sentence char_offsets="2209:2400" id="11" />
+      <Sentence char_offsets="2402:2469" id="12" />
+      <Sentence char_offsets="2480:2574" id="13" />
+      <Sentence char_offsets="2585:2712" id="14" />
+      <Sentence char_offsets="2723:2764" id="15" />
+      <Sentence char_offsets="2766:2911" id="16" />
+      <Sentence char_offsets="2922:3067" id="17" />
+      <Sentence char_offsets="3078:3134" id="18" />
+      <Sentence char_offsets="3145:3360" id="19" />
+      <Sentence char_offsets="3371:3494" id="20" />
+      <Sentence char_offsets="3505:3592" id="21" />
+      <Sentence char_offsets="3594:3720" id="22" />
+      <Sentence char_offsets="3731:3881" id="23" />
+      <Sentence char_offsets="3892:4068" id="24" />
+      <Sentence char_offsets="4070:4165" id="25" />
+      <Sentence char_offsets="4176:4377" id="26" />
+      <Sentence char_offsets="4388:4642" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="current" type="010">
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="current" type="010">
+        <Participant actor_id="40286" actor_name="World Bank" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="0231">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="19" tense="neutral" type="112">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

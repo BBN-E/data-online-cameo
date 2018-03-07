@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0360">
+    <Sentences>
+      <Sentence char_offsets="193:404" id="0" />
+      <Sentence char_offsets="415:642" id="1" />
+      <Sentence char_offsets="653:936" id="2" />
+      <Sentence char_offsets="947:1159" id="3" />
+      <Sentence char_offsets="1170:1338" id="4" />
+      <Sentence char_offsets="1349:1564" id="5" />
+      <Sentence char_offsets="1575:1660" id="6" />
+      <Sentence char_offsets="1671:1860" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

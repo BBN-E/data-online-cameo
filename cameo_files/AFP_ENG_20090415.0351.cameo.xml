@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0351">
+    <Sentences>
+      <Sentence char_offsets="188:379" id="0" />
+      <Sentence char_offsets="390:591" id="1" />
+      <Sentence char_offsets="602:815" id="2" />
+      <Sentence char_offsets="826:1000" id="3" />
+      <Sentence char_offsets="1011:1208" id="4" />
+      <Sentence char_offsets="1219:1427" id="5" />
+      <Sentence char_offsets="1438:1669" id="6" />
+      <Sentence char_offsets="1680:1874" id="7" />
+      <Sentence char_offsets="1885:2069" id="8" />
+      <Sentence char_offsets="2080:2157" id="9" />
+      <Sentence char_offsets="2168:2291" id="10" />
+      <Sentence char_offsets="2302:2426" id="11" />
+      <Sentence char_offsets="2437:2633" id="12" />
+      <Sentence char_offsets="2644:2717" id="13" />
+      <Sentence char_offsets="2719:2774" id="14" />
+      <Sentence char_offsets="2785:2930" id="15" />
+      <Sentence char_offsets="2941:3071" id="16" />
+      <Sentence char_offsets="3082:3248" id="17" />
+      <Sentence char_offsets="3259:3412" id="18" />
+      <Sentence char_offsets="3423:3524" id="19" />
+      <Sentence char_offsets="3535:3705" id="20" />
+      <Sentence char_offsets="3716:3771" id="21" />
+      <Sentence char_offsets="3773:3926" id="22" />
+      <Sentence char_offsets="3937:3981" id="23" />
+      <Sentence char_offsets="3983:4056" id="24" />
+      <Sentence char_offsets="4067:4098" id="25" />
+      <Sentence char_offsets="4100:4145" id="26" />
+      <Sentence char_offsets="4156:4358" id="27" />
+      <Sentence char_offsets="4369:4401" id="28" />
+      <Sentence char_offsets="4403:4511" id="29" />
+      <Sentence char_offsets="4522:4632" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="30701" actor_name="France" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="020">
+        <Participant actor_id="30701" actor_name="France" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="606" agent_name="Fishermen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="27" tense="neutral" type="112">
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

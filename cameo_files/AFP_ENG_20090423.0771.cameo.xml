@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0771">
+    <Sentences>
+      <Sentence char_offsets="172:359" id="0" />
+      <Sentence char_offsets="370:495" id="1" />
+      <Sentence char_offsets="506:725" id="2" />
+      <Sentence char_offsets="736:947" id="3" />
+      <Sentence char_offsets="958:1114" id="4" />
+      <Sentence char_offsets="1125:1286" id="5" />
+      <Sentence char_offsets="1297:1419" id="6" />
+      <Sentence char_offsets="1430:1573" id="7" />
+      <Sentence char_offsets="1584:1660" id="8" />
+      <Sentence char_offsets="1671:1838" id="9" />
+      <Sentence char_offsets="1840:1893" id="10" />
+      <Sentence char_offsets="1904:1993" id="11" />
+      <Sentence char_offsets="2004:2157" id="12" />
+      <Sentence char_offsets="2168:2293" id="13" />
+      <Sentence char_offsets="2304:2451" id="14" />
+      <Sentence char_offsets="2462:2515" id="15" />
+      <Sentence char_offsets="2526:2649" id="16" />
+      <Sentence char_offsets="2660:2805" id="17" />
+      <Sentence char_offsets="2816:3041" id="18" />
+      <Sentence char_offsets="3052:3203" id="19" />
+      <Sentence char_offsets="3214:3338" id="20" />
+      <Sentence char_offsets="3340:3408" id="21" />
+      <Sentence char_offsets="3419:3520" id="22" />
+      <Sentence char_offsets="3522:3603" id="23" />
+      <Sentence char_offsets="3614:3759" id="24" />
+      <Sentence char_offsets="3770:3837" id="25" />
+      <Sentence char_offsets="3839:3988" id="26" />
+      <Sentence char_offsets="3999:4162" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="historical" type="1711">
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Source" />
+        <Participant actor_id="29562" actor_name="Thabo Mvuyelwa Mbeki" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="193">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="352" agent_name="Armed Band" role="Source" />
+        <Participant actor_id="12662" actor_name="Congress of the People" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="193">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="352" agent_name="Armed Band" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

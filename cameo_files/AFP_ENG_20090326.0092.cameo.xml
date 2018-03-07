@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0092">
+    <Sentences>
+      <Sentence char_offsets="179:368" id="0" />
+      <Sentence char_offsets="379:600" id="1" />
+      <Sentence char_offsets="611:763" id="2" />
+      <Sentence char_offsets="774:904" id="3" />
+      <Sentence char_offsets="915:1141" id="4" />
+      <Sentence char_offsets="1152:1351" id="5" />
+      <Sentence char_offsets="1362:1432" id="6" />
+      <Sentence char_offsets="1434:1468" id="7" />
+      <Sentence char_offsets="1470:1576" id="8" />
+      <Sentence char_offsets="1587:1727" id="9" />
+      <Sentence char_offsets="1738:1928" id="10" />
+      <Sentence char_offsets="1939:2151" id="11" />
+      <Sentence char_offsets="2162:2332" id="12" />
+      <Sentence char_offsets="2343:2565" id="13" />
+      <Sentence char_offsets="2576:2677" id="14" />
+      <Sentence char_offsets="2688:2848" id="15" />
+      <Sentence char_offsets="2859:2950" id="16" />
+      <Sentence char_offsets="2961:3137" id="17" />
+      <Sentence char_offsets="3148:3275" id="18" />
+      <Sentence char_offsets="3286:3510" id="19" />
+      <Sentence char_offsets="3521:3676" id="20" />
+      <Sentence char_offsets="3678:3733" id="21" />
+      <Sentence char_offsets="3744:3859" id="22" />
+      <Sentence char_offsets="3870:3908" id="23" />
+      <Sentence char_offsets="3910:3949" id="24" />
+      <Sentence char_offsets="3951:4072" id="25" />
+      <Sentence char_offsets="4083:4193" id="26" />
+      <Sentence char_offsets="4195:4248" id="27" />
+      <Sentence char_offsets="4259:4330" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="046">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="046">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="44599" actor_name="The Hague" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

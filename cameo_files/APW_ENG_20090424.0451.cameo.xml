@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0451">
+    <Sentences>
+      <Sentence char_offsets="178:325" id="0" />
+      <Sentence char_offsets="336:509" id="1" />
+      <Sentence char_offsets="511:571" id="2" />
+      <Sentence char_offsets="582:706" id="3" />
+      <Sentence char_offsets="717:827" id="4" />
+      <Sentence char_offsets="829:1033" id="5" />
+      <Sentence char_offsets="1044:1187" id="6" />
+      <Sentence char_offsets="1198:1316" id="7" />
+      <Sentence char_offsets="1327:1448" id="8" />
+      <Sentence char_offsets="1459:1635" id="9" />
+      <Sentence char_offsets="1646:1698" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="0841">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="181">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

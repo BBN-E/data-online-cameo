@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1379">
+    <Sentences>
+      <Sentence char_offsets="179:387" id="0" />
+      <Sentence char_offsets="398:650" id="1" />
+      <Sentence char_offsets="661:915" id="2" />
+      <Sentence char_offsets="926:1165" id="3" />
+      <Sentence char_offsets="1167:1227" id="4" />
+      <Sentence char_offsets="1238:1481" id="5" />
+      <Sentence char_offsets="1483:1654" id="6" />
+      <Sentence char_offsets="1665:1811" id="7" />
+      <Sentence char_offsets="1822:2054" id="8" />
+      <Sentence char_offsets="2056:2107" id="9" />
+      <Sentence char_offsets="2109:2140" id="10" />
+      <Sentence char_offsets="2142:2185" id="11" />
+      <Sentence char_offsets="2196:2269" id="12" />
+      <Sentence char_offsets="2280:2437" id="13" />
+      <Sentence char_offsets="2439:2610" id="14" />
+      <Sentence char_offsets="2621:2797" id="15" />
+      <Sentence char_offsets="2799:2880" id="16" />
+      <Sentence char_offsets="2891:2997" id="17" />
+      <Sentence char_offsets="2999:3131" id="18" />
+      <Sentence char_offsets="3142:3300" id="19" />
+      <Sentence char_offsets="3311:3442" id="20" />
+      <Sentence char_offsets="3453:3582" id="21" />
+      <Sentence char_offsets="3593:3726" id="22" />
+      <Sentence char_offsets="3728:3967" id="23" />
+      <Sentence char_offsets="3978:3983" id="24" />
+      <Sentence char_offsets="3994:4060" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="090">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="33939" actor_name="Federal Aviation Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

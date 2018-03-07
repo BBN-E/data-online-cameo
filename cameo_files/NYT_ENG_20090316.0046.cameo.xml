@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090316.0046">
+    <Sentences>
+      <Sentence char_offsets="133:397" id="0" />
+      <Sentence char_offsets="399:408" id="1" />
+      <Sentence char_offsets="419:512" id="2" />
+      <Sentence char_offsets="523:787" id="3" />
+      <Sentence char_offsets="789:1080" id="4" />
+      <Sentence char_offsets="1082:1156" id="5" />
+      <Sentence char_offsets="1167:1229" id="6" />
+      <Sentence char_offsets="1231:1298" id="7" />
+      <Sentence char_offsets="1300:1482" id="8" />
+      <Sentence char_offsets="1484:1559" id="9" />
+      <Sentence char_offsets="1570:1947" id="10" />
+      <Sentence char_offsets="1958:2402" id="11" />
+      <Sentence char_offsets="2404:2534" id="12" />
+      <Sentence char_offsets="2545:2590" id="13" />
+      <Sentence char_offsets="2592:2868" id="14" />
+      <Sentence char_offsets="2870:2914" id="15" />
+      <Sentence char_offsets="2925:3010" id="16" />
+      <Sentence char_offsets="3021:3083" id="17" />
+      <Sentence char_offsets="3085:3226" id="18" />
+      <Sentence char_offsets="3228:3466" id="19" />
+      <Sentence char_offsets="3468:3540" id="20" />
+      <Sentence char_offsets="3551:3609" id="21" />
+      <Sentence char_offsets="3611:3674" id="22" />
+      <Sentence char_offsets="3676:3777" id="23" />
+      <Sentence char_offsets="3779:3866" id="24" />
+      <Sentence char_offsets="3868:4015" id="25" />
+      <Sentence char_offsets="4017:4064" id="26" />
+      <Sentence char_offsets="4075:4114" id="27" />
+      <Sentence char_offsets="4116:4347" id="28" />
+      <Sentence char_offsets="4349:4421" id="29" />
+      <Sentence char_offsets="4432:4578" id="30" />
+      <Sentence char_offsets="4580:4658" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="historical" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="215173" actor_name="Rudy Giuliani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="historical" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="historical" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="215173" actor_name="Rudy Giuliani" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="historical" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="711" agent_name="Thief" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

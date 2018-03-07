@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0671">
+    <Sentences>
+      <Sentence char_offsets="198:341" id="0" />
+      <Sentence char_offsets="352:513" id="1" />
+      <Sentence char_offsets="524:636" id="2" />
+      <Sentence char_offsets="647:784" id="3" />
+      <Sentence char_offsets="795:810" id="4" />
+      <Sentence char_offsets="812:982" id="5" />
+      <Sentence char_offsets="993:1116" id="6" />
+      <Sentence char_offsets="1127:1265" id="7" />
+      <Sentence char_offsets="1276:1437" id="8" />
+      <Sentence char_offsets="1448:1742" id="9" />
+      <Sentence char_offsets="1753:2007" id="10" />
+      <Sentence char_offsets="2018:2169" id="11" />
+      <Sentence char_offsets="2171:2245" id="12" />
+      <Sentence char_offsets="2256:2417" id="13" />
+      <Sentence char_offsets="2428:2530" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="historical" type="100">
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Source" />
+        <Participant actor_id="38385" actor_name="Department of Defense" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.0926">
+    <Sentences>
+      <Sentence char_offsets="184:343" id="0" />
+      <Sentence char_offsets="354:483" id="1" />
+      <Sentence char_offsets="494:703" id="2" />
+      <Sentence char_offsets="714:825" id="3" />
+      <Sentence char_offsets="827:948" id="4" />
+      <Sentence char_offsets="959:1071" id="5" />
+      <Sentence char_offsets="1073:1164" id="6" />
+      <Sentence char_offsets="1175:1354" id="7" />
+      <Sentence char_offsets="1365:1499" id="8" />
+      <Sentence char_offsets="1501:1639" id="9" />
+      <Sentence char_offsets="1650:1827" id="10" />
+      <Sentence char_offsets="1838:1876" id="11" />
+      <Sentence char_offsets="1878:1994" id="12" />
+      <Sentence char_offsets="2005:2056" id="13" />
+      <Sentence char_offsets="2058:2097" id="14" />
+      <Sentence char_offsets="2108:2113" id="15" />
+      <Sentence char_offsets="2124:2134" id="16" />
+      <Sentence char_offsets="2145:2174" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="58851" actor_name="Vincent Bollor&#233;" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

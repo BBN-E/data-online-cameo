@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0876">
+    <Sentences>
+      <Sentence char_offsets="188:350" id="0" />
+      <Sentence char_offsets="361:511" id="1" />
+      <Sentence char_offsets="513:583" id="2" />
+      <Sentence char_offsets="594:834" id="3" />
+      <Sentence char_offsets="836:991" id="4" />
+      <Sentence char_offsets="1002:1127" id="5" />
+      <Sentence char_offsets="1129:1229" id="6" />
+      <Sentence char_offsets="1240:1320" id="7" />
+      <Sentence char_offsets="1322:1517" id="8" />
+      <Sentence char_offsets="1528:1693" id="9" />
+      <Sentence char_offsets="1704:1875" id="10" />
+      <Sentence char_offsets="1886:2079" id="11" />
+      <Sentence char_offsets="2090:2287" id="12" />
+      <Sentence char_offsets="2298:2458" id="13" />
+      <Sentence char_offsets="2460:2544" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="032">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="032">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

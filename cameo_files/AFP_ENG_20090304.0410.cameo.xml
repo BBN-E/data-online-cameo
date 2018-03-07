@@ -1,0 +1,71 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0410">
+    <Sentences>
+      <Sentence char_offsets="180:366" id="0" />
+      <Sentence char_offsets="377:572" id="1" />
+      <Sentence char_offsets="583:668" id="2" />
+      <Sentence char_offsets="670:768" id="3" />
+      <Sentence char_offsets="779:956" id="4" />
+      <Sentence char_offsets="967:1112" id="5" />
+      <Sentence char_offsets="1123:1303" id="6" />
+      <Sentence char_offsets="1314:1456" id="7" />
+      <Sentence char_offsets="1467:1582" id="8" />
+      <Sentence char_offsets="1593:1702" id="9" />
+      <Sentence char_offsets="1713:1890" id="10" />
+      <Sentence char_offsets="1901:2007" id="11" />
+      <Sentence char_offsets="2018:2175" id="12" />
+      <Sentence char_offsets="2186:2389" id="13" />
+      <Sentence char_offsets="2400:2534" id="14" />
+      <Sentence char_offsets="2545:2781" id="15" />
+      <Sentence char_offsets="2792:3008" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="233830" actor_name="Tariq Al-Hashimi" role="Source" />
+        <Participant actor_id="47805" actor_name="Akbar Hashemi Rafsanjani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="47805" actor_name="Akbar Hashemi Rafsanjani" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="47805" actor_name="Akbar Hashemi Rafsanjani" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="current" type="042">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="historical" type="042">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="47805" actor_name="Akbar Hashemi Rafsanjani" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="47805" actor_name="Akbar Hashemi Rafsanjani" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="47805" actor_name="Akbar Hashemi Rafsanjani" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="4" tense="current" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="9" tense="historical" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

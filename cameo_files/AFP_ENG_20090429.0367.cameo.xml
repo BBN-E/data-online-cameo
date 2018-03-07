@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0367">
+    <Sentences>
+      <Sentence char_offsets="192:384" id="0" />
+      <Sentence char_offsets="395:621" id="1" />
+      <Sentence char_offsets="632:810" id="2" />
+      <Sentence char_offsets="821:1051" id="3" />
+      <Sentence char_offsets="1062:1291" id="4" />
+      <Sentence char_offsets="1302:1414" id="5" />
+      <Sentence char_offsets="1425:1635" id="6" />
+      <Sentence char_offsets="1646:1704" id="7" />
+      <Sentence char_offsets="1706:1856" id="8" />
+      <Sentence char_offsets="1867:2065" id="9" />
+      <Sentence char_offsets="2076:2185" id="10" />
+      <Sentence char_offsets="2196:2292" id="11" />
+      <Sentence char_offsets="2294:2387" id="12" />
+      <Sentence char_offsets="2398:2540" id="13" />
+      <Sentence char_offsets="2551:2771" id="14" />
+      <Sentence char_offsets="2782:2946" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="historical" type="010">
+        <Participant actor_id="46594" actor_name="Frank-Walter Steinmeier" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

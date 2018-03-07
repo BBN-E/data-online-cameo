@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0091">
+    <Sentences>
+      <Sentence char_offsets="191:384" id="0" />
+      <Sentence char_offsets="395:552" id="1" />
+      <Sentence char_offsets="563:682" id="2" />
+      <Sentence char_offsets="684:706" id="3" />
+      <Sentence char_offsets="717:908" id="4" />
+      <Sentence char_offsets="919:1130" id="5" />
+      <Sentence char_offsets="1141:1270" id="6" />
+      <Sentence char_offsets="1281:1437" id="7" />
+      <Sentence char_offsets="1448:1621" id="8" />
+      <Sentence char_offsets="1632:1681" id="9" />
+      <Sentence char_offsets="1692:1932" id="10" />
+      <Sentence char_offsets="1943:2086" id="11" />
+      <Sentence char_offsets="2097:2346" id="12" />
+      <Sentence char_offsets="2357:2464" id="13" />
+      <Sentence char_offsets="2475:2582" id="14" />
+      <Sentence char_offsets="2593:2629" id="15" />
+      <Sentence char_offsets="2631:2697" id="16" />
+      <Sentence char_offsets="2708:2920" id="17" />
+      <Sentence char_offsets="2931:2982" id="18" />
+      <Sentence char_offsets="2984:3017" id="19" />
+      <Sentence char_offsets="3019:3046" id="20" />
+      <Sentence char_offsets="3057:3065" id="21" />
+      <Sentence char_offsets="3066:3207" id="22" />
+      <Sentence char_offsets="3218:3298" id="23" />
+      <Sentence char_offsets="3309:3420" id="24" />
+      <Sentence char_offsets="3431:3527" id="25" />
+      <Sentence char_offsets="3538:3778" id="26" />
+      <Sentence char_offsets="3789:4026" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="201" agent_name="Detainee" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="112">
+        <Participant actor_id="28120" actor_name="American Civil Liberties Union" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="621" agent_name="Military Judge" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="128">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="ongoing" type="190">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

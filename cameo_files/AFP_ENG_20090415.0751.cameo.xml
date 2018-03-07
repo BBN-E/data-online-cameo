@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0751">
+    <Sentences>
+      <Sentence char_offsets="173:354" id="0" />
+      <Sentence char_offsets="365:586" id="1" />
+      <Sentence char_offsets="597:781" id="2" />
+      <Sentence char_offsets="792:985" id="3" />
+      <Sentence char_offsets="996:1132" id="4" />
+      <Sentence char_offsets="1143:1272" id="5" />
+      <Sentence char_offsets="1283:1522" id="6" />
+      <Sentence char_offsets="1533:1667" id="7" />
+      <Sentence char_offsets="1678:1796" id="8" />
+      <Sentence char_offsets="1807:1918" id="9" />
+      <Sentence char_offsets="1920:1986" id="10" />
+      <Sentence char_offsets="1997:2248" id="11" />
+      <Sentence char_offsets="2259:2374" id="12" />
+      <Sentence char_offsets="2385:2546" id="13" />
+      <Sentence char_offsets="2557:2726" id="14" />
+      <Sentence char_offsets="2737:2948" id="15" />
+      <Sentence char_offsets="2959:3107" id="16" />
+      <Sentence char_offsets="3118:3203" id="17" />
+      <Sentence char_offsets="3214:3381" id="18" />
+      <Sentence char_offsets="3392:3541" id="19" />
+      <Sentence char_offsets="3552:3819" id="20" />
+      <Sentence char_offsets="3830:3951" id="21" />
+      <Sentence char_offsets="3953:4056" id="22" />
+      <Sentence char_offsets="4067:4170" id="23" />
+      <Sentence char_offsets="4181:4367" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="31081" actor_name="India" agent_id="573" agent_name="News Editor" role="Source" />
+        <Participant actor_id="50062" actor_name="L.K. Advani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="073">
+        <Participant actor_id="31081" actor_name="India" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

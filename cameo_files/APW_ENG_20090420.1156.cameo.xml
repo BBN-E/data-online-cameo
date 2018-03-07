@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.1156">
+    <Sentences>
+      <Sentence char_offsets="190:384" id="0" />
+      <Sentence char_offsets="395:607" id="1" />
+      <Sentence char_offsets="609:721" id="2" />
+      <Sentence char_offsets="732:859" id="3" />
+      <Sentence char_offsets="861:925" id="4" />
+      <Sentence char_offsets="936:1128" id="5" />
+      <Sentence char_offsets="1130:1193" id="6" />
+      <Sentence char_offsets="1204:1265" id="7" />
+      <Sentence char_offsets="1267:1347" id="8" />
+      <Sentence char_offsets="1349:1435" id="9" />
+      <Sentence char_offsets="1446:1554" id="10" />
+      <Sentence char_offsets="1556:1796" id="11" />
+      <Sentence char_offsets="1807:1934" id="12" />
+      <Sentence char_offsets="1936:2012" id="13" />
+      <Sentence char_offsets="2023:2095" id="14" />
+      <Sentence char_offsets="2097:2176" id="15" />
+      <Sentence char_offsets="2187:2301" id="16" />
+      <Sentence char_offsets="2303:2413" id="17" />
+      <Sentence char_offsets="2424:2492" id="18" />
+      <Sentence char_offsets="2494:2704" id="19" />
+      <Sentence char_offsets="2715:2919" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Source" />
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Source" />
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="041">
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Source" />
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="041">
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Source" />
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="050">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="040">
+        <Participant actor_id="52247" actor_name="Lawrence H. Summers" role="Source" />
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Source" />
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

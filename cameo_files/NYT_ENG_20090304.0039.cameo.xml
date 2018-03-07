@@ -1,0 +1,148 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090304.0039">
+    <Sentences>
+      <Sentence char_offsets="322:549" id="0" />
+      <Sentence char_offsets="551:622" id="1" />
+      <Sentence char_offsets="633:782" id="2" />
+      <Sentence char_offsets="784:845" id="3" />
+      <Sentence char_offsets="856:1123" id="4" />
+      <Sentence char_offsets="1134:1273" id="5" />
+      <Sentence char_offsets="1275:1368" id="6" />
+      <Sentence char_offsets="1379:1594" id="7" />
+      <Sentence char_offsets="1605:1833" id="8" />
+      <Sentence char_offsets="1835:1896" id="9" />
+      <Sentence char_offsets="1907:2101" id="10" />
+      <Sentence char_offsets="2112:2337" id="11" />
+      <Sentence char_offsets="2339:2464" id="12" />
+      <Sentence char_offsets="2475:2573" id="13" />
+      <Sentence char_offsets="2575:2758" id="14" />
+      <Sentence char_offsets="2760:3138" id="15" />
+      <Sentence char_offsets="3149:3371" id="16" />
+      <Sentence char_offsets="3373:3563" id="17" />
+      <Sentence char_offsets="3574:3680" id="18" />
+      <Sentence char_offsets="3682:3910" id="19" />
+      <Sentence char_offsets="3921:4147" id="20" />
+      <Sentence char_offsets="4158:4206" id="21" />
+      <Sentence char_offsets="4208:4299" id="22" />
+      <Sentence char_offsets="4301:4464" id="23" />
+      <Sentence char_offsets="4475:4618" id="24" />
+      <Sentence char_offsets="4620:4741" id="25" />
+      <Sentence char_offsets="4743:4932" id="26" />
+      <Sentence char_offsets="4943:5056" id="27" />
+      <Sentence char_offsets="5067:5239" id="28" />
+      <Sentence char_offsets="5250:5348" id="29" />
+      <Sentence char_offsets="5350:5558" id="30" />
+      <Sentence char_offsets="5560:5685" id="31" />
+      <Sentence char_offsets="5696:5810" id="32" />
+      <Sentence char_offsets="5821:5991" id="33" />
+      <Sentence char_offsets="6002:6087" id="34" />
+      <Sentence char_offsets="6089:6362" id="35" />
+      <Sentence char_offsets="6373:6607" id="36" />
+      <Sentence char_offsets="6609:6784" id="37" />
+      <Sentence char_offsets="6795:6966" id="38" />
+      <Sentence char_offsets="6968:7076" id="39" />
+      <Sentence char_offsets="7087:7215" id="40" />
+      <Sentence char_offsets="7217:7350" id="41" />
+      <Sentence char_offsets="7352:7534" id="42" />
+      <Sentence char_offsets="7536:7561" id="43" />
+      <Sentence char_offsets="7572:7649" id="44" />
+      <Sentence char_offsets="7651:7735" id="45" />
+      <Sentence char_offsets="7737:7935" id="46" />
+      <Sentence char_offsets="7937:8024" id="47" />
+      <Sentence char_offsets="8035:8155" id="48" />
+      <Sentence char_offsets="8157:8460" id="49" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="012">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="19" tense="neutral" type="012">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="28827" actor_name="Arab League" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="19" tense="neutral" type="012">
+        <Participant actor_id="53079" actor_name="African Union" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="19" tense="neutral" type="012">
+        <Participant actor_id="53079" actor_name="African Union" role="Source" />
+        <Participant actor_id="28827" actor_name="Arab League" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="19" tense="neutral" type="012">
+        <Participant actor_id="28827" actor_name="Arab League" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="19" tense="neutral" type="012">
+        <Participant actor_id="28827" actor_name="Arab League" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="7" tense="neutral" type="050">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="23" tense="neutral" type="074">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="48" tense="neutral" type="111">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="48" tense="neutral" type="111">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="48" tense="neutral" type="111">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="48" tense="neutral" type="111">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="8" tense="neutral" type="141">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="5" tense="neutral" type="173">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="22" tense="neutral" type="173">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="40" tense="historical" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="20" sentence_id="15" tense="neutral" type="180">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="246" agent_name="Militia" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="21" sentence_id="23" tense="neutral" type="0861">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

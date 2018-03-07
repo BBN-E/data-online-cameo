@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0504">
+    <Sentences>
+      <Sentence char_offsets="196:395" id="0" />
+      <Sentence char_offsets="406:597" id="1" />
+      <Sentence char_offsets="608:794" id="2" />
+      <Sentence char_offsets="805:856" id="3" />
+      <Sentence char_offsets="858:996" id="4" />
+      <Sentence char_offsets="1007:1190" id="5" />
+      <Sentence char_offsets="1201:1427" id="6" />
+      <Sentence char_offsets="1438:1557" id="7" />
+      <Sentence char_offsets="1559:1658" id="8" />
+      <Sentence char_offsets="1669:1767" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="042">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="145">
+        <Participant actor_id="35854" actor_name="Kyrgyzstan" agent_id="36" agent_name="Rioter" role="Source" />
+        <Participant actor_id="35854" actor_name="Kyrgyzstan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="35854" actor_name="Kyrgyzstan" role="Source" />
+        <Participant actor_id="35854" actor_name="Kyrgyzstan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="current" type="043">
+        <Participant actor_id="41151" actor_name="Ukraine" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

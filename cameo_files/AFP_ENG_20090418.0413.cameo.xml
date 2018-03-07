@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0413">
+    <Sentences>
+      <Sentence char_offsets="196:392" id="0" />
+      <Sentence char_offsets="403:644" id="1" />
+      <Sentence char_offsets="655:895" id="2" />
+      <Sentence char_offsets="906:1212" id="3" />
+      <Sentence char_offsets="1223:1447" id="4" />
+      <Sentence char_offsets="1458:1678" id="5" />
+      <Sentence char_offsets="1689:1776" id="6" />
+      <Sentence char_offsets="1787:2019" id="7" />
+      <Sentence char_offsets="2030:2235" id="8" />
+      <Sentence char_offsets="2246:2387" id="9" />
+      <Sentence char_offsets="2398:2600" id="10" />
+      <Sentence char_offsets="2602:2665" id="11" />
+      <Sentence char_offsets="2676:2862" id="12" />
+      <Sentence char_offsets="2864:2888" id="13" />
+      <Sentence char_offsets="2899:2967" id="14" />
+      <Sentence char_offsets="2978:3266" id="15" />
+      <Sentence char_offsets="3277:3459" id="16" />
+      <Sentence char_offsets="3470:3627" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0214">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="141">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

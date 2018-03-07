@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0280">
+    <Sentences>
+      <Sentence char_offsets="183:329" id="0" />
+      <Sentence char_offsets="340:530" id="1" />
+      <Sentence char_offsets="541:582" id="2" />
+      <Sentence char_offsets="584:652" id="3" />
+      <Sentence char_offsets="663:792" id="4" />
+      <Sentence char_offsets="803:974" id="5" />
+      <Sentence char_offsets="985:1161" id="6" />
+      <Sentence char_offsets="1172:1354" id="7" />
+      <Sentence char_offsets="1365:1567" id="8" />
+      <Sentence char_offsets="1578:1717" id="9" />
+      <Sentence char_offsets="1728:1870" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="36808" actor_name="Robert Fico" role="Source" />
+        <Participant actor_id="39892" actor_name="Slovakia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

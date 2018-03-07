@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0648">
+    <Sentences>
+      <Sentence char_offsets="194:406" id="0" />
+      <Sentence char_offsets="417:626" id="1" />
+      <Sentence char_offsets="637:818" id="2" />
+      <Sentence char_offsets="829:1012" id="3" />
+      <Sentence char_offsets="1014:1101" id="4" />
+      <Sentence char_offsets="1112:1225" id="5" />
+      <Sentence char_offsets="1236:1552" id="6" />
+      <Sentence char_offsets="1563:1693" id="7" />
+      <Sentence char_offsets="1695:1895" id="8" />
+      <Sentence char_offsets="1897:1967" id="9" />
+      <Sentence char_offsets="1978:2096" id="10" />
+      <Sentence char_offsets="2098:2158" id="11" />
+      <Sentence char_offsets="2160:2192" id="12" />
+      <Sentence char_offsets="2203:2365" id="13" />
+      <Sentence char_offsets="2376:2461" id="14" />
+      <Sentence char_offsets="2463:2521" id="15" />
+      <Sentence char_offsets="2532:2590" id="16" />
+      <Sentence char_offsets="2592:2792" id="17" />
+      <Sentence char_offsets="2803:3122" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="current" type="020">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="1125">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="current" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

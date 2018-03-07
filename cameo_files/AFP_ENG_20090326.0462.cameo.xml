@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0462">
+    <Sentences>
+      <Sentence char_offsets="184:368" id="0" />
+      <Sentence char_offsets="379:561" id="1" />
+      <Sentence char_offsets="572:748" id="2" />
+      <Sentence char_offsets="759:998" id="3" />
+      <Sentence char_offsets="1009:1274" id="4" />
+      <Sentence char_offsets="1285:1458" id="5" />
+      <Sentence char_offsets="1469:1650" id="6" />
+      <Sentence char_offsets="1661:1805" id="7" />
+      <Sentence char_offsets="1816:1980" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="0251">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

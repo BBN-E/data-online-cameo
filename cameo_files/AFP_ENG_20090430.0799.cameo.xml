@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0799">
+    <Sentences>
+      <Sentence char_offsets="180:366" id="0" />
+      <Sentence char_offsets="377:538" id="1" />
+      <Sentence char_offsets="549:674" id="2" />
+      <Sentence char_offsets="676:730" id="3" />
+      <Sentence char_offsets="741:846" id="4" />
+      <Sentence char_offsets="857:1067" id="5" />
+      <Sentence char_offsets="1078:1204" id="6" />
+      <Sentence char_offsets="1215:1367" id="7" />
+      <Sentence char_offsets="1378:1487" id="8" />
+      <Sentence char_offsets="1489:1606" id="9" />
+      <Sentence char_offsets="1617:1669" id="10" />
+      <Sentence char_offsets="1680:1826" id="11" />
+      <Sentence char_offsets="1837:1951" id="12" />
+      <Sentence char_offsets="1953:2033" id="13" />
+      <Sentence char_offsets="2044:2127" id="14" />
+      <Sentence char_offsets="2129:2178" id="15" />
+      <Sentence char_offsets="2189:2281" id="16" />
+      <Sentence char_offsets="2283:2377" id="17" />
+      <Sentence char_offsets="2388:2602" id="18" />
+      <Sentence char_offsets="2613:2785" id="19" />
+      <Sentence char_offsets="2796:2881" id="20" />
+      <Sentence char_offsets="2883:2968" id="21" />
+      <Sentence char_offsets="2979:3062" id="22" />
+      <Sentence char_offsets="3073:3190" id="23" />
+      <Sentence char_offsets="3192:3279" id="24" />
+      <Sentence char_offsets="3290:3379" id="25" />
+      <Sentence char_offsets="3390:3573" id="26" />
+      <Sentence char_offsets="3584:3623" id="27" />
+      <Sentence char_offsets="3634:3779" id="28" />
+      <Sentence char_offsets="3790:3918" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="090">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="5945" actor_name="Roh Moo Hyun" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="173">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

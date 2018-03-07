@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090314.0471">
+    <Sentences>
+      <Sentence char_offsets="189:398" id="0" />
+      <Sentence char_offsets="409:687" id="1" />
+      <Sentence char_offsets="698:849" id="2" />
+      <Sentence char_offsets="860:957" id="3" />
+      <Sentence char_offsets="968:1087" id="4" />
+      <Sentence char_offsets="1089:1141" id="5" />
+      <Sentence char_offsets="1152:1362" id="6" />
+      <Sentence char_offsets="1373:1522" id="7" />
+      <Sentence char_offsets="1533:1649" id="8" />
+      <Sentence char_offsets="1660:1896" id="9" />
+      <Sentence char_offsets="1898:2022" id="10" />
+      <Sentence char_offsets="2033:2153" id="11" />
+      <Sentence char_offsets="2155:2300" id="12" />
+      <Sentence char_offsets="2302:2360" id="13" />
+      <Sentence char_offsets="2371:2480" id="14" />
+      <Sentence char_offsets="2482:2522" id="15" />
+      <Sentence char_offsets="2533:2720" id="16" />
+      <Sentence char_offsets="2722:2894" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="016">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="130">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="433" agent_name="Peacekeeping Troop" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

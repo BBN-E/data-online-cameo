@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0649">
+    <Sentences>
+      <Sentence char_offsets="185:328" id="0" />
+      <Sentence char_offsets="339:521" id="1" />
+      <Sentence char_offsets="532:665" id="2" />
+      <Sentence char_offsets="676:827" id="3" />
+      <Sentence char_offsets="838:1039" id="4" />
+      <Sentence char_offsets="1050:1228" id="5" />
+      <Sentence char_offsets="1239:1436" id="6" />
+      <Sentence char_offsets="1447:1633" id="7" />
+      <Sentence char_offsets="1644:1720" id="8" />
+      <Sentence char_offsets="1731:1805" id="9" />
+      <Sentence char_offsets="1807:2041" id="10" />
+      <Sentence char_offsets="2052:2161" id="11" />
+      <Sentence char_offsets="2172:2240" id="12" />
+      <Sentence char_offsets="2242:2305" id="13" />
+      <Sentence char_offsets="2316:2386" id="14" />
+      <Sentence char_offsets="2388:2478" id="15" />
+      <Sentence char_offsets="2489:2737" id="16" />
+      <Sentence char_offsets="2748:2859" id="17" />
+      <Sentence char_offsets="2870:3015" id="18" />
+      <Sentence char_offsets="3026:3105" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="12845" actor_name="Minister McCully" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="042">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="130">
+        <Participant actor_id="12845" actor_name="Minister McCully" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="30641" actor_name="Fiji" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="neutral" type="043">
+        <Participant actor_id="30641" actor_name="Fiji" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

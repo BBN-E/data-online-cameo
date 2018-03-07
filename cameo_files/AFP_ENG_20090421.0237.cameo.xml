@@ -1,0 +1,102 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090421.0237">
+    <Sentences>
+      <Sentence char_offsets="186:365" id="0" />
+      <Sentence char_offsets="376:570" id="1" />
+      <Sentence char_offsets="581:650" id="2" />
+      <Sentence char_offsets="661:872" id="3" />
+      <Sentence char_offsets="883:1018" id="4" />
+      <Sentence char_offsets="1029:1178" id="5" />
+      <Sentence char_offsets="1189:1342" id="6" />
+      <Sentence char_offsets="1353:1482" id="7" />
+      <Sentence char_offsets="1493:1568" id="8" />
+      <Sentence char_offsets="1579:1771" id="9" />
+      <Sentence char_offsets="1782:1935" id="10" />
+      <Sentence char_offsets="1946:2159" id="11" />
+      <Sentence char_offsets="2170:2311" id="12" />
+      <Sentence char_offsets="2322:2396" id="13" />
+      <Sentence char_offsets="2407:2602" id="14" />
+      <Sentence char_offsets="2613:2770" id="15" />
+      <Sentence char_offsets="2781:2951" id="16" />
+      <Sentence char_offsets="2962:3127" id="17" />
+      <Sentence char_offsets="3138:3251" id="18" />
+      <Sentence char_offsets="3262:3451" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32274" actor_name="Meles Zenawi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="current" type="042">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="current" type="042">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="28827" actor_name="Arab League" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="neutral" type="042">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="18" tense="neutral" type="042">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="16" tense="neutral" type="044">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="28827" actor_name="Arab League" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="052">
+        <Participant actor_id="32274" actor_name="Meles Zenawi" role="Source" />
+        <Participant actor_id="53079" actor_name="African Union" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="16" tense="neutral" type="111">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32274" actor_name="Meles Zenawi" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="16" tense="neutral" type="044">
+        <Participant actor_id="28827" actor_name="Arab League" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="15" tense="current" type="043">
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="15" tense="current" type="043">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="28827" actor_name="Arab League" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="18" tense="neutral" type="043">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="18" tense="neutral" type="043">
+        <Participant actor_id="36206" actor_name="Libya" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

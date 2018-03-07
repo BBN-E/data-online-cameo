@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0391">
+    <Sentences>
+      <Sentence char_offsets="175:355" id="0" />
+      <Sentence char_offsets="366:510" id="1" />
+      <Sentence char_offsets="521:771" id="2" />
+      <Sentence char_offsets="782:1008" id="3" />
+      <Sentence char_offsets="1019:1169" id="4" />
+      <Sentence char_offsets="1180:1355" id="5" />
+      <Sentence char_offsets="1366:1579" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="081">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

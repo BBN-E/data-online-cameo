@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0722">
+    <Sentences>
+      <Sentence char_offsets="186:379" id="0" />
+      <Sentence char_offsets="390:620" id="1" />
+      <Sentence char_offsets="631:758" id="2" />
+      <Sentence char_offsets="760:803" id="3" />
+      <Sentence char_offsets="835:992" id="4" />
+      <Sentence char_offsets="1003:1273" id="5" />
+      <Sentence char_offsets="1284:1387" id="6" />
+      <Sentence char_offsets="1398:1613" id="7" />
+      <Sentence char_offsets="1624:1822" id="8" />
+      <Sentence char_offsets="1833:2012" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="141">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="144">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

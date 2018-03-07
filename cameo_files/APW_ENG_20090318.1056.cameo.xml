@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.1056">
+    <Sentences>
+      <Sentence char_offsets="205:378" id="0" />
+      <Sentence char_offsets="389:619" id="1" />
+      <Sentence char_offsets="630:836" id="2" />
+      <Sentence char_offsets="847:940" id="3" />
+      <Sentence char_offsets="951:1089" id="4" />
+      <Sentence char_offsets="1091:1173" id="5" />
+      <Sentence char_offsets="1184:1309" id="6" />
+      <Sentence char_offsets="1320:1524" id="7" />
+      <Sentence char_offsets="1526:1586" id="8" />
+      <Sentence char_offsets="1597:1657" id="9" />
+      <Sentence char_offsets="1668:1808" id="10" />
+      <Sentence char_offsets="1810:1942" id="11" />
+      <Sentence char_offsets="1953:2081" id="12" />
+      <Sentence char_offsets="2092:2351" id="13" />
+      <Sentence char_offsets="2362:2547" id="14" />
+      <Sentence char_offsets="2549:2691" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="120">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="173">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

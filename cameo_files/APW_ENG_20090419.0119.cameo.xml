@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0119">
+    <Sentences>
+      <Sentence char_offsets="200:412" id="0" />
+      <Sentence char_offsets="423:638" id="1" />
+      <Sentence char_offsets="649:785" id="2" />
+      <Sentence char_offsets="796:976" id="3" />
+      <Sentence char_offsets="987:1156" id="4" />
+      <Sentence char_offsets="1167:1405" id="5" />
+      <Sentence char_offsets="1416:1668" id="6" />
+      <Sentence char_offsets="1679:1924" id="7" />
+      <Sentence char_offsets="1935:2054" id="8" />
+      <Sentence char_offsets="2056:2092" id="9" />
+      <Sentence char_offsets="2094:2166" id="10" />
+      <Sentence char_offsets="2177:2357" id="11" />
+      <Sentence char_offsets="2368:2489" id="12" />
+      <Sentence char_offsets="2491:2555" id="13" />
+      <Sentence char_offsets="2566:2681" id="14" />
+      <Sentence char_offsets="2692:2765" id="15" />
+      <Sentence char_offsets="2767:2855" id="16" />
+      <Sentence char_offsets="2866:3003" id="17" />
+      <Sentence char_offsets="3014:3046" id="18" />
+      <Sentence char_offsets="3048:3168" id="19" />
+      <Sentence char_offsets="3179:3293" id="20" />
+      <Sentence char_offsets="3304:3511" id="21" />
+      <Sentence char_offsets="3513:3629" id="22" />
+      <Sentence char_offsets="3640:3687" id="23" />
+      <Sentence char_offsets="3698:3934" id="24" />
+      <Sentence char_offsets="3936:4074" id="25" />
+      <Sentence char_offsets="4085:4224" id="26" />
+      <Sentence char_offsets="4235:4304" id="27" />
+      <Sentence char_offsets="4306:4390" id="28" />
+      <Sentence char_offsets="4392:4435" id="29" />
+      <Sentence char_offsets="4437:4472" id="30" />
+      <Sentence char_offsets="4483:4684" id="31" />
+      <Sentence char_offsets="4686:4748" id="32" />
+      <Sentence char_offsets="4750:4883" id="33" />
+      <Sentence char_offsets="4894:4998" id="34" />
+      <Sentence char_offsets="5009:5133" id="35" />
+      <Sentence char_offsets="5135:5248" id="36" />
+      <Sentence char_offsets="5259:5329" id="37" />
+      <Sentence char_offsets="5331:5489" id="38" />
+      <Sentence char_offsets="5491:5635" id="39" />
+      <Sentence char_offsets="5646:5813" id="40" />
+      <Sentence char_offsets="5824:5829" id="41" />
+      <Sentence char_offsets="5840:5935" id="42" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="39" tense="neutral" type="010">
+        <Participant actor_id="14294" actor_name="Daniel Ortega" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="34" tense="neutral" type="032">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="0331">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36182" actor_name="Latin America" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="21" tense="neutral" type="111">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="31" tense="historical" type="161">
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Source" />
+        <Participant actor_id="236471" actor_name="Philip Goldberg" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="32" tense="neutral" type="161">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

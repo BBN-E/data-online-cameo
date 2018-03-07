@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.0156">
+    <Sentences>
+      <Sentence char_offsets="186:363" id="0" />
+      <Sentence char_offsets="374:595" id="1" />
+      <Sentence char_offsets="597:681" id="2" />
+      <Sentence char_offsets="692:799" id="3" />
+      <Sentence char_offsets="810:920" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0106">
+    <Sentences>
+      <Sentence char_offsets="184:360" id="0" />
+      <Sentence char_offsets="371:580" id="1" />
+      <Sentence char_offsets="591:797" id="2" />
+      <Sentence char_offsets="808:998" id="3" />
+      <Sentence char_offsets="1009:1167" id="4" />
+      <Sentence char_offsets="1178:1361" id="5" />
+      <Sentence char_offsets="1372:1463" id="6" />
+      <Sentence char_offsets="1474:1670" id="7" />
+      <Sentence char_offsets="1681:1843" id="8" />
+      <Sentence char_offsets="1854:2075" id="9" />
+      <Sentence char_offsets="2086:2275" id="10" />
+      <Sentence char_offsets="2286:2505" id="11" />
+      <Sentence char_offsets="2516:2625" id="12" />
+      <Sentence char_offsets="2636:2899" id="13" />
+      <Sentence char_offsets="2910:3003" id="14" />
+      <Sentence char_offsets="3005:3076" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="036">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="215201" actor_name="Ramtane Lamamra" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="32274" actor_name="Meles Zenawi" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="215201" actor_name="Ramtane Lamamra" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="32274" actor_name="Meles Zenawi" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

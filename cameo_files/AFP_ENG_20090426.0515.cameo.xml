@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0515">
+    <Sentences>
+      <Sentence char_offsets="174:352" id="0" />
+      <Sentence char_offsets="363:564" id="1" />
+      <Sentence char_offsets="575:734" id="2" />
+      <Sentence char_offsets="745:836" id="3" />
+      <Sentence char_offsets="847:1052" id="4" />
+      <Sentence char_offsets="1063:1094" id="5" />
+      <Sentence char_offsets="1096:1293" id="6" />
+      <Sentence char_offsets="1304:1376" id="7" />
+      <Sentence char_offsets="1378:1417" id="8" />
+      <Sentence char_offsets="1419:1510" id="9" />
+      <Sentence char_offsets="1521:1713" id="10" />
+      <Sentence char_offsets="1724:1954" id="11" />
+      <Sentence char_offsets="1965:2207" id="12" />
+      <Sentence char_offsets="2218:2397" id="13" />
+      <Sentence char_offsets="2408:2549" id="14" />
+      <Sentence char_offsets="2560:2762" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="7997" actor_name="Hezbollah" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="historical" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="046">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

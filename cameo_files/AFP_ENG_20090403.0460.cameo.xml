@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0460">
+    <Sentences>
+      <Sentence char_offsets="193:389" id="0" />
+      <Sentence char_offsets="400:593" id="1" />
+      <Sentence char_offsets="604:751" id="2" />
+      <Sentence char_offsets="762:926" id="3" />
+      <Sentence char_offsets="937:1092" id="4" />
+      <Sentence char_offsets="1103:1204" id="5" />
+      <Sentence char_offsets="1215:1460" id="6" />
+      <Sentence char_offsets="1471:1701" id="7" />
+      <Sentence char_offsets="1712:1816" id="8" />
+      <Sentence char_offsets="1827:1949" id="9" />
+      <Sentence char_offsets="1960:2052" id="10" />
+      <Sentence char_offsets="2063:2245" id="11" />
+      <Sentence char_offsets="2256:2313" id="12" />
+      <Sentence char_offsets="2315:2391" id="13" />
+      <Sentence char_offsets="2402:2491" id="14" />
+      <Sentence char_offsets="2502:2671" id="15" />
+      <Sentence char_offsets="2682:2865" id="16" />
+      <Sentence char_offsets="2876:3036" id="17" />
+      <Sentence char_offsets="3047:3104" id="18" />
+      <Sentence char_offsets="3115:3205" id="19" />
+      <Sentence char_offsets="3216:3324" id="20" />
+      <Sentence char_offsets="3335:3530" id="21" />
+      <Sentence char_offsets="3541:3724" id="22" />
+      <Sentence char_offsets="3735:3845" id="23" />
+      <Sentence char_offsets="3856:3956" id="24" />
+      <Sentence char_offsets="3958:4087" id="25" />
+      <Sentence char_offsets="4098:4220" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="historical" type="057">
+        <Participant actor_id="52693" actor_name="Solidarity" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="057">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="52693" actor_name="Solidarity" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="historical" type="111">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36212" actor_name="Tadeusz Mazowiecki" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

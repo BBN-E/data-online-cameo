@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0578">
+    <Sentences>
+      <Sentence char_offsets="189:380" id="0" />
+      <Sentence char_offsets="391:614" id="1" />
+      <Sentence char_offsets="616:795" id="2" />
+      <Sentence char_offsets="806:1018" id="3" />
+      <Sentence char_offsets="1020:1148" id="4" />
+      <Sentence char_offsets="1159:1280" id="5" />
+      <Sentence char_offsets="1282:1330" id="6" />
+      <Sentence char_offsets="1341:1502" id="7" />
+      <Sentence char_offsets="1513:1619" id="8" />
+      <Sentence char_offsets="1621:1729" id="9" />
+      <Sentence char_offsets="1740:1922" id="10" />
+      <Sentence char_offsets="1933:2129" id="11" />
+      <Sentence char_offsets="2131:2304" id="12" />
+      <Sentence char_offsets="2306:2373" id="13" />
+      <Sentence char_offsets="2384:2656" id="14" />
+      <Sentence char_offsets="2667:2815" id="15" />
+      <Sentence char_offsets="2817:2996" id="16" />
+      <Sentence char_offsets="3007:3113" id="17" />
+      <Sentence char_offsets="3115:3281" id="18" />
+      <Sentence char_offsets="3292:3418" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="013">
+        <Participant actor_id="4482" actor_name="Likud" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="013">
+        <Participant actor_id="4482" actor_name="Likud" role="Source" />
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="120">
+        <Participant actor_id="56857" actor_name="Kadima" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

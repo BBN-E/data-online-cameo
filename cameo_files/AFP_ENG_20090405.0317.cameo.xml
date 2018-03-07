@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0317">
+    <Sentences>
+      <Sentence char_offsets="184:338" id="0" />
+      <Sentence char_offsets="349:476" id="1" />
+      <Sentence char_offsets="487:661" id="2" />
+      <Sentence char_offsets="672:789" id="3" />
+      <Sentence char_offsets="800:894" id="4" />
+      <Sentence char_offsets="905:1045" id="5" />
+      <Sentence char_offsets="1056:1244" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

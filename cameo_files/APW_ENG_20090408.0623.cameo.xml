@@ -1,0 +1,132 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.0623">
+    <Sentences>
+      <Sentence char_offsets="187:370" id="0" />
+      <Sentence char_offsets="381:608" id="1" />
+      <Sentence char_offsets="619:740" id="2" />
+      <Sentence char_offsets="742:880" id="3" />
+      <Sentence char_offsets="891:1035" id="4" />
+      <Sentence char_offsets="1046:1175" id="5" />
+      <Sentence char_offsets="1186:1332" id="6" />
+      <Sentence char_offsets="1343:1567" id="7" />
+      <Sentence char_offsets="1578:1721" id="8" />
+      <Sentence char_offsets="1732:1918" id="9" />
+      <Sentence char_offsets="1929:2004" id="10" />
+      <Sentence char_offsets="2006:2166" id="11" />
+      <Sentence char_offsets="2168:2273" id="12" />
+      <Sentence char_offsets="2284:2406" id="13" />
+      <Sentence char_offsets="2417:2544" id="14" />
+      <Sentence char_offsets="2546:2642" id="15" />
+      <Sentence char_offsets="2653:2780" id="16" />
+      <Sentence char_offsets="2782:2874" id="17" />
+      <Sentence char_offsets="2885:2962" id="18" />
+      <Sentence char_offsets="2964:3167" id="19" />
+      <Sentence char_offsets="3178:3413" id="20" />
+      <Sentence char_offsets="3424:3688" id="21" />
+      <Sentence char_offsets="3690:3775" id="22" />
+      <Sentence char_offsets="3786:4025" id="23" />
+      <Sentence char_offsets="4036:4140" id="24" />
+      <Sentence char_offsets="4151:4253" id="25" />
+      <Sentence char_offsets="4255:4418" id="26" />
+      <Sentence char_offsets="4420:4489" id="27" />
+      <Sentence char_offsets="4500:4694" id="28" />
+      <Sentence char_offsets="4696:4885" id="29" />
+      <Sentence char_offsets="4896:5056" id="30" />
+      <Sentence char_offsets="5058:5149" id="31" />
+      <Sentence char_offsets="5160:5165" id="32" />
+      <Sentence char_offsets="5176:5347" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="27" tense="neutral" type="012">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="012">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="32315" actor_name="Brunei" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="36180" actor_name="Laos" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="35921" actor_name="Cambodia" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="32315" actor_name="Brunei" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="32315" actor_name="Brunei" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="32315" actor_name="Brunei" role="Source" />
+        <Participant actor_id="36180" actor_name="Laos" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="32315" actor_name="Brunei" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="32315" actor_name="Brunei" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="36180" actor_name="Laos" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="36180" actor_name="Laos" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="36180" actor_name="Laos" role="Source" />
+        <Participant actor_id="32315" actor_name="Brunei" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="36180" actor_name="Laos" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="36180" actor_name="Laos" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="32315" actor_name="Brunei" role="Target" />
+      </Event>
+      <Event id="20" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="21" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="37019" actor_name="Malaysia" role="Source" />
+        <Participant actor_id="36180" actor_name="Laos" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

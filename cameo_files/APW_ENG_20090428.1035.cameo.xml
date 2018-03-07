@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1035">
+    <Sentences>
+      <Sentence char_offsets="182:374" id="0" />
+      <Sentence char_offsets="385:628" id="1" />
+      <Sentence char_offsets="639:935" id="2" />
+      <Sentence char_offsets="946:1150" id="3" />
+      <Sentence char_offsets="1161:1385" id="4" />
+      <Sentence char_offsets="1396:1594" id="5" />
+      <Sentence char_offsets="1605:1738" id="6" />
+      <Sentence char_offsets="1749:1909" id="7" />
+      <Sentence char_offsets="1911:2020" id="8" />
+      <Sentence char_offsets="2031:2170" id="9" />
+      <Sentence char_offsets="2181:2243" id="10" />
+      <Sentence char_offsets="2245:2390" id="11" />
+      <Sentence char_offsets="2392:2444" id="12" />
+      <Sentence char_offsets="2455:2602" id="13" />
+      <Sentence char_offsets="2604:2659" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="36381" actor_name="Michelin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="36381" actor_name="Michelin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="36381" actor_name="Michelin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

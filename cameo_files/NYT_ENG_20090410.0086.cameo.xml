@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090410.0086">
+    <Sentences>
+      <Sentence char_offsets="162:376" id="0" />
+      <Sentence char_offsets="387:526" id="1" />
+      <Sentence char_offsets="528:666" id="2" />
+      <Sentence char_offsets="677:812" id="3" />
+      <Sentence char_offsets="814:943" id="4" />
+      <Sentence char_offsets="945:996" id="5" />
+      <Sentence char_offsets="998:1055" id="6" />
+      <Sentence char_offsets="1066:1344" id="7" />
+      <Sentence char_offsets="1355:1427" id="8" />
+      <Sentence char_offsets="1429:1593" id="9" />
+      <Sentence char_offsets="1604:1816" id="10" />
+      <Sentence char_offsets="1827:1945" id="11" />
+      <Sentence char_offsets="1947:2109" id="12" />
+      <Sentence char_offsets="2120:2235" id="13" />
+      <Sentence char_offsets="2246:2459" id="14" />
+      <Sentence char_offsets="2461:2593" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="40214" actor_name="Somalia" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="current" type="181">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

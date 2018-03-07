@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1456">
+    <Sentences>
+      <Sentence char_offsets="178:202" id="0" />
+      <Sentence char_offsets="204:409" id="1" />
+      <Sentence char_offsets="420:700" id="2" />
+      <Sentence char_offsets="711:924" id="3" />
+      <Sentence char_offsets="926:1049" id="4" />
+      <Sentence char_offsets="1060:1227" id="5" />
+      <Sentence char_offsets="1238:1459" id="6" />
+      <Sentence char_offsets="1470:1693" id="7" />
+      <Sentence char_offsets="1704:1783" id="8" />
+      <Sentence char_offsets="1785:1869" id="9" />
+      <Sentence char_offsets="1880:1960" id="10" />
+      <Sentence char_offsets="1962:2099" id="11" />
+      <Sentence char_offsets="2110:2366" id="12" />
+      <Sentence char_offsets="2377:2539" id="13" />
+      <Sentence char_offsets="2550:2687" id="14" />
+      <Sentence char_offsets="2698:2836" id="15" />
+      <Sentence char_offsets="2838:2978" id="16" />
+      <Sentence char_offsets="2989:3160" id="17" />
+      <Sentence char_offsets="3171:3343" id="18" />
+      <Sentence char_offsets="3354:3615" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="344" agent_name="Scientist" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="0242">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="611" agent_name="Regulator" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="100">
+        <Participant actor_id="33801" actor_name="Carl Levin" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="330" agent_name="Environmentalist" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

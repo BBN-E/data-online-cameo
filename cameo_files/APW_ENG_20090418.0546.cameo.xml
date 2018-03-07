@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0546">
+    <Sentences>
+      <Sentence char_offsets="194:311" id="0" />
+      <Sentence char_offsets="313:424" id="1" />
+      <Sentence char_offsets="435:686" id="2" />
+      <Sentence char_offsets="697:807" id="3" />
+      <Sentence char_offsets="818:1026" id="4" />
+      <Sentence char_offsets="1037:1184" id="5" />
+      <Sentence char_offsets="1195:1378" id="6" />
+      <Sentence char_offsets="1380:1466" id="7" />
+      <Sentence char_offsets="1477:1640" id="8" />
+      <Sentence char_offsets="1642:1725" id="9" />
+      <Sentence char_offsets="1736:1895" id="10" />
+      <Sentence char_offsets="1897:1963" id="11" />
+      <Sentence char_offsets="1974:2122" id="12" />
+      <Sentence char_offsets="2124:2267" id="13" />
+      <Sentence char_offsets="2278:2365" id="14" />
+      <Sentence char_offsets="2367:2547" id="15" />
+      <Sentence char_offsets="2558:2702" id="16" />
+      <Sentence char_offsets="2713:2845" id="17" />
+      <Sentence char_offsets="2847:2967" id="18" />
+      <Sentence char_offsets="2978:3108" id="19" />
+      <Sentence char_offsets="3110:3268" id="20" />
+      <Sentence char_offsets="3279:3388" id="21" />
+      <Sentence char_offsets="3390:3506" id="22" />
+      <Sentence char_offsets="3517:3617" id="23" />
+      <Sentence char_offsets="3619:3739" id="24" />
+      <Sentence char_offsets="3741:3899" id="25" />
+      <Sentence char_offsets="3910:4101" id="26" />
+      <Sentence char_offsets="4112:4228" id="27" />
+      <Sentence char_offsets="4230:4357" id="28" />
+      <Sentence char_offsets="4368:4565" id="29" />
+      <Sentence char_offsets="4576:4769" id="30" />
+      <Sentence char_offsets="4780:4915" id="31" />
+      <Sentence char_offsets="4926:4931" id="32" />
+      <Sentence char_offsets="4942:5187" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="29" tense="neutral" type="057">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="057">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="29" tense="neutral" type="057">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="29" tense="neutral" type="057">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="29" tense="neutral" type="057">
+        <Participant actor_id="35866" actor_name="Kenya" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="29" tense="neutral" type="057">
+        <Participant actor_id="35866" actor_name="Kenya" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

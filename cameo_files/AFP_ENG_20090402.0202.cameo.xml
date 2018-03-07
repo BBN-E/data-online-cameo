@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0202">
+    <Sentences>
+      <Sentence char_offsets="172:350" id="0" />
+      <Sentence char_offsets="361:576" id="1" />
+      <Sentence char_offsets="587:756" id="2" />
+      <Sentence char_offsets="767:980" id="3" />
+      <Sentence char_offsets="991:1155" id="4" />
+      <Sentence char_offsets="1166:1339" id="5" />
+      <Sentence char_offsets="1350:1561" id="6" />
+      <Sentence char_offsets="1572:1695" id="7" />
+      <Sentence char_offsets="1706:1929" id="8" />
+      <Sentence char_offsets="1940:2126" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="36254" actor_name="Stephen Harper" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="32098" actor_name="Canada" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="587" agent_name="Representatives" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="044">
+        <Participant actor_id="43579" actor_name="Lawrence Cannon" role="Source" />
+        <Participant actor_id="37753" actor_name="Rangin Dadfar-Spanta" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="044">
+        <Participant actor_id="43579" actor_name="Lawrence Cannon" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="19" agent_name="Domestic Affairs" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="587" agent_name="Representatives" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="044">
+        <Participant actor_id="37753" actor_name="Rangin Dadfar-Spanta" role="Source" />
+        <Participant actor_id="43579" actor_name="Lawrence Cannon" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="neutral" type="044">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="43579" actor_name="Lawrence Cannon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

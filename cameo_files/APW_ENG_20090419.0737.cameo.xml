@@ -1,0 +1,130 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0737">
+    <Sentences>
+      <Sentence char_offsets="200:460" id="0" />
+      <Sentence char_offsets="471:667" id="1" />
+      <Sentence char_offsets="669:755" id="2" />
+      <Sentence char_offsets="766:974" id="3" />
+      <Sentence char_offsets="976:1086" id="4" />
+      <Sentence char_offsets="1097:1334" id="5" />
+      <Sentence char_offsets="1345:1439" id="6" />
+      <Sentence char_offsets="1441:1698" id="7" />
+      <Sentence char_offsets="1709:1912" id="8" />
+      <Sentence char_offsets="1923:2117" id="9" />
+      <Sentence char_offsets="2128:2343" id="10" />
+      <Sentence char_offsets="2354:2579" id="11" />
+      <Sentence char_offsets="2581:2757" id="12" />
+      <Sentence char_offsets="2768:2983" id="13" />
+      <Sentence char_offsets="2994:3126" id="14" />
+      <Sentence char_offsets="3128:3182" id="15" />
+      <Sentence char_offsets="3193:3416" id="16" />
+      <Sentence char_offsets="3427:3502" id="17" />
+      <Sentence char_offsets="3513:3609" id="18" />
+      <Sentence char_offsets="3620:3698" id="19" />
+      <Sentence char_offsets="3700:3731" id="20" />
+      <Sentence char_offsets="3742:3846" id="21" />
+      <Sentence char_offsets="3857:3976" id="22" />
+      <Sentence char_offsets="3987:4035" id="23" />
+      <Sentence char_offsets="4037:4088" id="24" />
+      <Sentence char_offsets="4099:4283" id="25" />
+      <Sentence char_offsets="4294:4455" id="26" />
+      <Sentence char_offsets="4466:4706" id="27" />
+      <Sentence char_offsets="4717:4804" id="28" />
+      <Sentence char_offsets="4806:4942" id="29" />
+      <Sentence char_offsets="4953:5081" id="30" />
+      <Sentence char_offsets="5083:5175" id="31" />
+      <Sentence char_offsets="5177:5266" id="32" />
+      <Sentence char_offsets="5277:5390" id="33" />
+      <Sentence char_offsets="5401:5572" id="34" />
+      <Sentence char_offsets="5583:5896" id="35" />
+      <Sentence char_offsets="5907:6049" id="36" />
+      <Sentence char_offsets="6060:6115" id="37" />
+      <Sentence char_offsets="6126:6131" id="38" />
+      <Sentence char_offsets="6142:6303" id="39" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="40956" actor_name="Venezuela" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="29" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="31" tense="neutral" type="010">
+        <Participant actor_id="14294" actor_name="Daniel Ortega" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="0253">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="0331">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="37" tense="current" type="040">
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Source" />
+        <Participant actor_id="52642" actor_name="Michael Hayden" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="37" tense="current" type="040">
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Source" />
+        <Participant actor_id="34961" actor_name="Claire McCaskill" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="37" tense="current" type="040">
+        <Participant actor_id="52642" actor_name="Michael Hayden" role="Source" />
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="37" tense="current" type="040">
+        <Participant actor_id="52642" actor_name="Michael Hayden" role="Source" />
+        <Participant actor_id="34961" actor_name="Claire McCaskill" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="37" tense="current" type="040">
+        <Participant actor_id="34961" actor_name="Claire McCaskill" role="Source" />
+        <Participant actor_id="52397" actor_name="Lindsey Graham" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="37" tense="current" type="040">
+        <Participant actor_id="34961" actor_name="Claire McCaskill" role="Source" />
+        <Participant actor_id="52642" actor_name="Michael Hayden" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="3" tense="neutral" type="081">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="18" tense="neutral" type="085">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="28" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="16" tense="historical" type="161">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="28" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

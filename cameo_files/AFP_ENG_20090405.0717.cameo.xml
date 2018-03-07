@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0717">
+    <Sentences>
+      <Sentence char_offsets="192:382" id="0" />
+      <Sentence char_offsets="393:562" id="1" />
+      <Sentence char_offsets="564:606" id="2" />
+      <Sentence char_offsets="617:724" id="3" />
+      <Sentence char_offsets="726:744" id="4" />
+      <Sentence char_offsets="746:796" id="5" />
+      <Sentence char_offsets="807:1013" id="6" />
+      <Sentence char_offsets="1024:1042" id="7" />
+      <Sentence char_offsets="1044:1134" id="8" />
+      <Sentence char_offsets="1145:1370" id="9" />
+      <Sentence char_offsets="1381:1581" id="10" />
+      <Sentence char_offsets="1592:1818" id="11" />
+      <Sentence char_offsets="1829:1941" id="12" />
+      <Sentence char_offsets="1952:2010" id="13" />
+      <Sentence char_offsets="2021:2180" id="14" />
+      <Sentence char_offsets="2191:2291" id="15" />
+      <Sentence char_offsets="2293:2353" id="16" />
+      <Sentence char_offsets="2364:2455" id="17" />
+      <Sentence char_offsets="2466:2683" id="18" />
+      <Sentence char_offsets="2694:2845" id="19" />
+      <Sentence char_offsets="2856:3037" id="20" />
+      <Sentence char_offsets="3048:3153" id="21" />
+      <Sentence char_offsets="3164:3298" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="11687" actor_name="Rehman Malik" role="Source" />
+        <Participant actor_id="30876" actor_name="High Commission for Refugees" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30876" actor_name="High Commission for Refugees" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

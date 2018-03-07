@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0014">
+    <Sentences>
+      <Sentence char_offsets="188:391" id="0" />
+      <Sentence char_offsets="402:630" id="1" />
+      <Sentence char_offsets="641:852" id="2" />
+      <Sentence char_offsets="863:1095" id="3" />
+      <Sentence char_offsets="1106:1363" id="4" />
+      <Sentence char_offsets="1374:1544" id="5" />
+      <Sentence char_offsets="1555:1629" id="6" />
+      <Sentence char_offsets="1640:1898" id="7" />
+      <Sentence char_offsets="1909:2113" id="8" />
+      <Sentence char_offsets="2124:2323" id="9" />
+      <Sentence char_offsets="2334:2495" id="10" />
+      <Sentence char_offsets="2497:2524" id="11" />
+      <Sentence char_offsets="2535:2723" id="12" />
+      <Sentence char_offsets="2734:2947" id="13" />
+      <Sentence char_offsets="2958:3112" id="14" />
+      <Sentence char_offsets="3123:3273" id="15" />
+      <Sentence char_offsets="3284:3421" id="16" />
+      <Sentence char_offsets="3432:3513" id="17" />
+      <Sentence char_offsets="3524:3758" id="18" />
+      <Sentence char_offsets="3769:3917" id="19" />
+      <Sentence char_offsets="3928:4031" id="20" />
+      <Sentence char_offsets="4042:4265" id="21" />
+      <Sentence char_offsets="4276:4366" id="22" />
+      <Sentence char_offsets="4377:4476" id="23" />
+      <Sentence char_offsets="4487:4514" id="24" />
+      <Sentence char_offsets="4516:4738" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="070">
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="1822">
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="201" agent_name="Detainee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

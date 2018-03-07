@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0354">
+    <Sentences>
+      <Sentence char_offsets="192:416" id="0" />
+      <Sentence char_offsets="427:619" id="1" />
+      <Sentence char_offsets="621:689" id="2" />
+      <Sentence char_offsets="700:828" id="3" />
+      <Sentence char_offsets="830:928" id="4" />
+      <Sentence char_offsets="939:990" id="5" />
+      <Sentence char_offsets="992:1062" id="6" />
+      <Sentence char_offsets="1064:1136" id="7" />
+      <Sentence char_offsets="1147:1189" id="8" />
+      <Sentence char_offsets="1191:1225" id="9" />
+      <Sentence char_offsets="1236:1401" id="10" />
+      <Sentence char_offsets="1403:1522" id="11" />
+      <Sentence char_offsets="1533:1595" id="12" />
+      <Sentence char_offsets="1597:1734" id="13" />
+      <Sentence char_offsets="1745:1871" id="14" />
+      <Sentence char_offsets="1882:2018" id="15" />
+      <Sentence char_offsets="2020:2092" id="16" />
+      <Sentence char_offsets="2103:2307" id="17" />
+      <Sentence char_offsets="2318:2535" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="051">
+        <Participant actor_id="54091" actor_name="Luis Moreno Ocampo" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="112">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="433" agent_name="Peacekeeping Troop" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

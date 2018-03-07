@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0360">
+    <Sentences>
+      <Sentence char_offsets="202:401" id="0" />
+      <Sentence char_offsets="412:721" id="1" />
+      <Sentence char_offsets="732:790" id="2" />
+      <Sentence char_offsets="792:845" id="3" />
+      <Sentence char_offsets="856:970" id="4" />
+      <Sentence char_offsets="972:1113" id="5" />
+      <Sentence char_offsets="1124:1257" id="6" />
+      <Sentence char_offsets="1259:1355" id="7" />
+      <Sentence char_offsets="1366:1471" id="8" />
+      <Sentence char_offsets="1482:1605" id="9" />
+      <Sentence char_offsets="1616:1679" id="10" />
+      <Sentence char_offsets="1690:1927" id="11" />
+      <Sentence char_offsets="1938:2115" id="12" />
+      <Sentence char_offsets="2126:2286" id="13" />
+      <Sentence char_offsets="2288:2391" id="14" />
+      <Sentence char_offsets="2402:2579" id="15" />
+      <Sentence char_offsets="2581:2821" id="16" />
+      <Sentence char_offsets="2832:3039" id="17" />
+      <Sentence char_offsets="3041:3093" id="18" />
+      <Sentence char_offsets="3104:3150" id="19" />
+      <Sentence char_offsets="3152:3273" id="20" />
+      <Sentence char_offsets="3275:3379" id="21" />
+      <Sentence char_offsets="3381:3433" id="22" />
+      <Sentence char_offsets="3444:3603" id="23" />
+      <Sentence char_offsets="3614:3782" id="24" />
+      <Sentence char_offsets="3793:3942" id="25" />
+      <Sentence char_offsets="3944:4011" id="26" />
+      <Sentence char_offsets="4022:4183" id="27" />
+      <Sentence char_offsets="4194:4292" id="28" />
+      <Sentence char_offsets="4294:4431" id="29" />
+      <Sentence char_offsets="4442:4529" id="30" />
+      <Sentence char_offsets="4531:4584" id="31" />
+      <Sentence char_offsets="4586:4610" id="32" />
+      <Sentence char_offsets="4621:4626" id="33" />
+      <Sentence char_offsets="4637:4712" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Source" />
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="current" type="1722">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="69" agent_name="Party Member" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

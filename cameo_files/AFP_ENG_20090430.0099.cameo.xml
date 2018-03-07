@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0099">
+    <Sentences>
+      <Sentence char_offsets="193:374" id="0" />
+      <Sentence char_offsets="385:527" id="1" />
+      <Sentence char_offsets="538:733" id="2" />
+      <Sentence char_offsets="744:922" id="3" />
+      <Sentence char_offsets="933:1066" id="4" />
+      <Sentence char_offsets="1077:1272" id="5" />
+      <Sentence char_offsets="1283:1430" id="6" />
+      <Sentence char_offsets="1441:1636" id="7" />
+      <Sentence char_offsets="1647:1820" id="8" />
+      <Sentence char_offsets="1831:1957" id="9" />
+      <Sentence char_offsets="1968:2086" id="10" />
+      <Sentence char_offsets="2097:2352" id="11" />
+      <Sentence char_offsets="2363:2523" id="12" />
+      <Sentence char_offsets="2534:2788" id="13" />
+      <Sentence char_offsets="2799:2888" id="14" />
+      <Sentence char_offsets="2899:3106" id="15" />
+      <Sentence char_offsets="3117:3321" id="16" />
+      <Sentence char_offsets="3332:3505" id="17" />
+      <Sentence char_offsets="3516:3727" id="18" />
+      <Sentence char_offsets="3738:3856" id="19" />
+      <Sentence char_offsets="3867:4049" id="20" />
+      <Sentence char_offsets="4060:4278" id="21" />
+      <Sentence char_offsets="4289:4403" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="239252" actor_name="Sergio Marchionne" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="061">
+        <Participant actor_id="238660" actor_name="Chrysler" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

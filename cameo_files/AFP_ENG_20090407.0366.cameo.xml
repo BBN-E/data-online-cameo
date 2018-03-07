@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0366">
+    <Sentences>
+      <Sentence char_offsets="181:345" id="0" />
+      <Sentence char_offsets="356:592" id="1" />
+      <Sentence char_offsets="603:677" id="2" />
+      <Sentence char_offsets="679:792" id="3" />
+      <Sentence char_offsets="803:855" id="4" />
+      <Sentence char_offsets="857:961" id="5" />
+      <Sentence char_offsets="972:1205" id="6" />
+      <Sentence char_offsets="1216:1321" id="7" />
+      <Sentence char_offsets="1323:1426" id="8" />
+      <Sentence char_offsets="1437:1653" id="9" />
+      <Sentence char_offsets="1664:1782" id="10" />
+      <Sentence char_offsets="1784:1870" id="11" />
+      <Sentence char_offsets="1881:1993" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="30243" actor_name="Bereket Simon" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="33512" actor_name="Eritrea" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="33486" actor_name="Ethiopia" role="Source" />
+        <Participant actor_id="33512" actor_name="Eritrea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="046">
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="33486" actor_name="Ethiopia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

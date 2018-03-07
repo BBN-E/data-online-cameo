@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0876">
+    <Sentences>
+      <Sentence char_offsets="188:376" id="0" />
+      <Sentence char_offsets="387:585" id="1" />
+      <Sentence char_offsets="596:762" id="2" />
+      <Sentence char_offsets="773:967" id="3" />
+      <Sentence char_offsets="978:1204" id="4" />
+      <Sentence char_offsets="1215:1412" id="5" />
+      <Sentence char_offsets="1423:1563" id="6" />
+      <Sentence char_offsets="1574:1768" id="7" />
+      <Sentence char_offsets="1779:1920" id="8" />
+      <Sentence char_offsets="1931:2003" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="13982" actor_name="Donald Tsang" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="13982" actor_name="Donald Tsang" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

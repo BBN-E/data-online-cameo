@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0783">
+    <Sentences>
+      <Sentence char_offsets="179:384" id="0" />
+      <Sentence char_offsets="395:605" id="1" />
+      <Sentence char_offsets="616:836" id="2" />
+      <Sentence char_offsets="847:1003" id="3" />
+      <Sentence char_offsets="1014:1224" id="4" />
+      <Sentence char_offsets="1235:1373" id="5" />
+      <Sentence char_offsets="1375:1440" id="6" />
+      <Sentence char_offsets="1451:1588" id="7" />
+      <Sentence char_offsets="1599:1743" id="8" />
+      <Sentence char_offsets="1754:1890" id="9" />
+      <Sentence char_offsets="1901:2086" id="10" />
+      <Sentence char_offsets="2097:2205" id="11" />
+      <Sentence char_offsets="2216:2366" id="12" />
+      <Sentence char_offsets="2377:2468" id="13" />
+      <Sentence char_offsets="2470:2538" id="14" />
+      <Sentence char_offsets="2549:2620" id="15" />
+      <Sentence char_offsets="2622:2774" id="16" />
+      <Sentence char_offsets="2785:3007" id="17" />
+      <Sentence char_offsets="3018:3273" id="18" />
+      <Sentence char_offsets="3284:3420" id="19" />
+      <Sentence char_offsets="3431:3602" id="20" />
+      <Sentence char_offsets="3613:3731" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="020">
+        <Participant actor_id="19184" actor_name="Martin O'Malley" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

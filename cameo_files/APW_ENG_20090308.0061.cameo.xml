@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0061">
+    <Sentences>
+      <Sentence char_offsets="184:358" id="0" />
+      <Sentence char_offsets="369:615" id="1" />
+      <Sentence char_offsets="617:694" id="2" />
+      <Sentence char_offsets="705:819" id="3" />
+      <Sentence char_offsets="830:923" id="4" />
+      <Sentence char_offsets="925:1086" id="5" />
+      <Sentence char_offsets="1097:1227" id="6" />
+      <Sentence char_offsets="1238:1406" id="7" />
+      <Sentence char_offsets="1417:1501" id="8" />
+      <Sentence char_offsets="1503:1560" id="9" />
+      <Sentence char_offsets="1562:1758" id="10" />
+      <Sentence char_offsets="1769:1951" id="11" />
+      <Sentence char_offsets="1953:2122" id="12" />
+      <Sentence char_offsets="2133:2289" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

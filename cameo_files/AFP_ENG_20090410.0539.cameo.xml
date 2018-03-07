@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0539">
+    <Sentences>
+      <Sentence char_offsets="159:335" id="0" />
+      <Sentence char_offsets="346:545" id="1" />
+      <Sentence char_offsets="556:730" id="2" />
+      <Sentence char_offsets="741:968" id="3" />
+      <Sentence char_offsets="979:1187" id="4" />
+      <Sentence char_offsets="1198:1265" id="5" />
+      <Sentence char_offsets="1276:1482" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="56841" actor_name="Hirofumi Nakasone" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="21126" actor_name="John McCain" role="Source" />
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="56841" actor_name="Hirofumi Nakasone" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="29231" actor_name="Ichiro Ozawa" role="Source" />
+        <Participant actor_id="21126" actor_name="John McCain" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

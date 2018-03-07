@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0184">
+    <Sentences>
+      <Sentence char_offsets="190:350" id="0" />
+      <Sentence char_offsets="361:628" id="1" />
+      <Sentence char_offsets="639:845" id="2" />
+      <Sentence char_offsets="856:1078" id="3" />
+      <Sentence char_offsets="1080:1121" id="4" />
+      <Sentence char_offsets="1132:1346" id="5" />
+      <Sentence char_offsets="1348:1404" id="6" />
+      <Sentence char_offsets="1406:1488" id="7" />
+      <Sentence char_offsets="1499:1728" id="8" />
+      <Sentence char_offsets="1730:1832" id="9" />
+      <Sentence char_offsets="1843:1983" id="10" />
+      <Sentence char_offsets="1985:2205" id="11" />
+      <Sentence char_offsets="2216:2434" id="12" />
+      <Sentence char_offsets="2445:2515" id="13" />
+      <Sentence char_offsets="2526:2903" id="14" />
+      <Sentence char_offsets="2914:3000" id="15" />
+      <Sentence char_offsets="3011:3154" id="16" />
+      <Sentence char_offsets="3165:3226" id="17" />
+      <Sentence char_offsets="3237:3310" id="18" />
+      <Sentence char_offsets="3321:3552" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="38114" actor_name="The Times" role="Source" />
+        <Participant actor_id="35009" actor_name="Alberto Gonzales" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="38114" actor_name="The Times" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="052">
+        <Participant actor_id="53576" actor_name="Jane Harman" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="38114" actor_name="The Times" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="310" agent_name="Government Official" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

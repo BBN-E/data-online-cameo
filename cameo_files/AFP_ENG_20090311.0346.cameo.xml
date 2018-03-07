@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0346">
+    <Sentences>
+      <Sentence char_offsets="184:374" id="0" />
+      <Sentence char_offsets="385:518" id="1" />
+      <Sentence char_offsets="529:583" id="2" />
+      <Sentence char_offsets="585:671" id="3" />
+      <Sentence char_offsets="673:750" id="4" />
+      <Sentence char_offsets="761:880" id="5" />
+      <Sentence char_offsets="891:953" id="6" />
+      <Sentence char_offsets="964:1028" id="7" />
+      <Sentence char_offsets="1039:1267" id="8" />
+      <Sentence char_offsets="1278:1380" id="9" />
+      <Sentence char_offsets="1391:1589" id="10" />
+      <Sentence char_offsets="1600:1838" id="11" />
+      <Sentence char_offsets="1849:1953" id="12" />
+      <Sentence char_offsets="1964:2162" id="13" />
+      <Sentence char_offsets="2173:2271" id="14" />
+      <Sentence char_offsets="2282:2417" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0353">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="52366" actor_name="Godfrey Chidyausiku" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="120">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="120">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

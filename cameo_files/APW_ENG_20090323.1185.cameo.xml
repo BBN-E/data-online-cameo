@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.1185">
+    <Sentences>
+      <Sentence char_offsets="189:416" id="0" />
+      <Sentence char_offsets="427:577" id="1" />
+      <Sentence char_offsets="588:702" id="2" />
+      <Sentence char_offsets="704:790" id="3" />
+      <Sentence char_offsets="792:839" id="4" />
+      <Sentence char_offsets="850:1051" id="5" />
+      <Sentence char_offsets="1062:1241" id="6" />
+      <Sentence char_offsets="1252:1308" id="7" />
+      <Sentence char_offsets="1319:1433" id="8" />
+      <Sentence char_offsets="1444:1619" id="9" />
+      <Sentence char_offsets="1621:1699" id="10" />
+      <Sentence char_offsets="1701:1776" id="11" />
+      <Sentence char_offsets="1787:1858" id="12" />
+      <Sentence char_offsets="1860:1989" id="13" />
+      <Sentence char_offsets="2000:2185" id="14" />
+      <Sentence char_offsets="2196:2360" id="15" />
+      <Sentence char_offsets="2371:2659" id="16" />
+      <Sentence char_offsets="2661:2775" id="17" />
+      <Sentence char_offsets="2786:2870" id="18" />
+      <Sentence char_offsets="2881:2934" id="19" />
+      <Sentence char_offsets="2936:3024" id="20" />
+      <Sentence char_offsets="3026:3147" id="21" />
+      <Sentence char_offsets="3158:3246" id="22" />
+      <Sentence char_offsets="3257:3467" id="23" />
+      <Sentence char_offsets="3478:3613" id="24" />
+      <Sentence char_offsets="3615:3858" id="25" />
+      <Sentence char_offsets="3869:4020" id="26" />
+      <Sentence char_offsets="4031:4137" id="27" />
+      <Sentence char_offsets="4148:4260" id="28" />
+      <Sentence char_offsets="4262:4364" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="current" type="010">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="053">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="111">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

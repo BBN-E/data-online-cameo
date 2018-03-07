@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0589">
+    <Sentences>
+      <Sentence char_offsets="195:383" id="0" />
+      <Sentence char_offsets="394:574" id="1" />
+      <Sentence char_offsets="585:723" id="2" />
+      <Sentence char_offsets="734:870" id="3" />
+      <Sentence char_offsets="881:1013" id="4" />
+      <Sentence char_offsets="1024:1091" id="5" />
+      <Sentence char_offsets="1102:1309" id="6" />
+      <Sentence char_offsets="1320:1545" id="7" />
+      <Sentence char_offsets="1556:1704" id="8" />
+      <Sentence char_offsets="1715:1954" id="9" />
+      <Sentence char_offsets="1965:2122" id="10" />
+      <Sentence char_offsets="2133:2310" id="11" />
+      <Sentence char_offsets="2321:2503" id="12" />
+      <Sentence char_offsets="2514:2714" id="13" />
+      <Sentence char_offsets="2725:2947" id="14" />
+      <Sentence char_offsets="2958:3056" id="15" />
+      <Sentence char_offsets="3067:3249" id="16" />
+      <Sentence char_offsets="3260:3432" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

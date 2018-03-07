@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0041">
+    <Sentences>
+      <Sentence char_offsets="182:352" id="0" />
+      <Sentence char_offsets="363:585" id="1" />
+      <Sentence char_offsets="596:786" id="2" />
+      <Sentence char_offsets="797:993" id="3" />
+      <Sentence char_offsets="1004:1168" id="4" />
+      <Sentence char_offsets="1179:1241" id="5" />
+      <Sentence char_offsets="1243:1331" id="6" />
+      <Sentence char_offsets="1342:1468" id="7" />
+      <Sentence char_offsets="1479:1583" id="8" />
+      <Sentence char_offsets="1594:1781" id="9" />
+      <Sentence char_offsets="1792:2018" id="10" />
+      <Sentence char_offsets="2029:2251" id="11" />
+      <Sentence char_offsets="2262:2458" id="12" />
+      <Sentence char_offsets="2469:2697" id="13" />
+      <Sentence char_offsets="2708:2933" id="14" />
+      <Sentence char_offsets="2944:3089" id="15" />
+      <Sentence char_offsets="3100:3310" id="16" />
+      <Sentence char_offsets="3321:3441" id="17" />
+      <Sentence char_offsets="3452:3620" id="18" />
+      <Sentence char_offsets="3631:3846" id="19" />
+      <Sentence char_offsets="3857:4048" id="20" />
+      <Sentence char_offsets="4059:4118" id="21" />
+      <Sentence char_offsets="4120:4271" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="historical" type="190">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0511">
+    <Sentences>
+      <Sentence char_offsets="186:371" id="0" />
+      <Sentence char_offsets="382:551" id="1" />
+      <Sentence char_offsets="553:579" id="2" />
+      <Sentence char_offsets="590:878" id="3" />
+      <Sentence char_offsets="889:1065" id="4" />
+      <Sentence char_offsets="1076:1173" id="5" />
+      <Sentence char_offsets="1184:1264" id="6" />
+      <Sentence char_offsets="1266:1320" id="7" />
+      <Sentence char_offsets="1331:1485" id="8" />
+      <Sentence char_offsets="1496:1666" id="9" />
+      <Sentence char_offsets="1677:1848" id="10" />
+      <Sentence char_offsets="1859:2054" id="11" />
+      <Sentence char_offsets="2056:2114" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="43100" actor_name="El Correo" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="014">
+        <Participant actor_id="8321" actor_name="ETA" role="Source" />
+        <Participant actor_id="53985" actor_name="Juan Carlos I" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="014">
+        <Participant actor_id="8321" actor_name="ETA" role="Source" />
+        <Participant actor_id="53985" actor_name="Juan Carlos I" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="138">
+        <Participant actor_id="8321" actor_name="ETA" role="Source" />
+        <Participant actor_id="53985" actor_name="Juan Carlos I" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="8321" actor_name="ETA" role="Source" />
+        <Participant actor_id="53985" actor_name="Juan Carlos I" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

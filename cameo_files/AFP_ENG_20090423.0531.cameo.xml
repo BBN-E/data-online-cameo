@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0531">
+    <Sentences>
+      <Sentence char_offsets="198:373" id="0" />
+      <Sentence char_offsets="384:587" id="1" />
+      <Sentence char_offsets="598:792" id="2" />
+      <Sentence char_offsets="803:855" id="3" />
+      <Sentence char_offsets="866:1065" id="4" />
+      <Sentence char_offsets="1076:1217" id="5" />
+      <Sentence char_offsets="1228:1379" id="6" />
+      <Sentence char_offsets="1390:1547" id="7" />
+      <Sentence char_offsets="1558:1731" id="8" />
+      <Sentence char_offsets="1742:1914" id="9" />
+      <Sentence char_offsets="1925:2137" id="10" />
+      <Sentence char_offsets="2148:2296" id="11" />
+      <Sentence char_offsets="2307:2539" id="12" />
+      <Sentence char_offsets="2550:2706" id="13" />
+      <Sentence char_offsets="2717:2847" id="14" />
+      <Sentence char_offsets="2858:3046" id="15" />
+      <Sentence char_offsets="3057:3201" id="16" />
+      <Sentence char_offsets="3212:3360" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="46551" actor_name="Eric Besson" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="historical" type="042">
+        <Participant actor_id="46551" actor_name="Eric Besson" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="100">
+        <Participant actor_id="46551" actor_name="Eric Besson" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="historical" type="1661">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="46551" actor_name="Eric Besson" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="historical" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="46551" actor_name="Eric Besson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

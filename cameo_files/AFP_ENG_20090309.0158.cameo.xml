@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0158">
+    <Sentences>
+      <Sentence char_offsets="173:319" id="0" />
+      <Sentence char_offsets="330:495" id="1" />
+      <Sentence char_offsets="506:724" id="2" />
+      <Sentence char_offsets="735:950" id="3" />
+      <Sentence char_offsets="961:1115" id="4" />
+      <Sentence char_offsets="1126:1298" id="5" />
+      <Sentence char_offsets="1309:1314" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

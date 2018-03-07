@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0349">
+    <Sentences>
+      <Sentence char_offsets="185:377" id="0" />
+      <Sentence char_offsets="388:486" id="1" />
+      <Sentence char_offsets="497:542" id="2" />
+      <Sentence char_offsets="544:628" id="3" />
+      <Sentence char_offsets="639:831" id="4" />
+      <Sentence char_offsets="842:1015" id="5" />
+      <Sentence char_offsets="1026:1066" id="6" />
+      <Sentence char_offsets="1077:1276" id="7" />
+      <Sentence char_offsets="1287:1394" id="8" />
+      <Sentence char_offsets="1405:1514" id="9" />
+      <Sentence char_offsets="1525:1670" id="10" />
+      <Sentence char_offsets="1681:1877" id="11" />
+      <Sentence char_offsets="1888:1960" id="12" />
+      <Sentence char_offsets="1971:2143" id="13" />
+      <Sentence char_offsets="2154:2288" id="14" />
+      <Sentence char_offsets="2299:2372" id="15" />
+      <Sentence char_offsets="2374:2443" id="16" />
+      <Sentence char_offsets="2454:2650" id="17" />
+      <Sentence char_offsets="2661:2768" id="18" />
+      <Sentence char_offsets="2779:2865" id="19" />
+      <Sentence char_offsets="2876:3062" id="20" />
+      <Sentence char_offsets="3073:3185" id="21" />
+      <Sentence char_offsets="3196:3410" id="22" />
+      <Sentence char_offsets="3421:3626" id="23" />
+      <Sentence char_offsets="3637:3787" id="24" />
+      <Sentence char_offsets="3798:3993" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="111">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="433" agent_name="Peacekeeping Troop" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

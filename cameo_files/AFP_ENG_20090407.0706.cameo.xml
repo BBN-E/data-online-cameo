@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0706">
+    <Sentences>
+      <Sentence char_offsets="187:368" id="0" />
+      <Sentence char_offsets="379:570" id="1" />
+      <Sentence char_offsets="581:722" id="2" />
+      <Sentence char_offsets="733:822" id="3" />
+      <Sentence char_offsets="824:918" id="4" />
+      <Sentence char_offsets="929:1118" id="5" />
+      <Sentence char_offsets="1129:1330" id="6" />
+      <Sentence char_offsets="1341:1389" id="7" />
+      <Sentence char_offsets="1400:1537" id="8" />
+      <Sentence char_offsets="1548:1717" id="9" />
+      <Sentence char_offsets="1728:1831" id="10" />
+      <Sentence char_offsets="1842:1971" id="11" />
+      <Sentence char_offsets="1982:2045" id="12" />
+      <Sentence char_offsets="2047:2139" id="13" />
+      <Sentence char_offsets="2150:2196" id="14" />
+      <Sentence char_offsets="2198:2305" id="15" />
+      <Sentence char_offsets="2316:2437" id="16" />
+      <Sentence char_offsets="2448:2550" id="17" />
+      <Sentence char_offsets="2552:2731" id="18" />
+      <Sentence char_offsets="2742:2850" id="19" />
+      <Sentence char_offsets="2861:2935" id="20" />
+      <Sentence char_offsets="2946:3008" id="21" />
+      <Sentence char_offsets="3019:3121" id="22" />
+      <Sentence char_offsets="3132:3275" id="23" />
+      <Sentence char_offsets="3277:3369" id="24" />
+      <Sentence char_offsets="3380:3526" id="25" />
+      <Sentence char_offsets="3537:3662" id="26" />
+      <Sentence char_offsets="3664:3701" id="27" />
+      <Sentence char_offsets="3712:3808" id="28" />
+      <Sentence char_offsets="3819:3933" id="29" />
+      <Sentence char_offsets="3944:4114" id="30" />
+      <Sentence char_offsets="4125:4187" id="31" />
+      <Sentence char_offsets="4198:4320" id="32" />
+      <Sentence char_offsets="4331:4467" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="161">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="1724">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

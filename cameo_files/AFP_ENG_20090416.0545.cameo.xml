@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0545">
+    <Sentences>
+      <Sentence char_offsets="191:380" id="0" />
+      <Sentence char_offsets="391:630" id="1" />
+      <Sentence char_offsets="641:753" id="2" />
+      <Sentence char_offsets="764:927" id="3" />
+      <Sentence char_offsets="938:1158" id="4" />
+      <Sentence char_offsets="1169:1363" id="5" />
+      <Sentence char_offsets="1374:1565" id="6" />
+      <Sentence char_offsets="1576:1858" id="7" />
+      <Sentence char_offsets="1869:2059" id="8" />
+      <Sentence char_offsets="2070:2270" id="9" />
+      <Sentence char_offsets="2281:2485" id="10" />
+      <Sentence char_offsets="2496:2688" id="11" />
+      <Sentence char_offsets="2699:2899" id="12" />
+      <Sentence char_offsets="2910:2989" id="13" />
+      <Sentence char_offsets="2991:3115" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="193">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

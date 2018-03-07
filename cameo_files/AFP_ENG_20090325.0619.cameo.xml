@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0619">
+    <Sentences>
+      <Sentence char_offsets="182:328" id="0" />
+      <Sentence char_offsets="339:366" id="1" />
+      <Sentence char_offsets="368:456" id="2" />
+      <Sentence char_offsets="458:559" id="3" />
+      <Sentence char_offsets="570:740" id="4" />
+      <Sentence char_offsets="751:971" id="5" />
+      <Sentence char_offsets="982:1187" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="111">
+        <Participant actor_id="4482" actor_name="Likud" agent_id="671" agent_name="Party President" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0081">
+    <Sentences>
+      <Sentence char_offsets="154:187" id="0" />
+      <Sentence char_offsets="190:224" id="1" />
+      <Sentence char_offsets="227:277" id="2" />
+      <Sentence char_offsets="280:317" id="3" />
+      <Sentence char_offsets="320:471" id="4" />
+      <Sentence char_offsets="473:488" id="5" />
+      <Sentence char_offsets="490:499" id="6" />
+      <Sentence char_offsets="502:701" id="7" />
+      <Sentence char_offsets="703:722" id="8" />
+      <Sentence char_offsets="725:901" id="9" />
+      <Sentence char_offsets="903:922" id="10" />
+      <Sentence char_offsets="924:953" id="11" />
+      <Sentence char_offsets="956:1082" id="12" />
+      <Sentence char_offsets="1084:1091" id="13" />
+      <Sentence char_offsets="1093:1121" id="14" />
+      <Sentence char_offsets="1124:1332" id="15" />
+      <Sentence char_offsets="1335:1433" id="16" />
+      <Sentence char_offsets="1435:1464" id="17" />
+      <Sentence char_offsets="1467:1620" id="18" />
+      <Sentence char_offsets="1622:1633" id="19" />
+      <Sentence char_offsets="1635:1655" id="20" />
+      <Sentence char_offsets="1658:1845" id="21" />
+      <Sentence char_offsets="1848:1980" id="22" />
+      <Sentence char_offsets="1982:1997" id="23" />
+      <Sentence char_offsets="1999:2009" id="24" />
+      <Sentence char_offsets="2012:2187" id="25" />
+      <Sentence char_offsets="2189:2204" id="26" />
+      <Sentence char_offsets="2206:2225" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="173">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="40284" actor_name="Tariq Aziz" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="043">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

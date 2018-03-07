@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090430.0148">
+    <Sentences>
+      <Sentence char_offsets="155:405" id="0" />
+      <Sentence char_offsets="416:664" id="1" />
+      <Sentence char_offsets="666:778" id="2" />
+      <Sentence char_offsets="789:955" id="3" />
+      <Sentence char_offsets="957:1118" id="4" />
+      <Sentence char_offsets="1129:1279" id="5" />
+      <Sentence char_offsets="1281:1392" id="6" />
+      <Sentence char_offsets="1403:1539" id="7" />
+      <Sentence char_offsets="1550:1874" id="8" />
+      <Sentence char_offsets="1885:1965" id="9" />
+      <Sentence char_offsets="1967:2114" id="10" />
+      <Sentence char_offsets="2125:2310" id="11" />
+      <Sentence char_offsets="2312:2337" id="12" />
+      <Sentence char_offsets="2348:2547" id="13" />
+      <Sentence char_offsets="2558:2639" id="14" />
+      <Sentence char_offsets="2641:2728" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

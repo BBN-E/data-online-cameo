@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.1062">
+    <Sentences>
+      <Sentence char_offsets="181:405" id="0" />
+      <Sentence char_offsets="416:586" id="1" />
+      <Sentence char_offsets="597:820" id="2" />
+      <Sentence char_offsets="831:1050" id="3" />
+      <Sentence char_offsets="1061:1210" id="4" />
+      <Sentence char_offsets="1212:1362" id="5" />
+      <Sentence char_offsets="1373:1501" id="6" />
+      <Sentence char_offsets="1503:1622" id="7" />
+      <Sentence char_offsets="1633:1950" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0662">
+    <Sentences>
+      <Sentence char_offsets="202:324" id="0" />
+      <Sentence char_offsets="335:492" id="1" />
+      <Sentence char_offsets="494:548" id="2" />
+      <Sentence char_offsets="559:740" id="3" />
+      <Sentence char_offsets="751:1023" id="4" />
+      <Sentence char_offsets="1034:1179" id="5" />
+      <Sentence char_offsets="1190:1316" id="6" />
+      <Sentence char_offsets="1327:1425" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="40567" actor_name="Moro Islamic Liberation Front" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="581" agent_name="Islamic Rebel" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="180">
+        <Participant actor_id="40567" actor_name="Moro Islamic Liberation Front" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="40567" actor_name="Moro Islamic Liberation Front" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="historical" type="057">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="40567" actor_name="Moro Islamic Liberation Front" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

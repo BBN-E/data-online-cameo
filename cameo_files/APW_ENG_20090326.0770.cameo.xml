@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0770">
+    <Sentences>
+      <Sentence char_offsets="191:333" id="0" />
+      <Sentence char_offsets="344:511" id="1" />
+      <Sentence char_offsets="522:776" id="2" />
+      <Sentence char_offsets="787:876" id="3" />
+      <Sentence char_offsets="878:1008" id="4" />
+      <Sentence char_offsets="1010:1071" id="5" />
+      <Sentence char_offsets="1082:1165" id="6" />
+      <Sentence char_offsets="1176:1251" id="7" />
+      <Sentence char_offsets="1253:1492" id="8" />
+      <Sentence char_offsets="1503:1665" id="9" />
+      <Sentence char_offsets="1676:1798" id="10" />
+      <Sentence char_offsets="1800:2051" id="11" />
+      <Sentence char_offsets="2062:2282" id="12" />
+      <Sentence char_offsets="2293:2437" id="13" />
+      <Sentence char_offsets="2439:2490" id="14" />
+      <Sentence char_offsets="2501:2632" id="15" />
+      <Sentence char_offsets="2634:2700" id="16" />
+      <Sentence char_offsets="2711:2822" id="17" />
+      <Sentence char_offsets="2824:2916" id="18" />
+      <Sentence char_offsets="2918:2953" id="19" />
+      <Sentence char_offsets="2964:3159" id="20" />
+      <Sentence char_offsets="3161:3217" id="21" />
+      <Sentence char_offsets="3228:3233" id="22" />
+      <Sentence char_offsets="3244:3312" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="103" agent_name="Medical Personnel" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="historical" type="016">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="current" type="036">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="073">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="historical" type="111">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="120">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

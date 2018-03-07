@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0959">
+    <Sentences>
+      <Sentence char_offsets="199:409" id="0" />
+      <Sentence char_offsets="420:589" id="1" />
+      <Sentence char_offsets="600:687" id="2" />
+      <Sentence char_offsets="689:716" id="3" />
+      <Sentence char_offsets="718:817" id="4" />
+      <Sentence char_offsets="828:928" id="5" />
+      <Sentence char_offsets="930:962" id="6" />
+      <Sentence char_offsets="964:1021" id="7" />
+      <Sentence char_offsets="1023:1046" id="8" />
+      <Sentence char_offsets="1057:1236" id="9" />
+      <Sentence char_offsets="1247:1403" id="10" />
+      <Sentence char_offsets="1405:1449" id="11" />
+      <Sentence char_offsets="1451:1504" id="12" />
+      <Sentence char_offsets="1515:1615" id="13" />
+      <Sentence char_offsets="1617:1659" id="14" />
+      <Sentence char_offsets="1661:1740" id="15" />
+      <Sentence char_offsets="1751:1870" id="16" />
+      <Sentence char_offsets="1881:1977" id="17" />
+      <Sentence char_offsets="1979:2007" id="18" />
+      <Sentence char_offsets="2009:2142" id="19" />
+      <Sentence char_offsets="2153:2269" id="20" />
+      <Sentence char_offsets="2271:2354" id="21" />
+      <Sentence char_offsets="2356:2380" id="22" />
+      <Sentence char_offsets="2382:2453" id="23" />
+      <Sentence char_offsets="2464:2580" id="24" />
+      <Sentence char_offsets="2591:2765" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.0253">
+    <Sentences>
+      <Sentence char_offsets="178:372" id="0" />
+      <Sentence char_offsets="383:680" id="1" />
+      <Sentence char_offsets="691:926" id="2" />
+      <Sentence char_offsets="937:1099" id="3" />
+      <Sentence char_offsets="1110:1377" id="4" />
+      <Sentence char_offsets="1388:1586" id="5" />
+      <Sentence char_offsets="1597:1812" id="6" />
+      <Sentence char_offsets="1823:2012" id="7" />
+      <Sentence char_offsets="2014:2112" id="8" />
+      <Sentence char_offsets="2123:2261" id="9" />
+      <Sentence char_offsets="2272:2490" id="10" />
+      <Sentence char_offsets="2501:2698" id="11" />
+      <Sentence char_offsets="2709:2952" id="12" />
+      <Sentence char_offsets="2963:3191" id="13" />
+      <Sentence char_offsets="3202:3338" id="14" />
+      <Sentence char_offsets="3349:3665" id="15" />
+      <Sentence char_offsets="3676:3899" id="16" />
+      <Sentence char_offsets="3910:4086" id="17" />
+      <Sentence char_offsets="4088:4201" id="18" />
+      <Sentence char_offsets="4212:4477" id="19" />
+      <Sentence char_offsets="4488:4622" id="20" />
+      <Sentence char_offsets="4624:4742" id="21" />
+      <Sentence char_offsets="4744:4880" id="22" />
+      <Sentence char_offsets="4891:5111" id="23" />
+      <Sentence char_offsets="5122:5261" id="24" />
+      <Sentence char_offsets="5272:5277" id="25" />
+      <Sentence char_offsets="5288:5298" id="26" />
+      <Sentence char_offsets="5309:5338" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="current" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0019">
+    <Sentences>
+      <Sentence char_offsets="177:350" id="0" />
+      <Sentence char_offsets="361:576" id="1" />
+      <Sentence char_offsets="587:726" id="2" />
+      <Sentence char_offsets="737:776" id="3" />
+      <Sentence char_offsets="787:943" id="4" />
+      <Sentence char_offsets="954:1180" id="5" />
+      <Sentence char_offsets="1191:1453" id="6" />
+      <Sentence char_offsets="1464:1518" id="7" />
+      <Sentence char_offsets="1520:1678" id="8" />
+      <Sentence char_offsets="1689:1866" id="9" />
+      <Sentence char_offsets="1877:2075" id="10" />
+      <Sentence char_offsets="2086:2198" id="11" />
+      <Sentence char_offsets="2200:2266" id="12" />
+      <Sentence char_offsets="2277:2375" id="13" />
+      <Sentence char_offsets="2386:2485" id="14" />
+      <Sentence char_offsets="2487:2684" id="15" />
+      <Sentence char_offsets="2695:2926" id="16" />
+      <Sentence char_offsets="2937:3120" id="17" />
+      <Sentence char_offsets="3131:3305" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="14899" actor_name="Mehmet Simsek" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="current" type="010">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="019">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="historical" type="046">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="historical" type="046">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

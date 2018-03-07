@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0809">
+    <Sentences>
+      <Sentence char_offsets="184:375" id="0" />
+      <Sentence char_offsets="386:597" id="1" />
+      <Sentence char_offsets="608:796" id="2" />
+      <Sentence char_offsets="807:1018" id="3" />
+      <Sentence char_offsets="1029:1251" id="4" />
+      <Sentence char_offsets="1262:1463" id="5" />
+      <Sentence char_offsets="1474:1694" id="6" />
+      <Sentence char_offsets="1705:1924" id="7" />
+      <Sentence char_offsets="1935:2036" id="8" />
+      <Sentence char_offsets="2047:2224" id="9" />
+      <Sentence char_offsets="2235:2344" id="10" />
+      <Sentence char_offsets="2355:2553" id="11" />
+      <Sentence char_offsets="2564:2746" id="12" />
+      <Sentence char_offsets="2757:2974" id="13" />
+      <Sentence char_offsets="2985:3216" id="14" />
+      <Sentence char_offsets="3227:3326" id="15" />
+      <Sentence char_offsets="3337:3557" id="16" />
+      <Sentence char_offsets="3568:3739" id="17" />
+      <Sentence char_offsets="3750:3862" id="18" />
+      <Sentence char_offsets="3873:4013" id="19" />
+      <Sentence char_offsets="4024:4162" id="20" />
+      <Sentence char_offsets="4173:4353" id="21" />
+      <Sentence char_offsets="4364:4543" id="22" />
+      <Sentence char_offsets="4554:4616" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="23" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="051">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="22" tense="neutral" type="040">
+        <Participant actor_id="31863" actor_name="Ireland" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="23" tense="neutral" type="043">
+        <Participant actor_id="32098" actor_name="Canada" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

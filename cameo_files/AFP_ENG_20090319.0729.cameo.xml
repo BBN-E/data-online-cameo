@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0729">
+    <Sentences>
+      <Sentence char_offsets="187:340" id="0" />
+      <Sentence char_offsets="351:499" id="1" />
+      <Sentence char_offsets="510:670" id="2" />
+      <Sentence char_offsets="681:789" id="3" />
+      <Sentence char_offsets="800:906" id="4" />
+      <Sentence char_offsets="917:1031" id="5" />
+      <Sentence char_offsets="1042:1158" id="6" />
+      <Sentence char_offsets="1169:1340" id="7" />
+      <Sentence char_offsets="1351:1514" id="8" />
+      <Sentence char_offsets="1525:1599" id="9" />
+      <Sentence char_offsets="1610:1790" id="10" />
+      <Sentence char_offsets="1801:1921" id="11" />
+      <Sentence char_offsets="1932:2046" id="12" />
+      <Sentence char_offsets="2057:2215" id="13" />
+      <Sentence char_offsets="2226:2350" id="14" />
+      <Sentence char_offsets="2352:2401" id="15" />
+      <Sentence char_offsets="2412:2469" id="16" />
+      <Sentence char_offsets="2480:2662" id="17" />
+      <Sentence char_offsets="2673:2854" id="18" />
+      <Sentence char_offsets="2865:2988" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="175">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="672" agent_name="Reserve Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="192">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="672" agent_name="Reserve Personnel" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

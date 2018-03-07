@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0158">
+    <Sentences>
+      <Sentence char_offsets="196:385" id="0" />
+      <Sentence char_offsets="396:422" id="1" />
+      <Sentence char_offsets="424:547" id="2" />
+      <Sentence char_offsets="558:772" id="3" />
+      <Sentence char_offsets="783:907" id="4" />
+      <Sentence char_offsets="918:1019" id="5" />
+      <Sentence char_offsets="1030:1066" id="6" />
+      <Sentence char_offsets="1068:1108" id="7" />
+      <Sentence char_offsets="1119:1311" id="8" />
+      <Sentence char_offsets="1322:1459" id="9" />
+      <Sentence char_offsets="1470:1625" id="10" />
+      <Sentence char_offsets="1636:1763" id="11" />
+      <Sentence char_offsets="1774:1866" id="12" />
+      <Sentence char_offsets="1877:1992" id="13" />
+      <Sentence char_offsets="2003:2106" id="14" />
+      <Sentence char_offsets="2117:2237" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="6037" actor_name="Aide Medicale Internationale" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="6037" actor_name="Aide Medicale Internationale" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0803">
+    <Sentences>
+      <Sentence char_offsets="181:393" id="0" />
+      <Sentence char_offsets="404:591" id="1" />
+      <Sentence char_offsets="602:852" id="2" />
+      <Sentence char_offsets="863:1016" id="3" />
+      <Sentence char_offsets="1027:1112" id="4" />
+      <Sentence char_offsets="1114:1177" id="5" />
+      <Sentence char_offsets="1188:1266" id="6" />
+      <Sentence char_offsets="1268:1444" id="7" />
+      <Sentence char_offsets="1455:1621" id="8" />
+      <Sentence char_offsets="1632:1756" id="9" />
+      <Sentence char_offsets="1758:2001" id="10" />
+      <Sentence char_offsets="2012:2146" id="11" />
+      <Sentence char_offsets="2148:2305" id="12" />
+      <Sentence char_offsets="2316:2444" id="13" />
+      <Sentence char_offsets="2455:2599" id="14" />
+      <Sentence char_offsets="2610:2728" id="15" />
+      <Sentence char_offsets="2739:2810" id="16" />
+      <Sentence char_offsets="2812:2903" id="17" />
+      <Sentence char_offsets="2914:3040" id="18" />
+      <Sentence char_offsets="3051:3170" id="19" />
+      <Sentence char_offsets="3181:3214" id="20" />
+      <Sentence char_offsets="3216:3384" id="21" />
+      <Sentence char_offsets="3395:3554" id="22" />
+      <Sentence char_offsets="3556:3652" id="23" />
+      <Sentence char_offsets="3663:3938" id="24" />
+      <Sentence char_offsets="3949:3954" id="25" />
+      <Sentence char_offsets="3965:4091" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="435" agent_name="Interim Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="020">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

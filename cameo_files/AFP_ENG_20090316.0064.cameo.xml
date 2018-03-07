@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0064">
+    <Sentences>
+      <Sentence char_offsets="173:351" id="0" />
+      <Sentence char_offsets="362:482" id="1" />
+      <Sentence char_offsets="484:603" id="2" />
+      <Sentence char_offsets="614:811" id="3" />
+      <Sentence char_offsets="822:1052" id="4" />
+      <Sentence char_offsets="1063:1193" id="5" />
+      <Sentence char_offsets="1204:1383" id="6" />
+      <Sentence char_offsets="1394:1534" id="7" />
+      <Sentence char_offsets="1545:1739" id="8" />
+      <Sentence char_offsets="1750:1917" id="9" />
+      <Sentence char_offsets="1919:1950" id="10" />
+      <Sentence char_offsets="1961:2169" id="11" />
+      <Sentence char_offsets="2180:2328" id="12" />
+      <Sentence char_offsets="2339:2542" id="13" />
+      <Sentence char_offsets="2553:2759" id="14" />
+      <Sentence char_offsets="2770:2813" id="15" />
+      <Sentence char_offsets="2824:3021" id="16" />
+      <Sentence char_offsets="3032:3182" id="17" />
+      <Sentence char_offsets="3193:3358" id="18" />
+      <Sentence char_offsets="3369:3567" id="19" />
+      <Sentence char_offsets="3578:3713" id="20" />
+      <Sentence char_offsets="3724:3858" id="21" />
+      <Sentence char_offsets="3869:4003" id="22" />
+      <Sentence char_offsets="4014:4197" id="23" />
+      <Sentence char_offsets="4208:4416" id="24" />
+      <Sentence char_offsets="4427:4599" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="16180" actor_name="Christine Razanamahasoa" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="101" agent_name="Army Chief of Staff" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="0213">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="current" type="0241">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="1041">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="23" tense="neutral" type="112">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="24" tense="neutral" type="112">
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="3" tense="neutral" type="120">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

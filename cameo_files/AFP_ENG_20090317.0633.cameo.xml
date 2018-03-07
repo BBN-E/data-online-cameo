@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0633">
+    <Sentences>
+      <Sentence char_offsets="150:338" id="0" />
+      <Sentence char_offsets="341:350" id="1" />
+      <Sentence char_offsets="353:543" id="2" />
+      <Sentence char_offsets="546:655" id="3" />
+      <Sentence char_offsets="658:782" id="4" />
+      <Sentence char_offsets="785:854" id="5" />
+      <Sentence char_offsets="857:874" id="6" />
+      <Sentence char_offsets="877:909" id="7" />
+      <Sentence char_offsets="912:963" id="8" />
+      <Sentence char_offsets="966:1119" id="9" />
+      <Sentence char_offsets="1122:1367" id="10" />
+      <Sentence char_offsets="1370:1577" id="11" />
+      <Sentence char_offsets="1580:1747" id="12" />
+      <Sentence char_offsets="1750:1889" id="13" />
+      <Sentence char_offsets="1891:1973" id="14" />
+      <Sentence char_offsets="1976:2141" id="15" />
+      <Sentence char_offsets="2144:2268" id="16" />
+      <Sentence char_offsets="2270:2317" id="17" />
+      <Sentence char_offsets="2320:2425" id="18" />
+      <Sentence char_offsets="2427:2569" id="19" />
+      <Sentence char_offsets="2572:2652" id="20" />
+      <Sentence char_offsets="2655:2712" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="7460" actor_name="UNITA" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="051">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="7460" actor_name="UNITA" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="historical" type="051">
+        <Participant actor_id="32385" actor_name="Cuba" role="Source" />
+        <Participant actor_id="32056" actor_name="MPLA" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="190">
+        <Participant actor_id="32056" actor_name="MPLA" role="Source" />
+        <Participant actor_id="7460" actor_name="UNITA" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

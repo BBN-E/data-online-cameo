@@ -1,0 +1,145 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.0593">
+    <Sentences>
+      <Sentence char_offsets="199:391" id="0" />
+      <Sentence char_offsets="402:563" id="1" />
+      <Sentence char_offsets="574:708" id="2" />
+      <Sentence char_offsets="710:877" id="3" />
+      <Sentence char_offsets="888:984" id="4" />
+      <Sentence char_offsets="995:1110" id="5" />
+      <Sentence char_offsets="1112:1318" id="6" />
+      <Sentence char_offsets="1329:1460" id="7" />
+      <Sentence char_offsets="1462:1631" id="8" />
+      <Sentence char_offsets="1642:1723" id="9" />
+      <Sentence char_offsets="1725:1839" id="10" />
+      <Sentence char_offsets="1850:1953" id="11" />
+      <Sentence char_offsets="1955:1999" id="12" />
+      <Sentence char_offsets="2001:2076" id="13" />
+      <Sentence char_offsets="2087:2319" id="14" />
+      <Sentence char_offsets="2330:2549" id="15" />
+      <Sentence char_offsets="2560:2714" id="16" />
+      <Sentence char_offsets="2725:2947" id="17" />
+      <Sentence char_offsets="2949:3070" id="18" />
+      <Sentence char_offsets="3081:3178" id="19" />
+      <Sentence char_offsets="3180:3313" id="20" />
+      <Sentence char_offsets="3324:3460" id="21" />
+      <Sentence char_offsets="3462:3531" id="22" />
+      <Sentence char_offsets="3542:3594" id="23" />
+      <Sentence char_offsets="3596:3704" id="24" />
+      <Sentence char_offsets="3706:3855" id="25" />
+      <Sentence char_offsets="3866:4029" id="26" />
+      <Sentence char_offsets="4031:4242" id="27" />
+      <Sentence char_offsets="4253:4358" id="28" />
+      <Sentence char_offsets="4369:4525" id="29" />
+      <Sentence char_offsets="4527:4594" id="30" />
+      <Sentence char_offsets="4605:4788" id="31" />
+      <Sentence char_offsets="4790:4889" id="32" />
+      <Sentence char_offsets="4900:5088" id="33" />
+      <Sentence char_offsets="5099:5291" id="34" />
+      <Sentence char_offsets="5302:5516" id="35" />
+      <Sentence char_offsets="5527:5811" id="36" />
+      <Sentence char_offsets="5822:5827" id="37" />
+      <Sentence char_offsets="5838:5962" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="18918" actor_name="Saeb Erekat" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="18918" actor_name="Saeb Erekat" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="32" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="35" tense="current" type="010">
+        <Participant actor_id="238429" actor_name="Fawzi Barhum" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="36" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="18" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="29" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="2" tense="neutral" type="051">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="14" tense="neutral" type="071">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="601" agent_name="Student" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="6" tense="historical" type="111">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="17" tense="neutral" type="111">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="3" tense="neutral" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="26" tense="historical" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="20" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="21" sentence_id="18" tense="current" type="040">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="22" sentence_id="29" tense="current" type="040">
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="23" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

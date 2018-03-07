@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090408.0179">
+    <Sentences>
+      <Sentence char_offsets="351:523" id="0" />
+      <Sentence char_offsets="534:772" id="1" />
+      <Sentence char_offsets="774:853" id="2" />
+      <Sentence char_offsets="864:1099" id="3" />
+      <Sentence char_offsets="1110:1298" id="4" />
+      <Sentence char_offsets="1300:1429" id="5" />
+      <Sentence char_offsets="1440:1580" id="6" />
+      <Sentence char_offsets="1591:1650" id="7" />
+      <Sentence char_offsets="1652:1728" id="8" />
+      <Sentence char_offsets="1739:1983" id="9" />
+      <Sentence char_offsets="1985:2079" id="10" />
+      <Sentence char_offsets="2090:2169" id="11" />
+      <Sentence char_offsets="2171:2252" id="12" />
+      <Sentence char_offsets="2254:2291" id="13" />
+      <Sentence char_offsets="2293:2387" id="14" />
+      <Sentence char_offsets="2398:2564" id="15" />
+      <Sentence char_offsets="2575:2706" id="16" />
+      <Sentence char_offsets="2717:2899" id="17" />
+      <Sentence char_offsets="2910:2967" id="18" />
+      <Sentence char_offsets="2969:3037" id="19" />
+      <Sentence char_offsets="3048:3172" id="20" />
+      <Sentence char_offsets="3174:3239" id="21" />
+      <Sentence char_offsets="3250:3372" id="22" />
+      <Sentence char_offsets="3374:3445" id="23" />
+      <Sentence char_offsets="3456:3601" id="24" />
+      <Sentence char_offsets="3603:3717" id="25" />
+      <Sentence char_offsets="3728:3843" id="26" />
+      <Sentence char_offsets="3854:3910" id="27" />
+      <Sentence char_offsets="3921:3990" id="28" />
+      <Sentence char_offsets="3992:4125" id="29" />
+      <Sentence char_offsets="4136:4249" id="30" />
+      <Sentence char_offsets="4260:4345" id="31" />
+      <Sentence char_offsets="4347:4415" id="32" />
+      <Sentence char_offsets="4417:4559" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="020">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="1041">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19355" actor_name="Prem Tinsulanonda" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19355" actor_name="Prem Tinsulanonda" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="29" tense="neutral" type="172">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

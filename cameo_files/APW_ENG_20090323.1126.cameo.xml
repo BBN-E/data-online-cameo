@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.1126">
+    <Sentences>
+      <Sentence char_offsets="190:447" id="0" />
+      <Sentence char_offsets="458:740" id="1" />
+      <Sentence char_offsets="751:1000" id="2" />
+      <Sentence char_offsets="1011:1155" id="3" />
+      <Sentence char_offsets="1166:1455" id="4" />
+      <Sentence char_offsets="1466:1528" id="5" />
+      <Sentence char_offsets="1530:1712" id="6" />
+      <Sentence char_offsets="1723:1965" id="7" />
+      <Sentence char_offsets="1967:2241" id="8" />
+      <Sentence char_offsets="2252:2563" id="9" />
+      <Sentence char_offsets="2574:2743" id="10" />
+      <Sentence char_offsets="2754:2966" id="11" />
+      <Sentence char_offsets="2968:3104" id="12" />
+      <Sentence char_offsets="3115:3402" id="13" />
+      <Sentence char_offsets="3404:3512" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

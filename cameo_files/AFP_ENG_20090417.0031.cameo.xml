@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0031">
+    <Sentences>
+      <Sentence char_offsets="175:369" id="0" />
+      <Sentence char_offsets="380:423" id="1" />
+      <Sentence char_offsets="425:600" id="2" />
+      <Sentence char_offsets="611:701" id="3" />
+      <Sentence char_offsets="712:930" id="4" />
+      <Sentence char_offsets="941:968" id="5" />
+      <Sentence char_offsets="970:1154" id="6" />
+      <Sentence char_offsets="1165:1328" id="7" />
+      <Sentence char_offsets="1339:1519" id="8" />
+      <Sentence char_offsets="1530:1673" id="9" />
+      <Sentence char_offsets="1684:1868" id="10" />
+      <Sentence char_offsets="1879:2035" id="11" />
+      <Sentence char_offsets="2046:2180" id="12" />
+      <Sentence char_offsets="2191:2254" id="13" />
+      <Sentence char_offsets="2265:2399" id="14" />
+      <Sentence char_offsets="2410:2515" id="15" />
+      <Sentence char_offsets="2526:2625" id="16" />
+      <Sentence char_offsets="2627:2710" id="17" />
+      <Sentence char_offsets="2712:2754" id="18" />
+      <Sentence char_offsets="2765:2927" id="19" />
+      <Sentence char_offsets="2938:3050" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="192">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="192">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="194" agent_name="President of the Senate" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

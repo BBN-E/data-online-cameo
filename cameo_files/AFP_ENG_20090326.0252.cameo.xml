@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0252">
+    <Sentences>
+      <Sentence char_offsets="187:328" id="0" />
+      <Sentence char_offsets="339:462" id="1" />
+      <Sentence char_offsets="473:639" id="2" />
+      <Sentence char_offsets="650:796" id="3" />
+      <Sentence char_offsets="807:1063" id="4" />
+      <Sentence char_offsets="1074:1203" id="5" />
+      <Sentence char_offsets="1214:1392" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

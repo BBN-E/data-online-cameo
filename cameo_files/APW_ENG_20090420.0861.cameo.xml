@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0861">
+    <Sentences>
+      <Sentence char_offsets="187:401" id="0" />
+      <Sentence char_offsets="412:617" id="1" />
+      <Sentence char_offsets="628:800" id="2" />
+      <Sentence char_offsets="811:1020" id="3" />
+      <Sentence char_offsets="1031:1253" id="4" />
+      <Sentence char_offsets="1264:1365" id="5" />
+      <Sentence char_offsets="1367:1512" id="6" />
+      <Sentence char_offsets="1514:1536" id="7" />
+      <Sentence char_offsets="1547:1634" id="8" />
+      <Sentence char_offsets="1636:1725" id="9" />
+      <Sentence char_offsets="1736:1887" id="10" />
+      <Sentence char_offsets="1889:1995" id="11" />
+      <Sentence char_offsets="2006:2215" id="12" />
+      <Sentence char_offsets="2226:2377" id="13" />
+      <Sentence char_offsets="2388:2551" id="14" />
+      <Sentence char_offsets="2553:2640" id="15" />
+      <Sentence char_offsets="2651:2794" id="16" />
+      <Sentence char_offsets="2796:2943" id="17" />
+      <Sentence char_offsets="2954:3226" id="18" />
+      <Sentence char_offsets="3237:3401" id="19" />
+      <Sentence char_offsets="3403:3511" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="017">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="544" agent_name="Company - Owner or Operator" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="1831">
+        <Participant actor_id="58308" actor_name="Islamic State of Iraq and the Levant" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="historical" type="193">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

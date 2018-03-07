@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0462">
+    <Sentences>
+      <Sentence char_offsets="201:340" id="0" />
+      <Sentence char_offsets="351:534" id="1" />
+      <Sentence char_offsets="545:786" id="2" />
+      <Sentence char_offsets="797:996" id="3" />
+      <Sentence char_offsets="1007:1164" id="4" />
+      <Sentence char_offsets="1175:1389" id="5" />
+      <Sentence char_offsets="1391:1427" id="6" />
+      <Sentence char_offsets="1438:1687" id="7" />
+      <Sentence char_offsets="1698:1742" id="8" />
+      <Sentence char_offsets="1744:1889" id="9" />
+      <Sentence char_offsets="1891:1957" id="10" />
+      <Sentence char_offsets="1968:2135" id="11" />
+      <Sentence char_offsets="2137:2201" id="12" />
+      <Sentence char_offsets="2212:2321" id="13" />
+      <Sentence char_offsets="2332:2421" id="14" />
+      <Sentence char_offsets="2423:2508" id="15" />
+      <Sentence char_offsets="2519:2685" id="16" />
+      <Sentence char_offsets="2696:2819" id="17" />
+      <Sentence char_offsets="2830:3023" id="18" />
+      <Sentence char_offsets="3034:3332" id="19" />
+      <Sentence char_offsets="3343:3507" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="40134" actor_name="Sierra Leone" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="36205" actor_name="Liberia" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="31302" actor_name="International Court of Justice" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="100">
+        <Participant actor_id="40055" actor_name="Senegal" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32187" actor_name="Belgium" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="31302" actor_name="International Court of Justice" role="Source" />
+        <Participant actor_id="32187" actor_name="Belgium" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

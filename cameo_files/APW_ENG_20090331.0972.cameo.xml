@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0972">
+    <Sentences>
+      <Sentence char_offsets="200:427" id="0" />
+      <Sentence char_offsets="438:728" id="1" />
+      <Sentence char_offsets="739:797" id="2" />
+      <Sentence char_offsets="799:933" id="3" />
+      <Sentence char_offsets="944:1079" id="4" />
+      <Sentence char_offsets="1081:1178" id="5" />
+      <Sentence char_offsets="1180:1301" id="6" />
+      <Sentence char_offsets="1312:1508" id="7" />
+      <Sentence char_offsets="1519:1665" id="8" />
+      <Sentence char_offsets="1667:1772" id="9" />
+      <Sentence char_offsets="1783:1892" id="10" />
+      <Sentence char_offsets="1894:2031" id="11" />
+      <Sentence char_offsets="2042:2200" id="12" />
+      <Sentence char_offsets="2202:2411" id="13" />
+      <Sentence char_offsets="2422:2537" id="14" />
+      <Sentence char_offsets="2548:2726" id="15" />
+      <Sentence char_offsets="2737:2894" id="16" />
+      <Sentence char_offsets="2896:2940" id="17" />
+      <Sentence char_offsets="2951:3129" id="18" />
+      <Sentence char_offsets="3140:3301" id="19" />
+      <Sentence char_offsets="3312:3492" id="20" />
+      <Sentence char_offsets="3503:3594" id="21" />
+      <Sentence char_offsets="3605:3642" id="22" />
+      <Sentence char_offsets="3644:3670" id="23" />
+      <Sentence char_offsets="3672:3806" id="24" />
+      <Sentence char_offsets="3808:3868" id="25" />
+      <Sentence char_offsets="3879:4050" id="26" />
+      <Sentence char_offsets="4061:4269" id="27" />
+      <Sentence char_offsets="4280:4488" id="28" />
+      <Sentence char_offsets="4499:4679" id="29" />
+      <Sentence char_offsets="4690:4872" id="30" />
+      <Sentence char_offsets="4883:4935" id="31" />
+      <Sentence char_offsets="4937:5028" id="32" />
+      <Sentence char_offsets="5039:5138" id="33" />
+      <Sentence char_offsets="5149:5274" id="34" />
+      <Sentence char_offsets="5285:5479" id="35" />
+      <Sentence char_offsets="5490:5595" id="36" />
+      <Sentence char_offsets="5597:5771" id="37" />
+      <Sentence char_offsets="5782:5977" id="38" />
+      <Sentence char_offsets="5979:6015" id="39" />
+      <Sentence char_offsets="6026:6209" id="40" />
+      <Sentence char_offsets="6211:6319" id="41" />
+      <Sentence char_offsets="6330:6418" id="42" />
+      <Sentence char_offsets="6420:6548" id="43" />
+      <Sentence char_offsets="6559:6844" id="44" />
+      <Sentence char_offsets="6855:6860" id="45" />
+      <Sentence char_offsets="6871:6933" id="46" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="032">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="032">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="032">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="30" tense="neutral" type="100">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="26" tense="neutral" type="120">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="161">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="historical" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

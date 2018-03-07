@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0666">
+    <Sentences>
+      <Sentence char_offsets="196:394" id="0" />
+      <Sentence char_offsets="405:647" id="1" />
+      <Sentence char_offsets="649:713" id="2" />
+      <Sentence char_offsets="724:820" id="3" />
+      <Sentence char_offsets="822:938" id="4" />
+      <Sentence char_offsets="949:1065" id="5" />
+      <Sentence char_offsets="1076:1163" id="6" />
+      <Sentence char_offsets="1174:1390" id="7" />
+      <Sentence char_offsets="1401:1637" id="8" />
+      <Sentence char_offsets="1648:1863" id="9" />
+      <Sentence char_offsets="1865:1933" id="10" />
+      <Sentence char_offsets="1944:2078" id="11" />
+      <Sentence char_offsets="2080:2138" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="1121">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19453" actor_name="Somchai Wongsawat" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="144">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

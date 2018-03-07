@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.1470">
+    <Sentences>
+      <Sentence char_offsets="188:445" id="0" />
+      <Sentence char_offsets="456:695" id="1" />
+      <Sentence char_offsets="706:945" id="2" />
+      <Sentence char_offsets="956:1109" id="3" />
+      <Sentence char_offsets="1120:1215" id="4" />
+      <Sentence char_offsets="1226:1329" id="5" />
+      <Sentence char_offsets="1340:1437" id="6" />
+      <Sentence char_offsets="1448:1526" id="7" />
+      <Sentence char_offsets="1528:1578" id="8" />
+      <Sentence char_offsets="1589:1694" id="9" />
+      <Sentence char_offsets="1705:1807" id="10" />
+      <Sentence char_offsets="1818:2000" id="11" />
+      <Sentence char_offsets="2011:2072" id="12" />
+      <Sentence char_offsets="2074:2160" id="13" />
+      <Sentence char_offsets="2162:2221" id="14" />
+      <Sentence char_offsets="2232:2421" id="15" />
+      <Sentence char_offsets="2432:2522" id="16" />
+      <Sentence char_offsets="2524:2645" id="17" />
+      <Sentence char_offsets="2647:2734" id="18" />
+      <Sentence char_offsets="2745:2929" id="19" />
+      <Sentence char_offsets="2940:3116" id="20" />
+      <Sentence char_offsets="3118:3295" id="21" />
+      <Sentence char_offsets="3306:3335" id="22" />
+      <Sentence char_offsets="3337:3425" id="23" />
+      <Sentence char_offsets="3436:3517" id="24" />
+      <Sentence char_offsets="3528:3621" id="25" />
+      <Sentence char_offsets="3632:3635" id="26" />
+      <Sentence char_offsets="3646:3730" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="090">
+        <Participant actor_id="29099" actor_name="Albania" agent_id="203" agent_name="Newspaper" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="100">
+        <Participant actor_id="33251" actor_name="Fatmir Mediu" role="Source" />
+        <Participant actor_id="29099" actor_name="Albania" agent_id="149" agent_name="Inspector General" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

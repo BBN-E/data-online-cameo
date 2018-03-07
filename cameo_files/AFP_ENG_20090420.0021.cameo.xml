@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0021">
+    <Sentences>
+      <Sentence char_offsets="183:323" id="0" />
+      <Sentence char_offsets="334:531" id="1" />
+      <Sentence char_offsets="542:651" id="2" />
+      <Sentence char_offsets="662:802" id="3" />
+      <Sentence char_offsets="813:947" id="4" />
+      <Sentence char_offsets="958:1097" id="5" />
+      <Sentence char_offsets="1108:1314" id="6" />
+      <Sentence char_offsets="1325:1496" id="7" />
+      <Sentence char_offsets="1498:1544" id="8" />
+      <Sentence char_offsets="1555:1749" id="9" />
+      <Sentence char_offsets="1760:1960" id="10" />
+      <Sentence char_offsets="1971:2126" id="11" />
+      <Sentence char_offsets="2128:2187" id="12" />
+      <Sentence char_offsets="2198:2269" id="13" />
+      <Sentence char_offsets="2280:2465" id="14" />
+      <Sentence char_offsets="2476:2544" id="15" />
+      <Sentence char_offsets="2546:2590" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="145">
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="193">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

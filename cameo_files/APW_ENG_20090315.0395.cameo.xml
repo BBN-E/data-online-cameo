@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0395">
+    <Sentences>
+      <Sentence char_offsets="187:408" id="0" />
+      <Sentence char_offsets="419:708" id="1" />
+      <Sentence char_offsets="719:839" id="2" />
+      <Sentence char_offsets="841:1011" id="3" />
+      <Sentence char_offsets="1022:1139" id="4" />
+      <Sentence char_offsets="1141:1215" id="5" />
+      <Sentence char_offsets="1226:1360" id="6" />
+      <Sentence char_offsets="1362:1430" id="7" />
+      <Sentence char_offsets="1441:1646" id="8" />
+      <Sentence char_offsets="1657:1701" id="9" />
+      <Sentence char_offsets="1703:1736" id="10" />
+      <Sentence char_offsets="1747:1909" id="11" />
+      <Sentence char_offsets="1911:2018" id="12" />
+      <Sentence char_offsets="2029:2210" id="13" />
+      <Sentence char_offsets="2212:2326" id="14" />
+      <Sentence char_offsets="2337:2585" id="15" />
+      <Sentence char_offsets="2596:2721" id="16" />
+      <Sentence char_offsets="2723:2882" id="17" />
+      <Sentence char_offsets="2893:2982" id="18" />
+      <Sentence char_offsets="2984:3096" id="19" />
+      <Sentence char_offsets="3107:3278" id="20" />
+      <Sentence char_offsets="3289:3409" id="21" />
+      <Sentence char_offsets="3411:3598" id="22" />
+      <Sentence char_offsets="3609:3702" id="23" />
+      <Sentence char_offsets="3704:3874" id="24" />
+      <Sentence char_offsets="3885:4005" id="25" />
+      <Sentence char_offsets="4016:4199" id="26" />
+      <Sentence char_offsets="4210:4384" id="27" />
+      <Sentence char_offsets="4395:4661" id="28" />
+      <Sentence char_offsets="4672:4945" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="28" tense="current" type="042">
+        <Participant actor_id="33593" actor_name="Organisation of Islamic Cooperation" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="historical" type="111">
+        <Participant actor_id="33593" actor_name="Organisation of Islamic Cooperation" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="141">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="ongoing" type="173">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="236727" actor_name="Gilad Shalit" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="173">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="28" tense="current" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="33593" actor_name="Organisation of Islamic Cooperation" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0338">
+    <Sentences>
+      <Sentence char_offsets="198:411" id="0" />
+      <Sentence char_offsets="422:635" id="1" />
+      <Sentence char_offsets="637:712" id="2" />
+      <Sentence char_offsets="723:1055" id="3" />
+      <Sentence char_offsets="1066:1199" id="4" />
+      <Sentence char_offsets="1210:1270" id="5" />
+      <Sentence char_offsets="1281:1452" id="6" />
+      <Sentence char_offsets="1463:1629" id="7" />
+      <Sentence char_offsets="1640:1860" id="8" />
+      <Sentence char_offsets="1871:2079" id="9" />
+      <Sentence char_offsets="2090:2276" id="10" />
+      <Sentence char_offsets="2278:2344" id="11" />
+      <Sentence char_offsets="2355:2437" id="12" />
+      <Sentence char_offsets="2448:2542" id="13" />
+      <Sentence char_offsets="2553:2666" id="14" />
+      <Sentence char_offsets="2668:2800" id="15" />
+      <Sentence char_offsets="2811:2931" id="16" />
+      <Sentence char_offsets="2942:2947" id="17" />
+      <Sentence char_offsets="2958:2995" id="18" />
+      <Sentence char_offsets="2997:3128" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="31850" actor_name="Italy" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="041">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="041">
+        <Participant actor_id="53390" actor_name="Recep Tayyip Erdo&#287;an" role="Source" />
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="120">
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

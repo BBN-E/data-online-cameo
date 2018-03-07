@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0619">
+    <Sentences>
+      <Sentence char_offsets="184:361" id="0" />
+      <Sentence char_offsets="372:569" id="1" />
+      <Sentence char_offsets="580:718" id="2" />
+      <Sentence char_offsets="729:881" id="3" />
+      <Sentence char_offsets="892:1035" id="4" />
+      <Sentence char_offsets="1046:1087" id="5" />
+      <Sentence char_offsets="1089:1143" id="6" />
+      <Sentence char_offsets="1145:1259" id="7" />
+      <Sentence char_offsets="1270:1492" id="8" />
+      <Sentence char_offsets="1503:1687" id="9" />
+      <Sentence char_offsets="1698:1889" id="10" />
+      <Sentence char_offsets="1900:1988" id="11" />
+      <Sentence char_offsets="1990:2042" id="12" />
+      <Sentence char_offsets="2053:2283" id="13" />
+      <Sentence char_offsets="2294:2467" id="14" />
+      <Sentence char_offsets="2478:2612" id="15" />
+      <Sentence char_offsets="2623:2773" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="34858" actor_name="Kurdistan Workers' Party" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="183">
+        <Participant actor_id="34858" actor_name="Kurdistan Workers' Party" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="180">
+        <Participant actor_id="34858" actor_name="Kurdistan Workers' Party" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="193">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="195">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="55339" actor_name="Turkish Kurds" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="195">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

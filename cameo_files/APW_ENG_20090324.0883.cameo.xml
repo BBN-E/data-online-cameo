@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0883">
+    <Sentences>
+      <Sentence char_offsets="180:298" id="0" />
+      <Sentence char_offsets="309:532" id="1" />
+      <Sentence char_offsets="543:591" id="2" />
+      <Sentence char_offsets="593:833" id="3" />
+      <Sentence char_offsets="844:1040" id="4" />
+      <Sentence char_offsets="1042:1169" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="013">
+        <Participant actor_id="56249" actor_name="Hussain al-Shahristani" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="56249" actor_name="Hussain al-Shahristani" role="Source" />
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="46259" actor_name="Christine Lagarde" role="Source" />
+        <Participant actor_id="56249" actor_name="Hussain al-Shahristani" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

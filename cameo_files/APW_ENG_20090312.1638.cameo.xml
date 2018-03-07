@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.1638">
+    <Sentences>
+      <Sentence char_offsets="177:352" id="0" />
+      <Sentence char_offsets="363:488" id="1" />
+      <Sentence char_offsets="499:766" id="2" />
+      <Sentence char_offsets="777:951" id="3" />
+      <Sentence char_offsets="962:1180" id="4" />
+      <Sentence char_offsets="1182:1319" id="5" />
+      <Sentence char_offsets="1330:1521" id="6" />
+      <Sentence char_offsets="1532:1698" id="7" />
+      <Sentence char_offsets="1709:1960" id="8" />
+      <Sentence char_offsets="1971:2167" id="9" />
+      <Sentence char_offsets="2178:2242" id="10" />
+      <Sentence char_offsets="2253:2262" id="11" />
+      <Sentence char_offsets="2273:2283" id="12" />
+      <Sentence char_offsets="2294:2379" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="91" agent_name="Representative to the United Nations" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="91" agent_name="Representative to the United Nations" role="Source" />
+        <Participant actor_id="31105" actor_name="International" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.1327">
+    <Sentences>
+      <Sentence char_offsets="187:393" id="0" />
+      <Sentence char_offsets="404:623" id="1" />
+      <Sentence char_offsets="634:961" id="2" />
+      <Sentence char_offsets="972:1152" id="3" />
+      <Sentence char_offsets="1163:1297" id="4" />
+      <Sentence char_offsets="1299:1387" id="5" />
+      <Sentence char_offsets="1398:1654" id="6" />
+      <Sentence char_offsets="1665:1782" id="7" />
+      <Sentence char_offsets="1784:1983" id="8" />
+      <Sentence char_offsets="1994:2112" id="9" />
+      <Sentence char_offsets="2114:2182" id="10" />
+      <Sentence char_offsets="2184:2253" id="11" />
+      <Sentence char_offsets="2264:2593" id="12" />
+      <Sentence char_offsets="2604:2741" id="13" />
+      <Sentence char_offsets="2752:2914" id="14" />
+      <Sentence char_offsets="2916:3227" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="071">
+        <Participant actor_id="239741" actor_name="Daimler AG" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0977">
+    <Sentences>
+      <Sentence char_offsets="207:357" id="0" />
+      <Sentence char_offsets="368:632" id="1" />
+      <Sentence char_offsets="643:831" id="2" />
+      <Sentence char_offsets="842:1018" id="3" />
+      <Sentence char_offsets="1020:1164" id="4" />
+      <Sentence char_offsets="1175:1377" id="5" />
+      <Sentence char_offsets="1388:1560" id="6" />
+      <Sentence char_offsets="1571:1661" id="7" />
+      <Sentence char_offsets="1672:1768" id="8" />
+      <Sentence char_offsets="1770:1911" id="9" />
+      <Sentence char_offsets="1922:2061" id="10" />
+      <Sentence char_offsets="2063:2181" id="11" />
+      <Sentence char_offsets="2192:2269" id="12" />
+      <Sentence char_offsets="2271:2415" id="13" />
+      <Sentence char_offsets="2426:2539" id="14" />
+      <Sentence char_offsets="2550:2732" id="15" />
+      <Sentence char_offsets="2734:2852" id="16" />
+      <Sentence char_offsets="2863:3029" id="17" />
+      <Sentence char_offsets="3040:3137" id="18" />
+      <Sentence char_offsets="3148:3209" id="19" />
+      <Sentence char_offsets="3220:3306" id="20" />
+      <Sentence char_offsets="3308:3419" id="21" />
+      <Sentence char_offsets="3430:3495" id="22" />
+      <Sentence char_offsets="3497:3640" id="23" />
+      <Sentence char_offsets="3651:3764" id="24" />
+      <Sentence char_offsets="3766:3903" id="25" />
+      <Sentence char_offsets="3914:3919" id="26" />
+      <Sentence char_offsets="3930:4031" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="112">
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Source" />
+        <Participant actor_id="41021" actor_name="Chechen" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="historical" type="114">
+        <Participant actor_id="39738" actor_name="Chechnya" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

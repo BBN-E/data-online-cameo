@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090420.0017">
+    <Sentences>
+      <Sentence char_offsets="124:353" id="0" />
+      <Sentence char_offsets="364:510" id="1" />
+      <Sentence char_offsets="512:560" id="2" />
+      <Sentence char_offsets="571:769" id="3" />
+      <Sentence char_offsets="780:959" id="4" />
+      <Sentence char_offsets="970:1191" id="5" />
+      <Sentence char_offsets="1193:1289" id="6" />
+      <Sentence char_offsets="1300:1566" id="7" />
+      <Sentence char_offsets="1577:1759" id="8" />
+      <Sentence char_offsets="1761:1979" id="9" />
+      <Sentence char_offsets="1990:2180" id="10" />
+      <Sentence char_offsets="2191:2347" id="11" />
+      <Sentence char_offsets="2349:2553" id="12" />
+      <Sentence char_offsets="2564:2915" id="13" />
+      <Sentence char_offsets="2926:3141" id="14" />
+      <Sentence char_offsets="3152:3333" id="15" />
+      <Sentence char_offsets="3344:3544" id="16" />
+      <Sentence char_offsets="3555:3680" id="17" />
+      <Sentence char_offsets="3682:3791" id="18" />
+      <Sentence char_offsets="3802:3997" id="19" />
+      <Sentence char_offsets="3999:4061" id="20" />
+      <Sentence char_offsets="4072:4156" id="21" />
+      <Sentence char_offsets="4167:4419" id="22" />
+      <Sentence char_offsets="4430:4733" id="23" />
+      <Sentence char_offsets="4744:5039" id="24" />
+      <Sentence char_offsets="5041:5221" id="25" />
+      <Sentence char_offsets="5232:5483" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29504" actor_name="Central Intelligence Agency" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="current" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0699">
+    <Sentences>
+      <Sentence char_offsets="195:386" id="0" />
+      <Sentence char_offsets="397:576" id="1" />
+      <Sentence char_offsets="587:811" id="2" />
+      <Sentence char_offsets="822:965" id="3" />
+      <Sentence char_offsets="967:1023" id="4" />
+      <Sentence char_offsets="1034:1100" id="5" />
+      <Sentence char_offsets="1111:1278" id="6" />
+      <Sentence char_offsets="1289:1518" id="7" />
+      <Sentence char_offsets="1529:1576" id="8" />
+      <Sentence char_offsets="1587:1796" id="9" />
+      <Sentence char_offsets="1807:1866" id="10" />
+      <Sentence char_offsets="1868:1986" id="11" />
+      <Sentence char_offsets="1997:2101" id="12" />
+      <Sentence char_offsets="2112:2333" id="13" />
+      <Sentence char_offsets="2344:2443" id="14" />
+      <Sentence char_offsets="2454:2522" id="15" />
+      <Sentence char_offsets="2533:2736" id="16" />
+      <Sentence char_offsets="2747:2945" id="17" />
+      <Sentence char_offsets="2956:3051" id="18" />
+      <Sentence char_offsets="3062:3244" id="19" />
+      <Sentence char_offsets="3255:3440" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="5465" actor_name="Khmer Rouge" role="Source" />
+        <Participant actor_id="4473" actor_name="Pol Pot" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="5465" actor_name="Khmer Rouge" role="Source" />
+        <Participant actor_id="15254" actor_name="Duch" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="15254" actor_name="Duch" role="Source" />
+        <Participant actor_id="5465" actor_name="Khmer Rouge" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="016">
+        <Participant actor_id="15254" actor_name="Duch" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="073">
+        <Participant actor_id="4473" actor_name="Pol Pot" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="neutral" type="1822">
+        <Participant actor_id="15254" actor_name="Duch" role="Source" />
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

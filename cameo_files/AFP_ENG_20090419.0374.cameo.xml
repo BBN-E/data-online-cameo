@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0374">
+    <Sentences>
+      <Sentence char_offsets="182:377" id="0" />
+      <Sentence char_offsets="388:525" id="1" />
+      <Sentence char_offsets="536:716" id="2" />
+      <Sentence char_offsets="727:834" id="3" />
+      <Sentence char_offsets="845:1053" id="4" />
+      <Sentence char_offsets="1064:1193" id="5" />
+      <Sentence char_offsets="1195:1240" id="6" />
+      <Sentence char_offsets="1251:1369" id="7" />
+      <Sentence char_offsets="1380:1480" id="8" />
+      <Sentence char_offsets="1482:1604" id="9" />
+      <Sentence char_offsets="1615:1759" id="10" />
+      <Sentence char_offsets="1770:1834" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="46781" actor_name="Ahmed Aboul Gheit" role="Source" />
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="20776" actor_name="Omar Suleiman" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="20776" actor_name="Omar Suleiman" role="Source" />
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="20776" actor_name="Omar Suleiman" role="Source" />
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

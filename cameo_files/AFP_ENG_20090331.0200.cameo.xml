@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0200">
+    <Sentences>
+      <Sentence char_offsets="197:361" id="0" />
+      <Sentence char_offsets="372:577" id="1" />
+      <Sentence char_offsets="588:735" id="2" />
+      <Sentence char_offsets="746:870" id="3" />
+      <Sentence char_offsets="881:1026" id="4" />
+      <Sentence char_offsets="1037:1271" id="5" />
+      <Sentence char_offsets="1282:1462" id="6" />
+      <Sentence char_offsets="1473:1646" id="7" />
+      <Sentence char_offsets="1657:1846" id="8" />
+      <Sentence char_offsets="1857:1983" id="9" />
+      <Sentence char_offsets="1994:2095" id="10" />
+      <Sentence char_offsets="2106:2297" id="11" />
+      <Sentence char_offsets="2308:2505" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="030">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="030">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="062">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="historical" type="173">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

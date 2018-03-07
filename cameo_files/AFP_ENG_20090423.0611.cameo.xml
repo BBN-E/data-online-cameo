@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0611">
+    <Sentences>
+      <Sentence char_offsets="180:347" id="0" />
+      <Sentence char_offsets="358:541" id="1" />
+      <Sentence char_offsets="552:697" id="2" />
+      <Sentence char_offsets="708:869" id="3" />
+      <Sentence char_offsets="880:1044" id="4" />
+      <Sentence char_offsets="1055:1273" id="5" />
+      <Sentence char_offsets="1284:1370" id="6" />
+      <Sentence char_offsets="1381:1482" id="7" />
+      <Sentence char_offsets="1493:1703" id="8" />
+      <Sentence char_offsets="1714:1799" id="9" />
+      <Sentence char_offsets="1810:1899" id="10" />
+      <Sentence char_offsets="1901:1969" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="historical" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="historical" type="120">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="historical" type="040">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

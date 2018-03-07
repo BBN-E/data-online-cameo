@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0192">
+    <Sentences>
+      <Sentence char_offsets="186:366" id="0" />
+      <Sentence char_offsets="377:515" id="1" />
+      <Sentence char_offsets="526:635" id="2" />
+      <Sentence char_offsets="637:730" id="3" />
+      <Sentence char_offsets="741:990" id="4" />
+      <Sentence char_offsets="1001:1240" id="5" />
+      <Sentence char_offsets="1251:1464" id="6" />
+      <Sentence char_offsets="1475:1619" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="32291" actor_name="Bolivia" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="112">
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Source" />
+        <Participant actor_id="32291" actor_name="Bolivia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="161">
+        <Participant actor_id="32291" actor_name="Bolivia" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

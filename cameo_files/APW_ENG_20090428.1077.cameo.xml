@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1077">
+    <Sentences>
+      <Sentence char_offsets="186:335" id="0" />
+      <Sentence char_offsets="346:462" id="1" />
+      <Sentence char_offsets="464:503" id="2" />
+      <Sentence char_offsets="514:651" id="3" />
+      <Sentence char_offsets="662:741" id="4" />
+      <Sentence char_offsets="743:845" id="5" />
+      <Sentence char_offsets="847:954" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="036">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090402.0052">
+    <Sentences>
+      <Sentence char_offsets="225:514" id="0" />
+      <Sentence char_offsets="525:732" id="1" />
+      <Sentence char_offsets="743:932" id="2" />
+      <Sentence char_offsets="934:995" id="3" />
+      <Sentence char_offsets="1006:1262" id="4" />
+      <Sentence char_offsets="1273:1433" id="5" />
+      <Sentence char_offsets="1444:1575" id="6" />
+      <Sentence char_offsets="1577:1718" id="7" />
+      <Sentence char_offsets="1729:1933" id="8" />
+      <Sentence char_offsets="1944:2073" id="9" />
+      <Sentence char_offsets="2075:2246" id="10" />
+      <Sentence char_offsets="2257:2365" id="11" />
+      <Sentence char_offsets="2367:2440" id="12" />
+      <Sentence char_offsets="2451:2557" id="13" />
+      <Sentence char_offsets="2559:2637" id="14" />
+      <Sentence char_offsets="2639:2747" id="15" />
+      <Sentence char_offsets="2758:2914" id="16" />
+      <Sentence char_offsets="2916:2989" id="17" />
+      <Sentence char_offsets="3000:3305" id="18" />
+      <Sentence char_offsets="3316:3497" id="19" />
+      <Sentence char_offsets="3499:3649" id="20" />
+      <Sentence char_offsets="3660:3898" id="21" />
+      <Sentence char_offsets="3909:4163" id="22" />
+      <Sentence char_offsets="4174:4308" id="23" />
+      <Sentence char_offsets="4310:4343" id="24" />
+      <Sentence char_offsets="4354:4431" id="25" />
+      <Sentence char_offsets="4433:4599" id="26" />
+      <Sentence char_offsets="4610:4699" id="27" />
+      <Sentence char_offsets="4701:4866" id="28" />
+      <Sentence char_offsets="4868:4961" id="29" />
+      <Sentence char_offsets="4972:5118" id="30" />
+      <Sentence char_offsets="5129:5262" id="31" />
+      <Sentence char_offsets="5273:5501" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="current" type="010">
+        <Participant actor_id="121752" actor_name="Yitzhak Aharonovich" role="Source" />
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

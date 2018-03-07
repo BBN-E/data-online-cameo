@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0058">
+    <Sentences>
+      <Sentence char_offsets="192:330" id="0" />
+      <Sentence char_offsets="341:460" id="1" />
+      <Sentence char_offsets="471:685" id="2" />
+      <Sentence char_offsets="696:867" id="3" />
+      <Sentence char_offsets="878:1122" id="4" />
+      <Sentence char_offsets="1133:1177" id="5" />
+      <Sentence char_offsets="1179:1266" id="6" />
+      <Sentence char_offsets="1277:1405" id="7" />
+      <Sentence char_offsets="1407:1476" id="8" />
+      <Sentence char_offsets="1487:1690" id="9" />
+      <Sentence char_offsets="1701:1862" id="10" />
+      <Sentence char_offsets="1873:2011" id="11" />
+      <Sentence char_offsets="2022:2176" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="historical" type="010">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="31388" actor_name="Haiti" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

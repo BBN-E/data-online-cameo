@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090405.0813">
+    <Sentences>
+      <Sentence char_offsets="186:436" id="0" />
+      <Sentence char_offsets="447:634" id="1" />
+      <Sentence char_offsets="645:808" id="2" />
+      <Sentence char_offsets="819:1009" id="3" />
+      <Sentence char_offsets="1020:1220" id="4" />
+      <Sentence char_offsets="1231:1325" id="5" />
+      <Sentence char_offsets="1327:1448" id="6" />
+      <Sentence char_offsets="1459:1578" id="7" />
+      <Sentence char_offsets="1580:1711" id="8" />
+      <Sentence char_offsets="1722:1844" id="9" />
+      <Sentence char_offsets="1855:1933" id="10" />
+      <Sentence char_offsets="1935:2028" id="11" />
+      <Sentence char_offsets="2039:2183" id="12" />
+      <Sentence char_offsets="2185:2246" id="13" />
+      <Sentence char_offsets="2257:2399" id="14" />
+      <Sentence char_offsets="2410:2470" id="15" />
+      <Sentence char_offsets="2472:2538" id="16" />
+      <Sentence char_offsets="2549:2677" id="17" />
+      <Sentence char_offsets="2688:2829" id="18" />
+      <Sentence char_offsets="2831:2849" id="19" />
+      <Sentence char_offsets="2860:2990" id="20" />
+      <Sentence char_offsets="2992:3087" id="21" />
+      <Sentence char_offsets="3098:3256" id="22" />
+      <Sentence char_offsets="3258:3396" id="23" />
+      <Sentence char_offsets="3407:3412" id="24" />
+      <Sentence char_offsets="3423:3490" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="ongoing" type="042">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="050">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="050">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="historical" type="051">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="ongoing" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

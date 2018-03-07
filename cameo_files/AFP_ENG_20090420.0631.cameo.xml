@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0631">
+    <Sentences>
+      <Sentence char_offsets="187:332" id="0" />
+      <Sentence char_offsets="343:485" id="1" />
+      <Sentence char_offsets="496:571" id="2" />
+      <Sentence char_offsets="582:836" id="3" />
+      <Sentence char_offsets="847:997" id="4" />
+      <Sentence char_offsets="1008:1168" id="5" />
+      <Sentence char_offsets="1179:1357" id="6" />
+      <Sentence char_offsets="1368:1534" id="7" />
+      <Sentence char_offsets="1545:1710" id="8" />
+      <Sentence char_offsets="1721:1868" id="9" />
+      <Sentence char_offsets="1879:2083" id="10" />
+      <Sentence char_offsets="2094:2260" id="11" />
+      <Sentence char_offsets="2271:2395" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="current" type="042">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="30641" actor_name="Fiji" role="Source" />
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="current" type="043">
+        <Participant actor_id="30641" actor_name="Fiji" role="Source" />
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

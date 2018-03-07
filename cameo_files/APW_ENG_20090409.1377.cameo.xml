@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.1377">
+    <Sentences>
+      <Sentence char_offsets="190:371" id="0" />
+      <Sentence char_offsets="382:577" id="1" />
+      <Sentence char_offsets="588:808" id="2" />
+      <Sentence char_offsets="819:1011" id="3" />
+      <Sentence char_offsets="1022:1177" id="4" />
+      <Sentence char_offsets="1188:1288" id="5" />
+      <Sentence char_offsets="1299:1552" id="6" />
+      <Sentence char_offsets="1563:1689" id="7" />
+      <Sentence char_offsets="1700:1930" id="8" />
+      <Sentence char_offsets="1941:2212" id="9" />
+      <Sentence char_offsets="2223:2436" id="10" />
+      <Sentence char_offsets="2447:2744" id="11" />
+      <Sentence char_offsets="2755:2781" id="12" />
+      <Sentence char_offsets="2783:2931" id="13" />
+      <Sentence char_offsets="2933:3184" id="14" />
+      <Sentence char_offsets="3195:3296" id="15" />
+      <Sentence char_offsets="3307:3472" id="16" />
+      <Sentence char_offsets="3483:3488" id="17" />
+      <Sentence char_offsets="3499:3582" id="18" />
+      <Sentence char_offsets="3593:3598" id="19" />
+      <Sentence char_offsets="3609:3619" id="20" />
+      <Sentence char_offsets="3630:3673" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="180">
+        <Participant actor_id="17507" actor_name="Al-Shabaab" agent_id="399" agent_name="Terrorist Organization" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" agent_id="120" agent_name="Oil Tanker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

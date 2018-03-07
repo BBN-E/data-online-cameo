@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0337">
+    <Sentences>
+      <Sentence char_offsets="191:387" id="0" />
+      <Sentence char_offsets="398:607" id="1" />
+      <Sentence char_offsets="618:828" id="2" />
+      <Sentence char_offsets="839:923" id="3" />
+      <Sentence char_offsets="925:967" id="4" />
+      <Sentence char_offsets="969:1027" id="5" />
+      <Sentence char_offsets="1038:1174" id="6" />
+      <Sentence char_offsets="1185:1414" id="7" />
+      <Sentence char_offsets="1425:1639" id="8" />
+      <Sentence char_offsets="1650:1738" id="9" />
+      <Sentence char_offsets="1740:1862" id="10" />
+      <Sentence char_offsets="1873:2068" id="11" />
+      <Sentence char_offsets="2079:2211" id="12" />
+      <Sentence char_offsets="2222:2341" id="13" />
+      <Sentence char_offsets="2352:2573" id="14" />
+      <Sentence char_offsets="2584:2809" id="15" />
+      <Sentence char_offsets="2820:3086" id="16" />
+      <Sentence char_offsets="3097:3269" id="17" />
+      <Sentence char_offsets="3280:3420" id="18" />
+      <Sentence char_offsets="3431:3529" id="19" />
+      <Sentence char_offsets="3540:3666" id="20" />
+      <Sentence char_offsets="3668:3723" id="21" />
+      <Sentence char_offsets="3734:3817" id="22" />
+      <Sentence char_offsets="3819:3889" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="043">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

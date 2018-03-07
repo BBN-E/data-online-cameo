@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.1414">
+    <Sentences>
+      <Sentence char_offsets="186:330" id="0" />
+      <Sentence char_offsets="341:451" id="1" />
+      <Sentence char_offsets="453:569" id="2" />
+      <Sentence char_offsets="571:751" id="3" />
+      <Sentence char_offsets="762:891" id="4" />
+      <Sentence char_offsets="902:1012" id="5" />
+      <Sentence char_offsets="1014:1226" id="6" />
+      <Sentence char_offsets="1237:1298" id="7" />
+      <Sentence char_offsets="1309:1411" id="8" />
+      <Sentence char_offsets="1413:1595" id="9" />
+      <Sentence char_offsets="1606:1712" id="10" />
+      <Sentence char_offsets="1714:1775" id="11" />
+      <Sentence char_offsets="1786:1852" id="12" />
+      <Sentence char_offsets="1854:1942" id="13" />
+      <Sentence char_offsets="1944:2001" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

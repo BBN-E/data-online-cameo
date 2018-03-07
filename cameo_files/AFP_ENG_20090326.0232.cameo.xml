@@ -1,0 +1,81 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0232">
+    <Sentences>
+      <Sentence char_offsets="184:347" id="0" />
+      <Sentence char_offsets="358:554" id="1" />
+      <Sentence char_offsets="565:722" id="2" />
+      <Sentence char_offsets="733:921" id="3" />
+      <Sentence char_offsets="932:1012" id="4" />
+      <Sentence char_offsets="1023:1151" id="5" />
+      <Sentence char_offsets="1162:1312" id="6" />
+      <Sentence char_offsets="1323:1566" id="7" />
+      <Sentence char_offsets="1577:1725" id="8" />
+      <Sentence char_offsets="1736:1909" id="9" />
+      <Sentence char_offsets="1920:2124" id="10" />
+      <Sentence char_offsets="2135:2282" id="11" />
+      <Sentence char_offsets="2293:2479" id="12" />
+      <Sentence char_offsets="2490:2563" id="13" />
+      <Sentence char_offsets="2574:2733" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="35885" actor_name="Queen Ranya" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="9" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="11" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="719" agent_name="Healthcare Facility" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="622" agent_name="Rabbi" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="36321" actor_name="Shimon Peres" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="622" agent_name="Rabbi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

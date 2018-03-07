@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0753">
+    <Sentences>
+      <Sentence char_offsets="174:384" id="0" />
+      <Sentence char_offsets="395:452" id="1" />
+      <Sentence char_offsets="463:680" id="2" />
+      <Sentence char_offsets="691:898" id="3" />
+      <Sentence char_offsets="909:1108" id="4" />
+      <Sentence char_offsets="1119:1269" id="5" />
+      <Sentence char_offsets="1280:1525" id="6" />
+      <Sentence char_offsets="1536:1776" id="7" />
+      <Sentence char_offsets="1787:1959" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

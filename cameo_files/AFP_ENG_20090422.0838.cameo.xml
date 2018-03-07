@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0838">
+    <Sentences>
+      <Sentence char_offsets="184:378" id="0" />
+      <Sentence char_offsets="389:605" id="1" />
+      <Sentence char_offsets="616:789" id="2" />
+      <Sentence char_offsets="800:982" id="3" />
+      <Sentence char_offsets="993:1138" id="4" />
+      <Sentence char_offsets="1149:1305" id="5" />
+      <Sentence char_offsets="1316:1474" id="6" />
+      <Sentence char_offsets="1485:1629" id="7" />
+      <Sentence char_offsets="1640:1758" id="8" />
+      <Sentence char_offsets="1769:1940" id="9" />
+      <Sentence char_offsets="1951:2064" id="10" />
+      <Sentence char_offsets="2075:2301" id="11" />
+      <Sentence char_offsets="2312:2441" id="12" />
+      <Sentence char_offsets="2452:2594" id="13" />
+      <Sentence char_offsets="2605:2653" id="14" />
+      <Sentence char_offsets="2655:2777" id="15" />
+      <Sentence char_offsets="2779:2805" id="16" />
+      <Sentence char_offsets="2816:2856" id="17" />
+      <Sentence char_offsets="2858:2937" id="18" />
+      <Sentence char_offsets="2948:2970" id="19" />
+      <Sentence char_offsets="2972:2983" id="20" />
+      <Sentence char_offsets="2985:3074" id="21" />
+      <Sentence char_offsets="3085:3246" id="22" />
+      <Sentence char_offsets="3257:3396" id="23" />
+      <Sentence char_offsets="3398:3463" id="24" />
+      <Sentence char_offsets="3474:3682" id="25" />
+      <Sentence char_offsets="3693:3741" id="26" />
+      <Sentence char_offsets="3743:3896" id="27" />
+      <Sentence char_offsets="3907:4080" id="28" />
+      <Sentence char_offsets="4091:4156" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

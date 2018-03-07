@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0249">
+    <Sentences>
+      <Sentence char_offsets="197:382" id="0" />
+      <Sentence char_offsets="393:469" id="1" />
+      <Sentence char_offsets="471:566" id="2" />
+      <Sentence char_offsets="577:767" id="3" />
+      <Sentence char_offsets="778:974" id="4" />
+      <Sentence char_offsets="985:1223" id="5" />
+      <Sentence char_offsets="1234:1385" id="6" />
+      <Sentence char_offsets="1396:1576" id="7" />
+      <Sentence char_offsets="1587:1777" id="8" />
+      <Sentence char_offsets="1788:1915" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="0831">
+        <Participant actor_id="36916" actor_name="Mauritania" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="36916" actor_name="Mauritania" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="36916" actor_name="Mauritania" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

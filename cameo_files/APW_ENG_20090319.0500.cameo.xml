@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.0500">
+    <Sentences>
+      <Sentence char_offsets="189:447" id="0" />
+      <Sentence char_offsets="458:613" id="1" />
+      <Sentence char_offsets="624:796" id="2" />
+      <Sentence char_offsets="798:911" id="3" />
+      <Sentence char_offsets="922:1117" id="4" />
+      <Sentence char_offsets="1128:1306" id="5" />
+      <Sentence char_offsets="1317:1403" id="6" />
+      <Sentence char_offsets="1405:1440" id="7" />
+      <Sentence char_offsets="1442:1540" id="8" />
+      <Sentence char_offsets="1542:1635" id="9" />
+      <Sentence char_offsets="1646:1877" id="10" />
+      <Sentence char_offsets="1888:1958" id="11" />
+      <Sentence char_offsets="1960:2028" id="12" />
+      <Sentence char_offsets="2030:2114" id="13" />
+      <Sentence char_offsets="2116:2175" id="14" />
+      <Sentence char_offsets="2186:2339" id="15" />
+      <Sentence char_offsets="2341:2467" id="16" />
+      <Sentence char_offsets="2478:2580" id="17" />
+      <Sentence char_offsets="2591:2715" id="18" />
+      <Sentence char_offsets="2726:2786" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="180">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

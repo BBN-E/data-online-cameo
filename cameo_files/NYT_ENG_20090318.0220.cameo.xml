@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090318.0220">
+    <Sentences>
+      <Sentence char_offsets="173:479" id="0" />
+      <Sentence char_offsets="490:734" id="1" />
+      <Sentence char_offsets="736:930" id="2" />
+      <Sentence char_offsets="941:1051" id="3" />
+      <Sentence char_offsets="1053:1289" id="4" />
+      <Sentence char_offsets="1300:1379" id="5" />
+      <Sentence char_offsets="1381:1456" id="6" />
+      <Sentence char_offsets="1458:1499" id="7" />
+      <Sentence char_offsets="1510:1645" id="8" />
+      <Sentence char_offsets="1647:1799" id="9" />
+      <Sentence char_offsets="1810:1968" id="10" />
+      <Sentence char_offsets="1970:2089" id="11" />
+      <Sentence char_offsets="2091:2253" id="12" />
+      <Sentence char_offsets="2255:2371" id="13" />
+      <Sentence char_offsets="2382:2579" id="14" />
+      <Sentence char_offsets="2581:2661" id="15" />
+      <Sentence char_offsets="2663:2891" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="648" agent_name="Tourist" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="1044">
+        <Participant actor_id="31393" actor_name="Croatia" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="31393" actor_name="Croatia" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" agent_id="648" agent_name="Tourist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

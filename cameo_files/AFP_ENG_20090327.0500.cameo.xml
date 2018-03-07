@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0500">
+    <Sentences>
+      <Sentence char_offsets="189:375" id="0" />
+      <Sentence char_offsets="386:557" id="1" />
+      <Sentence char_offsets="568:686" id="2" />
+      <Sentence char_offsets="697:833" id="3" />
+      <Sentence char_offsets="844:1000" id="4" />
+      <Sentence char_offsets="1011:1213" id="5" />
+      <Sentence char_offsets="1224:1455" id="6" />
+      <Sentence char_offsets="1466:1529" id="7" />
+      <Sentence char_offsets="1540:1701" id="8" />
+      <Sentence char_offsets="1712:1851" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="13601" actor_name="Dmitry Olegovich Rogozin" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="13601" actor_name="Dmitry Olegovich Rogozin" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="051">
+        <Participant actor_id="13601" actor_name="Dmitry Olegovich Rogozin" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="13601" actor_name="Dmitry Olegovich Rogozin" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

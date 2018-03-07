@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.1206">
+    <Sentences>
+      <Sentence char_offsets="182:388" id="0" />
+      <Sentence char_offsets="399:613" id="1" />
+      <Sentence char_offsets="624:857" id="2" />
+      <Sentence char_offsets="868:976" id="3" />
+      <Sentence char_offsets="987:1220" id="4" />
+      <Sentence char_offsets="1231:1297" id="5" />
+      <Sentence char_offsets="1308:1469" id="6" />
+      <Sentence char_offsets="1480:1518" id="7" />
+      <Sentence char_offsets="1520:1606" id="8" />
+      <Sentence char_offsets="1608:1737" id="9" />
+      <Sentence char_offsets="1748:1974" id="10" />
+      <Sentence char_offsets="1985:2099" id="11" />
+      <Sentence char_offsets="2110:2247" id="12" />
+      <Sentence char_offsets="2249:2319" id="13" />
+      <Sentence char_offsets="2330:2587" id="14" />
+      <Sentence char_offsets="2598:2668" id="15" />
+      <Sentence char_offsets="2679:2895" id="16" />
+      <Sentence char_offsets="2906:2993" id="17" />
+      <Sentence char_offsets="2995:3163" id="18" />
+      <Sentence char_offsets="3174:3272" id="19" />
+      <Sentence char_offsets="3283:3361" id="20" />
+      <Sentence char_offsets="3363:3489" id="21" />
+      <Sentence char_offsets="3500:3618" id="22" />
+      <Sentence char_offsets="3629:3634" id="23" />
+      <Sentence char_offsets="3645:3727" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="291" agent_name="Election Commission" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="291" agent_name="Election Commission" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="historical" type="074">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="120">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="291" agent_name="Election Commission" role="Source" />
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="historical" type="154">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="22" tense="historical" type="0861">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

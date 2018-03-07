@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0326">
+    <Sentences>
+      <Sentence char_offsets="163:354" id="0" />
+      <Sentence char_offsets="365:488" id="1" />
+      <Sentence char_offsets="499:657" id="2" />
+      <Sentence char_offsets="668:739" id="3" />
+      <Sentence char_offsets="741:879" id="4" />
+      <Sentence char_offsets="890:918" id="5" />
+      <Sentence char_offsets="920:953" id="6" />
+      <Sentence char_offsets="964:1114" id="7" />
+      <Sentence char_offsets="1125:1256" id="8" />
+      <Sentence char_offsets="1267:1431" id="9" />
+      <Sentence char_offsets="1442:1628" id="10" />
+      <Sentence char_offsets="1639:1939" id="11" />
+      <Sentence char_offsets="1950:2049" id="12" />
+      <Sentence char_offsets="2060:2111" id="13" />
+      <Sentence char_offsets="2122:2215" id="14" />
+      <Sentence char_offsets="2226:2378" id="15" />
+      <Sentence char_offsets="2380:2465" id="16" />
+      <Sentence char_offsets="2476:2603" id="17" />
+      <Sentence char_offsets="2605:2703" id="18" />
+      <Sentence char_offsets="2714:2977" id="19" />
+      <Sentence char_offsets="2988:3089" id="20" />
+      <Sentence char_offsets="3091:3192" id="21" />
+      <Sentence char_offsets="3203:3297" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="16266" actor_name="Cesar San Martin" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="159" agent_name="Special Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="historical" type="042">
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="historical" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

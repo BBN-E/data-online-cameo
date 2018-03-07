@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0395">
+    <Sentences>
+      <Sentence char_offsets="192:377" id="0" />
+      <Sentence char_offsets="388:617" id="1" />
+      <Sentence char_offsets="628:844" id="2" />
+      <Sentence char_offsets="855:1072" id="3" />
+      <Sentence char_offsets="1083:1309" id="4" />
+      <Sentence char_offsets="1320:1550" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="182">
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

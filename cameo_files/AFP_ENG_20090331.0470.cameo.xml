@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0470">
+    <Sentences>
+      <Sentence char_offsets="194:374" id="0" />
+      <Sentence char_offsets="385:568" id="1" />
+      <Sentence char_offsets="579:637" id="2" />
+      <Sentence char_offsets="639:812" id="3" />
+      <Sentence char_offsets="823:1007" id="4" />
+      <Sentence char_offsets="1018:1150" id="5" />
+      <Sentence char_offsets="1161:1412" id="6" />
+      <Sentence char_offsets="1423:1495" id="7" />
+      <Sentence char_offsets="1506:1699" id="8" />
+      <Sentence char_offsets="1710:1929" id="9" />
+      <Sentence char_offsets="1940:2132" id="10" />
+      <Sentence char_offsets="2143:2320" id="11" />
+      <Sentence char_offsets="2331:2560" id="12" />
+      <Sentence char_offsets="2571:2797" id="13" />
+      <Sentence char_offsets="2808:3024" id="14" />
+      <Sentence char_offsets="3035:3213" id="15" />
+      <Sentence char_offsets="3224:3405" id="16" />
+      <Sentence char_offsets="3416:3600" id="17" />
+      <Sentence char_offsets="3611:3717" id="18" />
+      <Sentence char_offsets="3728:3908" id="19" />
+      <Sentence char_offsets="3919:4004" id="20" />
+      <Sentence char_offsets="4015:4184" id="21" />
+      <Sentence char_offsets="4195:4367" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="historical" type="057">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="historical" type="057">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="080">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="0874">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

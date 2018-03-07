@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0603">
+    <Sentences>
+      <Sentence char_offsets="191:366" id="0" />
+      <Sentence char_offsets="377:487" id="1" />
+      <Sentence char_offsets="498:671" id="2" />
+      <Sentence char_offsets="682:764" id="3" />
+      <Sentence char_offsets="766:846" id="4" />
+      <Sentence char_offsets="857:971" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="193">
+        <Participant actor_id="30469" actor_name="Guinea" role="Source" />
+        <Participant actor_id="48346" actor_name="Joao Bernardo Vieira" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

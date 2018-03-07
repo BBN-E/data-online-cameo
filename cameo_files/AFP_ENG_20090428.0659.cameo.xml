@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0659">
+    <Sentences>
+      <Sentence char_offsets="185:347" id="0" />
+      <Sentence char_offsets="358:541" id="1" />
+      <Sentence char_offsets="552:749" id="2" />
+      <Sentence char_offsets="760:892" id="3" />
+      <Sentence char_offsets="903:972" id="4" />
+      <Sentence char_offsets="974:1092" id="5" />
+      <Sentence char_offsets="1103:1302" id="6" />
+      <Sentence char_offsets="1313:1442" id="7" />
+      <Sentence char_offsets="1453:1522" id="8" />
+      <Sentence char_offsets="1533:1680" id="9" />
+      <Sentence char_offsets="1691:1802" id="10" />
+      <Sentence char_offsets="1813:2000" id="11" />
+      <Sentence char_offsets="2011:2208" id="12" />
+      <Sentence char_offsets="2219:2415" id="13" />
+      <Sentence char_offsets="2426:2614" id="14" />
+      <Sentence char_offsets="2625:2850" id="15" />
+      <Sentence char_offsets="2861:3024" id="16" />
+      <Sentence char_offsets="3026:3082" id="17" />
+      <Sentence char_offsets="3093:3304" id="18" />
+      <Sentence char_offsets="3315:3406" id="19" />
+      <Sentence char_offsets="3417:3468" id="20" />
+      <Sentence char_offsets="3470:3517" id="21" />
+      <Sentence char_offsets="3519:3558" id="22" />
+      <Sentence char_offsets="3569:3768" id="23" />
+      <Sentence char_offsets="3779:3878" id="24" />
+      <Sentence char_offsets="3889:4042" id="25" />
+      <Sentence char_offsets="4053:4154" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="042">
+        <Participant actor_id="33414" actor_name="John Paul II" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="043">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="33414" actor_name="John Paul II" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

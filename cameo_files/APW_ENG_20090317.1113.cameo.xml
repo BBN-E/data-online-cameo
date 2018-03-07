@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1113">
+    <Sentences>
+      <Sentence char_offsets="183:372" id="0" />
+      <Sentence char_offsets="383:609" id="1" />
+      <Sentence char_offsets="620:820" id="2" />
+      <Sentence char_offsets="831:990" id="3" />
+      <Sentence char_offsets="992:1080" id="4" />
+      <Sentence char_offsets="1091:1373" id="5" />
+      <Sentence char_offsets="1384:1515" id="6" />
+      <Sentence char_offsets="1526:1783" id="7" />
+      <Sentence char_offsets="1794:1941" id="8" />
+      <Sentence char_offsets="1943:2053" id="9" />
+      <Sentence char_offsets="2064:2195" id="10" />
+      <Sentence char_offsets="2197:2223" id="11" />
+      <Sentence char_offsets="2225:2251" id="12" />
+      <Sentence char_offsets="2253:2276" id="13" />
+      <Sentence char_offsets="2287:2384" id="14" />
+      <Sentence char_offsets="2395:2543" id="15" />
+      <Sentence char_offsets="2554:2643" id="16" />
+      <Sentence char_offsets="2645:2717" id="17" />
+      <Sentence char_offsets="2728:2733" id="18" />
+      <Sentence char_offsets="2744:2819" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="030">
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="030">
+        <Participant actor_id="55582" actor_name="Ford Motor" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="050">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

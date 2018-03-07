@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0934">
+    <Sentences>
+      <Sentence char_offsets="191:297" id="0" />
+      <Sentence char_offsets="308:484" id="1" />
+      <Sentence char_offsets="486:507" id="2" />
+      <Sentence char_offsets="509:554" id="3" />
+      <Sentence char_offsets="565:707" id="4" />
+      <Sentence char_offsets="709:849" id="5" />
+      <Sentence char_offsets="860:981" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="40068" actor_name="Paddington Garwe" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="current" type="013">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

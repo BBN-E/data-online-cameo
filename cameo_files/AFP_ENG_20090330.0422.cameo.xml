@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0422">
+    <Sentences>
+      <Sentence char_offsets="178:389" id="0" />
+      <Sentence char_offsets="400:585" id="1" />
+      <Sentence char_offsets="596:795" id="2" />
+      <Sentence char_offsets="806:938" id="3" />
+      <Sentence char_offsets="949:1076" id="4" />
+      <Sentence char_offsets="1087:1207" id="5" />
+      <Sentence char_offsets="1209:1348" id="6" />
+      <Sentence char_offsets="1359:1432" id="7" />
+      <Sentence char_offsets="1443:1530" id="8" />
+      <Sentence char_offsets="1541:1735" id="9" />
+      <Sentence char_offsets="1746:1880" id="10" />
+      <Sentence char_offsets="1891:1974" id="11" />
+      <Sentence char_offsets="1985:2198" id="12" />
+      <Sentence char_offsets="2209:2392" id="13" />
+      <Sentence char_offsets="2403:2512" id="14" />
+      <Sentence char_offsets="2523:2702" id="15" />
+      <Sentence char_offsets="2713:2915" id="16" />
+      <Sentence char_offsets="2926:3066" id="17" />
+      <Sentence char_offsets="3077:3350" id="18" />
+      <Sentence char_offsets="3361:3453" id="19" />
+      <Sentence char_offsets="3464:3572" id="20" />
+      <Sentence char_offsets="3583:3783" id="21" />
+      <Sentence char_offsets="3794:3891" id="22" />
+      <Sentence char_offsets="3902:4007" id="23" />
+      <Sentence char_offsets="4018:4096" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="020">
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="040">
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="040">
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" role="Source" />
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

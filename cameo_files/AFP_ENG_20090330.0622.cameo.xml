@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0622">
+    <Sentences>
+      <Sentence char_offsets="150:183" id="0" />
+      <Sentence char_offsets="186:225" id="1" />
+      <Sentence char_offsets="228:266" id="2" />
+      <Sentence char_offsets="269:314" id="3" />
+      <Sentence char_offsets="317:403" id="4" />
+      <Sentence char_offsets="405:447" id="5" />
+      <Sentence char_offsets="450:578" id="6" />
+      <Sentence char_offsets="581:830" id="7" />
+      <Sentence char_offsets="833:935" id="8" />
+      <Sentence char_offsets="937:957" id="9" />
+      <Sentence char_offsets="960:1143" id="10" />
+      <Sentence char_offsets="1146:1323" id="11" />
+      <Sentence char_offsets="1325:1353" id="12" />
+      <Sentence char_offsets="1356:1566" id="13" />
+      <Sentence char_offsets="1569:1706" id="14" />
+      <Sentence char_offsets="1708:1733" id="15" />
+      <Sentence char_offsets="1736:1880" id="16" />
+      <Sentence char_offsets="1882:1928" id="17" />
+      <Sentence char_offsets="1931:2061" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="040">
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="historical" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="18" tense="neutral" type="040">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="historical" type="043">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

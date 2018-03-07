@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0750">
+    <Sentences>
+      <Sentence char_offsets="181:360" id="0" />
+      <Sentence char_offsets="371:553" id="1" />
+      <Sentence char_offsets="564:759" id="2" />
+      <Sentence char_offsets="770:820" id="3" />
+      <Sentence char_offsets="822:950" id="4" />
+      <Sentence char_offsets="961:1115" id="5" />
+      <Sentence char_offsets="1126:1308" id="6" />
+      <Sentence char_offsets="1319:1470" id="7" />
+      <Sentence char_offsets="1481:1664" id="8" />
+      <Sentence char_offsets="1675:1785" id="9" />
+      <Sentence char_offsets="1796:1975" id="10" />
+      <Sentence char_offsets="1986:2241" id="11" />
+      <Sentence char_offsets="2252:2459" id="12" />
+      <Sentence char_offsets="2470:2629" id="13" />
+      <Sentence char_offsets="2640:2846" id="14" />
+      <Sentence char_offsets="2857:2975" id="15" />
+      <Sentence char_offsets="2986:3053" id="16" />
+      <Sentence char_offsets="3064:3169" id="17" />
+      <Sentence char_offsets="3180:3257" id="18" />
+      <Sentence char_offsets="3268:3453" id="19" />
+      <Sentence char_offsets="3464:3548" id="20" />
+      <Sentence char_offsets="3559:3712" id="21" />
+      <Sentence char_offsets="3723:3903" id="22" />
+      <Sentence char_offsets="3914:4067" id="23" />
+      <Sentence char_offsets="4078:4227" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

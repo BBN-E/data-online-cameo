@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.0954">
+    <Sentences>
+      <Sentence char_offsets="185:329" id="0" />
+      <Sentence char_offsets="331:442" id="1" />
+      <Sentence char_offsets="453:564" id="2" />
+      <Sentence char_offsets="566:753" id="3" />
+      <Sentence char_offsets="764:868" id="4" />
+      <Sentence char_offsets="870:893" id="5" />
+      <Sentence char_offsets="904:1047" id="6" />
+      <Sentence char_offsets="1049:1119" id="7" />
+      <Sentence char_offsets="1130:1291" id="8" />
+      <Sentence char_offsets="1302:1444" id="9" />
+      <Sentence char_offsets="1455:1616" id="10" />
+      <Sentence char_offsets="1627:1736" id="11" />
+      <Sentence char_offsets="1738:1822" id="12" />
+      <Sentence char_offsets="1833:1900" id="13" />
+      <Sentence char_offsets="1911:2121" id="14" />
+      <Sentence char_offsets="2132:2246" id="15" />
+      <Sentence char_offsets="2257:2465" id="16" />
+      <Sentence char_offsets="2476:2632" id="17" />
+      <Sentence char_offsets="2643:2648" id="18" />
+      <Sentence char_offsets="2659:2743" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="52693" actor_name="Solidarity" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="036">
+        <Participant actor_id="3764" actor_name="Garry Kimovich Kasparov" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="1041">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="141">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="449" agent_name="Activist" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="current" type="173">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="314" agent_name="People Associated with the Opposition" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="13" tense="neutral" type="175">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

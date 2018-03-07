@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0582">
+    <Sentences>
+      <Sentence char_offsets="171:375" id="0" />
+      <Sentence char_offsets="386:592" id="1" />
+      <Sentence char_offsets="603:802" id="2" />
+      <Sentence char_offsets="813:1034" id="3" />
+      <Sentence char_offsets="1045:1079" id="4" />
+      <Sentence char_offsets="1081:1197" id="5" />
+      <Sentence char_offsets="1208:1283" id="6" />
+      <Sentence char_offsets="1294:1448" id="7" />
+      <Sentence char_offsets="1459:1547" id="8" />
+      <Sentence char_offsets="1558:1779" id="9" />
+      <Sentence char_offsets="1790:1987" id="10" />
+      <Sentence char_offsets="1998:2226" id="11" />
+      <Sentence char_offsets="2237:2499" id="12" />
+      <Sentence char_offsets="2510:2570" id="13" />
+      <Sentence char_offsets="2572:2734" id="14" />
+      <Sentence char_offsets="2745:2896" id="15" />
+      <Sentence char_offsets="2907:3033" id="16" />
+      <Sentence char_offsets="3044:3265" id="17" />
+      <Sentence char_offsets="3276:3427" id="18" />
+      <Sentence char_offsets="3438:3608" id="19" />
+      <Sentence char_offsets="3619:3779" id="20" />
+      <Sentence char_offsets="3790:3838" id="21" />
+      <Sentence char_offsets="3840:3890" id="22" />
+      <Sentence char_offsets="3901:4037" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="39333" actor_name="Taiwan" role="Source" />
+        <Participant actor_id="664" actor_name="Chen Shui Bian" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.0550">
+    <Sentences>
+      <Sentence char_offsets="197:424" id="0" />
+      <Sentence char_offsets="435:699" id="1" />
+      <Sentence char_offsets="710:899" id="2" />
+      <Sentence char_offsets="901:981" id="3" />
+      <Sentence char_offsets="992:1189" id="4" />
+      <Sentence char_offsets="1200:1331" id="5" />
+      <Sentence char_offsets="1333:1442" id="6" />
+      <Sentence char_offsets="1453:1503" id="7" />
+      <Sentence char_offsets="1514:1749" id="8" />
+      <Sentence char_offsets="1760:1837" id="9" />
+      <Sentence char_offsets="1839:2057" id="10" />
+      <Sentence char_offsets="2059:2116" id="11" />
+      <Sentence char_offsets="2127:2276" id="12" />
+      <Sentence char_offsets="2278:2330" id="13" />
+      <Sentence char_offsets="2341:2439" id="14" />
+      <Sentence char_offsets="2450:2631" id="15" />
+      <Sentence char_offsets="2633:2662" id="16" />
+      <Sentence char_offsets="2673:2868" id="17" />
+      <Sentence char_offsets="2879:3034" id="18" />
+      <Sentence char_offsets="3036:3181" id="19" />
+      <Sentence char_offsets="3192:3266" id="20" />
+      <Sentence char_offsets="3268:3331" id="21" />
+      <Sentence char_offsets="3342:3561" id="22" />
+      <Sentence char_offsets="3572:3737" id="23" />
+      <Sentence char_offsets="3748:4026" id="24" />
+      <Sentence char_offsets="4037:4094" id="25" />
+      <Sentence char_offsets="4096:4154" id="26" />
+      <Sentence char_offsets="4165:4170" id="27" />
+      <Sentence char_offsets="4181:4276" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="15254" actor_name="Duch" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="100">
+        <Participant actor_id="4037" actor_name="Nuon Chea" role="Source" />
+        <Participant actor_id="15254" actor_name="Duch" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

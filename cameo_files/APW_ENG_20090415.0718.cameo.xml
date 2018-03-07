@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.0718">
+    <Sentences>
+      <Sentence char_offsets="186:322" id="0" />
+      <Sentence char_offsets="333:535" id="1" />
+      <Sentence char_offsets="546:694" id="2" />
+      <Sentence char_offsets="705:899" id="3" />
+      <Sentence char_offsets="910:1064" id="4" />
+      <Sentence char_offsets="1075:1215" id="5" />
+      <Sentence char_offsets="1226:1272" id="6" />
+      <Sentence char_offsets="1274:1407" id="7" />
+      <Sentence char_offsets="1418:1539" id="8" />
+      <Sentence char_offsets="1550:1708" id="9" />
+      <Sentence char_offsets="1719:1892" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="18790" actor_name="George Provopoulos" role="Source" />
+        <Participant actor_id="22094" actor_name="Bank of Greece" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="18790" actor_name="George Provopoulos" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

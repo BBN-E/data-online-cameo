@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0385">
+    <Sentences>
+      <Sentence char_offsets="181:345" id="0" />
+      <Sentence char_offsets="356:479" id="1" />
+      <Sentence char_offsets="481:611" id="2" />
+      <Sentence char_offsets="622:829" id="3" />
+      <Sentence char_offsets="840:1034" id="4" />
+      <Sentence char_offsets="1036:1260" id="5" />
+      <Sentence char_offsets="1271:1484" id="6" />
+      <Sentence char_offsets="1495:1597" id="7" />
+      <Sentence char_offsets="1608:1777" id="8" />
+      <Sentence char_offsets="1779:2054" id="9" />
+      <Sentence char_offsets="2065:2250" id="10" />
+      <Sentence char_offsets="2261:2547" id="11" />
+      <Sentence char_offsets="2558:2637" id="12" />
+      <Sentence char_offsets="2639:2916" id="13" />
+      <Sentence char_offsets="2927:3146" id="14" />
+      <Sentence char_offsets="3148:3239" id="15" />
+      <Sentence char_offsets="3241:3305" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="239533" actor_name="Aer Lingus" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="111">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="37655" actor_name="Ryanair" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

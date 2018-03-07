@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0407">
+    <Sentences>
+      <Sentence char_offsets="181:358" id="0" />
+      <Sentence char_offsets="369:548" id="1" />
+      <Sentence char_offsets="559:771" id="2" />
+      <Sentence char_offsets="782:961" id="3" />
+      <Sentence char_offsets="972:1157" id="4" />
+      <Sentence char_offsets="1168:1308" id="5" />
+      <Sentence char_offsets="1319:1398" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="0311">
+        <Participant actor_id="35801" actor_name="Kazakhstan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="56290" actor_name="Nursultan Nazarbayev" role="Source" />
+        <Participant actor_id="25029" actor_name="Hu Jintao" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="56290" actor_name="Nursultan Nazarbayev" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

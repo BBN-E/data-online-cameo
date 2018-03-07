@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0452">
+    <Sentences>
+      <Sentence char_offsets="169:348" id="0" />
+      <Sentence char_offsets="359:525" id="1" />
+      <Sentence char_offsets="536:743" id="2" />
+      <Sentence char_offsets="754:973" id="3" />
+      <Sentence char_offsets="984:1138" id="4" />
+      <Sentence char_offsets="1149:1356" id="5" />
+      <Sentence char_offsets="1367:1563" id="6" />
+      <Sentence char_offsets="1574:1752" id="7" />
+      <Sentence char_offsets="1763:1925" id="8" />
+      <Sentence char_offsets="1936:2114" id="9" />
+      <Sentence char_offsets="2125:2259" id="10" />
+      <Sentence char_offsets="2270:2488" id="11" />
+      <Sentence char_offsets="2499:2742" id="12" />
+      <Sentence char_offsets="2753:2903" id="13" />
+      <Sentence char_offsets="2914:3021" id="14" />
+      <Sentence char_offsets="3032:3097" id="15" />
+      <Sentence char_offsets="3108:3217" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="013">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="current" type="036">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="44599" actor_name="The Hague" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="44599" actor_name="The Hague" role="Source" />
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

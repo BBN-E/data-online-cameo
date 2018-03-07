@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0621">
+    <Sentences>
+      <Sentence char_offsets="184:311" id="0" />
+      <Sentence char_offsets="322:546" id="1" />
+      <Sentence char_offsets="557:727" id="2" />
+      <Sentence char_offsets="738:982" id="3" />
+      <Sentence char_offsets="984:1018" id="4" />
+      <Sentence char_offsets="1020:1113" id="5" />
+      <Sentence char_offsets="1124:1214" id="6" />
+      <Sentence char_offsets="1225:1398" id="7" />
+      <Sentence char_offsets="1409:1559" id="8" />
+      <Sentence char_offsets="1570:1745" id="9" />
+      <Sentence char_offsets="1756:1918" id="10" />
+      <Sentence char_offsets="1920:1972" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="121595" actor_name="European Investment Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="071">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

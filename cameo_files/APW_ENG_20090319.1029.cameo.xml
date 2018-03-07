@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.1029">
+    <Sentences>
+      <Sentence char_offsets="184:379" id="0" />
+      <Sentence char_offsets="390:569" id="1" />
+      <Sentence char_offsets="571:728" id="2" />
+      <Sentence char_offsets="739:866" id="3" />
+      <Sentence char_offsets="877:995" id="4" />
+      <Sentence char_offsets="997:1058" id="5" />
+      <Sentence char_offsets="1069:1243" id="6" />
+      <Sentence char_offsets="1245:1387" id="7" />
+      <Sentence char_offsets="1398:1620" id="8" />
+      <Sentence char_offsets="1622:1810" id="9" />
+      <Sentence char_offsets="1821:1889" id="10" />
+      <Sentence char_offsets="1891:1960" id="11" />
+      <Sentence char_offsets="1962:2217" id="12" />
+      <Sentence char_offsets="2228:2360" id="13" />
+      <Sentence char_offsets="2362:2418" id="14" />
+      <Sentence char_offsets="2420:2452" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="historical" type="190">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

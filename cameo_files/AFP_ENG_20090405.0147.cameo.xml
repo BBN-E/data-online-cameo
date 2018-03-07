@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0147">
+    <Sentences>
+      <Sentence char_offsets="192:346" id="0" />
+      <Sentence char_offsets="357:520" id="1" />
+      <Sentence char_offsets="531:751" id="2" />
+      <Sentence char_offsets="762:897" id="3" />
+      <Sentence char_offsets="899:905" id="4" />
+      <Sentence char_offsets="907:974" id="5" />
+      <Sentence char_offsets="985:1158" id="6" />
+      <Sentence char_offsets="1169:1325" id="7" />
+      <Sentence char_offsets="1336:1511" id="8" />
+      <Sentence char_offsets="1522:1703" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" agent_id="127" agent_name="Religion" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="32428" actor_name="Czech Republic" agent_id="127" agent_name="Religion" role="Source" />
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

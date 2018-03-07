@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090401.0202">
+    <Sentences>
+      <Sentence char_offsets="204:274" id="0" />
+      <Sentence char_offsets="285:465" id="1" />
+      <Sentence char_offsets="476:625" id="2" />
+      <Sentence char_offsets="636:833" id="3" />
+      <Sentence char_offsets="844:1090" id="4" />
+      <Sentence char_offsets="1101:1346" id="5" />
+      <Sentence char_offsets="1357:1607" id="6" />
+      <Sentence char_offsets="1618:1817" id="7" />
+      <Sentence char_offsets="1828:1944" id="8" />
+      <Sentence char_offsets="1955:2125" id="9" />
+      <Sentence char_offsets="2127:2340" id="10" />
+      <Sentence char_offsets="2351:2584" id="11" />
+      <Sentence char_offsets="2595:2820" id="12" />
+      <Sentence char_offsets="2831:2981" id="13" />
+      <Sentence char_offsets="2992:3098" id="14" />
+      <Sentence char_offsets="3100:3239" id="15" />
+      <Sentence char_offsets="3241:3317" id="16" />
+      <Sentence char_offsets="3328:3588" id="17" />
+      <Sentence char_offsets="3599:3727" id="18" />
+      <Sentence char_offsets="3738:3862" id="19" />
+      <Sentence char_offsets="3864:3925" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="46351" actor_name="Charlie Crist" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

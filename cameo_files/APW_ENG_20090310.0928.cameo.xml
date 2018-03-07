@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0928">
+    <Sentences>
+      <Sentence char_offsets="187:342" id="0" />
+      <Sentence char_offsets="353:393" id="1" />
+      <Sentence char_offsets="395:532" id="2" />
+      <Sentence char_offsets="543:707" id="3" />
+      <Sentence char_offsets="718:842" id="4" />
+      <Sentence char_offsets="853:959" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="237700" actor_name="Mark Regev" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="historical" type="115">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="13920" actor_name="Ehud Olmert" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="historical" type="115">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="184">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="190">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

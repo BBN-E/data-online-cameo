@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1601">
+    <Sentences>
+      <Sentence char_offsets="177:417" id="0" />
+      <Sentence char_offsets="428:654" id="1" />
+      <Sentence char_offsets="665:926" id="2" />
+      <Sentence char_offsets="937:1221" id="3" />
+      <Sentence char_offsets="1223:1339" id="4" />
+      <Sentence char_offsets="1350:1756" id="5" />
+      <Sentence char_offsets="1767:2056" id="6" />
+      <Sentence char_offsets="2058:2219" id="7" />
+      <Sentence char_offsets="2230:2333" id="8" />
+      <Sentence char_offsets="2335:2441" id="9" />
+      <Sentence char_offsets="2452:2726" id="10" />
+      <Sentence char_offsets="2737:2849" id="11" />
+      <Sentence char_offsets="2851:3000" id="12" />
+      <Sentence char_offsets="3002:3045" id="13" />
+      <Sentence char_offsets="3056:3306" id="14" />
+      <Sentence char_offsets="3308:3377" id="15" />
+      <Sentence char_offsets="3388:3517" id="16" />
+      <Sentence char_offsets="3528:3697" id="17" />
+      <Sentence char_offsets="3708:3931" id="18" />
+      <Sentence char_offsets="3942:4155" id="19" />
+      <Sentence char_offsets="4166:4237" id="20" />
+      <Sentence char_offsets="4248:4435" id="21" />
+      <Sentence char_offsets="4446:4507" id="22" />
+      <Sentence char_offsets="4509:4675" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="366" agent_name="Industry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="012">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="43630" actor_name="Jim Flaherty" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="19" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="43630" actor_name="Jim Flaherty" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="19" tense="neutral" type="046">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

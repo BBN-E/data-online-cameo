@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0355">
+    <Sentences>
+      <Sentence char_offsets="173:318" id="0" />
+      <Sentence char_offsets="329:478" id="1" />
+      <Sentence char_offsets="489:597" id="2" />
+      <Sentence char_offsets="608:662" id="3" />
+      <Sentence char_offsets="664:740" id="4" />
+      <Sentence char_offsets="751:866" id="5" />
+      <Sentence char_offsets="877:1011" id="6" />
+      <Sentence char_offsets="1022:1167" id="7" />
+      <Sentence char_offsets="1178:1326" id="8" />
+      <Sentence char_offsets="1337:1458" id="9" />
+      <Sentence char_offsets="1469:1564" id="10" />
+      <Sentence char_offsets="1575:1722" id="11" />
+      <Sentence char_offsets="1733:1866" id="12" />
+      <Sentence char_offsets="1877:1891" id="13" />
+      <Sentence char_offsets="1893:1949" id="14" />
+      <Sentence char_offsets="1951:1987" id="15" />
+      <Sentence char_offsets="1998:2060" id="16" />
+      <Sentence char_offsets="2071:2251" id="17" />
+      <Sentence char_offsets="2262:2411" id="18" />
+      <Sentence char_offsets="2422:2645" id="19" />
+      <Sentence char_offsets="2656:2827" id="20" />
+      <Sentence char_offsets="2838:2990" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="623" agent_name="Media" role="Source" />
+        <Participant actor_id="53110" actor_name="Soeharto" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="102">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="1121">
+        <Participant actor_id="41417" actor_name="Transparency International" role="Source" />
+        <Participant actor_id="53110" actor_name="Soeharto" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

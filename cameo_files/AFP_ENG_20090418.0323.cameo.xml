@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0323">
+    <Sentences>
+      <Sentence char_offsets="193:354" id="0" />
+      <Sentence char_offsets="365:493" id="1" />
+      <Sentence char_offsets="504:691" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="historical" type="042">
+        <Participant actor_id="33414" actor_name="John Paul II" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="historical" type="043">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="33414" actor_name="John Paul II" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

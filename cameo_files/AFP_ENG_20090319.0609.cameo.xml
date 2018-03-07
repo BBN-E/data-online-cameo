@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0609">
+    <Sentences>
+      <Sentence char_offsets="215:401" id="0" />
+      <Sentence char_offsets="412:522" id="1" />
+      <Sentence char_offsets="524:627" id="2" />
+      <Sentence char_offsets="638:767" id="3" />
+      <Sentence char_offsets="778:926" id="4" />
+      <Sentence char_offsets="937:1065" id="5" />
+      <Sentence char_offsets="1076:1364" id="6" />
+      <Sentence char_offsets="1375:1538" id="7" />
+      <Sentence char_offsets="1549:1697" id="8" />
+      <Sentence char_offsets="1708:1865" id="9" />
+      <Sentence char_offsets="1876:2011" id="10" />
+      <Sentence char_offsets="2022:2138" id="11" />
+      <Sentence char_offsets="2149:2386" id="12" />
+      <Sentence char_offsets="2397:2504" id="13" />
+      <Sentence char_offsets="2506:2606" id="14" />
+      <Sentence char_offsets="2617:2797" id="15" />
+      <Sentence char_offsets="2808:2962" id="16" />
+      <Sentence char_offsets="2973:3172" id="17" />
+      <Sentence char_offsets="3183:3299" id="18" />
+      <Sentence char_offsets="3310:3443" id="19" />
+      <Sentence char_offsets="3445:3487" id="20" />
+      <Sentence char_offsets="3489:3518" id="21" />
+      <Sentence char_offsets="3520:3570" id="22" />
+      <Sentence char_offsets="3572:3630" id="23" />
+      <Sentence char_offsets="3641:3768" id="24" />
+      <Sentence char_offsets="3779:3817" id="25" />
+      <Sentence char_offsets="3819:3951" id="26" />
+      <Sentence char_offsets="3962:4127" id="27" />
+      <Sentence char_offsets="4138:4287" id="28" />
+      <Sentence char_offsets="4298:4462" id="29" />
+      <Sentence char_offsets="4473:4624" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="042">
+        <Participant actor_id="23880" actor_name="Scotland" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="23880" actor_name="Scotland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

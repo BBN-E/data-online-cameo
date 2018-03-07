@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.1239">
+    <Sentences>
+      <Sentence char_offsets="187:392" id="0" />
+      <Sentence char_offsets="403:545" id="1" />
+      <Sentence char_offsets="556:706" id="2" />
+      <Sentence char_offsets="708:858" id="3" />
+      <Sentence char_offsets="869:1101" id="4" />
+      <Sentence char_offsets="1112:1279" id="5" />
+      <Sentence char_offsets="1290:1483" id="6" />
+      <Sentence char_offsets="1494:1602" id="7" />
+      <Sentence char_offsets="1613:1764" id="8" />
+      <Sentence char_offsets="1766:1866" id="9" />
+      <Sentence char_offsets="1877:2058" id="10" />
+      <Sentence char_offsets="2069:2272" id="11" />
+      <Sentence char_offsets="2283:2391" id="12" />
+      <Sentence char_offsets="2402:2502" id="13" />
+      <Sentence char_offsets="2513:2644" id="14" />
+      <Sentence char_offsets="2655:2801" id="15" />
+      <Sentence char_offsets="2812:3028" id="16" />
+      <Sentence char_offsets="3039:3229" id="17" />
+      <Sentence char_offsets="3231:3300" id="18" />
+      <Sentence char_offsets="3311:3401" id="19" />
+      <Sentence char_offsets="3412:3546" id="20" />
+      <Sentence char_offsets="3548:3642" id="21" />
+      <Sentence char_offsets="3653:3734" id="22" />
+      <Sentence char_offsets="3736:3806" id="23" />
+      <Sentence char_offsets="3817:4000" id="24" />
+      <Sentence char_offsets="4011:4228" id="25" />
+      <Sentence char_offsets="4239:4382" id="26" />
+      <Sentence char_offsets="4384:4536" id="27" />
+      <Sentence char_offsets="4547:4733" id="28" />
+      <Sentence char_offsets="4744:4749" id="29" />
+      <Sentence char_offsets="4760:4851" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="040">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="58057" actor_name="Sayyid Ali al-Husayni al-Sistani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="neutral" type="161">
+        <Participant actor_id="233830" actor_name="Tariq Al-Hashimi" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="183">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="21" tense="historical" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="553" agent_name="Army National Guard" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="historical" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="22" tense="historical" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="25" tense="neutral" type="040">
+        <Participant actor_id="58057" actor_name="Sayyid Ali al-Husayni al-Sistani" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090414.0138">
+    <Sentences>
+      <Sentence char_offsets="171:410" id="0" />
+      <Sentence char_offsets="421:569" id="1" />
+      <Sentence char_offsets="571:686" id="2" />
+      <Sentence char_offsets="697:1028" id="3" />
+      <Sentence char_offsets="1039:1198" id="4" />
+      <Sentence char_offsets="1200:1319" id="5" />
+      <Sentence char_offsets="1321:1356" id="6" />
+      <Sentence char_offsets="1367:1520" id="7" />
+      <Sentence char_offsets="1522:1706" id="8" />
+      <Sentence char_offsets="1717:1810" id="9" />
+      <Sentence char_offsets="1812:2013" id="10" />
+      <Sentence char_offsets="2024:2299" id="11" />
+      <Sentence char_offsets="2301:2396" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="677" agent_name="Attorney General" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="113" agent_name="Oversight Court" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

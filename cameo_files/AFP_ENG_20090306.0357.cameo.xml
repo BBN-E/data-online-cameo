@@ -1,0 +1,76 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090306.0357">
+    <Sentences>
+      <Sentence char_offsets="167:341" id="0" />
+      <Sentence char_offsets="352:625" id="1" />
+      <Sentence char_offsets="636:828" id="2" />
+      <Sentence char_offsets="839:1044" id="3" />
+      <Sentence char_offsets="1055:1229" id="4" />
+      <Sentence char_offsets="1240:1408" id="5" />
+      <Sentence char_offsets="1419:1601" id="6" />
+      <Sentence char_offsets="1603:1629" id="7" />
+      <Sentence char_offsets="1640:1796" id="8" />
+      <Sentence char_offsets="1807:1974" id="9" />
+      <Sentence char_offsets="1985:2111" id="10" />
+      <Sentence char_offsets="2113:2280" id="11" />
+      <Sentence char_offsets="2291:2461" id="12" />
+      <Sentence char_offsets="2472:2605" id="13" />
+      <Sentence char_offsets="2616:2782" id="14" />
+      <Sentence char_offsets="2793:2982" id="15" />
+      <Sentence char_offsets="2993:3050" id="16" />
+      <Sentence char_offsets="3061:3127" id="17" />
+      <Sentence char_offsets="3129:3278" id="18" />
+      <Sentence char_offsets="3289:3407" id="19" />
+      <Sentence char_offsets="3418:3519" id="20" />
+      <Sentence char_offsets="3521:3565" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="030">
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="030">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="ongoing" type="0331">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="1533" actor_name="Jeffrey D. Feltman" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="20" tense="current" type="036">
+        <Participant actor_id="1533" actor_name="Jeffrey D. Feltman" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="1533" actor_name="Jeffrey D. Feltman" role="Source" />
+        <Participant actor_id="55229" actor_name="Michel Suleiman" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="7997" actor_name="Hezbollah" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="7997" actor_name="Hezbollah" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="55229" actor_name="Michel Suleiman" role="Source" />
+        <Participant actor_id="1533" actor_name="Jeffrey D. Feltman" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

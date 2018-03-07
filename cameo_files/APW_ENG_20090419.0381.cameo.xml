@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0381">
+    <Sentences>
+      <Sentence char_offsets="191:313" id="0" />
+      <Sentence char_offsets="324:468" id="1" />
+      <Sentence char_offsets="470:546" id="2" />
+      <Sentence char_offsets="548:586" id="3" />
+      <Sentence char_offsets="597:701" id="4" />
+      <Sentence char_offsets="703:859" id="5" />
+      <Sentence char_offsets="861:898" id="6" />
+      <Sentence char_offsets="909:1057" id="7" />
+      <Sentence char_offsets="1059:1218" id="8" />
+      <Sentence char_offsets="1229:1432" id="9" />
+      <Sentence char_offsets="1443:1646" id="10" />
+      <Sentence char_offsets="1657:1763" id="11" />
+      <Sentence char_offsets="1765:1958" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="historical" type="181">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

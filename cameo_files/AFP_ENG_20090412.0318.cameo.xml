@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0318">
+    <Sentences>
+      <Sentence char_offsets="185:370" id="0" />
+      <Sentence char_offsets="381:598" id="1" />
+      <Sentence char_offsets="609:769" id="2" />
+      <Sentence char_offsets="780:838" id="3" />
+      <Sentence char_offsets="840:1001" id="4" />
+      <Sentence char_offsets="1012:1234" id="5" />
+      <Sentence char_offsets="1245:1328" id="6" />
+      <Sentence char_offsets="1339:1483" id="7" />
+      <Sentence char_offsets="1494:1630" id="8" />
+      <Sentence char_offsets="1641:1741" id="9" />
+      <Sentence char_offsets="1752:1972" id="10" />
+      <Sentence char_offsets="1983:2052" id="11" />
+      <Sentence char_offsets="2063:2285" id="12" />
+      <Sentence char_offsets="2296:2456" id="13" />
+      <Sentence char_offsets="2467:2549" id="14" />
+      <Sentence char_offsets="2551:2673" id="15" />
+      <Sentence char_offsets="2675:2730" id="16" />
+      <Sentence char_offsets="2741:2833" id="17" />
+      <Sentence char_offsets="2835:2968" id="18" />
+      <Sentence char_offsets="2979:3068" id="19" />
+      <Sentence char_offsets="3070:3180" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="145">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="182">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,91 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.1135">
+    <Sentences>
+      <Sentence char_offsets="204:424" id="0" />
+      <Sentence char_offsets="435:568" id="1" />
+      <Sentence char_offsets="579:639" id="2" />
+      <Sentence char_offsets="641:724" id="3" />
+      <Sentence char_offsets="735:926" id="4" />
+      <Sentence char_offsets="937:999" id="5" />
+      <Sentence char_offsets="1001:1036" id="6" />
+      <Sentence char_offsets="1047:1206" id="7" />
+      <Sentence char_offsets="1208:1246" id="8" />
+      <Sentence char_offsets="1257:1438" id="9" />
+      <Sentence char_offsets="1449:1569" id="10" />
+      <Sentence char_offsets="1580:1749" id="11" />
+      <Sentence char_offsets="1760:1831" id="12" />
+      <Sentence char_offsets="1842:2056" id="13" />
+      <Sentence char_offsets="2058:2122" id="14" />
+      <Sentence char_offsets="2133:2240" id="15" />
+      <Sentence char_offsets="2251:2439" id="16" />
+      <Sentence char_offsets="2441:2521" id="17" />
+      <Sentence char_offsets="2532:2707" id="18" />
+      <Sentence char_offsets="2718:2901" id="19" />
+      <Sentence char_offsets="2912:3013" id="20" />
+      <Sentence char_offsets="3015:3125" id="21" />
+      <Sentence char_offsets="3127:3149" id="22" />
+      <Sentence char_offsets="3160:3411" id="23" />
+      <Sentence char_offsets="3422:3582" id="24" />
+      <Sentence char_offsets="3593:3679" id="25" />
+      <Sentence char_offsets="3690:3784" id="26" />
+      <Sentence char_offsets="3786:3866" id="27" />
+      <Sentence char_offsets="3877:4037" id="28" />
+      <Sentence char_offsets="4039:4244" id="29" />
+      <Sentence char_offsets="4255:4405" id="30" />
+      <Sentence char_offsets="4416:4528" id="31" />
+      <Sentence char_offsets="4530:4606" id="32" />
+      <Sentence char_offsets="4617:4889" id="33" />
+      <Sentence char_offsets="4900:4905" id="34" />
+      <Sentence char_offsets="4916:5017" id="35" />
+      <Sentence char_offsets="5019:5068" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="1126" actor_name="Palitha Kohona" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="28" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="31" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="50536" actor_name="M.K. Narayanan" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="52454" actor_name="Shivshankar Menon" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="33" tense="neutral" type="100">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="184">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="12" tense="neutral" type="184">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="50536" actor_name="M.K. Narayanan" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="52454" actor_name="Shivshankar Menon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

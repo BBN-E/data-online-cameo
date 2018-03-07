@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0642">
+    <Sentences>
+      <Sentence char_offsets="188:375" id="0" />
+      <Sentence char_offsets="386:547" id="1" />
+      <Sentence char_offsets="558:736" id="2" />
+      <Sentence char_offsets="747:967" id="3" />
+      <Sentence char_offsets="978:1115" id="4" />
+      <Sentence char_offsets="1126:1336" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="139">
+        <Participant actor_id="35854" actor_name="Kyrgyzstan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

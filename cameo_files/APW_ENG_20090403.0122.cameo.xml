@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.0122">
+    <Sentences>
+      <Sentence char_offsets="182:258" id="0" />
+      <Sentence char_offsets="269:579" id="1" />
+      <Sentence char_offsets="590:838" id="2" />
+      <Sentence char_offsets="849:964" id="3" />
+      <Sentence char_offsets="966:1016" id="4" />
+      <Sentence char_offsets="1018:1277" id="5" />
+      <Sentence char_offsets="1288:1482" id="6" />
+      <Sentence char_offsets="1484:1591" id="7" />
+      <Sentence char_offsets="1593:1739" id="8" />
+      <Sentence char_offsets="1750:1839" id="9" />
+      <Sentence char_offsets="1841:2055" id="10" />
+      <Sentence char_offsets="2066:2131" id="11" />
+      <Sentence char_offsets="2133:2238" id="12" />
+      <Sentence char_offsets="2240:2282" id="13" />
+      <Sentence char_offsets="2293:2298" id="14" />
+      <Sentence char_offsets="2309:2319" id="15" />
+      <Sentence char_offsets="2330:2385" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="historical" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="28174" actor_name="NASA" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="371" agent_name="Senate" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="historical" type="020">
+        <Participant actor_id="52409" actor_name="Bart Gordon" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="0241">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28174" actor_name="NASA" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

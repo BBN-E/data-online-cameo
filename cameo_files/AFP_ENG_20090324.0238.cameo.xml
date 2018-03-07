@@ -1,0 +1,77 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0238">
+    <Sentences>
+      <Sentence char_offsets="183:374" id="0" />
+      <Sentence char_offsets="385:594" id="1" />
+      <Sentence char_offsets="605:697" id="2" />
+      <Sentence char_offsets="708:919" id="3" />
+      <Sentence char_offsets="930:1108" id="4" />
+      <Sentence char_offsets="1119:1191" id="5" />
+      <Sentence char_offsets="1202:1300" id="6" />
+      <Sentence char_offsets="1311:1407" id="7" />
+      <Sentence char_offsets="1418:1569" id="8" />
+      <Sentence char_offsets="1580:1807" id="9" />
+      <Sentence char_offsets="1818:1905" id="10" />
+      <Sentence char_offsets="1916:2056" id="11" />
+      <Sentence char_offsets="2067:2205" id="12" />
+      <Sentence char_offsets="2216:2352" id="13" />
+      <Sentence char_offsets="2363:2438" id="14" />
+      <Sentence char_offsets="2449:2681" id="15" />
+      <Sentence char_offsets="2692:2841" id="16" />
+      <Sentence char_offsets="2852:2911" id="17" />
+      <Sentence char_offsets="2913:3022" id="18" />
+      <Sentence char_offsets="3033:3179" id="19" />
+      <Sentence char_offsets="3190:3356" id="20" />
+      <Sentence char_offsets="3367:3546" id="21" />
+      <Sentence char_offsets="3557:3699" id="22" />
+      <Sentence char_offsets="3710:3906" id="23" />
+      <Sentence char_offsets="3917:4060" id="24" />
+      <Sentence char_offsets="4071:4250" id="25" />
+      <Sentence char_offsets="4261:4323" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="current" type="010">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="current" type="042">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="current" type="042">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="26" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="25" tense="neutral" type="040">
+        <Participant actor_id="31863" actor_name="Ireland" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="4" tense="current" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="22" tense="current" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="26" tense="neutral" type="043">
+        <Participant actor_id="32098" actor_name="Canada" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

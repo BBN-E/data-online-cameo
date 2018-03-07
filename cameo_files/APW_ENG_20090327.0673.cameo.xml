@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090327.0673">
+    <Sentences>
+      <Sentence char_offsets="199:423" id="0" />
+      <Sentence char_offsets="434:772" id="1" />
+      <Sentence char_offsets="783:934" id="2" />
+      <Sentence char_offsets="945:1046" id="3" />
+      <Sentence char_offsets="1057:1262" id="4" />
+      <Sentence char_offsets="1273:1349" id="5" />
+      <Sentence char_offsets="1360:1582" id="6" />
+      <Sentence char_offsets="1593:1726" id="7" />
+      <Sentence char_offsets="1728:1867" id="8" />
+      <Sentence char_offsets="1878:2000" id="9" />
+      <Sentence char_offsets="2011:2093" id="10" />
+      <Sentence char_offsets="2095:2223" id="11" />
+      <Sentence char_offsets="2234:2337" id="12" />
+      <Sentence char_offsets="2339:2475" id="13" />
+      <Sentence char_offsets="2486:2639" id="14" />
+      <Sentence char_offsets="2641:2738" id="15" />
+      <Sentence char_offsets="2749:2927" id="16" />
+      <Sentence char_offsets="2938:3110" id="17" />
+      <Sentence char_offsets="3121:3427" id="18" />
+      <Sentence char_offsets="3438:3443" id="19" />
+      <Sentence char_offsets="3454:3520" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="141">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="138">
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

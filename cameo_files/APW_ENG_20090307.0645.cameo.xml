@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090307.0645">
+    <Sentences>
+      <Sentence char_offsets="187:361" id="0" />
+      <Sentence char_offsets="372:501" id="1" />
+      <Sentence char_offsets="503:536" id="2" />
+      <Sentence char_offsets="547:692" id="3" />
+      <Sentence char_offsets="694:751" id="4" />
+      <Sentence char_offsets="762:887" id="5" />
+      <Sentence char_offsets="898:1002" id="6" />
+      <Sentence char_offsets="1004:1040" id="7" />
+      <Sentence char_offsets="1042:1068" id="8" />
+      <Sentence char_offsets="1079:1222" id="9" />
+      <Sentence char_offsets="1233:1408" id="10" />
+      <Sentence char_offsets="1419:1650" id="11" />
+      <Sentence char_offsets="1661:1807" id="12" />
+      <Sentence char_offsets="1818:1966" id="13" />
+      <Sentence char_offsets="1977:2086" id="14" />
+      <Sentence char_offsets="2097:2233" id="15" />
+      <Sentence char_offsets="2235:2331" id="16" />
+      <Sentence char_offsets="2342:2405" id="17" />
+      <Sentence char_offsets="2416:2483" id="18" />
+      <Sentence char_offsets="2494:2499" id="19" />
+      <Sentence char_offsets="2510:2572" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="671" agent_name="Party President" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="141">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="145">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="153">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="175">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="449" agent_name="Activist" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

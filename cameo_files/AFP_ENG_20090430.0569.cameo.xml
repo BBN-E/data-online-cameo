@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0569">
+    <Sentences>
+      <Sentence char_offsets="184:371" id="0" />
+      <Sentence char_offsets="382:627" id="1" />
+      <Sentence char_offsets="638:876" id="2" />
+      <Sentence char_offsets="887:1133" id="3" />
+      <Sentence char_offsets="1144:1318" id="4" />
+      <Sentence char_offsets="1329:1475" id="5" />
+      <Sentence char_offsets="1486:1569" id="6" />
+      <Sentence char_offsets="1571:1699" id="7" />
+      <Sentence char_offsets="1710:1770" id="8" />
+      <Sentence char_offsets="1781:1936" id="9" />
+      <Sentence char_offsets="1947:2072" id="10" />
+      <Sentence char_offsets="2074:2134" id="11" />
+      <Sentence char_offsets="2145:2358" id="12" />
+      <Sentence char_offsets="2369:2519" id="13" />
+      <Sentence char_offsets="2530:2742" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="108" agent_name="Rights Activist" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

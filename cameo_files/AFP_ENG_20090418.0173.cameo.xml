@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0173">
+    <Sentences>
+      <Sentence char_offsets="180:339" id="0" />
+      <Sentence char_offsets="350:471" id="1" />
+      <Sentence char_offsets="482:637" id="2" />
+      <Sentence char_offsets="648:876" id="3" />
+      <Sentence char_offsets="887:1139" id="4" />
+      <Sentence char_offsets="1150:1192" id="5" />
+      <Sentence char_offsets="1203:1373" id="6" />
+      <Sentence char_offsets="1384:1606" id="7" />
+      <Sentence char_offsets="1617:1755" id="8" />
+      <Sentence char_offsets="1766:1908" id="9" />
+      <Sentence char_offsets="1919:2105" id="10" />
+      <Sentence char_offsets="2116:2290" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="53796" actor_name="Justice and Development Party" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="current" type="141">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="317" agent_name="Academics" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="current" type="141">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="601" agent_name="Student" role="Source" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="historical" type="141">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="historical" type="173">
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

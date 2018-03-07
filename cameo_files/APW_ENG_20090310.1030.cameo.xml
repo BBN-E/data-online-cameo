@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.1030">
+    <Sentences>
+      <Sentence char_offsets="186:365" id="0" />
+      <Sentence char_offsets="376:574" id="1" />
+      <Sentence char_offsets="585:819" id="2" />
+      <Sentence char_offsets="830:974" id="3" />
+      <Sentence char_offsets="985:1148" id="4" />
+      <Sentence char_offsets="1150:1246" id="5" />
+      <Sentence char_offsets="1257:1352" id="6" />
+      <Sentence char_offsets="1363:1481" id="7" />
+      <Sentence char_offsets="1492:1529" id="8" />
+      <Sentence char_offsets="1531:1619" id="9" />
+      <Sentence char_offsets="1630:1807" id="10" />
+      <Sentence char_offsets="1818:1984" id="11" />
+      <Sentence char_offsets="1986:2075" id="12" />
+      <Sentence char_offsets="2086:2135" id="13" />
+      <Sentence char_offsets="2137:2326" id="14" />
+      <Sentence char_offsets="2337:2460" id="15" />
+      <Sentence char_offsets="2471:2591" id="16" />
+      <Sentence char_offsets="2593:2677" id="17" />
+      <Sentence char_offsets="2688:2822" id="18" />
+      <Sentence char_offsets="2833:2924" id="19" />
+      <Sentence char_offsets="2926:3012" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="012">
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,60 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0849">
+    <Sentences>
+      <Sentence char_offsets="197:371" id="0" />
+      <Sentence char_offsets="382:496" id="1" />
+      <Sentence char_offsets="507:564" id="2" />
+      <Sentence char_offsets="566:675" id="3" />
+      <Sentence char_offsets="677:721" id="4" />
+      <Sentence char_offsets="732:876" id="5" />
+      <Sentence char_offsets="878:948" id="6" />
+      <Sentence char_offsets="959:1076" id="7" />
+      <Sentence char_offsets="1087:1188" id="8" />
+      <Sentence char_offsets="1199:1420" id="9" />
+      <Sentence char_offsets="1431:1608" id="10" />
+      <Sentence char_offsets="1610:1699" id="11" />
+      <Sentence char_offsets="1710:1772" id="12" />
+      <Sentence char_offsets="1783:1968" id="13" />
+      <Sentence char_offsets="1970:2044" id="14" />
+      <Sentence char_offsets="2055:2278" id="15" />
+      <Sentence char_offsets="2289:2516" id="16" />
+      <Sentence char_offsets="2527:2611" id="17" />
+      <Sentence char_offsets="2613:2807" id="18" />
+      <Sentence char_offsets="2818:2980" id="19" />
+      <Sentence char_offsets="2991:3115" id="20" />
+      <Sentence char_offsets="3117:3181" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="25752" actor_name="Philippe Kirsch" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="current" type="040">
+        <Participant actor_id="23685" actor_name="Jean Ping" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="120">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="neutral" type="160">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="current" type="173">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="20" tense="historical" type="173">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="32647" actor_name="Congo" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="current" type="040">
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Source" />
+        <Participant actor_id="23685" actor_name="Jean Ping" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

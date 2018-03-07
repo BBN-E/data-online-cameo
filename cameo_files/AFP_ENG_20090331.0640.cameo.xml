@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0640">
+    <Sentences>
+      <Sentence char_offsets="198:384" id="0" />
+      <Sentence char_offsets="395:646" id="1" />
+      <Sentence char_offsets="657:883" id="2" />
+      <Sentence char_offsets="894:984" id="3" />
+      <Sentence char_offsets="986:1069" id="4" />
+      <Sentence char_offsets="1080:1289" id="5" />
+      <Sentence char_offsets="1300:1517" id="6" />
+      <Sentence char_offsets="1528:1739" id="7" />
+      <Sentence char_offsets="1750:2014" id="8" />
+      <Sentence char_offsets="2025:2242" id="9" />
+      <Sentence char_offsets="2253:2402" id="10" />
+      <Sentence char_offsets="2413:2553" id="11" />
+      <Sentence char_offsets="2555:2641" id="12" />
+      <Sentence char_offsets="2652:2777" id="13" />
+      <Sentence char_offsets="2788:3007" id="14" />
+      <Sentence char_offsets="3018:3249" id="15" />
+      <Sentence char_offsets="3260:3359" id="16" />
+      <Sentence char_offsets="3361:3448" id="17" />
+      <Sentence char_offsets="3459:3565" id="18" />
+      <Sentence char_offsets="3576:3794" id="19" />
+      <Sentence char_offsets="3805:3933" id="20" />
+      <Sentence char_offsets="3944:4076" id="21" />
+      <Sentence char_offsets="4087:4203" id="22" />
+      <Sentence char_offsets="4214:4308" id="23" />
+      <Sentence char_offsets="4310:4410" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="036">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

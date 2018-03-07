@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.0253">
+    <Sentences>
+      <Sentence char_offsets="176:381" id="0" />
+      <Sentence char_offsets="392:588" id="1" />
+      <Sentence char_offsets="599:707" id="2" />
+      <Sentence char_offsets="709:813" id="3" />
+      <Sentence char_offsets="824:891" id="4" />
+      <Sentence char_offsets="902:1045" id="5" />
+      <Sentence char_offsets="1056:1183" id="6" />
+      <Sentence char_offsets="1185:1297" id="7" />
+      <Sentence char_offsets="1308:1415" id="8" />
+      <Sentence char_offsets="1426:1485" id="9" />
+      <Sentence char_offsets="1487:1578" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="112">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="ongoing" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="ongoing" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

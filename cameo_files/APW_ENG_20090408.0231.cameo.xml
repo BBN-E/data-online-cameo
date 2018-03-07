@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.0231">
+    <Sentences>
+      <Sentence char_offsets="183:367" id="0" />
+      <Sentence char_offsets="378:563" id="1" />
+      <Sentence char_offsets="565:580" id="2" />
+      <Sentence char_offsets="591:785" id="3" />
+      <Sentence char_offsets="787:820" id="4" />
+      <Sentence char_offsets="831:988" id="5" />
+      <Sentence char_offsets="999:1075" id="6" />
+      <Sentence char_offsets="1077:1143" id="7" />
+      <Sentence char_offsets="1145:1181" id="8" />
+      <Sentence char_offsets="1192:1343" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="623" agent_name="Media" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="623" agent_name="Media" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

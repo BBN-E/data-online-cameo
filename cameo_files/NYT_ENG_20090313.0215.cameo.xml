@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090313.0215">
+    <Sentences>
+      <Sentence char_offsets="148:387" id="0" />
+      <Sentence char_offsets="398:579" id="1" />
+      <Sentence char_offsets="590:787" id="2" />
+      <Sentence char_offsets="798:1023" id="3" />
+      <Sentence char_offsets="1034:1163" id="4" />
+      <Sentence char_offsets="1165:1272" id="5" />
+      <Sentence char_offsets="1283:1433" id="6" />
+      <Sentence char_offsets="1435:1588" id="7" />
+      <Sentence char_offsets="1599:1672" id="8" />
+      <Sentence char_offsets="1683:1864" id="9" />
+      <Sentence char_offsets="1875:2107" id="10" />
+      <Sentence char_offsets="2109:2169" id="11" />
+      <Sentence char_offsets="2180:2424" id="12" />
+      <Sentence char_offsets="2435:2585" id="13" />
+      <Sentence char_offsets="2596:2753" id="14" />
+      <Sentence char_offsets="2755:2880" id="15" />
+      <Sentence char_offsets="2891:3147" id="16" />
+      <Sentence char_offsets="3158:3307" id="17" />
+      <Sentence char_offsets="3318:3447" id="18" />
+      <Sentence char_offsets="3458:3605" id="19" />
+      <Sentence char_offsets="3616:3720" id="20" />
+      <Sentence char_offsets="3722:3897" id="21" />
+      <Sentence char_offsets="3908:4049" id="22" />
+      <Sentence char_offsets="4060:4131" id="23" />
+      <Sentence char_offsets="4133:4302" id="24" />
+      <Sentence char_offsets="4304:4386" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="3139" actor_name="Abdullah bin Hamad Al-Attiyah" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="11605" actor_name="Rafael Ram&#237;rez" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

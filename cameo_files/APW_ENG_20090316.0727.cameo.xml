@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0727">
+    <Sentences>
+      <Sentence char_offsets="190:397" id="0" />
+      <Sentence char_offsets="408:559" id="1" />
+      <Sentence char_offsets="561:651" id="2" />
+      <Sentence char_offsets="662:707" id="3" />
+      <Sentence char_offsets="718:852" id="4" />
+      <Sentence char_offsets="863:983" id="5" />
+      <Sentence char_offsets="985:1029" id="6" />
+      <Sentence char_offsets="1040:1131" id="7" />
+      <Sentence char_offsets="1133:1233" id="8" />
+      <Sentence char_offsets="1244:1324" id="9" />
+      <Sentence char_offsets="1335:1440" id="10" />
+      <Sentence char_offsets="1451:1575" id="11" />
+      <Sentence char_offsets="1586:1647" id="12" />
+      <Sentence char_offsets="1649:1805" id="13" />
+      <Sentence char_offsets="1816:1978" id="14" />
+      <Sentence char_offsets="1989:2109" id="15" />
+      <Sentence char_offsets="2120:2291" id="16" />
+      <Sentence char_offsets="2302:2450" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="032">
+        <Participant actor_id="121848" actor_name="Walid Muallem" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="054">
+        <Participant actor_id="36204" actor_name="Lebanon" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="historical" type="054">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="historical" type="0874">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="36204" actor_name="Lebanon" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="15" tense="historical" type="192">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="36204" actor_name="Lebanon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

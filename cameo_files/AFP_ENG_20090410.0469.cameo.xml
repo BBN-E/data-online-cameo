@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0469">
+    <Sentences>
+      <Sentence char_offsets="182:353" id="0" />
+      <Sentence char_offsets="364:477" id="1" />
+      <Sentence char_offsets="488:640" id="2" />
+      <Sentence char_offsets="651:873" id="3" />
+      <Sentence char_offsets="884:1102" id="4" />
+      <Sentence char_offsets="1113:1337" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

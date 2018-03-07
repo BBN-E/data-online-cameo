@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0212">
+    <Sentences>
+      <Sentence char_offsets="184:414" id="0" />
+      <Sentence char_offsets="425:643" id="1" />
+      <Sentence char_offsets="654:831" id="2" />
+      <Sentence char_offsets="842:1073" id="3" />
+      <Sentence char_offsets="1084:1251" id="4" />
+      <Sentence char_offsets="1262:1451" id="5" />
+      <Sentence char_offsets="1462:1609" id="6" />
+      <Sentence char_offsets="1620:1798" id="7" />
+      <Sentence char_offsets="1800:1939" id="8" />
+      <Sentence char_offsets="1950:2138" id="9" />
+      <Sentence char_offsets="2140:2216" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

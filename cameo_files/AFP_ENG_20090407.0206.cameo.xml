@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0206">
+    <Sentences>
+      <Sentence char_offsets="171:349" id="0" />
+      <Sentence char_offsets="360:560" id="1" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="historical" type="190">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="537" agent_name="Guerrilla" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="historical" type="180">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="537" agent_name="Guerrilla" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

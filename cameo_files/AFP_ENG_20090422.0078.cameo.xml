@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0078">
+    <Sentences>
+      <Sentence char_offsets="178:345" id="0" />
+      <Sentence char_offsets="356:512" id="1" />
+      <Sentence char_offsets="523:659" id="2" />
+      <Sentence char_offsets="670:776" id="3" />
+      <Sentence char_offsets="787:1012" id="4" />
+      <Sentence char_offsets="1023:1179" id="5" />
+      <Sentence char_offsets="1190:1432" id="6" />
+      <Sentence char_offsets="1443:1515" id="7" />
+      <Sentence char_offsets="1526:1650" id="8" />
+      <Sentence char_offsets="1661:1776" id="9" />
+      <Sentence char_offsets="1787:1888" id="10" />
+      <Sentence char_offsets="1890:1963" id="11" />
+      <Sentence char_offsets="1974:2010" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="115">
+        <Participant actor_id="41262" actor_name="United States" agent_id="69" agent_name="Party Member" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0042">
+    <Sentences>
+      <Sentence char_offsets="189:366" id="0" />
+      <Sentence char_offsets="377:574" id="1" />
+      <Sentence char_offsets="585:742" id="2" />
+      <Sentence char_offsets="753:872" id="3" />
+      <Sentence char_offsets="883:1079" id="4" />
+      <Sentence char_offsets="1090:1181" id="5" />
+      <Sentence char_offsets="1192:1389" id="6" />
+      <Sentence char_offsets="1400:1541" id="7" />
+      <Sentence char_offsets="1552:1746" id="8" />
+      <Sentence char_offsets="1757:1953" id="9" />
+      <Sentence char_offsets="1964:2082" id="10" />
+      <Sentence char_offsets="2093:2250" id="11" />
+      <Sentence char_offsets="2252:2314" id="12" />
+      <Sentence char_offsets="2325:2492" id="13" />
+      <Sentence char_offsets="2503:2589" id="14" />
+      <Sentence char_offsets="2600:2741" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="493" agent_name="Insurgent" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="180">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0050">
+    <Sentences>
+      <Sentence char_offsets="172:370" id="0" />
+      <Sentence char_offsets="381:557" id="1" />
+      <Sentence char_offsets="568:782" id="2" />
+      <Sentence char_offsets="793:971" id="3" />
+      <Sentence char_offsets="982:1141" id="4" />
+      <Sentence char_offsets="1152:1369" id="5" />
+      <Sentence char_offsets="1380:1571" id="6" />
+      <Sentence char_offsets="1582:1622" id="7" />
+      <Sentence char_offsets="1633:1668" id="8" />
+      <Sentence char_offsets="1670:1842" id="9" />
+      <Sentence char_offsets="1853:1967" id="10" />
+      <Sentence char_offsets="1978:2104" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="051">
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Source" />
+        <Participant actor_id="41241" actor_name="Uruguay" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

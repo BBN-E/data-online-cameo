@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0107">
+    <Sentences>
+      <Sentence char_offsets="199:334" id="0" />
+      <Sentence char_offsets="345:574" id="1" />
+      <Sentence char_offsets="585:674" id="2" />
+      <Sentence char_offsets="685:756" id="3" />
+      <Sentence char_offsets="767:946" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="31003" actor_name="Guadeloupe" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="31003" actor_name="Guadeloupe" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

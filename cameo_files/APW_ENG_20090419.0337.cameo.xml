@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0337">
+    <Sentences>
+      <Sentence char_offsets="190:415" id="0" />
+      <Sentence char_offsets="426:562" id="1" />
+      <Sentence char_offsets="564:678" id="2" />
+      <Sentence char_offsets="689:824" id="3" />
+      <Sentence char_offsets="826:983" id="4" />
+      <Sentence char_offsets="994:1121" id="5" />
+      <Sentence char_offsets="1123:1281" id="6" />
+      <Sentence char_offsets="1292:1381" id="7" />
+      <Sentence char_offsets="1383:1545" id="8" />
+      <Sentence char_offsets="1556:1678" id="9" />
+      <Sentence char_offsets="1680:1802" id="10" />
+      <Sentence char_offsets="1813:1907" id="11" />
+      <Sentence char_offsets="1909:2035" id="12" />
+      <Sentence char_offsets="2046:2250" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="173">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

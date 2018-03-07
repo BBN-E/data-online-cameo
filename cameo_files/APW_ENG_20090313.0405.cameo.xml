@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0405">
+    <Sentences>
+      <Sentence char_offsets="188:390" id="0" />
+      <Sentence char_offsets="401:659" id="1" />
+      <Sentence char_offsets="670:938" id="2" />
+      <Sentence char_offsets="949:1129" id="3" />
+      <Sentence char_offsets="1140:1297" id="4" />
+      <Sentence char_offsets="1308:1524" id="5" />
+      <Sentence char_offsets="1535:1570" id="6" />
+      <Sentence char_offsets="1572:1793" id="7" />
+      <Sentence char_offsets="1795:1867" id="8" />
+      <Sentence char_offsets="1878:2088" id="9" />
+      <Sentence char_offsets="2090:2212" id="10" />
+      <Sentence char_offsets="2223:2334" id="11" />
+      <Sentence char_offsets="2336:2401" id="12" />
+      <Sentence char_offsets="2412:2526" id="13" />
+      <Sentence char_offsets="2537:2687" id="14" />
+      <Sentence char_offsets="2698:2926" id="15" />
+      <Sentence char_offsets="2928:2998" id="16" />
+      <Sentence char_offsets="3009:3105" id="17" />
+      <Sentence char_offsets="3107:3222" id="18" />
+      <Sentence char_offsets="3233:3292" id="19" />
+      <Sentence char_offsets="3294:3396" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="115">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="237860" actor_name="Lehman Brothers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

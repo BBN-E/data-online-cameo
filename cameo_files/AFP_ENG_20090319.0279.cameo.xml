@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0279">
+    <Sentences>
+      <Sentence char_offsets="188:375" id="0" />
+      <Sentence char_offsets="386:604" id="1" />
+      <Sentence char_offsets="615:746" id="2" />
+      <Sentence char_offsets="757:900" id="3" />
+      <Sentence char_offsets="911:1109" id="4" />
+      <Sentence char_offsets="1120:1335" id="5" />
+      <Sentence char_offsets="1346:1479" id="6" />
+      <Sentence char_offsets="1490:1683" id="7" />
+      <Sentence char_offsets="1694:1892" id="8" />
+      <Sentence char_offsets="1903:2092" id="9" />
+      <Sentence char_offsets="2103:2240" id="10" />
+      <Sentence char_offsets="2251:2397" id="11" />
+      <Sentence char_offsets="2408:2503" id="12" />
+      <Sentence char_offsets="2505:2548" id="13" />
+      <Sentence char_offsets="2559:2741" id="14" />
+      <Sentence char_offsets="2752:2928" id="15" />
+      <Sentence char_offsets="2939:3162" id="16" />
+      <Sentence char_offsets="3173:3356" id="17" />
+      <Sentence char_offsets="3367:3498" id="18" />
+      <Sentence char_offsets="3500:3593" id="19" />
+      <Sentence char_offsets="3604:3775" id="20" />
+      <Sentence char_offsets="3786:3971" id="21" />
+      <Sentence char_offsets="3982:4099" id="22" />
+      <Sentence char_offsets="4110:4270" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0254">
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="0254">
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Source" />
+        <Participant actor_id="32187" actor_name="Belgium" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

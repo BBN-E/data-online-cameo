@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1581">
+    <Sentences>
+      <Sentence char_offsets="184:385" id="0" />
+      <Sentence char_offsets="396:438" id="1" />
+      <Sentence char_offsets="440:575" id="2" />
+      <Sentence char_offsets="586:834" id="3" />
+      <Sentence char_offsets="845:970" id="4" />
+      <Sentence char_offsets="972:1029" id="5" />
+      <Sentence char_offsets="1031:1080" id="6" />
+      <Sentence char_offsets="1091:1254" id="7" />
+      <Sentence char_offsets="1265:1304" id="8" />
+      <Sentence char_offsets="1315:1416" id="9" />
+      <Sentence char_offsets="1427:1587" id="10" />
+      <Sentence char_offsets="1589:1640" id="11" />
+      <Sentence char_offsets="1651:1749" id="12" />
+      <Sentence char_offsets="1751:1871" id="13" />
+      <Sentence char_offsets="1882:2027" id="14" />
+      <Sentence char_offsets="2029:2085" id="15" />
+      <Sentence char_offsets="2096:2265" id="16" />
+      <Sentence char_offsets="2276:2388" id="17" />
+      <Sentence char_offsets="2390:2437" id="18" />
+      <Sentence char_offsets="2448:2645" id="19" />
+      <Sentence char_offsets="2647:2705" id="20" />
+      <Sentence char_offsets="2716:2773" id="21" />
+      <Sentence char_offsets="2784:2976" id="22" />
+      <Sentence char_offsets="2987:3140" id="23" />
+      <Sentence char_offsets="3142:3291" id="24" />
+      <Sentence char_offsets="3302:3379" id="25" />
+      <Sentence char_offsets="3390:3581" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="historical" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="4170" actor_name="Dreamworks Animation" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

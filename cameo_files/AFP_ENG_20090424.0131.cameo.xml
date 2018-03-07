@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0131">
+    <Sentences>
+      <Sentence char_offsets="171:288" id="0" />
+      <Sentence char_offsets="299:558" id="1" />
+      <Sentence char_offsets="569:631" id="2" />
+      <Sentence char_offsets="633:781" id="3" />
+      <Sentence char_offsets="792:867" id="4" />
+      <Sentence char_offsets="878:1074" id="5" />
+      <Sentence char_offsets="1085:1253" id="6" />
+      <Sentence char_offsets="1264:1454" id="7" />
+      <Sentence char_offsets="1465:1641" id="8" />
+      <Sentence char_offsets="1652:1808" id="9" />
+      <Sentence char_offsets="1819:1920" id="10" />
+      <Sentence char_offsets="1931:2086" id="11" />
+      <Sentence char_offsets="2097:2324" id="12" />
+      <Sentence char_offsets="2335:2467" id="13" />
+      <Sentence char_offsets="2478:2643" id="14" />
+      <Sentence char_offsets="2654:2723" id="15" />
+      <Sentence char_offsets="2734:2861" id="16" />
+      <Sentence char_offsets="2872:3080" id="17" />
+      <Sentence char_offsets="3091:3252" id="18" />
+      <Sentence char_offsets="3263:3421" id="19" />
+      <Sentence char_offsets="3432:3503" id="20" />
+      <Sentence char_offsets="3514:3536" id="21" />
+      <Sentence char_offsets="3538:3627" id="22" />
+      <Sentence char_offsets="3638:3685" id="23" />
+      <Sentence char_offsets="3687:3855" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="current" type="010">
+        <Participant actor_id="9580" actor_name="Sergei Ivanovich Shmatk&#243;" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="100">
+        <Participant actor_id="3838" actor_name="Gazprom" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

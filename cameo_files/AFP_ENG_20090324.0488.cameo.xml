@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0488">
+    <Sentences>
+      <Sentence char_offsets="189:382" id="0" />
+      <Sentence char_offsets="393:629" id="1" />
+      <Sentence char_offsets="640:828" id="2" />
+      <Sentence char_offsets="839:969" id="3" />
+      <Sentence char_offsets="980:1118" id="4" />
+      <Sentence char_offsets="1120:1194" id="5" />
+      <Sentence char_offsets="1205:1386" id="6" />
+      <Sentence char_offsets="1397:1643" id="7" />
+      <Sentence char_offsets="1654:1794" id="8" />
+      <Sentence char_offsets="1805:2006" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="ongoing" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

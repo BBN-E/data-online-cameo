@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0342">
+    <Sentences>
+      <Sentence char_offsets="181:419" id="0" />
+      <Sentence char_offsets="430:583" id="1" />
+      <Sentence char_offsets="585:759" id="2" />
+      <Sentence char_offsets="770:982" id="3" />
+      <Sentence char_offsets="984:1095" id="4" />
+      <Sentence char_offsets="1106:1286" id="5" />
+      <Sentence char_offsets="1297:1474" id="6" />
+      <Sentence char_offsets="1476:1593" id="7" />
+      <Sentence char_offsets="1604:1730" id="8" />
+      <Sentence char_offsets="1741:2001" id="9" />
+      <Sentence char_offsets="2012:2135" id="10" />
+      <Sentence char_offsets="2137:2259" id="11" />
+      <Sentence char_offsets="2270:2468" id="12" />
+      <Sentence char_offsets="2470:2536" id="13" />
+      <Sentence char_offsets="2547:2793" id="14" />
+      <Sentence char_offsets="2804:2911" id="15" />
+      <Sentence char_offsets="2922:3002" id="16" />
+      <Sentence char_offsets="3013:3226" id="17" />
+      <Sentence char_offsets="3237:3458" id="18" />
+      <Sentence char_offsets="3469:3608" id="19" />
+      <Sentence char_offsets="3610:3725" id="20" />
+      <Sentence char_offsets="3736:3809" id="21" />
+      <Sentence char_offsets="3820:3876" id="22" />
+      <Sentence char_offsets="3878:4001" id="23" />
+      <Sentence char_offsets="4012:4017" id="24" />
+      <Sentence char_offsets="4028:4144" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="12687" actor_name="Hakimullah Mehsud" role="Source" />
+        <Participant actor_id="31818" actor_name="Tehrik-i-Taliban Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="015">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="033">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="21" tense="neutral" type="100">
+        <Participant actor_id="27284" actor_name="Baitullah Mehsud" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="145">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="7" sentence_id="6" tense="neutral" type="190">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="12" tense="neutral" type="138">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="14" tense="neutral" type="190">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="19" tense="neutral" type="190">
+        <Participant actor_id="31818" actor_name="Tehrik-i-Taliban Pakistan" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090327.1275">
+    <Sentences>
+      <Sentence char_offsets="199:369" id="0" />
+      <Sentence char_offsets="380:555" id="1" />
+      <Sentence char_offsets="566:709" id="2" />
+      <Sentence char_offsets="711:848" id="3" />
+      <Sentence char_offsets="859:1058" id="4" />
+      <Sentence char_offsets="1069:1254" id="5" />
+      <Sentence char_offsets="1256:1341" id="6" />
+      <Sentence char_offsets="1343:1441" id="7" />
+      <Sentence char_offsets="1452:1600" id="8" />
+      <Sentence char_offsets="1602:1676" id="9" />
+      <Sentence char_offsets="1687:1799" id="10" />
+      <Sentence char_offsets="1810:1871" id="11" />
+      <Sentence char_offsets="1882:2097" id="12" />
+      <Sentence char_offsets="2099:2160" id="13" />
+      <Sentence char_offsets="2171:2283" id="14" />
+      <Sentence char_offsets="2285:2372" id="15" />
+      <Sentence char_offsets="2383:2455" id="16" />
+      <Sentence char_offsets="2457:2477" id="17" />
+      <Sentence char_offsets="2488:2657" id="18" />
+      <Sentence char_offsets="2668:2733" id="19" />
+      <Sentence char_offsets="2735:2789" id="20" />
+      <Sentence char_offsets="2791:2860" id="21" />
+      <Sentence char_offsets="2871:2876" id="22" />
+      <Sentence char_offsets="2887:2973" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="215234" actor_name="Michelle Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090327.0186">
+    <Sentences>
+      <Sentence char_offsets="154:346" id="0" />
+      <Sentence char_offsets="357:567" id="1" />
+      <Sentence char_offsets="569:690" id="2" />
+      <Sentence char_offsets="701:844" id="3" />
+      <Sentence char_offsets="846:959" id="4" />
+      <Sentence char_offsets="970:1206" id="5" />
+      <Sentence char_offsets="1208:1279" id="6" />
+      <Sentence char_offsets="1290:1367" id="7" />
+      <Sentence char_offsets="1378:1488" id="8" />
+      <Sentence char_offsets="1499:1783" id="9" />
+      <Sentence char_offsets="1794:1883" id="10" />
+      <Sentence char_offsets="1885:1943" id="11" />
+      <Sentence char_offsets="1945:1982" id="12" />
+      <Sentence char_offsets="1993:2158" id="13" />
+      <Sentence char_offsets="2160:2316" id="14" />
+      <Sentence char_offsets="2327:2375" id="15" />
+      <Sentence char_offsets="2377:2543" id="16" />
+      <Sentence char_offsets="2554:2667" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="0874">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

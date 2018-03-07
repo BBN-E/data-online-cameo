@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0716">
+    <Sentences>
+      <Sentence char_offsets="187:404" id="0" />
+      <Sentence char_offsets="415:700" id="1" />
+      <Sentence char_offsets="711:986" id="2" />
+      <Sentence char_offsets="997:1213" id="3" />
+      <Sentence char_offsets="1224:1424" id="4" />
+      <Sentence char_offsets="1435:1603" id="5" />
+      <Sentence char_offsets="1614:1679" id="6" />
+      <Sentence char_offsets="1681:1815" id="7" />
+      <Sentence char_offsets="1826:2025" id="8" />
+      <Sentence char_offsets="2036:2226" id="9" />
+      <Sentence char_offsets="2237:2330" id="10" />
+      <Sentence char_offsets="2341:2379" id="11" />
+      <Sentence char_offsets="2381:2545" id="12" />
+      <Sentence char_offsets="2556:2750" id="13" />
+      <Sentence char_offsets="2761:2909" id="14" />
+      <Sentence char_offsets="2920:3108" id="15" />
+      <Sentence char_offsets="3119:3208" id="16" />
+      <Sentence char_offsets="3219:3410" id="17" />
+      <Sentence char_offsets="3421:3553" id="18" />
+      <Sentence char_offsets="3564:3744" id="19" />
+      <Sentence char_offsets="3755:3924" id="20" />
+      <Sentence char_offsets="3935:4162" id="21" />
+      <Sentence char_offsets="4173:4404" id="22" />
+      <Sentence char_offsets="4415:4586" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="1768" actor_name="Lee Myung Bak" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="062">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="28216" actor_name="Susan Elizabeth Rice" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

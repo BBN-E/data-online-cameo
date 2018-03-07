@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0670">
+    <Sentences>
+      <Sentence char_offsets="186:338" id="0" />
+      <Sentence char_offsets="349:468" id="1" />
+      <Sentence char_offsets="479:666" id="2" />
+      <Sentence char_offsets="677:880" id="3" />
+      <Sentence char_offsets="891:963" id="4" />
+      <Sentence char_offsets="974:1070" id="5" />
+      <Sentence char_offsets="1081:1281" id="6" />
+      <Sentence char_offsets="1292:1386" id="7" />
+      <Sentence char_offsets="1397:1556" id="8" />
+      <Sentence char_offsets="1567:1743" id="9" />
+      <Sentence char_offsets="1754:1919" id="10" />
+      <Sentence char_offsets="1930:2125" id="11" />
+      <Sentence char_offsets="2136:2320" id="12" />
+      <Sentence char_offsets="2331:2531" id="13" />
+      <Sentence char_offsets="2542:2692" id="14" />
+      <Sentence char_offsets="2703:2885" id="15" />
+      <Sentence char_offsets="2896:3077" id="16" />
+      <Sentence char_offsets="3088:3290" id="17" />
+      <Sentence char_offsets="3301:3490" id="18" />
+      <Sentence char_offsets="3501:3771" id="19" />
+      <Sentence char_offsets="3782:3977" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="0251">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

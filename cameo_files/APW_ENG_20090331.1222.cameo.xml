@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.1222">
+    <Sentences>
+      <Sentence char_offsets="189:369" id="0" />
+      <Sentence char_offsets="380:511" id="1" />
+      <Sentence char_offsets="522:705" id="2" />
+      <Sentence char_offsets="707:743" id="3" />
+      <Sentence char_offsets="754:836" id="4" />
+      <Sentence char_offsets="838:901" id="5" />
+      <Sentence char_offsets="903:1004" id="6" />
+      <Sentence char_offsets="1006:1040" id="7" />
+      <Sentence char_offsets="1051:1180" id="8" />
+      <Sentence char_offsets="1191:1393" id="9" />
+      <Sentence char_offsets="1404:1590" id="10" />
+      <Sentence char_offsets="1601:1787" id="11" />
+      <Sentence char_offsets="1789:1980" id="12" />
+      <Sentence char_offsets="1991:2121" id="13" />
+      <Sentence char_offsets="2132:2327" id="14" />
+      <Sentence char_offsets="2338:2533" id="15" />
+      <Sentence char_offsets="2544:2673" id="16" />
+      <Sentence char_offsets="2675:2938" id="17" />
+      <Sentence char_offsets="2949:3106" id="18" />
+      <Sentence char_offsets="3108:3243" id="19" />
+      <Sentence char_offsets="3245:3355" id="20" />
+      <Sentence char_offsets="3366:3371" id="21" />
+      <Sentence char_offsets="3382:3469" id="22" />
+      <Sentence char_offsets="3480:3485" id="23" />
+      <Sentence char_offsets="3496:3506" id="24" />
+      <Sentence char_offsets="3517:3562" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="33801" actor_name="Carl Levin" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="111">
+        <Participant actor_id="33801" actor_name="Carl Levin" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

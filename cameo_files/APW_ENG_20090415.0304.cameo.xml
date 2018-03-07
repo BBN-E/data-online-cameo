@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.0304">
+    <Sentences>
+      <Sentence char_offsets="197:408" id="0" />
+      <Sentence char_offsets="419:659" id="1" />
+      <Sentence char_offsets="670:984" id="2" />
+      <Sentence char_offsets="995:1157" id="3" />
+      <Sentence char_offsets="1168:1398" id="4" />
+      <Sentence char_offsets="1400:1508" id="5" />
+      <Sentence char_offsets="1519:1673" id="6" />
+      <Sentence char_offsets="1684:1905" id="7" />
+      <Sentence char_offsets="1916:2105" id="8" />
+      <Sentence char_offsets="2116:2234" id="9" />
+      <Sentence char_offsets="2236:2437" id="10" />
+      <Sentence char_offsets="2448:2664" id="11" />
+      <Sentence char_offsets="2675:2942" id="12" />
+      <Sentence char_offsets="2953:3181" id="13" />
+      <Sentence char_offsets="3192:3364" id="14" />
+      <Sentence char_offsets="3375:3523" id="15" />
+      <Sentence char_offsets="3534:3640" id="16" />
+      <Sentence char_offsets="3651:3870" id="17" />
+      <Sentence char_offsets="3881:4136" id="18" />
+      <Sentence char_offsets="4147:4388" id="19" />
+      <Sentence char_offsets="4399:4694" id="20" />
+      <Sentence char_offsets="4705:4935" id="21" />
+      <Sentence char_offsets="4946:5015" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="020">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="030">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="030">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

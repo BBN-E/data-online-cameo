@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0659">
+    <Sentences>
+      <Sentence char_offsets="182:347" id="0" />
+      <Sentence char_offsets="358:492" id="1" />
+      <Sentence char_offsets="503:677" id="2" />
+      <Sentence char_offsets="688:826" id="3" />
+      <Sentence char_offsets="837:1050" id="4" />
+      <Sentence char_offsets="1061:1204" id="5" />
+      <Sentence char_offsets="1215:1356" id="6" />
+      <Sentence char_offsets="1367:1545" id="7" />
+      <Sentence char_offsets="1556:1674" id="8" />
+      <Sentence char_offsets="1685:1859" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="071">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="54473" actor_name="Kurmanbek Bakiyev" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.0542">
+    <Sentences>
+      <Sentence char_offsets="190:363" id="0" />
+      <Sentence char_offsets="374:544" id="1" />
+      <Sentence char_offsets="555:692" id="2" />
+      <Sentence char_offsets="694:785" id="3" />
+      <Sentence char_offsets="787:803" id="4" />
+      <Sentence char_offsets="805:836" id="5" />
+      <Sentence char_offsets="847:1006" id="6" />
+      <Sentence char_offsets="1017:1070" id="7" />
+      <Sentence char_offsets="1081:1162" id="8" />
+      <Sentence char_offsets="1173:1286" id="9" />
+      <Sentence char_offsets="1288:1363" id="10" />
+      <Sentence char_offsets="1374:1470" id="11" />
+      <Sentence char_offsets="1472:1550" id="12" />
+      <Sentence char_offsets="1561:1606" id="13" />
+      <Sentence char_offsets="1617:1741" id="14" />
+      <Sentence char_offsets="1752:1955" id="15" />
+      <Sentence char_offsets="1966:2094" id="16" />
+      <Sentence char_offsets="2105:2289" id="17" />
+      <Sentence char_offsets="2300:2331" id="18" />
+      <Sentence char_offsets="2333:2417" id="19" />
+      <Sentence char_offsets="2428:2544" id="20" />
+      <Sentence char_offsets="2546:2622" id="21" />
+      <Sentence char_offsets="2633:2788" id="22" />
+      <Sentence char_offsets="2790:2902" id="23" />
+      <Sentence char_offsets="2913:2994" id="24" />
+      <Sentence char_offsets="2996:3117" id="25" />
+      <Sentence char_offsets="3128:3209" id="26" />
+      <Sentence char_offsets="3220:3477" id="27" />
+      <Sentence char_offsets="3488:3685" id="28" />
+      <Sentence char_offsets="3696:3772" id="29" />
+      <Sentence char_offsets="3783:3911" id="30" />
+      <Sentence char_offsets="3922:4069" id="31" />
+      <Sentence char_offsets="4080:4197" id="32" />
+      <Sentence char_offsets="4208:4398" id="33" />
+      <Sentence char_offsets="4400:4515" id="34" />
+      <Sentence char_offsets="4526:4531" id="35" />
+      <Sentence char_offsets="4542:4617" id="36" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

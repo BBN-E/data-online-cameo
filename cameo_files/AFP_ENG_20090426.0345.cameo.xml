@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0345">
+    <Sentences>
+      <Sentence char_offsets="178:370" id="0" />
+      <Sentence char_offsets="381:559" id="1" />
+      <Sentence char_offsets="570:637" id="2" />
+      <Sentence char_offsets="648:772" id="3" />
+      <Sentence char_offsets="783:966" id="4" />
+      <Sentence char_offsets="977:1048" id="5" />
+      <Sentence char_offsets="1059:1141" id="6" />
+      <Sentence char_offsets="1152:1236" id="7" />
+      <Sentence char_offsets="1247:1330" id="8" />
+      <Sentence char_offsets="1332:1383" id="9" />
+      <Sentence char_offsets="1394:1638" id="10" />
+      <Sentence char_offsets="1649:1880" id="11" />
+      <Sentence char_offsets="1891:1980" id="12" />
+      <Sentence char_offsets="1991:2118" id="13" />
+      <Sentence char_offsets="2120:2216" id="14" />
+      <Sentence char_offsets="2227:2414" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="11786" actor_name="Amadou Toumani Tour&#233;" role="Source" />
+        <Participant actor_id="36763" actor_name="Mali" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="0253">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

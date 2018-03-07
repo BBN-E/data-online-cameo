@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0842">
+    <Sentences>
+      <Sentence char_offsets="181:337" id="0" />
+      <Sentence char_offsets="348:531" id="1" />
+      <Sentence char_offsets="542:626" id="2" />
+      <Sentence char_offsets="637:855" id="3" />
+      <Sentence char_offsets="866:1106" id="4" />
+      <Sentence char_offsets="1117:1193" id="5" />
+      <Sentence char_offsets="1204:1373" id="6" />
+      <Sentence char_offsets="1384:1494" id="7" />
+      <Sentence char_offsets="1505:1652" id="8" />
+      <Sentence char_offsets="1663:1864" id="9" />
+      <Sentence char_offsets="1875:2034" id="10" />
+      <Sentence char_offsets="2045:2164" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="32725" actor_name="Costa Rica" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="32725" actor_name="Costa Rica" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="050">
+        <Participant actor_id="32725" actor_name="Costa Rica" role="Source" />
+        <Participant actor_id="25146" actor_name="China National Petroleum Corporation" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

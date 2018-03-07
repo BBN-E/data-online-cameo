@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0255">
+    <Sentences>
+      <Sentence char_offsets="192:354" id="0" />
+      <Sentence char_offsets="365:584" id="1" />
+      <Sentence char_offsets="595:667" id="2" />
+      <Sentence char_offsets="678:796" id="3" />
+      <Sentence char_offsets="807:898" id="4" />
+      <Sentence char_offsets="900:938" id="5" />
+      <Sentence char_offsets="949:1161" id="6" />
+      <Sentence char_offsets="1172:1398" id="7" />
+      <Sentence char_offsets="1409:1541" id="8" />
+      <Sentence char_offsets="1552:1773" id="9" />
+      <Sentence char_offsets="1784:1889" id="10" />
+      <Sentence char_offsets="1900:2027" id="11" />
+      <Sentence char_offsets="2038:2167" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="246" agent_name="Militia" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="0353">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="723" agent_name="Kidnapper" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="0841">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="138">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,18 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0596">
+    <Sentences>
+      <Sentence char_offsets="187:387" id="0" />
+      <Sentence char_offsets="398:574" id="1" />
+      <Sentence char_offsets="585:687" id="2" />
+      <Sentence char_offsets="698:792" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="53195" actor_name="Axel Weber" role="Source" />
+        <Participant actor_id="222954" actor_name="European Central Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

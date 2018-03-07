@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0416">
+    <Sentences>
+      <Sentence char_offsets="188:378" id="0" />
+      <Sentence char_offsets="389:565" id="1" />
+      <Sentence char_offsets="576:773" id="2" />
+      <Sentence char_offsets="784:1009" id="3" />
+      <Sentence char_offsets="1020:1221" id="4" />
+      <Sentence char_offsets="1232:1296" id="5" />
+      <Sentence char_offsets="1307:1456" id="6" />
+      <Sentence char_offsets="1467:1580" id="7" />
+      <Sentence char_offsets="1591:1778" id="8" />
+      <Sentence char_offsets="1789:1932" id="9" />
+      <Sentence char_offsets="1943:2163" id="10" />
+      <Sentence char_offsets="2174:2371" id="11" />
+      <Sentence char_offsets="2382:2499" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="592" agent_name="Displaced Families" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="592" agent_name="Displaced Families" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

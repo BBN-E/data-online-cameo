@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0040">
+    <Sentences>
+      <Sentence char_offsets="187:317" id="0" />
+      <Sentence char_offsets="328:525" id="1" />
+      <Sentence char_offsets="536:605" id="2" />
+      <Sentence char_offsets="607:640" id="3" />
+      <Sentence char_offsets="642:840" id="4" />
+      <Sentence char_offsets="851:1040" id="5" />
+      <Sentence char_offsets="1051:1217" id="6" />
+      <Sentence char_offsets="1228:1411" id="7" />
+      <Sentence char_offsets="1422:1600" id="8" />
+      <Sentence char_offsets="1611:1833" id="9" />
+      <Sentence char_offsets="1844:2005" id="10" />
+      <Sentence char_offsets="2016:2237" id="11" />
+      <Sentence char_offsets="2248:2414" id="12" />
+      <Sentence char_offsets="2425:2790" id="13" />
+      <Sentence char_offsets="2801:2969" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="historical" type="010">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="013">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="022">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="493" agent_name="Insurgent" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

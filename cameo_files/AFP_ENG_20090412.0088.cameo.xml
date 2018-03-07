@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0088">
+    <Sentences>
+      <Sentence char_offsets="187:361" id="0" />
+      <Sentence char_offsets="372:564" id="1" />
+      <Sentence char_offsets="575:649" id="2" />
+      <Sentence char_offsets="651:744" id="3" />
+      <Sentence char_offsets="755:958" id="4" />
+      <Sentence char_offsets="969:1045" id="5" />
+      <Sentence char_offsets="1056:1110" id="6" />
+      <Sentence char_offsets="1112:1200" id="7" />
+      <Sentence char_offsets="1211:1387" id="8" />
+      <Sentence char_offsets="1398:1523" id="9" />
+      <Sentence char_offsets="1534:1657" id="10" />
+      <Sentence char_offsets="1668:1867" id="11" />
+      <Sentence char_offsets="1878:2047" id="12" />
+      <Sentence char_offsets="2058:2172" id="13" />
+      <Sentence char_offsets="2183:2357" id="14" />
+      <Sentence char_offsets="2368:2592" id="15" />
+      <Sentence char_offsets="2603:2769" id="16" />
+      <Sentence char_offsets="2780:2960" id="17" />
+      <Sentence char_offsets="2971:3150" id="18" />
+      <Sentence char_offsets="3161:3220" id="19" />
+      <Sentence char_offsets="3222:3343" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="52825" actor_name="Mohamed Ould Abdel Aziz" role="Source" />
+        <Participant actor_id="36916" actor_name="Mauritania" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="historical" type="042">
+        <Participant actor_id="55902" actor_name="Muammar al-Qaddafi" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="historical" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="55902" actor_name="Muammar al-Qaddafi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0280">
+    <Sentences>
+      <Sentence char_offsets="176:347" id="0" />
+      <Sentence char_offsets="358:560" id="1" />
+      <Sentence char_offsets="571:768" id="2" />
+      <Sentence char_offsets="779:922" id="3" />
+      <Sentence char_offsets="933:1130" id="4" />
+      <Sentence char_offsets="1141:1358" id="5" />
+      <Sentence char_offsets="1369:1531" id="6" />
+      <Sentence char_offsets="1542:1730" id="7" />
+      <Sentence char_offsets="1741:1979" id="8" />
+      <Sentence char_offsets="1990:2086" id="9" />
+      <Sentence char_offsets="2097:2248" id="10" />
+      <Sentence char_offsets="2259:2388" id="11" />
+      <Sentence char_offsets="2399:2614" id="12" />
+      <Sentence char_offsets="2625:2847" id="13" />
+      <Sentence char_offsets="2858:3054" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="current" type="040">
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="100">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="108" agent_name="Rights Activist" role="Source" />
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="current" type="040">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

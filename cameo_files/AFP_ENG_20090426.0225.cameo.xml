@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0225">
+    <Sentences>
+      <Sentence char_offsets="182:366" id="0" />
+      <Sentence char_offsets="377:585" id="1" />
+      <Sentence char_offsets="596:714" id="2" />
+      <Sentence char_offsets="725:839" id="3" />
+      <Sentence char_offsets="850:1061" id="4" />
+      <Sentence char_offsets="1072:1277" id="5" />
+      <Sentence char_offsets="1288:1489" id="6" />
+      <Sentence char_offsets="1500:1651" id="7" />
+      <Sentence char_offsets="1662:1855" id="8" />
+      <Sentence char_offsets="1866:2094" id="9" />
+      <Sentence char_offsets="2105:2268" id="10" />
+      <Sentence char_offsets="2279:2370" id="11" />
+      <Sentence char_offsets="2381:2578" id="12" />
+      <Sentence char_offsets="2589:2753" id="13" />
+      <Sentence char_offsets="2764:2846" id="14" />
+      <Sentence char_offsets="2857:2930" id="15" />
+      <Sentence char_offsets="2932:3072" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="672" agent_name="Reserve Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="672" agent_name="Reserve Personnel" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

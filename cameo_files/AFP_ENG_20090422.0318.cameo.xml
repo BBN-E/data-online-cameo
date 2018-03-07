@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0318">
+    <Sentences>
+      <Sentence char_offsets="183:367" id="0" />
+      <Sentence char_offsets="378:562" id="1" />
+      <Sentence char_offsets="573:669" id="2" />
+      <Sentence char_offsets="680:836" id="3" />
+      <Sentence char_offsets="847:1006" id="4" />
+      <Sentence char_offsets="1017:1180" id="5" />
+      <Sentence char_offsets="1191:1381" id="6" />
+      <Sentence char_offsets="1392:1541" id="7" />
+      <Sentence char_offsets="1552:1650" id="8" />
+      <Sentence char_offsets="1661:1785" id="9" />
+      <Sentence char_offsets="1796:2001" id="10" />
+      <Sentence char_offsets="2012:2180" id="11" />
+      <Sentence char_offsets="2191:2347" id="12" />
+      <Sentence char_offsets="2358:2539" id="13" />
+      <Sentence char_offsets="2550:2753" id="14" />
+      <Sentence char_offsets="2764:2978" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="14714" actor_name="Boris Tadic" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="118278" actor_name="Hashim Tha&#231;i" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="13935" actor_name="Vuk Jeremi&#263;" role="Source" />
+        <Participant actor_id="118334" actor_name="Serbia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

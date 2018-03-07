@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0364">
+    <Sentences>
+      <Sentence char_offsets="166:333" id="0" />
+      <Sentence char_offsets="344:532" id="1" />
+      <Sentence char_offsets="543:582" id="2" />
+      <Sentence char_offsets="593:785" id="3" />
+      <Sentence char_offsets="796:993" id="4" />
+      <Sentence char_offsets="1004:1215" id="5" />
+      <Sentence char_offsets="1226:1329" id="6" />
+      <Sentence char_offsets="1340:1438" id="7" />
+      <Sentence char_offsets="1440:1534" id="8" />
+      <Sentence char_offsets="1545:1668" id="9" />
+      <Sentence char_offsets="1679:1850" id="10" />
+      <Sentence char_offsets="1861:1955" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="38472" actor_name="Der Spiegel" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="010">
+        <Participant actor_id="38472" actor_name="Der Spiegel" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

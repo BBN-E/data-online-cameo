@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090307.0430">
+    <Sentences>
+      <Sentence char_offsets="149:182" id="0" />
+      <Sentence char_offsets="185:214" id="1" />
+      <Sentence char_offsets="217:254" id="2" />
+      <Sentence char_offsets="257:279" id="3" />
+      <Sentence char_offsets="282:327" id="4" />
+      <Sentence char_offsets="330:531" id="5" />
+      <Sentence char_offsets="534:635" id="6" />
+      <Sentence char_offsets="637:668" id="7" />
+      <Sentence char_offsets="671:809" id="8" />
+      <Sentence char_offsets="811:866" id="9" />
+      <Sentence char_offsets="869:1042" id="10" />
+      <Sentence char_offsets="1045:1164" id="11" />
+      <Sentence char_offsets="1166:1173" id="12" />
+      <Sentence char_offsets="1176:1319" id="13" />
+      <Sentence char_offsets="1322:1490" id="14" />
+      <Sentence char_offsets="1493:1624" id="15" />
+      <Sentence char_offsets="1626:1644" id="16" />
+      <Sentence char_offsets="1647:1754" id="17" />
+      <Sentence char_offsets="1757:1912" id="18" />
+      <Sentence char_offsets="1915:2028" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="32622" actor_name="Switzerland" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="36648" actor_name="Middle East" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="36648" actor_name="Middle East" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

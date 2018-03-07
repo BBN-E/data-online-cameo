@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090425.0098">
+    <Sentences>
+      <Sentence char_offsets="182:309" id="0" />
+      <Sentence char_offsets="320:464" id="1" />
+      <Sentence char_offsets="475:580" id="2" />
+      <Sentence char_offsets="582:618" id="3" />
+      <Sentence char_offsets="629:777" id="4" />
+      <Sentence char_offsets="788:913" id="5" />
+      <Sentence char_offsets="924:1005" id="6" />
+      <Sentence char_offsets="1016:1216" id="7" />
+      <Sentence char_offsets="1227:1314" id="8" />
+      <Sentence char_offsets="1325:1463" id="9" />
+      <Sentence char_offsets="1474:1606" id="10" />
+      <Sentence char_offsets="1617:1870" id="11" />
+      <Sentence char_offsets="1881:2027" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="1679" actor_name="Guido Mantega" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

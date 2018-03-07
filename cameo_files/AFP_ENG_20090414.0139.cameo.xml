@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0139">
+    <Sentences>
+      <Sentence char_offsets="187:347" id="0" />
+      <Sentence char_offsets="358:527" id="1" />
+      <Sentence char_offsets="538:723" id="2" />
+      <Sentence char_offsets="734:898" id="3" />
+      <Sentence char_offsets="909:1093" id="4" />
+      <Sentence char_offsets="1095:1147" id="5" />
+      <Sentence char_offsets="1158:1363" id="6" />
+      <Sentence char_offsets="1374:1448" id="7" />
+      <Sentence char_offsets="1459:1660" id="8" />
+      <Sentence char_offsets="1671:1760" id="9" />
+      <Sentence char_offsets="1771:1910" id="10" />
+      <Sentence char_offsets="1921:2148" id="11" />
+      <Sentence char_offsets="2159:2275" id="12" />
+      <Sentence char_offsets="2286:2486" id="13" />
+      <Sentence char_offsets="2497:2722" id="14" />
+      <Sentence char_offsets="2733:2820" id="15" />
+      <Sentence char_offsets="2831:3056" id="16" />
+      <Sentence char_offsets="3067:3178" id="17" />
+      <Sentence char_offsets="3189:3392" id="18" />
+      <Sentence char_offsets="3403:3537" id="19" />
+      <Sentence char_offsets="3548:3821" id="20" />
+      <Sentence char_offsets="3832:4049" id="21" />
+      <Sentence char_offsets="4060:4200" id="22" />
+      <Sentence char_offsets="4211:4303" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="21639" actor_name="Gordon Bajnai" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="141">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="145">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="145">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="175">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="175">
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31408" actor_name="Hungary" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0255">
+    <Sentences>
+      <Sentence char_offsets="189:395" id="0" />
+      <Sentence char_offsets="406:584" id="1" />
+      <Sentence char_offsets="586:631" id="2" />
+      <Sentence char_offsets="642:884" id="3" />
+      <Sentence char_offsets="895:1038" id="4" />
+      <Sentence char_offsets="1040:1159" id="5" />
+      <Sentence char_offsets="1170:1392" id="6" />
+      <Sentence char_offsets="1394:1485" id="7" />
+      <Sentence char_offsets="1496:1694" id="8" />
+      <Sentence char_offsets="1705:1841" id="9" />
+      <Sentence char_offsets="1852:2005" id="10" />
+      <Sentence char_offsets="2016:2183" id="11" />
+      <Sentence char_offsets="2185:2386" id="12" />
+      <Sentence char_offsets="2397:2458" id="13" />
+      <Sentence char_offsets="2469:2550" id="14" />
+      <Sentence char_offsets="2561:2679" id="15" />
+      <Sentence char_offsets="2690:2835" id="16" />
+      <Sentence char_offsets="2846:2945" id="17" />
+      <Sentence char_offsets="2947:3059" id="18" />
+      <Sentence char_offsets="3070:3217" id="19" />
+      <Sentence char_offsets="3228:3233" id="20" />
+      <Sentence char_offsets="3244:3304" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="012">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="111">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,75 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0478">
+    <Sentences>
+      <Sentence char_offsets="172:358" id="0" />
+      <Sentence char_offsets="369:506" id="1" />
+      <Sentence char_offsets="517:620" id="2" />
+      <Sentence char_offsets="622:705" id="3" />
+      <Sentence char_offsets="716:901" id="4" />
+      <Sentence char_offsets="912:1133" id="5" />
+      <Sentence char_offsets="1144:1315" id="6" />
+      <Sentence char_offsets="1326:1380" id="7" />
+      <Sentence char_offsets="1391:1504" id="8" />
+      <Sentence char_offsets="1515:1721" id="9" />
+      <Sentence char_offsets="1732:1992" id="10" />
+      <Sentence char_offsets="2003:2170" id="11" />
+      <Sentence char_offsets="2181:2305" id="12" />
+      <Sentence char_offsets="2316:2409" id="13" />
+      <Sentence char_offsets="2411:2490" id="14" />
+      <Sentence char_offsets="2501:2669" id="15" />
+      <Sentence char_offsets="2680:2855" id="16" />
+      <Sentence char_offsets="2866:3028" id="17" />
+      <Sentence char_offsets="3039:3193" id="18" />
+      <Sentence char_offsets="3204:3394" id="19" />
+      <Sentence char_offsets="3396:3430" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="159" agent_name="Special Court" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="historical" type="020">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="historical" type="036">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="12202" actor_name="Khalil Ibrahim" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="081">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="18" tense="neutral" type="112">
+        <Participant actor_id="31302" actor_name="International Court of Justice" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="current" type="120">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="7" tense="neutral" type="139">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="0" tense="current" type="170">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="neutral" type="180">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

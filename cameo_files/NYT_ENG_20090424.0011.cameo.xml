@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090424.0011">
+    <Sentences>
+      <Sentence char_offsets="284:516" id="0" />
+      <Sentence char_offsets="527:794" id="1" />
+      <Sentence char_offsets="805:1023" id="2" />
+      <Sentence char_offsets="1034:1151" id="3" />
+      <Sentence char_offsets="1153:1252" id="4" />
+      <Sentence char_offsets="1263:1465" id="5" />
+      <Sentence char_offsets="1467:1626" id="6" />
+      <Sentence char_offsets="1628:1689" id="7" />
+      <Sentence char_offsets="1700:1853" id="8" />
+      <Sentence char_offsets="1855:2001" id="9" />
+      <Sentence char_offsets="2003:2197" id="10" />
+      <Sentence char_offsets="2208:2293" id="11" />
+      <Sentence char_offsets="2295:2385" id="12" />
+      <Sentence char_offsets="2396:2460" id="13" />
+      <Sentence char_offsets="2471:2648" id="14" />
+      <Sentence char_offsets="2650:2829" id="15" />
+      <Sentence char_offsets="2831:2916" id="16" />
+      <Sentence char_offsets="2927:3141" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="036">
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="32631" actor_name="China" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="111">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="29182" actor_name="Aso Taro" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

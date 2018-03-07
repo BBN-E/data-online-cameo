@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0946">
+    <Sentences>
+      <Sentence char_offsets="189:429" id="0" />
+      <Sentence char_offsets="440:751" id="1" />
+      <Sentence char_offsets="762:912" id="2" />
+      <Sentence char_offsets="914:983" id="3" />
+      <Sentence char_offsets="985:1022" id="4" />
+      <Sentence char_offsets="1033:1159" id="5" />
+      <Sentence char_offsets="1170:1244" id="6" />
+      <Sentence char_offsets="1246:1312" id="7" />
+      <Sentence char_offsets="1323:1444" id="8" />
+      <Sentence char_offsets="1455:1573" id="9" />
+      <Sentence char_offsets="1575:1881" id="10" />
+      <Sentence char_offsets="1892:2013" id="11" />
+      <Sentence char_offsets="2024:2193" id="12" />
+      <Sentence char_offsets="2204:2412" id="13" />
+      <Sentence char_offsets="2414:2533" id="14" />
+      <Sentence char_offsets="2544:2607" id="15" />
+      <Sentence char_offsets="2609:2758" id="16" />
+      <Sentence char_offsets="2769:2904" id="17" />
+      <Sentence char_offsets="2906:2967" id="18" />
+      <Sentence char_offsets="2978:3017" id="19" />
+      <Sentence char_offsets="3019:3121" id="20" />
+      <Sentence char_offsets="3132:3320" id="21" />
+      <Sentence char_offsets="3322:3416" id="22" />
+      <Sentence char_offsets="3427:3551" id="23" />
+      <Sentence char_offsets="3562:3723" id="24" />
+      <Sentence char_offsets="3734:3857" id="25" />
+      <Sentence char_offsets="3868:4002" id="26" />
+      <Sentence char_offsets="4004:4107" id="27" />
+      <Sentence char_offsets="4118:4240" id="28" />
+      <Sentence char_offsets="4242:4350" id="29" />
+      <Sentence char_offsets="4361:4366" id="30" />
+      <Sentence char_offsets="4377:4586" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="535" agent_name="Customs Official" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

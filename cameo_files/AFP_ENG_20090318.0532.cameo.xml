@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0532">
+    <Sentences>
+      <Sentence char_offsets="186:344" id="0" />
+      <Sentence char_offsets="355:533" id="1" />
+      <Sentence char_offsets="544:668" id="2" />
+      <Sentence char_offsets="679:885" id="3" />
+      <Sentence char_offsets="896:1041" id="4" />
+      <Sentence char_offsets="1052:1111" id="5" />
+      <Sentence char_offsets="1122:1277" id="6" />
+      <Sentence char_offsets="1288:1385" id="7" />
+      <Sentence char_offsets="1396:1554" id="8" />
+      <Sentence char_offsets="1565:1717" id="9" />
+      <Sentence char_offsets="1728:1923" id="10" />
+      <Sentence char_offsets="1934:2063" id="11" />
+      <Sentence char_offsets="2074:2179" id="12" />
+      <Sentence char_offsets="2190:2353" id="13" />
+      <Sentence char_offsets="2364:2482" id="14" />
+      <Sentence char_offsets="2493:2580" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="050">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="239409" actor_name="PSA Peugeot Citroen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

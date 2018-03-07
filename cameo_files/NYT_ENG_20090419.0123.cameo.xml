@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090419.0123">
+    <Sentences>
+      <Sentence char_offsets="167:264" id="0" />
+      <Sentence char_offsets="275:366" id="1" />
+      <Sentence char_offsets="368:526" id="2" />
+      <Sentence char_offsets="537:705" id="3" />
+      <Sentence char_offsets="707:873" id="4" />
+      <Sentence char_offsets="884:1000" id="5" />
+      <Sentence char_offsets="1002:1054" id="6" />
+      <Sentence char_offsets="1065:1208" id="7" />
+      <Sentence char_offsets="1210:1389" id="8" />
+      <Sentence char_offsets="1391:1455" id="9" />
+      <Sentence char_offsets="1466:1536" id="10" />
+      <Sentence char_offsets="1538:1672" id="11" />
+      <Sentence char_offsets="1674:1791" id="12" />
+      <Sentence char_offsets="1802:2066" id="13" />
+      <Sentence char_offsets="2077:2250" id="14" />
+      <Sentence char_offsets="2252:2393" id="15" />
+      <Sentence char_offsets="2395:2420" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="50711" actor_name="Rahm Israel Emanuel" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

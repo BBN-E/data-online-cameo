@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1174">
+    <Sentences>
+      <Sentence char_offsets="190:396" id="0" />
+      <Sentence char_offsets="407:624" id="1" />
+      <Sentence char_offsets="635:812" id="2" />
+      <Sentence char_offsets="823:902" id="3" />
+      <Sentence char_offsets="904:1091" id="4" />
+      <Sentence char_offsets="1102:1207" id="5" />
+      <Sentence char_offsets="1209:1329" id="6" />
+      <Sentence char_offsets="1340:1379" id="7" />
+      <Sentence char_offsets="1381:1476" id="8" />
+      <Sentence char_offsets="1487:1669" id="9" />
+      <Sentence char_offsets="1680:1824" id="10" />
+      <Sentence char_offsets="1835:1910" id="11" />
+      <Sentence char_offsets="1912:2016" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="170">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="32283" actor_name="Belarus" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Source" />
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="31850" actor_name="Italy" role="Source" />
+        <Participant actor_id="11792" actor_name="Alexander Lukashenko" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

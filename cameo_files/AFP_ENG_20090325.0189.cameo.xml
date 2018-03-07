@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0189">
+    <Sentences>
+      <Sentence char_offsets="192:359" id="0" />
+      <Sentence char_offsets="370:593" id="1" />
+      <Sentence char_offsets="604:749" id="2" />
+      <Sentence char_offsets="760:896" id="3" />
+      <Sentence char_offsets="907:983" id="4" />
+      <Sentence char_offsets="985:1028" id="5" />
+      <Sentence char_offsets="1039:1222" id="6" />
+      <Sentence char_offsets="1233:1320" id="7" />
+      <Sentence char_offsets="1331:1495" id="8" />
+      <Sentence char_offsets="1506:1590" id="9" />
+      <Sentence char_offsets="1601:1615" id="10" />
+      <Sentence char_offsets="1617:1695" id="11" />
+      <Sentence char_offsets="1706:1836" id="12" />
+      <Sentence char_offsets="1838:1892" id="13" />
+      <Sentence char_offsets="1903:2085" id="14" />
+      <Sentence char_offsets="2096:2306" id="15" />
+      <Sentence char_offsets="2317:2502" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="42877" actor_name="Alexandr Vondra" role="Source" />
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

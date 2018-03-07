@@ -1,0 +1,97 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0365">
+    <Sentences>
+      <Sentence char_offsets="194:390" id="0" />
+      <Sentence char_offsets="401:512" id="1" />
+      <Sentence char_offsets="514:580" id="2" />
+      <Sentence char_offsets="591:746" id="3" />
+      <Sentence char_offsets="757:1014" id="4" />
+      <Sentence char_offsets="1025:1217" id="5" />
+      <Sentence char_offsets="1228:1451" id="6" />
+      <Sentence char_offsets="1462:1580" id="7" />
+      <Sentence char_offsets="1582:1680" id="8" />
+      <Sentence char_offsets="1691:1850" id="9" />
+      <Sentence char_offsets="1861:2047" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="051">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="35321" actor_name="Saudi Arabia" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="8" tense="neutral" type="111">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="10" tense="neutral" type="111">
+        <Participant actor_id="21393" actor_name="Fatah" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="10" tense="neutral" type="111">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="21393" actor_name="Fatah" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="21393" actor_name="Fatah" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="5" tense="historical" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

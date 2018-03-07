@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0036">
+    <Sentences>
+      <Sentence char_offsets="186:336" id="0" />
+      <Sentence char_offsets="347:519" id="1" />
+      <Sentence char_offsets="530:662" id="2" />
+      <Sentence char_offsets="673:796" id="3" />
+      <Sentence char_offsets="798:916" id="4" />
+      <Sentence char_offsets="927:1029" id="5" />
+      <Sentence char_offsets="1040:1128" id="6" />
+      <Sentence char_offsets="1130:1226" id="7" />
+      <Sentence char_offsets="1237:1392" id="8" />
+      <Sentence char_offsets="1403:1618" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="112">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="128">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

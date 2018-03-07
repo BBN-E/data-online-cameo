@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0812">
+    <Sentences>
+      <Sentence char_offsets="185:394" id="0" />
+      <Sentence char_offsets="405:523" id="1" />
+      <Sentence char_offsets="534:781" id="2" />
+      <Sentence char_offsets="792:908" id="3" />
+      <Sentence char_offsets="919:1003" id="4" />
+      <Sentence char_offsets="1005:1140" id="5" />
+      <Sentence char_offsets="1151:1340" id="6" />
+      <Sentence char_offsets="1351:1562" id="7" />
+      <Sentence char_offsets="1573:1630" id="8" />
+      <Sentence char_offsets="1641:1692" id="9" />
+      <Sentence char_offsets="1694:1858" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

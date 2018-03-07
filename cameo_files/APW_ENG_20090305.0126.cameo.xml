@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0126">
+    <Sentences>
+      <Sentence char_offsets="191:435" id="0" />
+      <Sentence char_offsets="446:639" id="1" />
+      <Sentence char_offsets="650:857" id="2" />
+      <Sentence char_offsets="868:1173" id="3" />
+      <Sentence char_offsets="1184:1367" id="4" />
+      <Sentence char_offsets="1378:1532" id="5" />
+      <Sentence char_offsets="1543:1774" id="6" />
+      <Sentence char_offsets="1785:1965" id="7" />
+      <Sentence char_offsets="1976:2204" id="8" />
+      <Sentence char_offsets="2215:2378" id="9" />
+      <Sentence char_offsets="2389:2747" id="10" />
+      <Sentence char_offsets="2758:2886" id="11" />
+      <Sentence char_offsets="2888:2975" id="12" />
+      <Sentence char_offsets="2977:3015" id="13" />
+      <Sentence char_offsets="3026:3307" id="14" />
+      <Sentence char_offsets="3318:3460" id="15" />
+      <Sentence char_offsets="3471:3661" id="16" />
+      <Sentence char_offsets="3672:3849" id="17" />
+      <Sentence char_offsets="3860:4042" id="18" />
+      <Sentence char_offsets="4053:4101" id="19" />
+      <Sentence char_offsets="4103:4128" id="20" />
+      <Sentence char_offsets="4139:4509" id="21" />
+      <Sentence char_offsets="4520:4760" id="22" />
+      <Sentence char_offsets="4771:4907" id="23" />
+      <Sentence char_offsets="4918:5124" id="24" />
+      <Sentence char_offsets="5135:5400" id="25" />
+      <Sentence char_offsets="5411:5456" id="26" />
+      <Sentence char_offsets="5467:5566" id="27" />
+      <Sentence char_offsets="5577:5818" id="28" />
+      <Sentence char_offsets="5829:5997" id="29" />
+      <Sentence char_offsets="6008:6152" id="30" />
+      <Sentence char_offsets="6163:6168" id="31" />
+      <Sentence char_offsets="6179:6311" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,63 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0746">
+    <Sentences>
+      <Sentence char_offsets="182:349" id="0" />
+      <Sentence char_offsets="360:559" id="1" />
+      <Sentence char_offsets="570:813" id="2" />
+      <Sentence char_offsets="824:936" id="3" />
+      <Sentence char_offsets="947:1014" id="4" />
+      <Sentence char_offsets="1025:1278" id="5" />
+      <Sentence char_offsets="1289:1350" id="6" />
+      <Sentence char_offsets="1361:1571" id="7" />
+      <Sentence char_offsets="1582:1807" id="8" />
+      <Sentence char_offsets="1818:2033" id="9" />
+      <Sentence char_offsets="2044:2230" id="10" />
+      <Sentence char_offsets="2241:2330" id="11" />
+      <Sentence char_offsets="2341:2560" id="12" />
+      <Sentence char_offsets="2571:2603" id="13" />
+      <Sentence char_offsets="2614:2768" id="14" />
+      <Sentence char_offsets="2779:2883" id="15" />
+      <Sentence char_offsets="2894:3037" id="16" />
+      <Sentence char_offsets="3048:3263" id="17" />
+      <Sentence char_offsets="3274:3416" id="18" />
+      <Sentence char_offsets="3427:3655" id="19" />
+      <Sentence char_offsets="3666:3767" id="20" />
+      <Sentence char_offsets="3778:3995" id="21" />
+      <Sentence char_offsets="4006:4251" id="22" />
+      <Sentence char_offsets="4262:4369" id="23" />
+      <Sentence char_offsets="4380:4511" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="28216" actor_name="Susan Elizabeth Rice" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="020">
+        <Participant actor_id="6097" actor_name="Anti Defamation League" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="15" tense="neutral" type="111">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="30884" actor_name="United Nations Human Rights Council" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="111">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

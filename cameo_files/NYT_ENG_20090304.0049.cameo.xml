@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090304.0049">
+    <Sentences>
+      <Sentence char_offsets="161:403" id="0" />
+      <Sentence char_offsets="414:593" id="1" />
+      <Sentence char_offsets="595:800" id="2" />
+      <Sentence char_offsets="811:887" id="3" />
+      <Sentence char_offsets="898:1121" id="4" />
+      <Sentence char_offsets="1123:1368" id="5" />
+      <Sentence char_offsets="1379:1564" id="6" />
+      <Sentence char_offsets="1575:1802" id="7" />
+      <Sentence char_offsets="1813:2136" id="8" />
+      <Sentence char_offsets="2147:2314" id="9" />
+      <Sentence char_offsets="2325:2518" id="10" />
+      <Sentence char_offsets="2529:2613" id="11" />
+      <Sentence char_offsets="2615:2681" id="12" />
+      <Sentence char_offsets="2683:2743" id="13" />
+      <Sentence char_offsets="2754:2880" id="14" />
+      <Sentence char_offsets="2882:3077" id="15" />
+      <Sentence char_offsets="3088:3273" id="16" />
+      <Sentence char_offsets="3284:3472" id="17" />
+      <Sentence char_offsets="3474:3659" id="18" />
+      <Sentence char_offsets="3670:3779" id="19" />
+      <Sentence char_offsets="3781:3858" id="20" />
+      <Sentence char_offsets="3869:4059" id="21" />
+      <Sentence char_offsets="4070:4099" id="22" />
+      <Sentence char_offsets="4101:4112" id="23" />
+      <Sentence char_offsets="4114:4187" id="24" />
+      <Sentence char_offsets="4189:4207" id="25" />
+      <Sentence char_offsets="4209:4239" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="38478" actor_name="U.S. Supreme Court" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="289" agent_name="Pharmaceutical Firm" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="38558" actor_name="Food and Drug Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="016">
+        <Participant actor_id="41262" actor_name="United States" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="289" agent_name="Pharmaceutical Firm" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="24" tense="neutral" type="041">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="24" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="17" tense="current" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

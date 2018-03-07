@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.0189">
+    <Sentences>
+      <Sentence char_offsets="170:211" id="0" />
+      <Sentence char_offsets="222:227" id="1" />
+      <Sentence char_offsets="238:487" id="2" />
+      <Sentence char_offsets="489:558" id="3" />
+      <Sentence char_offsets="569:574" id="4" />
+      <Sentence char_offsets="585:704" id="5" />
+      <Sentence char_offsets="706:754" id="6" />
+      <Sentence char_offsets="756:852" id="7" />
+      <Sentence char_offsets="854:1022" id="8" />
+      <Sentence char_offsets="1024:1210" id="9" />
+      <Sentence char_offsets="1221:1224" id="10" />
+      <Sentence char_offsets="1235:1300" id="11" />
+      <Sentence char_offsets="1302:1399" id="12" />
+      <Sentence char_offsets="1401:1459" id="13" />
+      <Sentence char_offsets="1461:1580" id="14" />
+      <Sentence char_offsets="1582:1654" id="15" />
+      <Sentence char_offsets="1656:1831" id="16" />
+      <Sentence char_offsets="1842:1845" id="17" />
+      <Sentence char_offsets="1856:2017" id="18" />
+      <Sentence char_offsets="2019:2106" id="19" />
+      <Sentence char_offsets="2117:2120" id="20" />
+      <Sentence char_offsets="2131:2245" id="21" />
+      <Sentence char_offsets="2247:2338" id="22" />
+      <Sentence char_offsets="2340:2499" id="23" />
+      <Sentence char_offsets="2501:2721" id="24" />
+      <Sentence char_offsets="2723:2773" id="25" />
+      <Sentence char_offsets="2784:2789" id="26" />
+      <Sentence char_offsets="2800:2893" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34736" actor_name="Kim Jong-Il" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

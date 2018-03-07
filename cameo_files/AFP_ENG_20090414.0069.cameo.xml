@@ -1,0 +1,59 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0069">
+    <Sentences>
+      <Sentence char_offsets="171:182" id="0" />
+      <Sentence char_offsets="184:194" id="1" />
+      <Sentence char_offsets="197:217" id="2" />
+      <Sentence char_offsets="220:265" id="3" />
+      <Sentence char_offsets="268:301" id="4" />
+      <Sentence char_offsets="304:337" id="5" />
+      <Sentence char_offsets="340:489" id="6" />
+      <Sentence char_offsets="491:506" id="7" />
+      <Sentence char_offsets="508:554" id="8" />
+      <Sentence char_offsets="557:595" id="9" />
+      <Sentence char_offsets="597:612" id="10" />
+      <Sentence char_offsets="614:642" id="11" />
+      <Sentence char_offsets="645:740" id="12" />
+      <Sentence char_offsets="742:759" id="13" />
+      <Sentence char_offsets="762:934" id="14" />
+      <Sentence char_offsets="936:951" id="15" />
+      <Sentence char_offsets="953:977" id="16" />
+      <Sentence char_offsets="980:1024" id="17" />
+      <Sentence char_offsets="1026:1043" id="18" />
+      <Sentence char_offsets="1046:1148" id="19" />
+      <Sentence char_offsets="1150:1167" id="20" />
+      <Sentence char_offsets="1170:1220" id="21" />
+      <Sentence char_offsets="1222:1237" id="22" />
+      <Sentence char_offsets="1239:1268" id="23" />
+      <Sentence char_offsets="1271:1428" id="24" />
+      <Sentence char_offsets="1430:1445" id="25" />
+      <Sentence char_offsets="1447:1463" id="26" />
+      <Sentence char_offsets="1466:1528" id="27" />
+      <Sentence char_offsets="1530:1547" id="28" />
+      <Sentence char_offsets="1550:1646" id="29" />
+      <Sentence char_offsets="1648:1665" id="30" />
+      <Sentence char_offsets="1668:1743" id="31" />
+      <Sentence char_offsets="1745:1762" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="040">
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

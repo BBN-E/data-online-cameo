@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0351">
+    <Sentences>
+      <Sentence char_offsets="180:348" id="0" />
+      <Sentence char_offsets="359:563" id="1" />
+      <Sentence char_offsets="574:670" id="2" />
+      <Sentence char_offsets="672:745" id="3" />
+      <Sentence char_offsets="756:932" id="4" />
+      <Sentence char_offsets="943:980" id="5" />
+      <Sentence char_offsets="991:1204" id="6" />
+      <Sentence char_offsets="1215:1333" id="7" />
+      <Sentence char_offsets="1344:1497" id="8" />
+      <Sentence char_offsets="1508:1670" id="9" />
+      <Sentence char_offsets="1681:1814" id="10" />
+      <Sentence char_offsets="1816:1875" id="11" />
+      <Sentence char_offsets="1886:2021" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="239828" actor_name="Rostec" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="239828" actor_name="Rostec" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

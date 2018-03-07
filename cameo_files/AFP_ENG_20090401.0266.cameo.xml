@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0266">
+    <Sentences>
+      <Sentence char_offsets="178:347" id="0" />
+      <Sentence char_offsets="358:561" id="1" />
+      <Sentence char_offsets="572:762" id="2" />
+      <Sentence char_offsets="773:949" id="3" />
+      <Sentence char_offsets="951:1014" id="4" />
+      <Sentence char_offsets="1025:1100" id="5" />
+      <Sentence char_offsets="1102:1135" id="6" />
+      <Sentence char_offsets="1146:1225" id="7" />
+      <Sentence char_offsets="1227:1279" id="8" />
+      <Sentence char_offsets="1290:1341" id="9" />
+      <Sentence char_offsets="1343:1465" id="10" />
+      <Sentence char_offsets="1466:1482" id="11" />
+      <Sentence char_offsets="1493:1659" id="12" />
+      <Sentence char_offsets="1670:1717" id="13" />
+      <Sentence char_offsets="1719:1784" id="14" />
+      <Sentence char_offsets="1795:1884" id="15" />
+      <Sentence char_offsets="1886:1922" id="16" />
+      <Sentence char_offsets="1924:2010" id="17" />
+      <Sentence char_offsets="2021:2124" id="18" />
+      <Sentence char_offsets="2126:2219" id="19" />
+      <Sentence char_offsets="2221:2259" id="20" />
+      <Sentence char_offsets="2261:2274" id="21" />
+      <Sentence char_offsets="2285:2437" id="22" />
+      <Sentence char_offsets="2448:2566" id="23" />
+      <Sentence char_offsets="2577:2616" id="24" />
+      <Sentence char_offsets="2618:2652" id="25" />
+      <Sentence char_offsets="2654:2690" id="26" />
+      <Sentence char_offsets="2692:2761" id="27" />
+      <Sentence char_offsets="2772:2815" id="28" />
+      <Sentence char_offsets="2817:2850" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="62" agent_name="Christian" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

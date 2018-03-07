@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090322.0383">
+    <Sentences>
+      <Sentence char_offsets="185:371" id="0" />
+      <Sentence char_offsets="382:600" id="1" />
+      <Sentence char_offsets="611:833" id="2" />
+      <Sentence char_offsets="844:1032" id="3" />
+      <Sentence char_offsets="1043:1114" id="4" />
+      <Sentence char_offsets="1125:1357" id="5" />
+      <Sentence char_offsets="1368:1543" id="6" />
+      <Sentence char_offsets="1554:1749" id="7" />
+      <Sentence char_offsets="1760:1963" id="8" />
+      <Sentence char_offsets="1974:2201" id="9" />
+      <Sentence char_offsets="2212:2430" id="10" />
+      <Sentence char_offsets="2441:2652" id="11" />
+      <Sentence char_offsets="2663:2789" id="12" />
+      <Sentence char_offsets="2800:3020" id="13" />
+      <Sentence char_offsets="3031:3098" id="14" />
+      <Sentence char_offsets="3109:3249" id="15" />
+      <Sentence char_offsets="3260:3396" id="16" />
+      <Sentence char_offsets="3407:3524" id="17" />
+      <Sentence char_offsets="3535:3677" id="18" />
+      <Sentence char_offsets="3688:3910" id="19" />
+      <Sentence char_offsets="3921:4067" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="032">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

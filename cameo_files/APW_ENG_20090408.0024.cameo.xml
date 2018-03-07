@@ -1,0 +1,80 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.0024">
+    <Sentences>
+      <Sentence char_offsets="186:272" id="0" />
+      <Sentence char_offsets="274:309" id="1" />
+      <Sentence char_offsets="320:444" id="2" />
+      <Sentence char_offsets="446:522" id="3" />
+      <Sentence char_offsets="533:623" id="4" />
+      <Sentence char_offsets="634:639" id="5" />
+      <Sentence char_offsets="650:736" id="6" />
+      <Sentence char_offsets="747:771" id="7" />
+      <Sentence char_offsets="773:784" id="8" />
+      <Sentence char_offsets="795:949" id="9" />
+      <Sentence char_offsets="960:1148" id="10" />
+      <Sentence char_offsets="1159:1166" id="11" />
+      <Sentence char_offsets="1177:1276" id="12" />
+      <Sentence char_offsets="1287:1337" id="13" />
+      <Sentence char_offsets="1348:1511" id="14" />
+      <Sentence char_offsets="1522:1591" id="15" />
+      <Sentence char_offsets="1593:1629" id="16" />
+      <Sentence char_offsets="1640:1767" id="17" />
+      <Sentence char_offsets="1778:1783" id="18" />
+      <Sentence char_offsets="1794:1822" id="19" />
+      <Sentence char_offsets="1833:1902" id="20" />
+      <Sentence char_offsets="1913:2213" id="21" />
+      <Sentence char_offsets="2224:2349" id="22" />
+      <Sentence char_offsets="2360:2365" id="23" />
+      <Sentence char_offsets="2376:2529" id="24" />
+      <Sentence char_offsets="2540:2632" id="25" />
+      <Sentence char_offsets="2643:2880" id="26" />
+      <Sentence char_offsets="2882:2956" id="27" />
+      <Sentence char_offsets="2967:3083" id="28" />
+      <Sentence char_offsets="3094:3232" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="28" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="12" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="48858" actor_name="Jalal Talabani" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="12" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

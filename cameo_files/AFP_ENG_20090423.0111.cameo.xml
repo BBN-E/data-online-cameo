@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0111">
+    <Sentences>
+      <Sentence char_offsets="182:408" id="0" />
+      <Sentence char_offsets="419:669" id="1" />
+      <Sentence char_offsets="680:718" id="2" />
+      <Sentence char_offsets="720:928" id="3" />
+      <Sentence char_offsets="939:1143" id="4" />
+      <Sentence char_offsets="1154:1292" id="5" />
+      <Sentence char_offsets="1303:1417" id="6" />
+      <Sentence char_offsets="1428:1511" id="7" />
+      <Sentence char_offsets="1513:1578" id="8" />
+      <Sentence char_offsets="1589:1761" id="9" />
+      <Sentence char_offsets="1772:1971" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="161">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

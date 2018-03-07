@@ -1,0 +1,132 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0043">
+    <Sentences>
+      <Sentence char_offsets="189:437" id="0" />
+      <Sentence char_offsets="448:710" id="1" />
+      <Sentence char_offsets="721:937" id="2" />
+      <Sentence char_offsets="948:1206" id="3" />
+      <Sentence char_offsets="1217:1414" id="4" />
+      <Sentence char_offsets="1416:1576" id="5" />
+      <Sentence char_offsets="1587:1759" id="6" />
+      <Sentence char_offsets="1761:1858" id="7" />
+      <Sentence char_offsets="1869:2048" id="8" />
+      <Sentence char_offsets="2050:2148" id="9" />
+      <Sentence char_offsets="2159:2436" id="10" />
+      <Sentence char_offsets="2447:2556" id="11" />
+      <Sentence char_offsets="2558:2637" id="12" />
+      <Sentence char_offsets="2648:2696" id="13" />
+      <Sentence char_offsets="2698:2874" id="14" />
+      <Sentence char_offsets="2885:3078" id="15" />
+      <Sentence char_offsets="3080:3163" id="16" />
+      <Sentence char_offsets="3174:3223" id="17" />
+      <Sentence char_offsets="3225:3297" id="18" />
+      <Sentence char_offsets="3308:3582" id="19" />
+      <Sentence char_offsets="3593:3925" id="20" />
+      <Sentence char_offsets="3936:4102" id="21" />
+      <Sentence char_offsets="4113:4353" id="22" />
+      <Sentence char_offsets="4364:4548" id="23" />
+      <Sentence char_offsets="4559:4684" id="24" />
+      <Sentence char_offsets="4686:4732" id="25" />
+      <Sentence char_offsets="4743:4869" id="26" />
+      <Sentence char_offsets="4871:4976" id="27" />
+      <Sentence char_offsets="4987:5032" id="28" />
+      <Sentence char_offsets="5043:5195" id="29" />
+      <Sentence char_offsets="5197:5363" id="30" />
+      <Sentence char_offsets="5374:5475" id="31" />
+      <Sentence char_offsets="5486:5651" id="32" />
+      <Sentence char_offsets="5662:5720" id="33" />
+      <Sentence char_offsets="5722:5796" id="34" />
+      <Sentence char_offsets="5807:6039" id="35" />
+      <Sentence char_offsets="6050:6175" id="36" />
+      <Sentence char_offsets="6177:6277" id="37" />
+      <Sentence char_offsets="6288:6350" id="38" />
+      <Sentence char_offsets="6352:6542" id="39" />
+      <Sentence char_offsets="6553:6558" id="40" />
+      <Sentence char_offsets="6569:6714" id="41" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="32" tense="neutral" type="010">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="35" tense="neutral" type="010">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="current" type="041">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="current" type="041">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="042">
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="10" tense="neutral" type="100">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="35" tense="historical" type="111">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="10" tense="current" type="154">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="14" tense="neutral" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="343" agent_name="Armed Opposition" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="35" tense="historical" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="246" agent_name="Militia" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="35" tense="historical" type="190">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="246" agent_name="Militia" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="39" tense="ongoing" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="39" tense="ongoing" type="190">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="14" tense="current" type="193">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="343" agent_name="Armed Opposition" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="9" tense="neutral" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="10382" actor_name="Michael Mullen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

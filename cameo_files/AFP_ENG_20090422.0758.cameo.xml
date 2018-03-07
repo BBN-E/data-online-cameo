@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0758">
+    <Sentences>
+      <Sentence char_offsets="181:362" id="0" />
+      <Sentence char_offsets="373:539" id="1" />
+      <Sentence char_offsets="550:680" id="2" />
+      <Sentence char_offsets="691:823" id="3" />
+      <Sentence char_offsets="834:1040" id="4" />
+      <Sentence char_offsets="1051:1183" id="5" />
+      <Sentence char_offsets="1194:1304" id="6" />
+      <Sentence char_offsets="1315:1460" id="7" />
+      <Sentence char_offsets="1471:1615" id="8" />
+      <Sentence char_offsets="1626:1815" id="9" />
+      <Sentence char_offsets="1826:2032" id="10" />
+      <Sentence char_offsets="2043:2249" id="11" />
+      <Sentence char_offsets="2260:2327" id="12" />
+      <Sentence char_offsets="2329:2421" id="13" />
+      <Sentence char_offsets="2432:2512" id="14" />
+      <Sentence char_offsets="2523:2643" id="15" />
+      <Sentence char_offsets="2645:2742" id="16" />
+      <Sentence char_offsets="2753:2896" id="17" />
+      <Sentence char_offsets="2907:2973" id="18" />
+      <Sentence char_offsets="2975:3083" id="19" />
+      <Sentence char_offsets="3085:3173" id="20" />
+      <Sentence char_offsets="3184:3265" id="21" />
+      <Sentence char_offsets="3267:3342" id="22" />
+      <Sentence char_offsets="3353:3511" id="23" />
+      <Sentence char_offsets="3522:3686" id="24" />
+      <Sentence char_offsets="3697:3878" id="25" />
+      <Sentence char_offsets="3889:3966" id="26" />
+      <Sentence char_offsets="3977:4083" id="27" />
+      <Sentence char_offsets="4085:4163" id="28" />
+      <Sentence char_offsets="4174:4370" id="29" />
+      <Sentence char_offsets="4381:4548" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="5612" actor_name="Tarek El Aissami" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="32733" actor_name="Omar Barboza" role="Source" />
+        <Participant actor_id="36090" actor_name="New Era Party" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="39606" actor_name="Jos&#233; Antonio Garc&#237;a Bela&#250;nde" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="042">
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="24" tense="neutral" type="043">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="2763" actor_name="Manuel Rosales" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

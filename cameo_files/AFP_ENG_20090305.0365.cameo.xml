@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0365">
+    <Sentences>
+      <Sentence char_offsets="182:381" id="0" />
+      <Sentence char_offsets="392:559" id="1" />
+      <Sentence char_offsets="570:748" id="2" />
+      <Sentence char_offsets="759:888" id="3" />
+      <Sentence char_offsets="899:1036" id="4" />
+      <Sentence char_offsets="1047:1180" id="5" />
+      <Sentence char_offsets="1191:1367" id="6" />
+      <Sentence char_offsets="1378:1545" id="7" />
+      <Sentence char_offsets="1556:1757" id="8" />
+      <Sentence char_offsets="1768:1890" id="9" />
+      <Sentence char_offsets="1901:2030" id="10" />
+      <Sentence char_offsets="2041:2233" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="historical" type="051">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="historical" type="143">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="328" agent_name="Nurse" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

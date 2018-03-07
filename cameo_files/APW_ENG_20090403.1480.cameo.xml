@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.1480">
+    <Sentences>
+      <Sentence char_offsets="192:429" id="0" />
+      <Sentence char_offsets="440:750" id="1" />
+      <Sentence char_offsets="761:1022" id="2" />
+      <Sentence char_offsets="1033:1064" id="3" />
+      <Sentence char_offsets="1075:1261" id="4" />
+      <Sentence char_offsets="1272:1518" id="5" />
+      <Sentence char_offsets="1529:1627" id="6" />
+      <Sentence char_offsets="1629:1798" id="7" />
+      <Sentence char_offsets="1809:1831" id="8" />
+      <Sentence char_offsets="1833:1906" id="9" />
+      <Sentence char_offsets="1908:1932" id="10" />
+      <Sentence char_offsets="1934:1958" id="11" />
+      <Sentence char_offsets="1969:2062" id="12" />
+      <Sentence char_offsets="2064:2283" id="13" />
+      <Sentence char_offsets="2294:2422" id="14" />
+      <Sentence char_offsets="2424:2527" id="15" />
+      <Sentence char_offsets="2538:2695" id="16" />
+      <Sentence char_offsets="2706:2865" id="17" />
+      <Sentence char_offsets="2876:2973" id="18" />
+      <Sentence char_offsets="2984:3052" id="19" />
+      <Sentence char_offsets="3063:3201" id="20" />
+      <Sentence char_offsets="3212:3422" id="21" />
+      <Sentence char_offsets="3433:3575" id="22" />
+      <Sentence char_offsets="3586:3755" id="23" />
+      <Sentence char_offsets="3766:3814" id="24" />
+      <Sentence char_offsets="3825:3924" id="25" />
+      <Sentence char_offsets="3926:3993" id="26" />
+      <Sentence char_offsets="4004:4116" id="27" />
+      <Sentence char_offsets="4118:4176" id="28" />
+      <Sentence char_offsets="4178:4264" id="29" />
+      <Sentence char_offsets="4275:4280" id="30" />
+      <Sentence char_offsets="4291:4351" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Source" />
+        <Participant actor_id="12132" actor_name="Alan Garcia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="historical" type="010">
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Source" />
+        <Participant actor_id="12932" actor_name="Fernando Bela&#250;nde Terry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="15" tense="neutral" type="141">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="29" tense="neutral" type="174">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="190">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="3200" actor_name="Shining Path" agent_id="537" agent_name="Guerrilla" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="1" tense="neutral" type="180">
+        <Participant actor_id="3200" actor_name="Shining Path" agent_id="537" agent_name="Guerrilla" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="18" tense="ongoing" type="190">
+        <Participant actor_id="34265" actor_name="Peru" role="Source" />
+        <Participant actor_id="34265" actor_name="Peru" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

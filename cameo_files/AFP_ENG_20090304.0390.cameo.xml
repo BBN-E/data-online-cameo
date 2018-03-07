@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0390">
+    <Sentences>
+      <Sentence char_offsets="190:401" id="0" />
+      <Sentence char_offsets="412:538" id="1" />
+      <Sentence char_offsets="549:720" id="2" />
+      <Sentence char_offsets="731:913" id="3" />
+      <Sentence char_offsets="924:1005" id="4" />
+      <Sentence char_offsets="1016:1267" id="5" />
+      <Sentence char_offsets="1278:1465" id="6" />
+      <Sentence char_offsets="1476:1540" id="7" />
+      <Sentence char_offsets="1551:1732" id="8" />
+      <Sentence char_offsets="1743:1954" id="9" />
+      <Sentence char_offsets="1965:2187" id="10" />
+      <Sentence char_offsets="2198:2327" id="11" />
+      <Sentence char_offsets="2338:2490" id="12" />
+      <Sentence char_offsets="2501:2625" id="13" />
+      <Sentence char_offsets="2636:3011" id="14" />
+      <Sentence char_offsets="3022:3194" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="current" type="042">
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Source" />
+        <Participant actor_id="32902" actor_name="European Bank for Reconstruction and Development" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="current" type="043">
+        <Participant actor_id="32902" actor_name="European Bank for Reconstruction and Development" role="Source" />
+        <Participant actor_id="50421" actor_name="Ferenc Gyurcsany" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

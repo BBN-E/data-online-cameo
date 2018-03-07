@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0218">
+    <Sentences>
+      <Sentence char_offsets="196:381" id="0" />
+      <Sentence char_offsets="392:608" id="1" />
+      <Sentence char_offsets="619:751" id="2" />
+      <Sentence char_offsets="762:897" id="3" />
+      <Sentence char_offsets="908:1019" id="4" />
+      <Sentence char_offsets="1030:1245" id="5" />
+      <Sentence char_offsets="1256:1424" id="6" />
+      <Sentence char_offsets="1435:1490" id="7" />
+      <Sentence char_offsets="1501:1625" id="8" />
+      <Sentence char_offsets="1636:1754" id="9" />
+      <Sentence char_offsets="1765:1982" id="10" />
+      <Sentence char_offsets="1993:2201" id="11" />
+      <Sentence char_offsets="2212:2352" id="12" />
+      <Sentence char_offsets="2363:2574" id="13" />
+      <Sentence char_offsets="2585:2706" id="14" />
+      <Sentence char_offsets="2717:2847" id="15" />
+      <Sentence char_offsets="2849:2899" id="16" />
+      <Sentence char_offsets="2910:3125" id="17" />
+      <Sentence char_offsets="3136:3299" id="18" />
+      <Sentence char_offsets="3310:3530" id="19" />
+      <Sentence char_offsets="3541:3658" id="20" />
+      <Sentence char_offsets="3669:3891" id="21" />
+      <Sentence char_offsets="3902:4017" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="246" agent_name="Militia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="041">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="041">
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="21" tense="current" type="180">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="current" type="180">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="neutral" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="17" tense="historical" type="180">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="44648" actor_name="Kandahar Provincial Council" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="17" tense="neutral" type="180">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="690" agent_name="Attacker" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="20" tense="current" type="190">
+        <Participant actor_id="31105" actor_name="International" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="0" tense="current" type="193">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="11" tense="historical" type="193">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

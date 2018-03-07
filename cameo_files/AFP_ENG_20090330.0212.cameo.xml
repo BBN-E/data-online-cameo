@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0212">
+    <Sentences>
+      <Sentence char_offsets="188:379" id="0" />
+      <Sentence char_offsets="390:612" id="1" />
+      <Sentence char_offsets="623:750" id="2" />
+      <Sentence char_offsets="761:984" id="3" />
+      <Sentence char_offsets="995:1199" id="4" />
+      <Sentence char_offsets="1210:1363" id="5" />
+      <Sentence char_offsets="1374:1488" id="6" />
+      <Sentence char_offsets="1499:1631" id="7" />
+      <Sentence char_offsets="1642:1774" id="8" />
+      <Sentence char_offsets="1785:1839" id="9" />
+      <Sentence char_offsets="1841:1934" id="10" />
+      <Sentence char_offsets="1945:1993" id="11" />
+      <Sentence char_offsets="2004:2149" id="12" />
+      <Sentence char_offsets="2160:2279" id="13" />
+      <Sentence char_offsets="2290:2412" id="14" />
+      <Sentence char_offsets="2414:2508" id="15" />
+      <Sentence char_offsets="2519:2616" id="16" />
+      <Sentence char_offsets="2627:2809" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="25494" actor_name="Jean-Claude Trichet" role="Source" />
+        <Participant actor_id="52839" actor_name="European Parliament" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="52839" actor_name="European Parliament" role="Source" />
+        <Participant actor_id="25494" actor_name="Jean-Claude Trichet" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="043">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0194">
+    <Sentences>
+      <Sentence char_offsets="195:361" id="0" />
+      <Sentence char_offsets="372:634" id="1" />
+      <Sentence char_offsets="645:864" id="2" />
+      <Sentence char_offsets="875:974" id="3" />
+      <Sentence char_offsets="985:1120" id="4" />
+      <Sentence char_offsets="1131:1228" id="5" />
+      <Sentence char_offsets="1239:1350" id="6" />
+      <Sentence char_offsets="1361:1417" id="7" />
+      <Sentence char_offsets="1428:1536" id="8" />
+      <Sentence char_offsets="1547:1629" id="9" />
+      <Sentence char_offsets="1640:1739" id="10" />
+      <Sentence char_offsets="1750:1823" id="11" />
+      <Sentence char_offsets="1825:1878" id="12" />
+      <Sentence char_offsets="1889:2077" id="13" />
+      <Sentence char_offsets="2088:2326" id="14" />
+      <Sentence char_offsets="2337:2642" id="15" />
+      <Sentence char_offsets="2653:2884" id="16" />
+      <Sentence char_offsets="2895:3017" id="17" />
+      <Sentence char_offsets="3028:3110" id="18" />
+      <Sentence char_offsets="3121:3285" id="19" />
+      <Sentence char_offsets="3296:3348" id="20" />
+      <Sentence char_offsets="3350:3452" id="21" />
+      <Sentence char_offsets="3463:3586" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="31205" actor_name="Benita Ferrero-Waldner" role="Source" />
+        <Participant actor_id="55707" actor_name="Mirek Topol&#225;nek" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="190">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

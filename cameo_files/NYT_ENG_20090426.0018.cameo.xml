@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090426.0018">
+    <Sentences>
+      <Sentence char_offsets="163:310" id="0" />
+      <Sentence char_offsets="312:347" id="1" />
+      <Sentence char_offsets="358:680" id="2" />
+      <Sentence char_offsets="691:827" id="3" />
+      <Sentence char_offsets="829:1045" id="4" />
+      <Sentence char_offsets="1056:1401" id="5" />
+      <Sentence char_offsets="1412:1553" id="6" />
+      <Sentence char_offsets="1555:1811" id="7" />
+      <Sentence char_offsets="1822:2133" id="8" />
+      <Sentence char_offsets="2144:2373" id="9" />
+      <Sentence char_offsets="2375:2512" id="10" />
+      <Sentence char_offsets="2523:2797" id="11" />
+      <Sentence char_offsets="2799:2910" id="12" />
+      <Sentence char_offsets="2921:3001" id="13" />
+      <Sentence char_offsets="3003:3096" id="14" />
+      <Sentence char_offsets="3098:3278" id="15" />
+      <Sentence char_offsets="3289:3453" id="16" />
+      <Sentence char_offsets="3464:3576" id="17" />
+      <Sentence char_offsets="3578:3809" id="18" />
+      <Sentence char_offsets="3811:3956" id="19" />
+      <Sentence char_offsets="3967:4153" id="20" />
+      <Sentence char_offsets="4155:4360" id="21" />
+      <Sentence char_offsets="4371:4571" id="22" />
+      <Sentence char_offsets="4582:4808" id="23" />
+      <Sentence char_offsets="4810:4976" id="24" />
+      <Sentence char_offsets="4987:5136" id="25" />
+      <Sentence char_offsets="5147:5356" id="26" />
+      <Sentence char_offsets="5358:5577" id="27" />
+      <Sentence char_offsets="5579:5762" id="28" />
+      <Sentence char_offsets="5773:5972" id="29" />
+      <Sentence char_offsets="5974:6065" id="30" />
+      <Sentence char_offsets="6067:6283" id="31" />
+      <Sentence char_offsets="6285:6358" id="32" />
+      <Sentence char_offsets="6369:6460" id="33" />
+      <Sentence char_offsets="6462:6579" id="34" />
+      <Sentence char_offsets="6581:6634" id="35" />
+      <Sentence char_offsets="6645:6712" id="36" />
+      <Sentence char_offsets="6723:6790" id="37" />
+      <Sentence char_offsets="6792:6873" id="38" />
+      <Sentence char_offsets="6884:6988" id="39" />
+      <Sentence char_offsets="6990:7177" id="40" />
+      <Sentence char_offsets="7188:7235" id="41" />
+      <Sentence char_offsets="7237:7305" id="42" />
+      <Sentence char_offsets="7316:7435" id="43" />
+      <Sentence char_offsets="7437:7582" id="44" />
+      <Sentence char_offsets="7593:7860" id="45" />
+      <Sentence char_offsets="7871:7964" id="46" />
+      <Sentence char_offsets="7966:8037" id="47" />
+      <Sentence char_offsets="8039:8355" id="48" />
+      <Sentence char_offsets="8366:8731" id="49" />
+      <Sentence char_offsets="8742:8920" id="50" />
+      <Sentence char_offsets="8922:8970" id="51" />
+      <Sentence char_offsets="8981:9306" id="52" />
+      <Sentence char_offsets="9317:9452" id="53" />
+      <Sentence char_offsets="9454:9612" id="54" />
+      <Sentence char_offsets="9623:9720" id="55" />
+      <Sentence char_offsets="9722:9755" id="56" />
+      <Sentence char_offsets="9766:9841" id="57" />
+      <Sentence char_offsets="9843:9998" id="58" />
+      <Sentence char_offsets="10000:10111" id="59" />
+      <Sentence char_offsets="10122:10208" id="60" />
+      <Sentence char_offsets="10210:10304" id="61" />
+      <Sentence char_offsets="10315:10584" id="62" />
+      <Sentence char_offsets="10595:10878" id="63" />
+      <Sentence char_offsets="10889:11002" id="64" />
+      <Sentence char_offsets="11013:11075" id="65" />
+      <Sentence char_offsets="11077:11099" id="66" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

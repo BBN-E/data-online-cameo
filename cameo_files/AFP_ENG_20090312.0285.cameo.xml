@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0285">
+    <Sentences>
+      <Sentence char_offsets="184:356" id="0" />
+      <Sentence char_offsets="367:590" id="1" />
+      <Sentence char_offsets="601:765" id="2" />
+      <Sentence char_offsets="776:888" id="3" />
+      <Sentence char_offsets="899:1022" id="4" />
+      <Sentence char_offsets="1033:1239" id="5" />
+      <Sentence char_offsets="1250:1273" id="6" />
+      <Sentence char_offsets="1275:1310" id="7" />
+      <Sentence char_offsets="1321:1428" id="8" />
+      <Sentence char_offsets="1430:1468" id="9" />
+      <Sentence char_offsets="1479:1528" id="10" />
+      <Sentence char_offsets="1530:1561" id="11" />
+      <Sentence char_offsets="1572:1757" id="12" />
+      <Sentence char_offsets="1768:1865" id="13" />
+      <Sentence char_offsets="1876:2025" id="14" />
+      <Sentence char_offsets="2036:2118" id="15" />
+      <Sentence char_offsets="2129:2351" id="16" />
+      <Sentence char_offsets="2362:2404" id="17" />
+      <Sentence char_offsets="2406:2563" id="18" />
+      <Sentence char_offsets="2574:2662" id="19" />
+      <Sentence char_offsets="2673:2825" id="20" />
+      <Sentence char_offsets="2827:2864" id="21" />
+      <Sentence char_offsets="2875:2964" id="22" />
+      <Sentence char_offsets="2975:3126" id="23" />
+      <Sentence char_offsets="3137:3243" id="24" />
+      <Sentence char_offsets="3245:3374" id="25" />
+      <Sentence char_offsets="3385:3550" id="26" />
+      <Sentence char_offsets="3561:3729" id="27" />
+      <Sentence char_offsets="3731:3788" id="28" />
+      <Sentence char_offsets="3799:3899" id="29" />
+      <Sentence char_offsets="3910:4082" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="current" type="018">
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="current" type="018">
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="neutral" type="036">
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="20" tense="neutral" type="042">
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="current" type="051">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="20" tense="neutral" type="043">
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

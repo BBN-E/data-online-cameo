@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0115">
+    <Sentences>
+      <Sentence char_offsets="183:379" id="0" />
+      <Sentence char_offsets="390:612" id="1" />
+      <Sentence char_offsets="623:773" id="2" />
+      <Sentence char_offsets="784:911" id="3" />
+      <Sentence char_offsets="922:1085" id="4" />
+      <Sentence char_offsets="1096:1278" id="5" />
+      <Sentence char_offsets="1289:1336" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="161">
+        <Participant actor_id="58968" actor_name="Franco Frattini" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

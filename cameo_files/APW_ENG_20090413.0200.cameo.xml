@@ -1,0 +1,95 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090413.0200">
+    <Sentences>
+      <Sentence char_offsets="185:420" id="0" />
+      <Sentence char_offsets="431:641" id="1" />
+      <Sentence char_offsets="652:864" id="2" />
+      <Sentence char_offsets="875:1020" id="3" />
+      <Sentence char_offsets="1031:1209" id="4" />
+      <Sentence char_offsets="1220:1496" id="5" />
+      <Sentence char_offsets="1507:1691" id="6" />
+      <Sentence char_offsets="1702:1816" id="7" />
+      <Sentence char_offsets="1827:2048" id="8" />
+      <Sentence char_offsets="2059:2198" id="9" />
+      <Sentence char_offsets="2200:2348" id="10" />
+      <Sentence char_offsets="2359:2507" id="11" />
+      <Sentence char_offsets="2509:2614" id="12" />
+      <Sentence char_offsets="2625:2714" id="13" />
+      <Sentence char_offsets="2716:2852" id="14" />
+      <Sentence char_offsets="2863:3010" id="15" />
+      <Sentence char_offsets="3021:3114" id="16" />
+      <Sentence char_offsets="3116:3213" id="17" />
+      <Sentence char_offsets="3224:3335" id="18" />
+      <Sentence char_offsets="3346:3494" id="19" />
+      <Sentence char_offsets="3505:3687" id="20" />
+      <Sentence char_offsets="3698:3878" id="21" />
+      <Sentence char_offsets="3889:4065" id="22" />
+      <Sentence char_offsets="4067:4213" id="23" />
+      <Sentence char_offsets="4224:4351" id="24" />
+      <Sentence char_offsets="4353:4380" id="25" />
+      <Sentence char_offsets="4391:4415" id="26" />
+      <Sentence char_offsets="4417:4486" id="27" />
+      <Sentence char_offsets="4497:4757" id="28" />
+      <Sentence char_offsets="4768:4908" id="29" />
+      <Sentence char_offsets="4919:5121" id="30" />
+      <Sentence char_offsets="5123:5198" id="31" />
+      <Sentence char_offsets="5209:5337" id="32" />
+      <Sentence char_offsets="5348:5440" id="33" />
+      <Sentence char_offsets="5442:5630" id="34" />
+      <Sentence char_offsets="5641:5732" id="35" />
+      <Sentence char_offsets="5743:5913" id="36" />
+      <Sentence char_offsets="5924:6040" id="37" />
+      <Sentence char_offsets="6051:6144" id="38" />
+      <Sentence char_offsets="6146:6275" id="39" />
+      <Sentence char_offsets="6286:6398" id="40" />
+      <Sentence char_offsets="6400:6512" id="41" />
+      <Sentence char_offsets="6523:6657" id="42" />
+      <Sentence char_offsets="6659:6735" id="43" />
+      <Sentence char_offsets="6746:6923" id="44" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="ongoing" type="010">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="19173" actor_name="Panitan Wattanayagorn" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="32" tense="neutral" type="010">
+        <Participant actor_id="464" actor_name="Sansern Kaewkamnerd" role="Source" />
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="141">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="1411">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="144">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="7" sentence_id="20" tense="neutral" type="145">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="8" sentence_id="21" tense="neutral" type="175">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="44" tense="historical" type="192">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

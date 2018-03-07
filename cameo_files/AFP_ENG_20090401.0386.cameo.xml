@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0386">
+    <Sentences>
+      <Sentence char_offsets="186:352" id="0" />
+      <Sentence char_offsets="363:576" id="1" />
+      <Sentence char_offsets="587:635" id="2" />
+      <Sentence char_offsets="637:766" id="3" />
+      <Sentence char_offsets="777:930" id="4" />
+      <Sentence char_offsets="941:1149" id="5" />
+      <Sentence char_offsets="1160:1282" id="6" />
+      <Sentence char_offsets="1293:1455" id="7" />
+      <Sentence char_offsets="1466:1628" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Source" />
+        <Participant actor_id="35299" actor_name="Southern African Development Community" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="23200" actor_name="Andry Rajoelina" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="144">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

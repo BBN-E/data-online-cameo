@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0073">
+    <Sentences>
+      <Sentence char_offsets="175:366" id="0" />
+      <Sentence char_offsets="377:576" id="1" />
+      <Sentence char_offsets="587:799" id="2" />
+      <Sentence char_offsets="810:937" id="3" />
+      <Sentence char_offsets="939:1027" id="4" />
+      <Sentence char_offsets="1038:1234" id="5" />
+      <Sentence char_offsets="1245:1412" id="6" />
+      <Sentence char_offsets="1423:1651" id="7" />
+      <Sentence char_offsets="1662:1856" id="8" />
+      <Sentence char_offsets="1867:2071" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Source" />
+        <Participant actor_id="33801" actor_name="Carl Levin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="036">
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Source" />
+        <Participant actor_id="52965" actor_name="John Kerry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Source" />
+        <Participant actor_id="50628" actor_name="Richard G. Lugar" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="50628" actor_name="Richard G. Lugar" role="Source" />
+        <Participant actor_id="35025" actor_name="Christopher R. Hill" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

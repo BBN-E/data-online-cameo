@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0742">
+    <Sentences>
+      <Sentence char_offsets="183:373" id="0" />
+      <Sentence char_offsets="384:559" id="1" />
+      <Sentence char_offsets="570:739" id="2" />
+      <Sentence char_offsets="750:916" id="3" />
+      <Sentence char_offsets="927:1127" id="4" />
+      <Sentence char_offsets="1138:1247" id="5" />
+      <Sentence char_offsets="1258:1425" id="6" />
+      <Sentence char_offsets="1436:1638" id="7" />
+      <Sentence char_offsets="1649:1808" id="8" />
+      <Sentence char_offsets="1819:1991" id="9" />
+      <Sentence char_offsets="1993:2029" id="10" />
+      <Sentence char_offsets="2040:2221" id="11" />
+      <Sentence char_offsets="2232:2407" id="12" />
+      <Sentence char_offsets="2418:2600" id="13" />
+      <Sentence char_offsets="2611:2870" id="14" />
+      <Sentence char_offsets="2881:3118" id="15" />
+      <Sentence char_offsets="3129:3219" id="16" />
+      <Sentence char_offsets="3230:3455" id="17" />
+      <Sentence char_offsets="3466:3604" id="18" />
+      <Sentence char_offsets="3615:3732" id="19" />
+      <Sentence char_offsets="3743:3905" id="20" />
+      <Sentence char_offsets="3916:4136" id="21" />
+      <Sentence char_offsets="4147:4232" id="22" />
+      <Sentence char_offsets="4234:4281" id="23" />
+      <Sentence char_offsets="4283:4314" id="24" />
+      <Sentence char_offsets="4325:4487" id="25" />
+      <Sentence char_offsets="4498:4565" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="4207" actor_name="Alexei Leonidovich Kudrin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="012">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="561" agent_name="Economist" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

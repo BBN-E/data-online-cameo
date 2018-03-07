@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0832">
+    <Sentences>
+      <Sentence char_offsets="179:365" id="0" />
+      <Sentence char_offsets="376:572" id="1" />
+      <Sentence char_offsets="583:783" id="2" />
+      <Sentence char_offsets="794:900" id="3" />
+      <Sentence char_offsets="911:1058" id="4" />
+      <Sentence char_offsets="1069:1271" id="5" />
+      <Sentence char_offsets="1282:1508" id="6" />
+      <Sentence char_offsets="1519:1670" id="7" />
+      <Sentence char_offsets="1681:1906" id="8" />
+      <Sentence char_offsets="1917:2002" id="9" />
+      <Sentence char_offsets="2013:2192" id="10" />
+      <Sentence char_offsets="2203:2384" id="11" />
+      <Sentence char_offsets="2395:2499" id="12" />
+      <Sentence char_offsets="2501:2614" id="13" />
+      <Sentence char_offsets="2625:2813" id="14" />
+      <Sentence char_offsets="2824:2935" id="15" />
+      <Sentence char_offsets="2946:3126" id="16" />
+      <Sentence char_offsets="3137:3310" id="17" />
+      <Sentence char_offsets="3321:3407" id="18" />
+      <Sentence char_offsets="3418:3594" id="19" />
+      <Sentence char_offsets="3605:3792" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="historical" type="057">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="historical" type="057">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

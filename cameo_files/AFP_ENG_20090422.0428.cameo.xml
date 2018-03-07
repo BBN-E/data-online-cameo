@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0428">
+    <Sentences>
+      <Sentence char_offsets="180:366" id="0" />
+      <Sentence char_offsets="377:514" id="1" />
+      <Sentence char_offsets="525:628" id="2" />
+      <Sentence char_offsets="630:713" id="3" />
+      <Sentence char_offsets="724:909" id="4" />
+      <Sentence char_offsets="920:1141" id="5" />
+      <Sentence char_offsets="1152:1323" id="6" />
+      <Sentence char_offsets="1334:1388" id="7" />
+      <Sentence char_offsets="1399:1512" id="8" />
+      <Sentence char_offsets="1523:1729" id="9" />
+      <Sentence char_offsets="1740:2000" id="10" />
+      <Sentence char_offsets="2011:2178" id="11" />
+      <Sentence char_offsets="2189:2313" id="12" />
+      <Sentence char_offsets="2324:2417" id="13" />
+      <Sentence char_offsets="2419:2498" id="14" />
+      <Sentence char_offsets="2509:2581" id="15" />
+      <Sentence char_offsets="2592:2759" id="16" />
+      <Sentence char_offsets="2770:2985" id="17" />
+      <Sentence char_offsets="2996:3150" id="18" />
+      <Sentence char_offsets="3161:3402" id="19" />
+      <Sentence char_offsets="3413:3551" id="20" />
+      <Sentence char_offsets="3562:3765" id="21" />
+      <Sentence char_offsets="3767:3801" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="726" agent_name="Defense Attorney" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="159" agent_name="Special Court" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="historical" type="020">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="18" tense="historical" type="036">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="12202" actor_name="Khalil Ibrahim" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="081">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="15" tense="neutral" type="111">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="293" agent_name="Human Rights Group" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="20" tense="neutral" type="112">
+        <Participant actor_id="31302" actor_name="International Court of Justice" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="9" tense="current" type="120">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="7" tense="neutral" type="139">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="current" type="170">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="19" tense="historical" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="5" tense="neutral" type="180">
+        <Participant actor_id="45273" actor_name="Justice and Equality Movement" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

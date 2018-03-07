@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.1125">
+    <Sentences>
+      <Sentence char_offsets="203:382" id="0" />
+      <Sentence char_offsets="393:605" id="1" />
+      <Sentence char_offsets="616:753" id="2" />
+      <Sentence char_offsets="764:968" id="3" />
+      <Sentence char_offsets="979:1231" id="4" />
+      <Sentence char_offsets="1242:1299" id="5" />
+      <Sentence char_offsets="1310:1400" id="6" />
+      <Sentence char_offsets="1402:1451" id="7" />
+      <Sentence char_offsets="1462:1619" id="8" />
+      <Sentence char_offsets="1630:1716" id="9" />
+      <Sentence char_offsets="1718:1804" id="10" />
+      <Sentence char_offsets="1806:1888" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="180">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0387">
+    <Sentences>
+      <Sentence char_offsets="175:377" id="0" />
+      <Sentence char_offsets="388:516" id="1" />
+      <Sentence char_offsets="527:736" id="2" />
+      <Sentence char_offsets="747:904" id="3" />
+      <Sentence char_offsets="915:1114" id="4" />
+      <Sentence char_offsets="1125:1239" id="5" />
+      <Sentence char_offsets="1250:1444" id="6" />
+      <Sentence char_offsets="1455:1550" id="7" />
+      <Sentence char_offsets="1561:1749" id="8" />
+      <Sentence char_offsets="1760:1829" id="9" />
+      <Sentence char_offsets="1840:1985" id="10" />
+      <Sentence char_offsets="1996:2053" id="11" />
+      <Sentence char_offsets="2064:2157" id="12" />
+      <Sentence char_offsets="2168:2287" id="13" />
+      <Sentence char_offsets="2298:2466" id="14" />
+      <Sentence char_offsets="2477:2679" id="15" />
+      <Sentence char_offsets="2690:2850" id="16" />
+      <Sentence char_offsets="2861:2952" id="17" />
+      <Sentence char_offsets="2963:3154" id="18" />
+      <Sentence char_offsets="3165:3277" id="19" />
+      <Sentence char_offsets="3288:3399" id="20" />
+      <Sentence char_offsets="3410:3640" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="24071" actor_name="Kamalesh Sharma" role="Source" />
+        <Participant actor_id="26255" actor_name="Josefa Iloilo" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="26322" actor_name="Frank Bainimarama" role="Source" />
+        <Participant actor_id="30641" actor_name="Fiji" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

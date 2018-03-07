@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0751">
+    <Sentences>
+      <Sentence char_offsets="185:315" id="0" />
+      <Sentence char_offsets="326:484" id="1" />
+      <Sentence char_offsets="495:620" id="2" />
+      <Sentence char_offsets="622:700" id="3" />
+      <Sentence char_offsets="711:844" id="4" />
+      <Sentence char_offsets="855:1070" id="5" />
+      <Sentence char_offsets="1081:1241" id="6" />
+      <Sentence char_offsets="1252:1427" id="7" />
+      <Sentence char_offsets="1438:1635" id="8" />
+      <Sentence char_offsets="1646:1815" id="9" />
+      <Sentence char_offsets="1826:1936" id="10" />
+      <Sentence char_offsets="1947:2068" id="11" />
+      <Sentence char_offsets="2079:2262" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="120">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

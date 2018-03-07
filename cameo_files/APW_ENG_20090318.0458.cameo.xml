@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0458">
+    <Sentences>
+      <Sentence char_offsets="168:387" id="0" />
+      <Sentence char_offsets="398:572" id="1" />
+      <Sentence char_offsets="583:642" id="2" />
+      <Sentence char_offsets="653:933" id="3" />
+      <Sentence char_offsets="944:1093" id="4" />
+      <Sentence char_offsets="1095:1150" id="5" />
+      <Sentence char_offsets="1161:1398" id="6" />
+      <Sentence char_offsets="1409:1598" id="7" />
+      <Sentence char_offsets="1609:1789" id="8" />
+      <Sentence char_offsets="1800:1836" id="9" />
+      <Sentence char_offsets="1847:1972" id="10" />
+      <Sentence char_offsets="1983:2104" id="11" />
+      <Sentence char_offsets="2115:2227" id="12" />
+      <Sentence char_offsets="2229:2315" id="13" />
+      <Sentence char_offsets="2326:2463" id="14" />
+      <Sentence char_offsets="2474:2607" id="15" />
+      <Sentence char_offsets="2618:2761" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="090">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="130">
+        <Participant actor_id="47634" actor_name="Hamid Karzai" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

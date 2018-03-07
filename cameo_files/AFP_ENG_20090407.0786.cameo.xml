@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0786">
+    <Sentences>
+      <Sentence char_offsets="170:363" id="0" />
+      <Sentence char_offsets="374:567" id="1" />
+      <Sentence char_offsets="578:756" id="2" />
+      <Sentence char_offsets="767:943" id="3" />
+      <Sentence char_offsets="954:1179" id="4" />
+      <Sentence char_offsets="1190:1395" id="5" />
+      <Sentence char_offsets="1406:1634" id="6" />
+      <Sentence char_offsets="1645:1868" id="7" />
+      <Sentence char_offsets="1879:2015" id="8" />
+      <Sentence char_offsets="2026:2219" id="9" />
+      <Sentence char_offsets="2230:2495" id="10" />
+      <Sentence char_offsets="2506:2602" id="11" />
+      <Sentence char_offsets="2613:2821" id="12" />
+      <Sentence char_offsets="2832:2951" id="13" />
+      <Sentence char_offsets="2962:3033" id="14" />
+      <Sentence char_offsets="3035:3168" id="15" />
+      <Sentence char_offsets="3179:3245" id="16" />
+      <Sentence char_offsets="3256:3345" id="17" />
+      <Sentence char_offsets="3356:3563" id="18" />
+      <Sentence char_offsets="3574:3775" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="036">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="042">
+        <Participant actor_id="117989" actor_name="Xi Jinping" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="historical" type="043">
+        <Participant actor_id="40956" actor_name="Venezuela" role="Source" />
+        <Participant actor_id="117989" actor_name="Xi Jinping" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

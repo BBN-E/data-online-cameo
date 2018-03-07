@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.1578">
+    <Sentences>
+      <Sentence char_offsets="189:376" id="0" />
+      <Sentence char_offsets="387:536" id="1" />
+      <Sentence char_offsets="547:666" id="2" />
+      <Sentence char_offsets="677:782" id="3" />
+      <Sentence char_offsets="793:875" id="4" />
+      <Sentence char_offsets="877:954" id="5" />
+      <Sentence char_offsets="965:1103" id="6" />
+      <Sentence char_offsets="1105:1136" id="7" />
+      <Sentence char_offsets="1147:1233" id="8" />
+      <Sentence char_offsets="1235:1279" id="9" />
+      <Sentence char_offsets="1290:1506" id="10" />
+      <Sentence char_offsets="1517:1651" id="11" />
+      <Sentence char_offsets="1662:1701" id="12" />
+      <Sentence char_offsets="1712:1820" id="13" />
+      <Sentence char_offsets="1822:1878" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="172">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

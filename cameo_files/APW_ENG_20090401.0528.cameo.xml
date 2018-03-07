@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.0528">
+    <Sentences>
+      <Sentence char_offsets="178:387" id="0" />
+      <Sentence char_offsets="398:614" id="1" />
+      <Sentence char_offsets="625:829" id="2" />
+      <Sentence char_offsets="840:977" id="3" />
+      <Sentence char_offsets="988:1246" id="4" />
+      <Sentence char_offsets="1257:1459" id="5" />
+      <Sentence char_offsets="1470:1571" id="6" />
+      <Sentence char_offsets="1582:1711" id="7" />
+      <Sentence char_offsets="1713:1811" id="8" />
+      <Sentence char_offsets="1822:1919" id="9" />
+      <Sentence char_offsets="1930:2136" id="10" />
+      <Sentence char_offsets="2147:2236" id="11" />
+      <Sentence char_offsets="2238:2394" id="12" />
+      <Sentence char_offsets="2405:2536" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="historical" type="130">
+        <Participant actor_id="52840" actor_name="European Commission" role="Source" />
+        <Participant actor_id="41507" actor_name="Mastercard" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

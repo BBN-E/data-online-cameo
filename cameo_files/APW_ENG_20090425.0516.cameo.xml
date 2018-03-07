@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090425.0516">
+    <Sentences>
+      <Sentence char_offsets="187:409" id="0" />
+      <Sentence char_offsets="420:713" id="1" />
+      <Sentence char_offsets="724:967" id="2" />
+      <Sentence char_offsets="978:1134" id="3" />
+      <Sentence char_offsets="1136:1240" id="4" />
+      <Sentence char_offsets="1242:1322" id="5" />
+      <Sentence char_offsets="1324:1406" id="6" />
+      <Sentence char_offsets="1417:1774" id="7" />
+      <Sentence char_offsets="1785:1990" id="8" />
+      <Sentence char_offsets="2001:2191" id="9" />
+      <Sentence char_offsets="2202:2358" id="10" />
+      <Sentence char_offsets="2360:2556" id="11" />
+      <Sentence char_offsets="2567:2777" id="12" />
+      <Sentence char_offsets="2788:2915" id="13" />
+      <Sentence char_offsets="2917:3018" id="14" />
+      <Sentence char_offsets="3020:3062" id="15" />
+      <Sentence char_offsets="3064:3151" id="16" />
+      <Sentence char_offsets="3162:3332" id="17" />
+      <Sentence char_offsets="3343:3701" id="18" />
+      <Sentence char_offsets="3712:3866" id="19" />
+      <Sentence char_offsets="3868:4019" id="20" />
+      <Sentence char_offsets="4030:4405" id="21" />
+      <Sentence char_offsets="4416:4654" id="22" />
+      <Sentence char_offsets="4665:4913" id="23" />
+      <Sentence char_offsets="4924:4929" id="24" />
+      <Sentence char_offsets="4940:5022" id="25" />
+      <Sentence char_offsets="5033:5038" id="26" />
+      <Sentence char_offsets="5049:5059" id="27" />
+      <Sentence char_offsets="5070:5092" id="28" />
+      <Sentence char_offsets="5103:5138" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

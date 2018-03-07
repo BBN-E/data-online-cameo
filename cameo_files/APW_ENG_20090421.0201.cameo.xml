@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0201">
+    <Sentences>
+      <Sentence char_offsets="200:396" id="0" />
+      <Sentence char_offsets="407:602" id="1" />
+      <Sentence char_offsets="613:783" id="2" />
+      <Sentence char_offsets="794:916" id="3" />
+      <Sentence char_offsets="918:1004" id="4" />
+      <Sentence char_offsets="1015:1279" id="5" />
+      <Sentence char_offsets="1290:1439" id="6" />
+      <Sentence char_offsets="1450:1679" id="7" />
+      <Sentence char_offsets="1690:1805" id="8" />
+      <Sentence char_offsets="1807:1836" id="9" />
+      <Sentence char_offsets="1847:2054" id="10" />
+      <Sentence char_offsets="2065:2070" id="11" />
+      <Sentence char_offsets="2081:2091" id="12" />
+      <Sentence char_offsets="2102:2157" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Source" />
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

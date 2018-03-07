@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0465">
+    <Sentences>
+      <Sentence char_offsets="192:329" id="0" />
+      <Sentence char_offsets="340:587" id="1" />
+      <Sentence char_offsets="598:742" id="2" />
+      <Sentence char_offsets="753:890" id="3" />
+      <Sentence char_offsets="901:1053" id="4" />
+      <Sentence char_offsets="1064:1208" id="5" />
+      <Sentence char_offsets="1219:1326" id="6" />
+      <Sentence char_offsets="1337:1489" id="7" />
+      <Sentence char_offsets="1500:1701" id="8" />
+      <Sentence char_offsets="1712:1850" id="9" />
+      <Sentence char_offsets="1861:2083" id="10" />
+      <Sentence char_offsets="2094:2334" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="041">
+        <Participant actor_id="4807" actor_name="Somaliland" role="Source" />
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="041">
+        <Participant actor_id="38435" actor_name="Agence France-Presse" role="Source" />
+        <Participant actor_id="4807" actor_name="Somaliland" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="173">
+        <Participant actor_id="4807" actor_name="Somaliland" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="historical" type="173">
+        <Participant actor_id="4807" actor_name="Somaliland" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="181">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="714" agent_name="Children" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

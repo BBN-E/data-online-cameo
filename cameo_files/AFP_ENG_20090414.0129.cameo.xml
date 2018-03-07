@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0129">
+    <Sentences>
+      <Sentence char_offsets="190:343" id="0" />
+      <Sentence char_offsets="354:584" id="1" />
+      <Sentence char_offsets="595:727" id="2" />
+      <Sentence char_offsets="738:867" id="3" />
+      <Sentence char_offsets="869:933" id="4" />
+      <Sentence char_offsets="944:1143" id="5" />
+      <Sentence char_offsets="1154:1295" id="6" />
+      <Sentence char_offsets="1306:1494" id="7" />
+      <Sentence char_offsets="1505:1606" id="8" />
+      <Sentence char_offsets="1617:1747" id="9" />
+      <Sentence char_offsets="1758:1980" id="10" />
+      <Sentence char_offsets="1991:2121" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="30469" actor_name="Guinea" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="21695" actor_name="Moussa Dadis Camara" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

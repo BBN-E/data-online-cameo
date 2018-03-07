@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.1016">
+    <Sentences>
+      <Sentence char_offsets="177:316" id="0" />
+      <Sentence char_offsets="327:618" id="1" />
+      <Sentence char_offsets="629:742" id="2" />
+      <Sentence char_offsets="753:955" id="3" />
+      <Sentence char_offsets="966:1133" id="4" />
+      <Sentence char_offsets="1144:1263" id="5" />
+      <Sentence char_offsets="1265:1341" id="6" />
+      <Sentence char_offsets="1352:1479" id="7" />
+      <Sentence char_offsets="1481:1593" id="8" />
+      <Sentence char_offsets="1604:1727" id="9" />
+      <Sentence char_offsets="1738:1958" id="10" />
+      <Sentence char_offsets="1969:2135" id="11" />
+      <Sentence char_offsets="2137:2279" id="12" />
+      <Sentence char_offsets="2290:2410" id="13" />
+      <Sentence char_offsets="2421:2577" id="14" />
+      <Sentence char_offsets="2588:2654" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="25494" actor_name="Jean-Claude Trichet" role="Source" />
+        <Participant actor_id="222954" actor_name="European Central Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

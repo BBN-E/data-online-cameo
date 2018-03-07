@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090430.0170">
+    <Sentences>
+      <Sentence char_offsets="110:287" id="0" />
+      <Sentence char_offsets="289:434" id="1" />
+      <Sentence char_offsets="445:572" id="2" />
+      <Sentence char_offsets="574:615" id="3" />
+      <Sentence char_offsets="617:710" id="4" />
+      <Sentence char_offsets="712:777" id="5" />
+      <Sentence char_offsets="788:911" id="6" />
+      <Sentence char_offsets="913:1029" id="7" />
+      <Sentence char_offsets="1040:1146" id="8" />
+      <Sentence char_offsets="1148:1275" id="9" />
+      <Sentence char_offsets="1286:1319" id="10" />
+      <Sentence char_offsets="1321:1427" id="11" />
+      <Sentence char_offsets="1429:1519" id="12" />
+      <Sentence char_offsets="1530:1661" id="13" />
+      <Sentence char_offsets="1663:1832" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="032">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="51788" actor_name="Patrick Leahy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

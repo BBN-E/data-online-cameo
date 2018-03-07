@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090427.0304">
+    <Sentences>
+      <Sentence char_offsets="192:306" id="0" />
+      <Sentence char_offsets="317:440" id="1" />
+      <Sentence char_offsets="442:520" id="2" />
+      <Sentence char_offsets="522:618" id="3" />
+      <Sentence char_offsets="629:784" id="4" />
+      <Sentence char_offsets="786:828" id="5" />
+      <Sentence char_offsets="839:895" id="6" />
+      <Sentence char_offsets="906:963" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="672" agent_name="Reserve Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="277" agent_name="Transport" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="192">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="672" agent_name="Reserve Personnel" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="120" agent_name="Oil Tanker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

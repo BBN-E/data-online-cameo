@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090429.0181">
+    <Sentences>
+      <Sentence char_offsets="186:385" id="0" />
+      <Sentence char_offsets="387:471" id="1" />
+      <Sentence char_offsets="482:727" id="2" />
+      <Sentence char_offsets="738:927" id="3" />
+      <Sentence char_offsets="938:1141" id="4" />
+      <Sentence char_offsets="1152:1413" id="5" />
+      <Sentence char_offsets="1424:1547" id="6" />
+      <Sentence char_offsets="1549:1613" id="7" />
+      <Sentence char_offsets="1624:1667" id="8" />
+      <Sentence char_offsets="1669:1821" id="9" />
+      <Sentence char_offsets="1832:2006" id="10" />
+      <Sentence char_offsets="2017:2249" id="11" />
+      <Sentence char_offsets="2260:2431" id="12" />
+      <Sentence char_offsets="2433:2510" id="13" />
+      <Sentence char_offsets="2521:2595" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="254" agent_name="Villager" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="current" type="183">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="190">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

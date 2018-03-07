@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0255">
+    <Sentences>
+      <Sentence char_offsets="187:371" id="0" />
+      <Sentence char_offsets="382:557" id="1" />
+      <Sentence char_offsets="568:792" id="2" />
+      <Sentence char_offsets="803:858" id="3" />
+      <Sentence char_offsets="869:1099" id="4" />
+      <Sentence char_offsets="1110:1188" id="5" />
+      <Sentence char_offsets="1190:1241" id="6" />
+      <Sentence char_offsets="1243:1319" id="7" />
+      <Sentence char_offsets="1330:1482" id="8" />
+      <Sentence char_offsets="1493:1683" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="623" agent_name="Media" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="036">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="036">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="57140" actor_name="Maxime Verhagen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0402">
+    <Sentences>
+      <Sentence char_offsets="180:371" id="0" />
+      <Sentence char_offsets="382:603" id="1" />
+      <Sentence char_offsets="614:819" id="2" />
+      <Sentence char_offsets="830:1024" id="3" />
+      <Sentence char_offsets="1035:1162" id="4" />
+      <Sentence char_offsets="1173:1367" id="5" />
+      <Sentence char_offsets="1378:1518" id="6" />
+      <Sentence char_offsets="1529:1659" id="7" />
+      <Sentence char_offsets="1670:1848" id="8" />
+      <Sentence char_offsets="1859:2051" id="9" />
+      <Sentence char_offsets="2062:2201" id="10" />
+      <Sentence char_offsets="2212:2346" id="11" />
+      <Sentence char_offsets="2357:2563" id="12" />
+      <Sentence char_offsets="2574:2730" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="112">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

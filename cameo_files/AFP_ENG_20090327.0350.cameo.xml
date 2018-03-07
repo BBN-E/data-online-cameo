@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0350">
+    <Sentences>
+      <Sentence char_offsets="179:321" id="0" />
+      <Sentence char_offsets="332:588" id="1" />
+      <Sentence char_offsets="599:719" id="2" />
+      <Sentence char_offsets="730:848" id="3" />
+      <Sentence char_offsets="859:1014" id="4" />
+      <Sentence char_offsets="1025:1173" id="5" />
+      <Sentence char_offsets="1184:1367" id="6" />
+      <Sentence char_offsets="1378:1597" id="7" />
+      <Sentence char_offsets="1608:1666" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="0211">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="032">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="current" type="042">
+        <Participant actor_id="10560" actor_name="Ali Ardashir Larijani" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="current" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="10560" actor_name="Ali Ardashir Larijani" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,87 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090401.0109">
+    <Sentences>
+      <Sentence char_offsets="190:398" id="0" />
+      <Sentence char_offsets="409:555" id="1" />
+      <Sentence char_offsets="557:820" id="2" />
+      <Sentence char_offsets="831:906" id="3" />
+      <Sentence char_offsets="917:1059" id="4" />
+      <Sentence char_offsets="1061:1246" id="5" />
+      <Sentence char_offsets="1257:1472" id="6" />
+      <Sentence char_offsets="1474:1605" id="7" />
+      <Sentence char_offsets="1616:1901" id="8" />
+      <Sentence char_offsets="1912:2048" id="9" />
+      <Sentence char_offsets="2059:2118" id="10" />
+      <Sentence char_offsets="2120:2241" id="11" />
+      <Sentence char_offsets="2243:2442" id="12" />
+      <Sentence char_offsets="2453:2583" id="13" />
+      <Sentence char_offsets="2594:2632" id="14" />
+      <Sentence char_offsets="2643:2763" id="15" />
+      <Sentence char_offsets="2765:2790" id="16" />
+      <Sentence char_offsets="2792:2880" id="17" />
+      <Sentence char_offsets="2891:3077" id="18" />
+      <Sentence char_offsets="3079:3246" id="19" />
+      <Sentence char_offsets="3257:3495" id="20" />
+      <Sentence char_offsets="3497:3622" id="21" />
+      <Sentence char_offsets="3633:3780" id="22" />
+      <Sentence char_offsets="3782:3966" id="23" />
+      <Sentence char_offsets="3977:4110" id="24" />
+      <Sentence char_offsets="4121:4265" id="25" />
+      <Sentence char_offsets="4267:4406" id="26" />
+      <Sentence char_offsets="4417:4555" id="27" />
+      <Sentence char_offsets="4566:4714" id="28" />
+      <Sentence char_offsets="4716:4754" id="29" />
+      <Sentence char_offsets="4765:4834" id="30" />
+      <Sentence char_offsets="4845:4906" id="31" />
+      <Sentence char_offsets="4908:5105" id="32" />
+      <Sentence char_offsets="5116:5267" id="33" />
+      <Sentence char_offsets="5278:5464" id="34" />
+      <Sentence char_offsets="5475:5560" id="35" />
+      <Sentence char_offsets="5571:5699" id="36" />
+      <Sentence char_offsets="5701:5856" id="37" />
+      <Sentence char_offsets="5867:5958" id="38" />
+      <Sentence char_offsets="5960:5983" id="39" />
+      <Sentence char_offsets="5994:6065" id="40" />
+      <Sentence char_offsets="6067:6122" id="41" />
+      <Sentence char_offsets="6133:6334" id="42" />
+      <Sentence char_offsets="6345:6517" id="43" />
+      <Sentence char_offsets="6528:6755" id="44" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="51943" actor_name="Mitch McConnell" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="51943" actor_name="Mitch McConnell" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="30" tense="neutral" type="051">
+        <Participant actor_id="51841" actor_name="Orrin G. Hatch" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="081">
+        <Participant actor_id="41262" actor_name="United States" agent_id="413" agent_name="Justice Department/Ministery" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="33" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="42" tense="historical" type="111">
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

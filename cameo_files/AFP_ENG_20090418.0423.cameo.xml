@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0423">
+    <Sentences>
+      <Sentence char_offsets="183:380" id="0" />
+      <Sentence char_offsets="391:672" id="1" />
+      <Sentence char_offsets="683:949" id="2" />
+      <Sentence char_offsets="960:1064" id="3" />
+      <Sentence char_offsets="1066:1258" id="4" />
+      <Sentence char_offsets="1269:1402" id="5" />
+      <Sentence char_offsets="1413:1532" id="6" />
+      <Sentence char_offsets="1534:1670" id="7" />
+      <Sentence char_offsets="1681:1825" id="8" />
+      <Sentence char_offsets="1836:2059" id="9" />
+      <Sentence char_offsets="2070:2198" id="10" />
+      <Sentence char_offsets="2209:2344" id="11" />
+      <Sentence char_offsets="2355:2536" id="12" />
+      <Sentence char_offsets="2547:2791" id="13" />
+      <Sentence char_offsets="2802:3023" id="14" />
+      <Sentence char_offsets="3034:3167" id="15" />
+      <Sentence char_offsets="3178:3280" id="16" />
+      <Sentence char_offsets="3282:3396" id="17" />
+      <Sentence char_offsets="3407:3607" id="18" />
+      <Sentence char_offsets="3618:3885" id="19" />
+      <Sentence char_offsets="3896:4066" id="20" />
+      <Sentence char_offsets="4077:4288" id="21" />
+      <Sentence char_offsets="4299:4481" id="22" />
+      <Sentence char_offsets="4492:4597" id="23" />
+      <Sentence char_offsets="4608:4801" id="24" />
+      <Sentence char_offsets="4812:5016" id="25" />
+      <Sentence char_offsets="5027:5206" id="26" />
+      <Sentence char_offsets="5208:5281" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="344" agent_name="Scientist" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="53805" actor_name="John Boehner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="23" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

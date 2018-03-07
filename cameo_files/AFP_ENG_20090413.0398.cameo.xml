@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0398">
+    <Sentences>
+      <Sentence char_offsets="195:390" id="0" />
+      <Sentence char_offsets="401:645" id="1" />
+      <Sentence char_offsets="656:938" id="2" />
+      <Sentence char_offsets="949:1070" id="3" />
+      <Sentence char_offsets="1081:1169" id="4" />
+      <Sentence char_offsets="1171:1253" id="5" />
+      <Sentence char_offsets="1264:1540" id="6" />
+      <Sentence char_offsets="1551:1740" id="7" />
+      <Sentence char_offsets="1751:1899" id="8" />
+      <Sentence char_offsets="1910:2062" id="9" />
+      <Sentence char_offsets="2073:2302" id="10" />
+      <Sentence char_offsets="2313:2522" id="11" />
+      <Sentence char_offsets="2533:2670" id="12" />
+      <Sentence char_offsets="2681:2910" id="13" />
+      <Sentence char_offsets="2921:3133" id="14" />
+      <Sentence char_offsets="3144:3376" id="15" />
+      <Sentence char_offsets="3387:3459" id="16" />
+      <Sentence char_offsets="3470:3745" id="17" />
+      <Sentence char_offsets="3756:3967" id="18" />
+      <Sentence char_offsets="3978:4165" id="19" />
+      <Sentence char_offsets="4176:4317" id="20" />
+      <Sentence char_offsets="4328:4530" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="013">
+        <Participant actor_id="28216" actor_name="Susan Elizabeth Rice" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090305.0423">
+    <Sentences>
+      <Sentence char_offsets="191:420" id="0" />
+      <Sentence char_offsets="431:556" id="1" />
+      <Sentence char_offsets="558:712" id="2" />
+      <Sentence char_offsets="723:843" id="3" />
+      <Sentence char_offsets="845:971" id="4" />
+      <Sentence char_offsets="973:1134" id="5" />
+      <Sentence char_offsets="1145:1516" id="6" />
+      <Sentence char_offsets="1527:1554" id="7" />
+      <Sentence char_offsets="1556:1604" id="8" />
+      <Sentence char_offsets="1615:1706" id="9" />
+      <Sentence char_offsets="1717:1817" id="10" />
+      <Sentence char_offsets="1819:1888" id="11" />
+      <Sentence char_offsets="1899:2052" id="12" />
+      <Sentence char_offsets="2063:2136" id="13" />
+      <Sentence char_offsets="2138:2226" id="14" />
+      <Sentence char_offsets="2228:2385" id="15" />
+      <Sentence char_offsets="2396:2636" id="16" />
+      <Sentence char_offsets="2647:2754" id="17" />
+      <Sentence char_offsets="2756:2854" id="18" />
+      <Sentence char_offsets="2856:3040" id="19" />
+      <Sentence char_offsets="3051:3148" id="20" />
+      <Sentence char_offsets="3159:3390" id="21" />
+      <Sentence char_offsets="3392:3530" id="22" />
+      <Sentence char_offsets="3541:3657" id="23" />
+      <Sentence char_offsets="3668:3902" id="24" />
+      <Sentence char_offsets="3913:3999" id="25" />
+      <Sentence char_offsets="4001:4154" id="26" />
+      <Sentence char_offsets="4156:4333" id="27" />
+      <Sentence char_offsets="4344:4511" id="28" />
+      <Sentence char_offsets="4513:4636" id="29" />
+      <Sentence char_offsets="4647:4710" id="30" />
+      <Sentence char_offsets="4712:4924" id="31" />
+      <Sentence char_offsets="4935:5097" id="32" />
+      <Sentence char_offsets="5108:5200" id="33" />
+      <Sentence char_offsets="5211:5218" id="34" />
+      <Sentence char_offsets="5229:5293" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="32" tense="current" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="31533" actor_name="Karel De Gucht" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" agent_id="649" agent_name="Ministry" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="161">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="29" tense="neutral" type="192">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="31533" actor_name="Karel De Gucht" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

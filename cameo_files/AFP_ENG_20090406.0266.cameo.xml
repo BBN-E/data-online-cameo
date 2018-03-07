@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0266">
+    <Sentences>
+      <Sentence char_offsets="181:372" id="0" />
+      <Sentence char_offsets="383:584" id="1" />
+      <Sentence char_offsets="595:690" id="2" />
+      <Sentence char_offsets="692:822" id="3" />
+      <Sentence char_offsets="833:936" id="4" />
+      <Sentence char_offsets="938:1011" id="5" />
+      <Sentence char_offsets="1022:1163" id="6" />
+      <Sentence char_offsets="1174:1354" id="7" />
+      <Sentence char_offsets="1365:1588" id="8" />
+      <Sentence char_offsets="1599:1867" id="9" />
+      <Sentence char_offsets="1878:2076" id="10" />
+      <Sentence char_offsets="2087:2283" id="11" />
+      <Sentence char_offsets="2294:2455" id="12" />
+      <Sentence char_offsets="2466:2640" id="13" />
+      <Sentence char_offsets="2651:2816" id="14" />
+      <Sentence char_offsets="2827:3013" id="15" />
+      <Sentence char_offsets="3024:3240" id="16" />
+      <Sentence char_offsets="3251:3467" id="17" />
+      <Sentence char_offsets="3478:3644" id="18" />
+      <Sentence char_offsets="3655:3796" id="19" />
+      <Sentence char_offsets="3807:4024" id="20" />
+      <Sentence char_offsets="4035:4202" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="236442" actor_name="Martha Karua" role="Source" />
+        <Participant actor_id="54795" actor_name="National Rainbow Coalition" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="042">
+        <Participant actor_id="43477" actor_name="Kofi Annan" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="2774" actor_name="Raila Odinga" role="Source" />
+        <Participant actor_id="236442" actor_name="Martha Karua" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="111">
+        <Participant actor_id="2774" actor_name="Raila Odinga" role="Source" />
+        <Participant actor_id="26126" actor_name="Mwai Kibaki" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="54795" actor_name="National Rainbow Coalition" role="Source" />
+        <Participant actor_id="236442" actor_name="Martha Karua" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="043">
+        <Participant actor_id="32622" actor_name="Switzerland" role="Source" />
+        <Participant actor_id="43477" actor_name="Kofi Annan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

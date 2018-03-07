@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.1262">
+    <Sentences>
+      <Sentence char_offsets="202:435" id="0" />
+      <Sentence char_offsets="446:576" id="1" />
+      <Sentence char_offsets="587:774" id="2" />
+      <Sentence char_offsets="776:976" id="3" />
+      <Sentence char_offsets="987:1184" id="4" />
+      <Sentence char_offsets="1186:1292" id="5" />
+      <Sentence char_offsets="1303:1386" id="6" />
+      <Sentence char_offsets="1388:1662" id="7" />
+      <Sentence char_offsets="1673:1729" id="8" />
+      <Sentence char_offsets="1740:1939" id="9" />
+      <Sentence char_offsets="1941:2014" id="10" />
+      <Sentence char_offsets="2025:2302" id="11" />
+      <Sentence char_offsets="2313:2378" id="12" />
+      <Sentence char_offsets="2380:2668" id="13" />
+      <Sentence char_offsets="2679:2810" id="14" />
+      <Sentence char_offsets="2812:2930" id="15" />
+      <Sentence char_offsets="2932:3073" id="16" />
+      <Sentence char_offsets="3084:3162" id="17" />
+      <Sentence char_offsets="3164:3301" id="18" />
+      <Sentence char_offsets="3312:3402" id="19" />
+      <Sentence char_offsets="3413:3641" id="20" />
+      <Sentence char_offsets="3652:3829" id="21" />
+      <Sentence char_offsets="3831:4014" id="22" />
+      <Sentence char_offsets="4025:4142" id="23" />
+      <Sentence char_offsets="4144:4239" id="24" />
+      <Sentence char_offsets="4250:4258" id="25" />
+      <Sentence char_offsets="4260:4289" id="26" />
+      <Sentence char_offsets="4291:4484" id="27" />
+      <Sentence char_offsets="4495:4710" id="28" />
+      <Sentence char_offsets="4712:4827" id="29" />
+      <Sentence char_offsets="4829:4887" id="30" />
+      <Sentence char_offsets="4898:4948" id="31" />
+      <Sentence char_offsets="4950:5175" id="32" />
+      <Sentence char_offsets="5186:5249" id="33" />
+      <Sentence char_offsets="5260:5347" id="34" />
+      <Sentence char_offsets="5349:5428" id="35" />
+      <Sentence char_offsets="5439:5570" id="36" />
+      <Sentence char_offsets="5572:5774" id="37" />
+      <Sentence char_offsets="5785:5898" id="38" />
+      <Sentence char_offsets="5900:5965" id="39" />
+      <Sentence char_offsets="5967:6009" id="40" />
+      <Sentence char_offsets="6020:6235" id="41" />
+      <Sentence char_offsets="6246:6501" id="42" />
+      <Sentence char_offsets="6512:6736" id="43" />
+      <Sentence char_offsets="6747:6944" id="44" />
+      <Sentence char_offsets="6946:7016" id="45" />
+      <Sentence char_offsets="7027:7207" id="46" />
+      <Sentence char_offsets="7218:7373" id="47" />
+      <Sentence char_offsets="7375:7445" id="48" />
+      <Sentence char_offsets="7447:7519" id="49" />
+      <Sentence char_offsets="7530:7637" id="50" />
+      <Sentence char_offsets="7648:7679" id="51" />
+      <Sentence char_offsets="7681:7777" id="52" />
+      <Sentence char_offsets="7779:7815" id="53" />
+      <Sentence char_offsets="7817:7856" id="54" />
+      <Sentence char_offsets="7858:7920" id="55" />
+      <Sentence char_offsets="7931:7936" id="56" />
+      <Sentence char_offsets="7947:8043" id="57" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="29" tense="neutral" type="010">
+        <Participant actor_id="52839" actor_name="European Parliament" role="Source" />
+        <Participant actor_id="26598" actor_name="Special Air Service" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="190">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="historical" type="193">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="324" agent_name="Dissident" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="current" type="193">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

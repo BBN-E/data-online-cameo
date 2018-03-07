@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090413.0136">
+    <Sentences>
+      <Sentence char_offsets="163:388" id="0" />
+      <Sentence char_offsets="399:568" id="1" />
+      <Sentence char_offsets="570:724" id="2" />
+      <Sentence char_offsets="735:852" id="3" />
+      <Sentence char_offsets="854:1056" id="4" />
+      <Sentence char_offsets="1067:1270" id="5" />
+      <Sentence char_offsets="1272:1403" id="6" />
+      <Sentence char_offsets="1414:1689" id="7" />
+      <Sentence char_offsets="1691:1870" id="8" />
+      <Sentence char_offsets="1881:2031" id="9" />
+      <Sentence char_offsets="2033:2153" id="10" />
+      <Sentence char_offsets="2164:2392" id="11" />
+      <Sentence char_offsets="2403:2606" id="12" />
+      <Sentence char_offsets="2608:2685" id="13" />
+      <Sentence char_offsets="2696:2833" id="14" />
+      <Sentence char_offsets="2835:3006" id="15" />
+      <Sentence char_offsets="3017:3168" id="16" />
+      <Sentence char_offsets="3179:3314" id="17" />
+      <Sentence char_offsets="3316:3550" id="18" />
+      <Sentence char_offsets="3561:3786" id="19" />
+      <Sentence char_offsets="3797:3979" id="20" />
+      <Sentence char_offsets="3990:4178" id="21" />
+      <Sentence char_offsets="4189:4422" id="22" />
+      <Sentence char_offsets="4433:4694" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="32631" actor_name="China" agent_id="293" agent_name="Human Rights Group" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="27143" actor_name="Xinhua" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="111">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

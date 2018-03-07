@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090314.0614">
+    <Sentences>
+      <Sentence char_offsets="186:444" id="0" />
+      <Sentence char_offsets="455:680" id="1" />
+      <Sentence char_offsets="691:989" id="2" />
+      <Sentence char_offsets="1000:1266" id="3" />
+      <Sentence char_offsets="1277:1426" id="4" />
+      <Sentence char_offsets="1437:1601" id="5" />
+      <Sentence char_offsets="1612:1748" id="6" />
+      <Sentence char_offsets="1750:1797" id="7" />
+      <Sentence char_offsets="1808:1945" id="8" />
+      <Sentence char_offsets="1947:2025" id="9" />
+      <Sentence char_offsets="2036:2157" id="10" />
+      <Sentence char_offsets="2168:2325" id="11" />
+      <Sentence char_offsets="2336:2504" id="12" />
+      <Sentence char_offsets="2506:2577" id="13" />
+      <Sentence char_offsets="2588:2730" id="14" />
+      <Sentence char_offsets="2741:2883" id="15" />
+      <Sentence char_offsets="2894:3102" id="16" />
+      <Sentence char_offsets="3104:3189" id="17" />
+      <Sentence char_offsets="3200:3298" id="18" />
+      <Sentence char_offsets="3300:3332" id="19" />
+      <Sentence char_offsets="3343:3507" id="20" />
+      <Sentence char_offsets="3518:3646" id="21" />
+      <Sentence char_offsets="3657:3742" id="22" />
+      <Sentence char_offsets="3753:4018" id="23" />
+      <Sentence char_offsets="4029:4112" id="24" />
+      <Sentence char_offsets="4123:4318" id="25" />
+      <Sentence char_offsets="4329:4460" id="26" />
+      <Sentence char_offsets="4462:4732" id="27" />
+      <Sentence char_offsets="4743:4748" id="28" />
+      <Sentence char_offsets="4759:4838" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="456" agent_name="Air Force Chief" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="25" tense="current" type="044">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="24" tense="neutral" type="051">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="neutral" type="051">
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Source" />
+        <Participant actor_id="20868" actor_name="Ra&#250;l Castro" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="25" tense="current" type="044">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

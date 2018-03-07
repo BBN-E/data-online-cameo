@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.0772">
+    <Sentences>
+      <Sentence char_offsets="186:311" id="0" />
+      <Sentence char_offsets="322:461" id="1" />
+      <Sentence char_offsets="472:616" id="2" />
+      <Sentence char_offsets="627:852" id="3" />
+      <Sentence char_offsets="863:935" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="051">
+        <Participant actor_id="36446" actor_name="Latvia" agent_id="617" agent_name="Legislature" role="Source" />
+        <Participant actor_id="48789" actor_name="Ivars Godmanis" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

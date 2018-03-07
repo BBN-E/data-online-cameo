@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0528">
+    <Sentences>
+      <Sentence char_offsets="186:267" id="0" />
+      <Sentence char_offsets="278:401" id="1" />
+      <Sentence char_offsets="403:500" id="2" />
+      <Sentence char_offsets="511:685" id="3" />
+      <Sentence char_offsets="696:864" id="4" />
+      <Sentence char_offsets="875:913" id="5" />
+      <Sentence char_offsets="924:1019" id="6" />
+      <Sentence char_offsets="1030:1358" id="7" />
+      <Sentence char_offsets="1369:1418" id="8" />
+      <Sentence char_offsets="1420:1471" id="9" />
+      <Sentence char_offsets="1482:1596" id="10" />
+      <Sentence char_offsets="1607:1789" id="11" />
+      <Sentence char_offsets="1800:1919" id="12" />
+      <Sentence char_offsets="1921:1980" id="13" />
+      <Sentence char_offsets="1991:1996" id="14" />
+      <Sentence char_offsets="2007:2105" id="15" />
+      <Sentence char_offsets="2116:2205" id="16" />
+      <Sentence char_offsets="2216:2313" id="17" />
+      <Sentence char_offsets="2315:2382" id="18" />
+      <Sentence char_offsets="2393:2532" id="19" />
+      <Sentence char_offsets="2534:2609" id="20" />
+      <Sentence char_offsets="2620:2754" id="21" />
+      <Sentence char_offsets="2765:2770" id="22" />
+      <Sentence char_offsets="2781:2995" id="23" />
+      <Sentence char_offsets="3006:3105" id="24" />
+      <Sentence char_offsets="3116:3164" id="25" />
+      <Sentence char_offsets="3166:3312" id="26" />
+      <Sentence char_offsets="3323:3423" id="27" />
+      <Sentence char_offsets="3434:3499" id="28" />
+      <Sentence char_offsets="3510:3515" id="29" />
+      <Sentence char_offsets="3526:3589" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Source" />
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Source" />
+        <Participant actor_id="222938" actor_name="Robert Gibbs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

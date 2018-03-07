@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0586">
+    <Sentences>
+      <Sentence char_offsets="182:364" id="0" />
+      <Sentence char_offsets="375:543" id="1" />
+      <Sentence char_offsets="554:736" id="2" />
+      <Sentence char_offsets="747:896" id="3" />
+      <Sentence char_offsets="907:1053" id="4" />
+      <Sentence char_offsets="1064:1184" id="5" />
+      <Sentence char_offsets="1186:1240" id="6" />
+      <Sentence char_offsets="1251:1411" id="7" />
+      <Sentence char_offsets="1422:1538" id="8" />
+      <Sentence char_offsets="1549:1655" id="9" />
+      <Sentence char_offsets="1666:1852" id="10" />
+      <Sentence char_offsets="1863:2034" id="11" />
+      <Sentence char_offsets="2045:2193" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="1164" actor_name="Sarath Fonseka" role="Source" />
+        <Participant actor_id="236164" actor_name="Robert Blake" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

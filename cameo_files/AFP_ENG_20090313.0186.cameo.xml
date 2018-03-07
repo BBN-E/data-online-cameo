@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0186">
+    <Sentences>
+      <Sentence char_offsets="170:356" id="0" />
+      <Sentence char_offsets="367:589" id="1" />
+      <Sentence char_offsets="600:738" id="2" />
+      <Sentence char_offsets="749:888" id="3" />
+      <Sentence char_offsets="899:1112" id="4" />
+      <Sentence char_offsets="1123:1330" id="5" />
+      <Sentence char_offsets="1341:1486" id="6" />
+      <Sentence char_offsets="1497:1625" id="7" />
+      <Sentence char_offsets="1636:1841" id="8" />
+      <Sentence char_offsets="1852:2031" id="9" />
+      <Sentence char_offsets="2042:2191" id="10" />
+      <Sentence char_offsets="2202:2429" id="11" />
+      <Sentence char_offsets="2440:2582" id="12" />
+      <Sentence char_offsets="2593:2740" id="13" />
+      <Sentence char_offsets="2751:2978" id="14" />
+      <Sentence char_offsets="2989:3208" id="15" />
+      <Sentence char_offsets="3219:3373" id="16" />
+      <Sentence char_offsets="3384:3617" id="17" />
+      <Sentence char_offsets="3628:3850" id="18" />
+      <Sentence char_offsets="3861:4083" id="19" />
+      <Sentence char_offsets="4094:4313" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

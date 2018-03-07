@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090428.0119">
+    <Sentences>
+      <Sentence char_offsets="161:265" id="0" />
+      <Sentence char_offsets="276:466" id="1" />
+      <Sentence char_offsets="468:709" id="2" />
+      <Sentence char_offsets="720:897" id="3" />
+      <Sentence char_offsets="908:1167" id="4" />
+      <Sentence char_offsets="1169:1261" id="5" />
+      <Sentence char_offsets="1272:1459" id="6" />
+      <Sentence char_offsets="1461:1585" id="7" />
+      <Sentence char_offsets="1596:1839" id="8" />
+      <Sentence char_offsets="1841:2033" id="9" />
+      <Sentence char_offsets="2035:2100" id="10" />
+      <Sentence char_offsets="2111:2273" id="11" />
+      <Sentence char_offsets="2275:2354" id="12" />
+      <Sentence char_offsets="2356:2457" id="13" />
+      <Sentence char_offsets="2468:2600" id="14" />
+      <Sentence char_offsets="2611:2663" id="15" />
+      <Sentence char_offsets="2665:2744" id="16" />
+      <Sentence char_offsets="2746:2926" id="17" />
+      <Sentence char_offsets="2928:3170" id="18" />
+      <Sentence char_offsets="3181:3413" id="19" />
+      <Sentence char_offsets="3424:3736" id="20" />
+      <Sentence char_offsets="3738:3796" id="21" />
+      <Sentence char_offsets="3807:3904" id="22" />
+      <Sentence char_offsets="3906:4237" id="23" />
+      <Sentence char_offsets="4248:4437" id="24" />
+      <Sentence char_offsets="4439:4590" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="611" agent_name="Regulator" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="611" agent_name="Regulator" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

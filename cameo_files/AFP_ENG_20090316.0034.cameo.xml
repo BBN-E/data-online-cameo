@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0034">
+    <Sentences>
+      <Sentence char_offsets="193:365" id="0" />
+      <Sentence char_offsets="376:606" id="1" />
+      <Sentence char_offsets="617:821" id="2" />
+      <Sentence char_offsets="832:1061" id="3" />
+      <Sentence char_offsets="1072:1258" id="4" />
+      <Sentence char_offsets="1269:1352" id="5" />
+      <Sentence char_offsets="1363:1527" id="6" />
+      <Sentence char_offsets="1538:1756" id="7" />
+      <Sentence char_offsets="1767:1868" id="8" />
+      <Sentence char_offsets="1879:2034" id="9" />
+      <Sentence char_offsets="2045:2196" id="10" />
+      <Sentence char_offsets="2207:2268" id="11" />
+      <Sentence char_offsets="2270:2398" id="12" />
+      <Sentence char_offsets="2409:2578" id="13" />
+      <Sentence char_offsets="2589:2787" id="14" />
+      <Sentence char_offsets="2798:2978" id="15" />
+      <Sentence char_offsets="2989:3160" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="22932" actor_name="Michael Martin" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="036">
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="22932" actor_name="Michael Martin" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="22932" actor_name="Michael Martin" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="053">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

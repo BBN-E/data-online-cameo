@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0326">
+    <Sentences>
+      <Sentence char_offsets="181:378" id="0" />
+      <Sentence char_offsets="389:500" id="1" />
+      <Sentence char_offsets="502:541" id="2" />
+      <Sentence char_offsets="552:781" id="3" />
+      <Sentence char_offsets="792:943" id="4" />
+      <Sentence char_offsets="954:1021" id="5" />
+      <Sentence char_offsets="1032:1152" id="6" />
+      <Sentence char_offsets="1163:1348" id="7" />
+      <Sentence char_offsets="1359:1530" id="8" />
+      <Sentence char_offsets="1541:1763" id="9" />
+      <Sentence char_offsets="1774:1864" id="10" />
+      <Sentence char_offsets="1875:2059" id="11" />
+      <Sentence char_offsets="2070:2151" id="12" />
+      <Sentence char_offsets="2162:2374" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="203" agent_name="Newspaper" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="9621" actor_name="Cisco Systems" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

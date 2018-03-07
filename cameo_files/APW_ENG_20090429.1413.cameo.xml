@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.1413">
+    <Sentences>
+      <Sentence char_offsets="185:376" id="0" />
+      <Sentence char_offsets="387:548" id="1" />
+      <Sentence char_offsets="559:674" id="2" />
+      <Sentence char_offsets="685:932" id="3" />
+      <Sentence char_offsets="943:1183" id="4" />
+      <Sentence char_offsets="1194:1369" id="5" />
+      <Sentence char_offsets="1380:1458" id="6" />
+      <Sentence char_offsets="1469:1553" id="7" />
+      <Sentence char_offsets="1555:1780" id="8" />
+      <Sentence char_offsets="1791:1953" id="9" />
+      <Sentence char_offsets="1955:2066" id="10" />
+      <Sentence char_offsets="2077:2221" id="11" />
+      <Sentence char_offsets="2232:2373" id="12" />
+      <Sentence char_offsets="2384:2528" id="13" />
+      <Sentence char_offsets="2539:2754" id="14" />
+      <Sentence char_offsets="2765:2876" id="15" />
+      <Sentence char_offsets="2878:2924" id="16" />
+      <Sentence char_offsets="2935:3066" id="17" />
+      <Sentence char_offsets="3077:3248" id="18" />
+      <Sentence char_offsets="3259:3398" id="19" />
+      <Sentence char_offsets="3400:3450" id="20" />
+      <Sentence char_offsets="3461:3608" id="21" />
+      <Sentence char_offsets="3619:3831" id="22" />
+      <Sentence char_offsets="3842:4090" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="0353">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="201" agent_name="Detainee" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="201" agent_name="Detainee" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="201" agent_name="Detainee" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

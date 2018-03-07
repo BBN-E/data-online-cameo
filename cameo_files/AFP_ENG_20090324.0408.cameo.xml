@@ -1,0 +1,79 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0408">
+    <Sentences>
+      <Sentence char_offsets="173:372" id="0" />
+      <Sentence char_offsets="383:594" id="1" />
+      <Sentence char_offsets="605:794" id="2" />
+      <Sentence char_offsets="805:889" id="3" />
+      <Sentence char_offsets="900:1034" id="4" />
+      <Sentence char_offsets="1045:1235" id="5" />
+      <Sentence char_offsets="1246:1457" id="6" />
+      <Sentence char_offsets="1468:1683" id="7" />
+      <Sentence char_offsets="1694:1947" id="8" />
+      <Sentence char_offsets="1958:2151" id="9" />
+      <Sentence char_offsets="2162:2334" id="10" />
+      <Sentence char_offsets="2345:2521" id="11" />
+      <Sentence char_offsets="2532:2745" id="12" />
+      <Sentence char_offsets="2756:2888" id="13" />
+      <Sentence char_offsets="2899:3117" id="14" />
+      <Sentence char_offsets="3128:3330" id="15" />
+      <Sentence char_offsets="3341:3644" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="current" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="013">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="036">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="036">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="19918" actor_name="Cristina Fern&#225;ndez de Kirchner" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="036">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="28823" actor_name="Argentina" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="current" type="041">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="9" tense="current" type="041">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="16" tense="neutral" type="042">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="16" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

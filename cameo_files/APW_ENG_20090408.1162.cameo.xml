@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.1162">
+    <Sentences>
+      <Sentence char_offsets="174:333" id="0" />
+      <Sentence char_offsets="344:571" id="1" />
+      <Sentence char_offsets="582:717" id="2" />
+      <Sentence char_offsets="728:869" id="3" />
+      <Sentence char_offsets="880:1039" id="4" />
+      <Sentence char_offsets="1050:1220" id="5" />
+      <Sentence char_offsets="1231:1306" id="6" />
+      <Sentence char_offsets="1308:1389" id="7" />
+      <Sentence char_offsets="1400:1489" id="8" />
+      <Sentence char_offsets="1491:1641" id="9" />
+      <Sentence char_offsets="1652:1805" id="10" />
+      <Sentence char_offsets="1807:1953" id="11" />
+      <Sentence char_offsets="1964:2224" id="12" />
+      <Sentence char_offsets="2235:2298" id="13" />
+      <Sentence char_offsets="2309:2626" id="14" />
+      <Sentence char_offsets="2637:2809" id="15" />
+      <Sentence char_offsets="2811:2922" id="16" />
+      <Sentence char_offsets="2933:2973" id="17" />
+      <Sentence char_offsets="2975:3069" id="18" />
+      <Sentence char_offsets="3071:3240" id="19" />
+      <Sentence char_offsets="3251:3425" id="20" />
+      <Sentence char_offsets="3427:3543" id="21" />
+      <Sentence char_offsets="3554:3697" id="22" />
+      <Sentence char_offsets="3699:3766" id="23" />
+      <Sentence char_offsets="3777:3874" id="24" />
+      <Sentence char_offsets="3876:3993" id="25" />
+      <Sentence char_offsets="3995:4116" id="26" />
+      <Sentence char_offsets="4127:4251" id="27" />
+      <Sentence char_offsets="4262:4420" id="28" />
+      <Sentence char_offsets="4422:4523" id="29" />
+      <Sentence char_offsets="4534:4726" id="30" />
+      <Sentence char_offsets="4737:4895" id="31" />
+      <Sentence char_offsets="4906:4982" id="32" />
+      <Sentence char_offsets="4984:5048" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="current" type="010">
+        <Participant actor_id="36297" actor_name="Silvio Berlusconi" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" agent_id="233" agent_name="Education Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

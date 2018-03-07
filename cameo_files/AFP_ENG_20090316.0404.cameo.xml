@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090316.0404">
+    <Sentences>
+      <Sentence char_offsets="183:383" id="0" />
+      <Sentence char_offsets="394:517" id="1" />
+      <Sentence char_offsets="528:627" id="2" />
+      <Sentence char_offsets="638:786" id="3" />
+      <Sentence char_offsets="797:971" id="4" />
+      <Sentence char_offsets="982:1117" id="5" />
+      <Sentence char_offsets="1128:1217" id="6" />
+      <Sentence char_offsets="1228:1342" id="7" />
+      <Sentence char_offsets="1353:1447" id="8" />
+      <Sentence char_offsets="1449:1556" id="9" />
+      <Sentence char_offsets="1567:1680" id="10" />
+      <Sentence char_offsets="1691:1947" id="11" />
+      <Sentence char_offsets="1958:2096" id="12" />
+      <Sentence char_offsets="2107:2226" id="13" />
+      <Sentence char_offsets="2237:2364" id="14" />
+      <Sentence char_offsets="2366:2489" id="15" />
+      <Sentence char_offsets="2500:2705" id="16" />
+      <Sentence char_offsets="2716:2820" id="17" />
+      <Sentence char_offsets="2831:2941" id="18" />
+      <Sentence char_offsets="2952:3070" id="19" />
+      <Sentence char_offsets="3081:3224" id="20" />
+      <Sentence char_offsets="3235:3452" id="21" />
+      <Sentence char_offsets="3463:3647" id="22" />
+      <Sentence char_offsets="3658:3812" id="23" />
+      <Sentence char_offsets="3823:3994" id="24" />
+      <Sentence char_offsets="4005:4161" id="25" />
+      <Sentence char_offsets="4163:4207" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="627" agent_name="Ministry of Tourism" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="648" agent_name="Tourist" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="018">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="37467" actor_name="Yemen" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

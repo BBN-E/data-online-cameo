@@ -1,0 +1,79 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090327.0238">
+    <Sentences>
+      <Sentence char_offsets="193:397" id="0" />
+      <Sentence char_offsets="408:584" id="1" />
+      <Sentence char_offsets="595:775" id="2" />
+      <Sentence char_offsets="777:870" id="3" />
+      <Sentence char_offsets="881:1012" id="4" />
+      <Sentence char_offsets="1023:1113" id="5" />
+      <Sentence char_offsets="1124:1206" id="6" />
+      <Sentence char_offsets="1217:1490" id="7" />
+      <Sentence char_offsets="1501:1684" id="8" />
+      <Sentence char_offsets="1695:1817" id="9" />
+      <Sentence char_offsets="1819:2058" id="10" />
+      <Sentence char_offsets="2069:2289" id="11" />
+      <Sentence char_offsets="2300:2417" id="12" />
+      <Sentence char_offsets="2428:2667" id="13" />
+      <Sentence char_offsets="2669:2751" id="14" />
+      <Sentence char_offsets="2762:2836" id="15" />
+      <Sentence char_offsets="2847:3081" id="16" />
+      <Sentence char_offsets="3092:3222" id="17" />
+      <Sentence char_offsets="3233:3401" id="18" />
+      <Sentence char_offsets="3412:3470" id="19" />
+      <Sentence char_offsets="3472:3570" id="20" />
+      <Sentence char_offsets="3581:3740" id="21" />
+      <Sentence char_offsets="3751:3870" id="22" />
+      <Sentence char_offsets="3881:3969" id="23" />
+      <Sentence char_offsets="3980:4174" id="24" />
+      <Sentence char_offsets="4185:4306" id="25" />
+      <Sentence char_offsets="4317:4422" id="26" />
+      <Sentence char_offsets="4433:4438" id="27" />
+      <Sentence char_offsets="4449:4568" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="959" actor_name="Tamil National Alliance" role="Source" />
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="1097" actor_name="Mahinda Samarasinghe" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="012">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="012">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="18" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="current" type="036">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="10" tense="neutral" type="073">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="1" tense="current" type="120">
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

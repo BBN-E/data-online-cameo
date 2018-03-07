@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.1119">
+    <Sentences>
+      <Sentence char_offsets="188:348" id="0" />
+      <Sentence char_offsets="359:469" id="1" />
+      <Sentence char_offsets="471:628" id="2" />
+      <Sentence char_offsets="639:881" id="3" />
+      <Sentence char_offsets="892:1096" id="4" />
+      <Sentence char_offsets="1107:1272" id="5" />
+      <Sentence char_offsets="1274:1408" id="6" />
+      <Sentence char_offsets="1419:1525" id="7" />
+      <Sentence char_offsets="1536:1730" id="8" />
+      <Sentence char_offsets="1741:1854" id="9" />
+      <Sentence char_offsets="1865:2029" id="10" />
+      <Sentence char_offsets="2040:2257" id="11" />
+      <Sentence char_offsets="2268:2348" id="12" />
+      <Sentence char_offsets="2350:2381" id="13" />
+      <Sentence char_offsets="2383:2533" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

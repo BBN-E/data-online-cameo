@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0701">
+    <Sentences>
+      <Sentence char_offsets="189:401" id="0" />
+      <Sentence char_offsets="412:662" id="1" />
+      <Sentence char_offsets="673:755" id="2" />
+      <Sentence char_offsets="766:975" id="3" />
+      <Sentence char_offsets="986:1174" id="4" />
+      <Sentence char_offsets="1185:1364" id="5" />
+      <Sentence char_offsets="1375:1648" id="6" />
+      <Sentence char_offsets="1659:1916" id="7" />
+      <Sentence char_offsets="1927:2120" id="8" />
+      <Sentence char_offsets="2131:2228" id="9" />
+      <Sentence char_offsets="2239:2395" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="010">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="046">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="046">
+        <Participant actor_id="43133" actor_name="Javier Solana" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.1472">
+    <Sentences>
+      <Sentence char_offsets="194:330" id="0" />
+      <Sentence char_offsets="341:550" id="1" />
+      <Sentence char_offsets="561:693" id="2" />
+      <Sentence char_offsets="704:926" id="3" />
+      <Sentence char_offsets="937:1088" id="4" />
+      <Sentence char_offsets="1099:1212" id="5" />
+      <Sentence char_offsets="1223:1312" id="6" />
+      <Sentence char_offsets="1323:1474" id="7" />
+      <Sentence char_offsets="1476:1605" id="8" />
+      <Sentence char_offsets="1616:1758" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Source" />
+        <Participant actor_id="53509" actor_name="Genaro Garcia Luna" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="53509" actor_name="Genaro Garcia Luna" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Source" />
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="53509" actor_name="Genaro Garcia Luna" role="Source" />
+        <Participant actor_id="49744" actor_name="Janet Napolitano" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="41905" actor_name="Eduardo Medina Mora" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="53509" actor_name="Genaro Garcia Luna" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

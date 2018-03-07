@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0459">
+    <Sentences>
+      <Sentence char_offsets="183:347" id="0" />
+      <Sentence char_offsets="358:576" id="1" />
+      <Sentence char_offsets="587:786" id="2" />
+      <Sentence char_offsets="797:904" id="3" />
+      <Sentence char_offsets="915:993" id="4" />
+      <Sentence char_offsets="995:1073" id="5" />
+      <Sentence char_offsets="1084:1200" id="6" />
+      <Sentence char_offsets="1211:1289" id="7" />
+      <Sentence char_offsets="1300:1481" id="8" />
+      <Sentence char_offsets="1492:1589" id="9" />
+      <Sentence char_offsets="1600:1712" id="10" />
+      <Sentence char_offsets="1723:1759" id="11" />
+      <Sentence char_offsets="1761:1873" id="12" />
+      <Sentence char_offsets="1884:1983" id="13" />
+      <Sentence char_offsets="1994:2185" id="14" />
+      <Sentence char_offsets="2196:2417" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,71 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0385">
+    <Sentences>
+      <Sentence char_offsets="177:375" id="0" />
+      <Sentence char_offsets="386:619" id="1" />
+      <Sentence char_offsets="630:855" id="2" />
+      <Sentence char_offsets="866:1095" id="3" />
+      <Sentence char_offsets="1106:1224" id="4" />
+      <Sentence char_offsets="1235:1386" id="5" />
+      <Sentence char_offsets="1397:1625" id="6" />
+      <Sentence char_offsets="1636:1854" id="7" />
+      <Sentence char_offsets="1865:1892" id="8" />
+      <Sentence char_offsets="1894:2059" id="9" />
+      <Sentence char_offsets="2070:2295" id="10" />
+      <Sentence char_offsets="2306:2465" id="11" />
+      <Sentence char_offsets="2476:2688" id="12" />
+      <Sentence char_offsets="2699:2839" id="13" />
+      <Sentence char_offsets="2850:2874" id="14" />
+      <Sentence char_offsets="2876:2921" id="15" />
+      <Sentence char_offsets="2923:3056" id="16" />
+      <Sentence char_offsets="3067:3282" id="17" />
+      <Sentence char_offsets="3293:3349" id="18" />
+      <Sentence char_offsets="3351:3458" id="19" />
+      <Sentence char_offsets="3469:3676" id="20" />
+      <Sentence char_offsets="3687:3881" id="21" />
+      <Sentence char_offsets="3892:4036" id="22" />
+      <Sentence char_offsets="4047:4255" id="23" />
+      <Sentence char_offsets="4266:4446" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="historical" type="020">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="020">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="111">
+        <Participant actor_id="118225" actor_name="Pakistan Muslim League (N)" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="21" tense="current" type="130">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="current" type="145">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="7" tense="neutral" type="1721">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="neutral" type="173">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="0" tense="neutral" type="175">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

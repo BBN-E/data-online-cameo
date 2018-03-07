@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0310">
+    <Sentences>
+      <Sentence char_offsets="177:374" id="0" />
+      <Sentence char_offsets="385:608" id="1" />
+      <Sentence char_offsets="619:796" id="2" />
+      <Sentence char_offsets="807:850" id="3" />
+      <Sentence char_offsets="852:1029" id="4" />
+      <Sentence char_offsets="1040:1251" id="5" />
+      <Sentence char_offsets="1262:1446" id="6" />
+      <Sentence char_offsets="1457:1627" id="7" />
+      <Sentence char_offsets="1638:1857" id="8" />
+      <Sentence char_offsets="1868:2097" id="9" />
+      <Sentence char_offsets="2108:2276" id="10" />
+      <Sentence char_offsets="2287:2475" id="11" />
+      <Sentence char_offsets="2486:2664" id="12" />
+      <Sentence char_offsets="2675:2766" id="13" />
+      <Sentence char_offsets="2768:2811" id="14" />
+      <Sentence char_offsets="2822:3039" id="15" />
+      <Sentence char_offsets="3050:3135" id="16" />
+      <Sentence char_offsets="3137:3231" id="17" />
+      <Sentence char_offsets="3242:3472" id="18" />
+      <Sentence char_offsets="3483:3697" id="19" />
+      <Sentence char_offsets="3708:3728" id="20" />
+      <Sentence char_offsets="3730:3758" id="21" />
+      <Sentence char_offsets="3760:3932" id="22" />
+      <Sentence char_offsets="3943:3964" id="23" />
+      <Sentence char_offsets="3966:4017" id="24" />
+      <Sentence char_offsets="4019:4057" id="25" />
+      <Sentence char_offsets="4059:4128" id="26" />
+      <Sentence char_offsets="4130:4175" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="4242" actor_name="Mikhail Borisovich Khodorkovsky" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="historical" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="4242" actor_name="Mikhail Borisovich Khodorkovsky" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="013">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="1014">
+        <Participant actor_id="4242" actor_name="Mikhail Borisovich Khodorkovsky" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="1121">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="4242" actor_name="Mikhail Borisovich Khodorkovsky" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="1121">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="236346" actor_name="Platon Lebedev" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="19" tense="neutral" type="173">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

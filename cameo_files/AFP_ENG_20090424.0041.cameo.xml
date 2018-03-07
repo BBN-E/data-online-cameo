@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090424.0041">
+    <Sentences>
+      <Sentence char_offsets="185:368" id="0" />
+      <Sentence char_offsets="379:548" id="1" />
+      <Sentence char_offsets="559:573" id="2" />
+      <Sentence char_offsets="575:589" id="3" />
+      <Sentence char_offsets="591:693" id="4" />
+      <Sentence char_offsets="704:805" id="5" />
+      <Sentence char_offsets="816:1067" id="6" />
+      <Sentence char_offsets="1078:1330" id="7" />
+      <Sentence char_offsets="1341:1529" id="8" />
+      <Sentence char_offsets="1540:1560" id="9" />
+      <Sentence char_offsets="1562:1637" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="050">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="051">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

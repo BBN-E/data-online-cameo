@@ -1,0 +1,114 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090316.0036">
+    <Sentences>
+      <Sentence char_offsets="208:560" id="0" />
+      <Sentence char_offsets="571:922" id="1" />
+      <Sentence char_offsets="933:1144" id="2" />
+      <Sentence char_offsets="1155:1472" id="3" />
+      <Sentence char_offsets="1483:1599" id="4" />
+      <Sentence char_offsets="1601:1716" id="5" />
+      <Sentence char_offsets="1718:1812" id="6" />
+      <Sentence char_offsets="1823:1960" id="7" />
+      <Sentence char_offsets="1962:2108" id="8" />
+      <Sentence char_offsets="2119:2344" id="9" />
+      <Sentence char_offsets="2355:2572" id="10" />
+      <Sentence char_offsets="2583:2825" id="11" />
+      <Sentence char_offsets="2836:3003" id="12" />
+      <Sentence char_offsets="3014:3169" id="13" />
+      <Sentence char_offsets="3171:3282" id="14" />
+      <Sentence char_offsets="3293:3453" id="15" />
+      <Sentence char_offsets="3464:3646" id="16" />
+      <Sentence char_offsets="3657:4051" id="17" />
+      <Sentence char_offsets="4062:4296" id="18" />
+      <Sentence char_offsets="4307:4492" id="19" />
+      <Sentence char_offsets="4503:4739" id="20" />
+      <Sentence char_offsets="4750:4897" id="21" />
+      <Sentence char_offsets="4908:5152" id="22" />
+      <Sentence char_offsets="5163:5336" id="23" />
+      <Sentence char_offsets="5347:5484" id="24" />
+      <Sentence char_offsets="5486:5566" id="25" />
+      <Sentence char_offsets="5577:5768" id="26" />
+      <Sentence char_offsets="5779:5922" id="27" />
+      <Sentence char_offsets="5933:6106" id="28" />
+      <Sentence char_offsets="6117:6350" id="29" />
+      <Sentence char_offsets="6361:6531" id="30" />
+      <Sentence char_offsets="6542:6681" id="31" />
+      <Sentence char_offsets="6692:6780" id="32" />
+      <Sentence char_offsets="6791:6951" id="33" />
+      <Sentence char_offsets="6962:7106" id="34" />
+      <Sentence char_offsets="7108:7258" id="35" />
+      <Sentence char_offsets="7269:7441" id="36" />
+      <Sentence char_offsets="7452:7768" id="37" />
+      <Sentence char_offsets="7779:7962" id="38" />
+      <Sentence char_offsets="7973:8120" id="39" />
+      <Sentence char_offsets="8122:8228" id="40" />
+      <Sentence char_offsets="8239:8464" id="41" />
+      <Sentence char_offsets="8475:8562" id="42" />
+      <Sentence char_offsets="8564:8651" id="43" />
+      <Sentence char_offsets="8662:8827" id="44" />
+      <Sentence char_offsets="8829:8896" id="45" />
+      <Sentence char_offsets="8898:8923" id="46" />
+      <Sentence char_offsets="8934:9126" id="47" />
+      <Sentence char_offsets="9128:9207" id="48" />
+      <Sentence char_offsets="9218:9340" id="49" />
+      <Sentence char_offsets="9351:9411" id="50" />
+      <Sentence char_offsets="9413:9644" id="51" />
+      <Sentence char_offsets="9655:9744" id="52" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Source" />
+        <Participant actor_id="51621" actor_name="Pervez Musharraf" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Source" />
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="25483" actor_name="Iftikhar Muhammad Chaudhry" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="141">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="6" sentence_id="11" tense="current" type="173">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="11" tense="neutral" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="11" tense="neutral" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="41" tense="neutral" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="41" tense="neutral" type="145">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="35168" actor_name="Yousaf Raza Gilani" role="Source" />
+        <Participant actor_id="121785" actor_name="Ashfaq Pervez Kayani" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0058">
+    <Sentences>
+      <Sentence char_offsets="176:367" id="0" />
+      <Sentence char_offsets="378:553" id="1" />
+      <Sentence char_offsets="555:604" id="2" />
+      <Sentence char_offsets="615:678" id="3" />
+      <Sentence char_offsets="680:766" id="4" />
+      <Sentence char_offsets="777:855" id="5" />
+      <Sentence char_offsets="866:978" id="6" />
+      <Sentence char_offsets="989:1095" id="7" />
+      <Sentence char_offsets="1106:1252" id="8" />
+      <Sentence char_offsets="1263:1536" id="9" />
+      <Sentence char_offsets="1547:1759" id="10" />
+      <Sentence char_offsets="1770:2027" id="11" />
+      <Sentence char_offsets="2038:2173" id="12" />
+      <Sentence char_offsets="2184:2375" id="13" />
+      <Sentence char_offsets="2386:2574" id="14" />
+      <Sentence char_offsets="2585:2764" id="15" />
+      <Sentence char_offsets="2775:2990" id="16" />
+      <Sentence char_offsets="3001:3156" id="17" />
+      <Sentence char_offsets="3167:3384" id="18" />
+      <Sentence char_offsets="3395:3476" id="19" />
+      <Sentence char_offsets="3478:3623" id="20" />
+      <Sentence char_offsets="3634:3833" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="051">
+        <Participant actor_id="31863" actor_name="Ireland" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

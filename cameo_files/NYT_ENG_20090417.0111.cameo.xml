@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090417.0111">
+    <Sentences>
+      <Sentence char_offsets="164:449" id="0" />
+      <Sentence char_offsets="460:563" id="1" />
+      <Sentence char_offsets="565:703" id="2" />
+      <Sentence char_offsets="714:851" id="3" />
+      <Sentence char_offsets="853:1123" id="4" />
+      <Sentence char_offsets="1134:1284" id="5" />
+      <Sentence char_offsets="1286:1432" id="6" />
+      <Sentence char_offsets="1443:1627" id="7" />
+      <Sentence char_offsets="1629:1841" id="8" />
+      <Sentence char_offsets="1852:2070" id="9" />
+      <Sentence char_offsets="2072:2158" id="10" />
+      <Sentence char_offsets="2169:2317" id="11" />
+      <Sentence char_offsets="2328:2499" id="12" />
+      <Sentence char_offsets="2501:2607" id="13" />
+      <Sentence char_offsets="2618:2736" id="14" />
+      <Sentence char_offsets="2738:2925" id="15" />
+      <Sentence char_offsets="2936:3175" id="16" />
+      <Sentence char_offsets="3177:3357" id="17" />
+      <Sentence char_offsets="3368:3509" id="18" />
+      <Sentence char_offsets="3511:3650" id="19" />
+      <Sentence char_offsets="3661:3814" id="20" />
+      <Sentence char_offsets="3816:3966" id="21" />
+      <Sentence char_offsets="3977:4148" id="22" />
+      <Sentence char_offsets="4159:4268" id="23" />
+      <Sentence char_offsets="4270:4321" id="24" />
+      <Sentence char_offsets="4332:4584" id="25" />
+      <Sentence char_offsets="4586:4852" id="26" />
+      <Sentence char_offsets="4863:5159" id="27" />
+      <Sentence char_offsets="5170:5249" id="28" />
+      <Sentence char_offsets="5260:5507" id="29" />
+      <Sentence char_offsets="5518:5765" id="30" />
+      <Sentence char_offsets="5776:5914" id="31" />
+      <Sentence char_offsets="5925:6139" id="32" />
+      <Sentence char_offsets="6150:6307" id="33" />
+      <Sentence char_offsets="6309:6444" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="313" agent_name="Environment Department/Ministry" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

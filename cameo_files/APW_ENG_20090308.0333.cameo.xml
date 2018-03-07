@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090308.0333">
+    <Sentences>
+      <Sentence char_offsets="197:387" id="0" />
+      <Sentence char_offsets="398:562" id="1" />
+      <Sentence char_offsets="573:760" id="2" />
+      <Sentence char_offsets="771:983" id="3" />
+      <Sentence char_offsets="994:1095" id="4" />
+      <Sentence char_offsets="1097:1163" id="5" />
+      <Sentence char_offsets="1174:1336" id="6" />
+      <Sentence char_offsets="1347:1494" id="7" />
+      <Sentence char_offsets="1505:1685" id="8" />
+      <Sentence char_offsets="1696:1938" id="9" />
+      <Sentence char_offsets="1949:2102" id="10" />
+      <Sentence char_offsets="2113:2250" id="11" />
+      <Sentence char_offsets="2261:2399" id="12" />
+      <Sentence char_offsets="2410:2624" id="13" />
+      <Sentence char_offsets="2626:2682" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="51827" actor_name="Tamil Separatists" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="51827" actor_name="Tamil Separatists" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="190">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="current" type="180">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="211" agent_name="Military Personnel - Special" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

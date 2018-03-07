@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.0828">
+    <Sentences>
+      <Sentence char_offsets="187:392" id="0" />
+      <Sentence char_offsets="403:641" id="1" />
+      <Sentence char_offsets="652:743" id="2" />
+      <Sentence char_offsets="754:963" id="3" />
+      <Sentence char_offsets="965:1145" id="4" />
+      <Sentence char_offsets="1156:1224" id="5" />
+      <Sentence char_offsets="1235:1441" id="6" />
+      <Sentence char_offsets="1452:1610" id="7" />
+      <Sentence char_offsets="1621:1671" id="8" />
+      <Sentence char_offsets="1673:1766" id="9" />
+      <Sentence char_offsets="1777:1948" id="10" />
+      <Sentence char_offsets="1959:2215" id="11" />
+      <Sentence char_offsets="2226:2314" id="12" />
+      <Sentence char_offsets="2325:2467" id="13" />
+      <Sentence char_offsets="2469:2524" id="14" />
+      <Sentence char_offsets="2535:2628" id="15" />
+      <Sentence char_offsets="2639:2749" id="16" />
+      <Sentence char_offsets="2751:2904" id="17" />
+      <Sentence char_offsets="2915:3031" id="18" />
+      <Sentence char_offsets="3033:3071" id="19" />
+      <Sentence char_offsets="3082:3174" id="20" />
+      <Sentence char_offsets="3176:3299" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="020">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="41108" actor_name="Unidentified State Actor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

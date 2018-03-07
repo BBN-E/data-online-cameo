@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090331.0211">
+    <Sentences>
+      <Sentence char_offsets="106:128" id="0" />
+      <Sentence char_offsets="139:214" id="1" />
+      <Sentence char_offsets="216:300" id="2" />
+      <Sentence char_offsets="302:366" id="3" />
+      <Sentence char_offsets="377:489" id="4" />
+      <Sentence char_offsets="500:691" id="5" />
+      <Sentence char_offsets="693:781" id="6" />
+      <Sentence char_offsets="792:875" id="7" />
+      <Sentence char_offsets="877:1012" id="8" />
+      <Sentence char_offsets="1014:1149" id="9" />
+      <Sentence char_offsets="1160:1232" id="10" />
+      <Sentence char_offsets="1234:1313" id="11" />
+      <Sentence char_offsets="1315:1470" id="12" />
+      <Sentence char_offsets="1472:1616" id="13" />
+      <Sentence char_offsets="1627:1809" id="14" />
+      <Sentence char_offsets="1820:1841" id="15" />
+      <Sentence char_offsets="1852:1894" id="16" />
+      <Sentence char_offsets="1905:1993" id="17" />
+      <Sentence char_offsets="2004:2205" id="18" />
+      <Sentence char_offsets="2207:2286" id="19" />
+      <Sentence char_offsets="2297:2379" id="20" />
+      <Sentence char_offsets="2381:2431" id="21" />
+      <Sentence char_offsets="2433:2492" id="22" />
+      <Sentence char_offsets="2503:2609" id="23" />
+      <Sentence char_offsets="2611:2847" id="24" />
+      <Sentence char_offsets="2858:2978" id="25" />
+      <Sentence char_offsets="2980:3082" id="26" />
+      <Sentence char_offsets="3084:3198" id="27" />
+      <Sentence char_offsets="3209:3221" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="51910" actor_name="Newt Gingrich" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

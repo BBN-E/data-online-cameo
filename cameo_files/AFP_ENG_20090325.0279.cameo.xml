@@ -1,0 +1,31 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0279">
+    <Sentences>
+      <Sentence char_offsets="188:363" id="0" />
+      <Sentence char_offsets="374:562" id="1" />
+      <Sentence char_offsets="573:781" id="2" />
+      <Sentence char_offsets="792:954" id="3" />
+      <Sentence char_offsets="965:997" id="4" />
+      <Sentence char_offsets="999:1135" id="5" />
+      <Sentence char_offsets="1146:1399" id="6" />
+      <Sentence char_offsets="1410:1598" id="7" />
+      <Sentence char_offsets="1609:1750" id="8" />
+      <Sentence char_offsets="1761:1831" id="9" />
+      <Sentence char_offsets="1833:1908" id="10" />
+      <Sentence char_offsets="1919:2094" id="11" />
+      <Sentence char_offsets="2105:2157" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="0242">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="35753" actor_name="Umaru Musa Yar'Adua" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

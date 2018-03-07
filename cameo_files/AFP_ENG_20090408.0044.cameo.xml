@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0044">
+    <Sentences>
+      <Sentence char_offsets="200:393" id="0" />
+      <Sentence char_offsets="404:625" id="1" />
+      <Sentence char_offsets="636:853" id="2" />
+      <Sentence char_offsets="864:1015" id="3" />
+      <Sentence char_offsets="1026:1162" id="4" />
+      <Sentence char_offsets="1164:1230" id="5" />
+      <Sentence char_offsets="1241:1354" id="6" />
+      <Sentence char_offsets="1365:1540" id="7" />
+      <Sentence char_offsets="1551:1606" id="8" />
+      <Sentence char_offsets="1608:1612" id="9" />
+      <Sentence char_offsets="1614:1644" id="10" />
+      <Sentence char_offsets="1655:1730" id="11" />
+      <Sentence char_offsets="1732:1837" id="12" />
+      <Sentence char_offsets="1848:1944" id="13" />
+      <Sentence char_offsets="1955:2102" id="14" />
+      <Sentence char_offsets="2113:2209" id="15" />
+      <Sentence char_offsets="2220:2319" id="16" />
+      <Sentence char_offsets="2330:2469" id="17" />
+      <Sentence char_offsets="2480:2704" id="18" />
+      <Sentence char_offsets="2715:2903" id="19" />
+      <Sentence char_offsets="2914:3129" id="20" />
+      <Sentence char_offsets="3140:3323" id="21" />
+      <Sentence char_offsets="3334:3452" id="22" />
+      <Sentence char_offsets="3463:3594" id="23" />
+      <Sentence char_offsets="3605:3806" id="24" />
+      <Sentence char_offsets="3817:3929" id="25" />
+      <Sentence char_offsets="3931:3964" id="26" />
+      <Sentence char_offsets="3975:4090" id="27" />
+      <Sentence char_offsets="4101:4295" id="28" />
+      <Sentence char_offsets="4306:4520" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

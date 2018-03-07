@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.1560">
+    <Sentences>
+      <Sentence char_offsets="188:343" id="0" />
+      <Sentence char_offsets="354:544" id="1" />
+      <Sentence char_offsets="555:662" id="2" />
+      <Sentence char_offsets="673:758" id="3" />
+      <Sentence char_offsets="760:857" id="4" />
+      <Sentence char_offsets="868:939" id="5" />
+      <Sentence char_offsets="941:1055" id="6" />
+      <Sentence char_offsets="1066:1278" id="7" />
+      <Sentence char_offsets="1289:1412" id="8" />
+      <Sentence char_offsets="1423:1511" id="9" />
+      <Sentence char_offsets="1522:1632" id="10" />
+      <Sentence char_offsets="1634:1713" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="1031">
+        <Participant actor_id="52840" actor_name="European Commission" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

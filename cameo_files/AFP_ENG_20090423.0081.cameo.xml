@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0081">
+    <Sentences>
+      <Sentence char_offsets="154:187" id="0" />
+      <Sentence char_offsets="190:235" id="1" />
+      <Sentence char_offsets="238:282" id="2" />
+      <Sentence char_offsets="285:326" id="3" />
+      <Sentence char_offsets="329:459" id="4" />
+      <Sentence char_offsets="462:674" id="5" />
+      <Sentence char_offsets="677:811" id="6" />
+      <Sentence char_offsets="813:846" id="7" />
+      <Sentence char_offsets="849:1065" id="8" />
+      <Sentence char_offsets="1068:1280" id="9" />
+      <Sentence char_offsets="1283:1459" id="10" />
+      <Sentence char_offsets="1462:1668" id="11" />
+      <Sentence char_offsets="1671:1911" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="0351">
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

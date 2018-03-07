@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0252">
+    <Sentences>
+      <Sentence char_offsets="189:380" id="0" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="030">
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="030">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

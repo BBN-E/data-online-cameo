@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090328.0225">
+    <Sentences>
+      <Sentence char_offsets="188:381" id="0" />
+      <Sentence char_offsets="392:580" id="1" />
+      <Sentence char_offsets="591:726" id="2" />
+      <Sentence char_offsets="737:879" id="3" />
+      <Sentence char_offsets="890:1111" id="4" />
+      <Sentence char_offsets="1122:1259" id="5" />
+      <Sentence char_offsets="1270:1439" id="6" />
+      <Sentence char_offsets="1441:1479" id="7" />
+      <Sentence char_offsets="1490:1664" id="8" />
+      <Sentence char_offsets="1675:1861" id="9" />
+      <Sentence char_offsets="1872:2042" id="10" />
+      <Sentence char_offsets="2053:2203" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="040">
+        <Participant actor_id="47785" actor_name="Hosni Mubarak" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

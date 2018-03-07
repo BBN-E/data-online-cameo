@@ -1,0 +1,94 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0154">
+    <Sentences>
+      <Sentence char_offsets="194:405" id="0" />
+      <Sentence char_offsets="416:591" id="1" />
+      <Sentence char_offsets="602:789" id="2" />
+      <Sentence char_offsets="800:1011" id="3" />
+      <Sentence char_offsets="1022:1273" id="4" />
+      <Sentence char_offsets="1284:1571" id="5" />
+      <Sentence char_offsets="1582:1805" id="6" />
+      <Sentence char_offsets="1816:1961" id="7" />
+      <Sentence char_offsets="1963:2073" id="8" />
+      <Sentence char_offsets="2084:2242" id="9" />
+      <Sentence char_offsets="2253:2397" id="10" />
+      <Sentence char_offsets="2399:2482" id="11" />
+      <Sentence char_offsets="2493:2743" id="12" />
+      <Sentence char_offsets="2754:2946" id="13" />
+      <Sentence char_offsets="2957:3033" id="14" />
+      <Sentence char_offsets="3035:3074" id="15" />
+      <Sentence char_offsets="3076:3136" id="16" />
+      <Sentence char_offsets="3147:3327" id="17" />
+      <Sentence char_offsets="3338:3497" id="18" />
+      <Sentence char_offsets="3499:3690" id="19" />
+      <Sentence char_offsets="3701:3804" id="20" />
+      <Sentence char_offsets="3815:3903" id="21" />
+      <Sentence char_offsets="3905:4006" id="22" />
+      <Sentence char_offsets="4008:4155" id="23" />
+      <Sentence char_offsets="4166:4292" id="24" />
+      <Sentence char_offsets="4303:4427" id="25" />
+      <Sentence char_offsets="4438:4603" id="26" />
+      <Sentence char_offsets="4614:4816" id="27" />
+      <Sentence char_offsets="4827:4986" id="28" />
+      <Sentence char_offsets="4988:5076" id="29" />
+      <Sentence char_offsets="5087:5215" id="30" />
+      <Sentence char_offsets="5226:5400" id="31" />
+      <Sentence char_offsets="5402:5614" id="32" />
+      <Sentence char_offsets="5625:5891" id="33" />
+      <Sentence char_offsets="5893:5952" id="34" />
+      <Sentence char_offsets="5954:5988" id="35" />
+      <Sentence char_offsets="5999:6176" id="36" />
+      <Sentence char_offsets="6178:6241" id="37" />
+      <Sentence char_offsets="6252:6382" id="38" />
+      <Sentence char_offsets="6393:6454" id="39" />
+      <Sentence char_offsets="6456:6590" id="40" />
+      <Sentence char_offsets="6601:6650" id="41" />
+      <Sentence char_offsets="6661:6766" id="42" />
+      <Sentence char_offsets="6777:6947" id="43" />
+      <Sentence char_offsets="6949:7135" id="44" />
+      <Sentence char_offsets="7146:7355" id="45" />
+      <Sentence char_offsets="7366:7466" id="46" />
+      <Sentence char_offsets="7468:7584" id="47" />
+      <Sentence char_offsets="7595:7808" id="48" />
+      <Sentence char_offsets="7810:7893" id="49" />
+      <Sentence char_offsets="7904:7937" id="50" />
+      <Sentence char_offsets="7939:8013" id="51" />
+      <Sentence char_offsets="8015:8053" id="52" />
+      <Sentence char_offsets="8064:8246" id="53" />
+      <Sentence char_offsets="8257:8262" id="54" />
+      <Sentence char_offsets="8273:8383" id="55" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="current" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="044">
+        <Participant actor_id="9556" actor_name="Omar Abdirashid Ali Sharmarke" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="100">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="044">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="9556" actor_name="Omar Abdirashid Ali Sharmarke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0016">
+    <Sentences>
+      <Sentence char_offsets="190:377" id="0" />
+      <Sentence char_offsets="388:615" id="1" />
+      <Sentence char_offsets="626:671" id="2" />
+      <Sentence char_offsets="682:868" id="3" />
+      <Sentence char_offsets="879:1152" id="4" />
+      <Sentence char_offsets="1163:1371" id="5" />
+      <Sentence char_offsets="1382:1586" id="6" />
+      <Sentence char_offsets="1597:1792" id="7" />
+      <Sentence char_offsets="1803:2065" id="8" />
+      <Sentence char_offsets="2076:2195" id="9" />
+      <Sentence char_offsets="2197:2298" id="10" />
+      <Sentence char_offsets="2309:2479" id="11" />
+      <Sentence char_offsets="2490:2674" id="12" />
+      <Sentence char_offsets="2685:2831" id="13" />
+      <Sentence char_offsets="2842:3030" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="33807" actor_name="Stuart A. Levey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="0333">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

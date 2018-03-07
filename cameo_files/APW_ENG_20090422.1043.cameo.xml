@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.1043">
+    <Sentences>
+      <Sentence char_offsets="184:438" id="0" />
+      <Sentence char_offsets="449:721" id="1" />
+      <Sentence char_offsets="732:1051" id="2" />
+      <Sentence char_offsets="1062:1287" id="3" />
+      <Sentence char_offsets="1298:1465" id="4" />
+      <Sentence char_offsets="1476:1655" id="5" />
+      <Sentence char_offsets="1657:1747" id="6" />
+      <Sentence char_offsets="1758:1991" id="7" />
+      <Sentence char_offsets="2002:2171" id="8" />
+      <Sentence char_offsets="2182:2345" id="9" />
+      <Sentence char_offsets="2356:2584" id="10" />
+      <Sentence char_offsets="2595:2761" id="11" />
+      <Sentence char_offsets="2772:3000" id="12" />
+      <Sentence char_offsets="3002:3234" id="13" />
+      <Sentence char_offsets="3245:3539" id="14" />
+      <Sentence char_offsets="3550:3682" id="15" />
+      <Sentence char_offsets="3684:3828" id="16" />
+      <Sentence char_offsets="3839:4027" id="17" />
+      <Sentence char_offsets="4029:4196" id="18" />
+      <Sentence char_offsets="4207:4347" id="19" />
+      <Sentence char_offsets="4358:4437" id="20" />
+      <Sentence char_offsets="4448:4654" id="21" />
+      <Sentence char_offsets="4665:4743" id="22" />
+      <Sentence char_offsets="4754:4965" id="23" />
+      <Sentence char_offsets="4967:5013" id="24" />
+      <Sentence char_offsets="5024:5206" id="25" />
+      <Sentence char_offsets="5208:5432" id="26" />
+      <Sentence char_offsets="5443:5633" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="38527" actor_name="Alistair Darling" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

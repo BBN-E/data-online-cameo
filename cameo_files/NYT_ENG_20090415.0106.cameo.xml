@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090415.0106">
+    <Sentences>
+      <Sentence char_offsets="94:117" id="0" />
+      <Sentence char_offsets="128:208" id="1" />
+      <Sentence char_offsets="219:255" id="2" />
+      <Sentence char_offsets="264:279" id="3" />
+      <Sentence char_offsets="290:560" id="4" />
+      <Sentence char_offsets="571:679" id="5" />
+      <Sentence char_offsets="690:878" id="6" />
+      <Sentence char_offsets="889:1015" id="7" />
+      <Sentence char_offsets="1017:1154" id="8" />
+      <Sentence char_offsets="1165:1340" id="9" />
+      <Sentence char_offsets="1351:1546" id="10" />
+      <Sentence char_offsets="1557:1634" id="11" />
+      <Sentence char_offsets="1645:1737" id="12" />
+      <Sentence char_offsets="1748:1920" id="13" />
+      <Sentence char_offsets="1922:2178" id="14" />
+      <Sentence char_offsets="2189:2436" id="15" />
+      <Sentence char_offsets="2447:2583" id="16" />
+      <Sentence char_offsets="2594:2708" id="17" />
+      <Sentence char_offsets="2719:2873" id="18" />
+      <Sentence char_offsets="2884:2954" id="19" />
+      <Sentence char_offsets="2965:3044" id="20" />
+      <Sentence char_offsets="3046:3208" id="21" />
+      <Sentence char_offsets="3210:3272" id="22" />
+      <Sentence char_offsets="3283:3500" id="23" />
+      <Sentence char_offsets="3502:3609" id="24" />
+      <Sentence char_offsets="3620:3658" id="25" />
+      <Sentence char_offsets="3660:3791" id="26" />
+      <Sentence char_offsets="3802:3966" id="27" />
+      <Sentence char_offsets="3968:4128" id="28" />
+      <Sentence char_offsets="4139:4356" id="29" />
+      <Sentence char_offsets="4367:4385" id="30" />
+      <Sentence char_offsets="4396:4400" id="31" />
+      <Sentence char_offsets="4402:4410" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="238660" actor_name="Chrysler" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="040">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="100">
+        <Participant actor_id="239252" actor_name="Sergio Marchionne" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

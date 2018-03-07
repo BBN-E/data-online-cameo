@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090307.0550">
+    <Sentences>
+      <Sentence char_offsets="186:325" id="0" />
+      <Sentence char_offsets="336:520" id="1" />
+      <Sentence char_offsets="531:709" id="2" />
+      <Sentence char_offsets="720:970" id="3" />
+      <Sentence char_offsets="981:1081" id="4" />
+      <Sentence char_offsets="1092:1156" id="5" />
+      <Sentence char_offsets="1167:1355" id="6" />
+      <Sentence char_offsets="1366:1464" id="7" />
+      <Sentence char_offsets="1466:1491" id="8" />
+      <Sentence char_offsets="1502:1645" id="9" />
+      <Sentence char_offsets="1656:1874" id="10" />
+      <Sentence char_offsets="1885:2031" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="014">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="current" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="1661">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

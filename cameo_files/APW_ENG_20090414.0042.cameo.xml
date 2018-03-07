@@ -1,0 +1,85 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0042">
+    <Sentences>
+      <Sentence char_offsets="194:370" id="0" />
+      <Sentence char_offsets="372:441" id="1" />
+      <Sentence char_offsets="452:634" id="2" />
+      <Sentence char_offsets="636:737" id="3" />
+      <Sentence char_offsets="748:987" id="4" />
+      <Sentence char_offsets="998:1218" id="5" />
+      <Sentence char_offsets="1229:1331" id="6" />
+      <Sentence char_offsets="1342:1500" id="7" />
+      <Sentence char_offsets="1502:1615" id="8" />
+      <Sentence char_offsets="1626:1642" id="9" />
+      <Sentence char_offsets="1644:1660" id="10" />
+      <Sentence char_offsets="1662:1781" id="11" />
+      <Sentence char_offsets="1792:1845" id="12" />
+      <Sentence char_offsets="1847:2050" id="13" />
+      <Sentence char_offsets="2052:2109" id="14" />
+      <Sentence char_offsets="2120:2234" id="15" />
+      <Sentence char_offsets="2245:2357" id="16" />
+      <Sentence char_offsets="2359:2503" id="17" />
+      <Sentence char_offsets="2514:2619" id="18" />
+      <Sentence char_offsets="2630:2751" id="19" />
+      <Sentence char_offsets="2753:2857" id="20" />
+      <Sentence char_offsets="2859:2970" id="21" />
+      <Sentence char_offsets="2981:3158" id="22" />
+      <Sentence char_offsets="3160:3246" id="23" />
+      <Sentence char_offsets="3248:3352" id="24" />
+      <Sentence char_offsets="3363:3517" id="25" />
+      <Sentence char_offsets="3528:3754" id="26" />
+      <Sentence char_offsets="3756:3887" id="27" />
+      <Sentence char_offsets="3898:4048" id="28" />
+      <Sentence char_offsets="4050:4181" id="29" />
+      <Sentence char_offsets="4192:4306" id="30" />
+      <Sentence char_offsets="4308:4390" id="31" />
+      <Sentence char_offsets="4401:4544" id="32" />
+      <Sentence char_offsets="4555:4777" id="33" />
+      <Sentence char_offsets="4788:4982" id="34" />
+      <Sentence char_offsets="4984:5090" id="35" />
+      <Sentence char_offsets="5101:5201" id="36" />
+      <Sentence char_offsets="5212:5514" id="37" />
+      <Sentence char_offsets="5525:5683" id="38" />
+      <Sentence char_offsets="5685:5868" id="39" />
+      <Sentence char_offsets="5870:5937" id="40" />
+      <Sentence char_offsets="5939:5965" id="41" />
+      <Sentence char_offsets="5976:6143" id="42" />
+      <Sentence char_offsets="6154:6338" id="43" />
+      <Sentence char_offsets="6340:6490" id="44" />
+      <Sentence char_offsets="6492:6551" id="45" />
+      <Sentence char_offsets="6562:6630" id="46" />
+      <Sentence char_offsets="6641:6870" id="47" />
+      <Sentence char_offsets="6881:6976" id="48" />
+      <Sentence char_offsets="6987:7165" id="49" />
+      <Sentence char_offsets="7176:7357" id="50" />
+      <Sentence char_offsets="7368:7423" id="51" />
+      <Sentence char_offsets="7425:7525" id="52" />
+      <Sentence char_offsets="7536:7771" id="53" />
+      <Sentence char_offsets="7782:8005" id="54" />
+      <Sentence char_offsets="8016:8125" id="55" />
+      <Sentence char_offsets="8136:8335" id="56" />
+      <Sentence char_offsets="8337:8429" id="57" />
+      <Sentence char_offsets="8431:8526" id="58" />
+      <Sentence char_offsets="8537:8639" id="59" />
+      <Sentence char_offsets="8641:8702" id="60" />
+      <Sentence char_offsets="8713:8718" id="61" />
+      <Sentence char_offsets="8729:8805" id="62" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="190">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

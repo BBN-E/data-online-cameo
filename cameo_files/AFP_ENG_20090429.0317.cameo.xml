@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0317">
+    <Sentences>
+      <Sentence char_offsets="189:388" id="0" />
+      <Sentence char_offsets="399:618" id="1" />
+      <Sentence char_offsets="629:791" id="2" />
+      <Sentence char_offsets="802:945" id="3" />
+      <Sentence char_offsets="956:1038" id="4" />
+      <Sentence char_offsets="1040:1100" id="5" />
+      <Sentence char_offsets="1111:1246" id="6" />
+      <Sentence char_offsets="1248:1313" id="7" />
+      <Sentence char_offsets="1324:1521" id="8" />
+      <Sentence char_offsets="1532:1600" id="9" />
+      <Sentence char_offsets="1602:1731" id="10" />
+      <Sentence char_offsets="1742:1774" id="11" />
+      <Sentence char_offsets="1776:1827" id="12" />
+      <Sentence char_offsets="1838:1912" id="13" />
+      <Sentence char_offsets="1914:1970" id="14" />
+      <Sentence char_offsets="1972:1995" id="15" />
+      <Sentence char_offsets="1997:2067" id="16" />
+      <Sentence char_offsets="2078:2261" id="17" />
+      <Sentence char_offsets="2272:2400" id="18" />
+      <Sentence char_offsets="2411:2455" id="19" />
+      <Sentence char_offsets="2457:2499" id="20" />
+      <Sentence char_offsets="2501:2526" id="21" />
+      <Sentence char_offsets="2537:2720" id="22" />
+      <Sentence char_offsets="2731:2804" id="23" />
+      <Sentence char_offsets="2808:2939" id="24" />
+      <Sentence char_offsets="2950:3122" id="25" />
+      <Sentence char_offsets="3133:3243" id="26" />
+      <Sentence char_offsets="3254:3420" id="27" />
+      <Sentence char_offsets="3431:3534" id="28" />
+      <Sentence char_offsets="3545:3587" id="29" />
+      <Sentence char_offsets="3589:3622" id="30" />
+      <Sentence char_offsets="3624:3685" id="31" />
+      <Sentence char_offsets="3687:3727" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="27" tense="neutral" type="0331">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

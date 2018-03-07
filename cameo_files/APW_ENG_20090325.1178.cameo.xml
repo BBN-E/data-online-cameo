@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.1178">
+    <Sentences>
+      <Sentence char_offsets="198:437" id="0" />
+      <Sentence char_offsets="448:679" id="1" />
+      <Sentence char_offsets="690:928" id="2" />
+      <Sentence char_offsets="939:1030" id="3" />
+      <Sentence char_offsets="1041:1180" id="4" />
+      <Sentence char_offsets="1191:1361" id="5" />
+      <Sentence char_offsets="1372:1505" id="6" />
+      <Sentence char_offsets="1516:1709" id="7" />
+      <Sentence char_offsets="1720:1922" id="8" />
+      <Sentence char_offsets="1933:2038" id="9" />
+      <Sentence char_offsets="2040:2087" id="10" />
+      <Sentence char_offsets="2098:2194" id="11" />
+      <Sentence char_offsets="2196:2268" id="12" />
+      <Sentence char_offsets="2279:2472" id="13" />
+      <Sentence char_offsets="2483:2575" id="14" />
+      <Sentence char_offsets="2586:2781" id="15" />
+      <Sentence char_offsets="2792:2931" id="16" />
+      <Sentence char_offsets="2942:3088" id="17" />
+      <Sentence char_offsets="3090:3189" id="18" />
+      <Sentence char_offsets="3200:3325" id="19" />
+      <Sentence char_offsets="3327:3407" id="20" />
+      <Sentence char_offsets="3418:3529" id="21" />
+      <Sentence char_offsets="3540:3726" id="22" />
+      <Sentence char_offsets="3737:3858" id="23" />
+      <Sentence char_offsets="3860:3951" id="24" />
+      <Sentence char_offsets="3962:4195" id="25" />
+      <Sentence char_offsets="4206:4369" id="26" />
+      <Sentence char_offsets="4380:4493" id="27" />
+      <Sentence char_offsets="4504:4621" id="28" />
+      <Sentence char_offsets="4623:4688" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="historical" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="129" agent_name="High Ranking Military Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="neutral" type="040">
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="040">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="40982" actor_name="Abdullah G&#252;l" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

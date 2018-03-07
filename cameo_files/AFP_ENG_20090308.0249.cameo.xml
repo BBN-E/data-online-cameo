@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090308.0249">
+    <Sentences>
+      <Sentence char_offsets="184:391" id="0" />
+      <Sentence char_offsets="402:619" id="1" />
+      <Sentence char_offsets="630:846" id="2" />
+      <Sentence char_offsets="857:1150" id="3" />
+      <Sentence char_offsets="1161:1359" id="4" />
+      <Sentence char_offsets="1370:1559" id="5" />
+      <Sentence char_offsets="1570:1781" id="6" />
+      <Sentence char_offsets="1792:1866" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="2" agent_name="Defense Department/Ministry" role="Source" />
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="480" agent_name="Labor Party" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="046">
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Source" />
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="046">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="13914" actor_name="Ehud Barak" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

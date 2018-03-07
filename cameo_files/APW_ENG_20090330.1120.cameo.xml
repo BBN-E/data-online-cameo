@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.1120">
+    <Sentences>
+      <Sentence char_offsets="187:436" id="0" />
+      <Sentence char_offsets="447:813" id="1" />
+      <Sentence char_offsets="824:859" id="2" />
+      <Sentence char_offsets="870:985" id="3" />
+      <Sentence char_offsets="987:1084" id="4" />
+      <Sentence char_offsets="1095:1227" id="5" />
+      <Sentence char_offsets="1238:1505" id="6" />
+      <Sentence char_offsets="1516:1684" id="7" />
+      <Sentence char_offsets="1695:1929" id="8" />
+      <Sentence char_offsets="1940:2151" id="9" />
+      <Sentence char_offsets="2162:2306" id="10" />
+      <Sentence char_offsets="2317:2496" id="11" />
+      <Sentence char_offsets="2498:2597" id="12" />
+      <Sentence char_offsets="2599:2649" id="13" />
+      <Sentence char_offsets="2660:2727" id="14" />
+      <Sentence char_offsets="2729:2842" id="15" />
+      <Sentence char_offsets="2844:2906" id="16" />
+      <Sentence char_offsets="2908:2939" id="17" />
+      <Sentence char_offsets="2950:3142" id="18" />
+      <Sentence char_offsets="3144:3235" id="19" />
+      <Sentence char_offsets="3246:3350" id="20" />
+      <Sentence char_offsets="3361:3616" id="21" />
+      <Sentence char_offsets="3627:3736" id="22" />
+      <Sentence char_offsets="3738:3802" id="23" />
+      <Sentence char_offsets="3804:3930" id="24" />
+      <Sentence char_offsets="3932:3959" id="25" />
+      <Sentence char_offsets="3970:4103" id="26" />
+      <Sentence char_offsets="4105:4246" id="27" />
+      <Sentence char_offsets="4257:4404" id="28" />
+      <Sentence char_offsets="4415:4672" id="29" />
+      <Sentence char_offsets="4683:4825" id="30" />
+      <Sentence char_offsets="4827:4890" id="31" />
+      <Sentence char_offsets="4901:5033" id="32" />
+      <Sentence char_offsets="5035:5110" id="33" />
+      <Sentence char_offsets="5121:5228" id="34" />
+      <Sentence char_offsets="5230:5361" id="35" />
+      <Sentence char_offsets="5363:5432" id="36" />
+      <Sentence char_offsets="5443:5586" id="37" />
+      <Sentence char_offsets="5597:5832" id="38" />
+      <Sentence char_offsets="5834:5939" id="39" />
+      <Sentence char_offsets="5950:6125" id="40" />
+      <Sentence char_offsets="6136:6178" id="41" />
+      <Sentence char_offsets="6180:6258" id="42" />
+      <Sentence char_offsets="6260:6353" id="43" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="neutral" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="100">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="366" agent_name="Industry" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="139">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

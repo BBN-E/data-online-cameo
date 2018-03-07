@@ -1,0 +1,74 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090419.0082">
+    <Sentences>
+      <Sentence char_offsets="124:284" id="0" />
+      <Sentence char_offsets="295:315" id="1" />
+      <Sentence char_offsets="317:389" id="2" />
+      <Sentence char_offsets="391:417" id="3" />
+      <Sentence char_offsets="419:748" id="4" />
+      <Sentence char_offsets="759:1024" id="5" />
+      <Sentence char_offsets="1026:1262" id="6" />
+      <Sentence char_offsets="1273:1350" id="7" />
+      <Sentence char_offsets="1352:1640" id="8" />
+      <Sentence char_offsets="1651:1833" id="9" />
+      <Sentence char_offsets="1835:2003" id="10" />
+      <Sentence char_offsets="2014:2177" id="11" />
+      <Sentence char_offsets="2179:2406" id="12" />
+      <Sentence char_offsets="2417:2595" id="13" />
+      <Sentence char_offsets="2597:2673" id="14" />
+      <Sentence char_offsets="2684:2796" id="15" />
+      <Sentence char_offsets="2807:2948" id="16" />
+      <Sentence char_offsets="2959:3133" id="17" />
+      <Sentence char_offsets="3135:3219" id="18" />
+      <Sentence char_offsets="3230:3385" id="19" />
+      <Sentence char_offsets="3387:3474" id="20" />
+      <Sentence char_offsets="3476:3591" id="21" />
+      <Sentence char_offsets="3602:3689" id="22" />
+      <Sentence char_offsets="3691:3778" id="23" />
+      <Sentence char_offsets="3780:3851" id="24" />
+      <Sentence char_offsets="3862:3960" id="25" />
+      <Sentence char_offsets="3962:4191" id="26" />
+      <Sentence char_offsets="4193:4292" id="27" />
+      <Sentence char_offsets="4303:4397" id="28" />
+      <Sentence char_offsets="4408:4563" id="29" />
+      <Sentence char_offsets="4565:4594" id="30" />
+      <Sentence char_offsets="4605:4679" id="31" />
+      <Sentence char_offsets="4681:4704" id="32" />
+      <Sentence char_offsets="4715:4739" id="33" />
+      <Sentence char_offsets="4741:4799" id="34" />
+      <Sentence char_offsets="4801:4890" id="35" />
+      <Sentence char_offsets="4901:4951" id="36" />
+      <Sentence char_offsets="4953:5114" id="37" />
+      <Sentence char_offsets="5116:5319" id="38" />
+      <Sentence char_offsets="5330:5518" id="39" />
+      <Sentence char_offsets="5520:5574" id="40" />
+      <Sentence char_offsets="5576:5665" id="41" />
+      <Sentence char_offsets="5676:5877" id="42" />
+      <Sentence char_offsets="5888:6098" id="43" />
+      <Sentence char_offsets="6100:6146" id="44" />
+      <Sentence char_offsets="6157:6378" id="45" />
+      <Sentence char_offsets="6389:6480" id="46" />
+      <Sentence char_offsets="6482:6550" id="47" />
+      <Sentence char_offsets="6552:6642" id="48" />
+      <Sentence char_offsets="6644:6779" id="49" />
+      <Sentence char_offsets="6790:6890" id="50" />
+      <Sentence char_offsets="6901:6945" id="51" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="43" tense="neutral" type="010">
+        <Participant actor_id="38558" actor_name="Food and Drug Administration" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="43" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="381" agent_name="Health Ministry/Department" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="43" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

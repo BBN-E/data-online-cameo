@@ -1,0 +1,100 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090428.0149">
+    <Sentences>
+      <Sentence char_offsets="115:127" id="0" />
+      <Sentence char_offsets="128:368" id="1" />
+      <Sentence char_offsets="379:613" id="2" />
+      <Sentence char_offsets="615:749" id="3" />
+      <Sentence char_offsets="760:881" id="4" />
+      <Sentence char_offsets="883:1103" id="5" />
+      <Sentence char_offsets="1114:1253" id="6" />
+      <Sentence char_offsets="1255:1329" id="7" />
+      <Sentence char_offsets="1340:1546" id="8" />
+      <Sentence char_offsets="1548:1817" id="9" />
+      <Sentence char_offsets="1828:2039" id="10" />
+      <Sentence char_offsets="2041:2079" id="11" />
+      <Sentence char_offsets="2090:2351" id="12" />
+      <Sentence char_offsets="2353:2475" id="13" />
+      <Sentence char_offsets="2486:2634" id="14" />
+      <Sentence char_offsets="2636:2783" id="15" />
+      <Sentence char_offsets="2794:3003" id="16" />
+      <Sentence char_offsets="3005:3117" id="17" />
+      <Sentence char_offsets="3128:3421" id="18" />
+      <Sentence char_offsets="3432:3675" id="19" />
+      <Sentence char_offsets="3677:3889" id="20" />
+      <Sentence char_offsets="3900:4038" id="21" />
+      <Sentence char_offsets="4040:4169" id="22" />
+      <Sentence char_offsets="4180:4352" id="23" />
+      <Sentence char_offsets="4354:4491" id="24" />
+      <Sentence char_offsets="4502:4770" id="25" />
+      <Sentence char_offsets="4781:4863" id="26" />
+      <Sentence char_offsets="4865:4928" id="27" />
+      <Sentence char_offsets="4939:5171" id="28" />
+      <Sentence char_offsets="5173:5281" id="29" />
+      <Sentence char_offsets="5283:5302" id="30" />
+      <Sentence char_offsets="5313:5400" id="31" />
+      <Sentence char_offsets="5402:5580" id="32" />
+      <Sentence char_offsets="5582:5743" id="33" />
+      <Sentence char_offsets="5754:5978" id="34" />
+      <Sentence char_offsets="5980:6164" id="35" />
+      <Sentence char_offsets="6175:6332" id="36" />
+      <Sentence char_offsets="6334:6368" id="37" />
+      <Sentence char_offsets="6370:6381" id="38" />
+      <Sentence char_offsets="6392:6533" id="39" />
+      <Sentence char_offsets="6535:6669" id="40" />
+      <Sentence char_offsets="6680:6907" id="41" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="300" agent_name="City Mayor" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="23" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="457" agent_name="Democratic Party" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="23" tense="neutral" type="046">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="25778" actor_name="Ed Rendell" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="32" tense="neutral" type="050">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="25" tense="neutral" type="051">
+        <Participant actor_id="25778" actor_name="Ed Rendell" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="25" tense="neutral" type="051">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="10" tense="neutral" type="111">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="457" agent_name="Democratic Party" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="23" tense="neutral" type="046">
+        <Participant actor_id="25778" actor_name="Ed Rendell" role="Source" />
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0656">
+    <Sentences>
+      <Sentence char_offsets="183:363" id="0" />
+      <Sentence char_offsets="374:477" id="1" />
+      <Sentence char_offsets="488:537" id="2" />
+      <Sentence char_offsets="539:570" id="3" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="32525" actor_name="Germany" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090327.0750">
+    <Sentences>
+      <Sentence char_offsets="180:396" id="0" />
+      <Sentence char_offsets="407:637" id="1" />
+      <Sentence char_offsets="648:893" id="2" />
+      <Sentence char_offsets="904:1161" id="3" />
+      <Sentence char_offsets="1172:1318" id="4" />
+      <Sentence char_offsets="1329:1555" id="5" />
+      <Sentence char_offsets="1566:1762" id="6" />
+      <Sentence char_offsets="1773:1924" id="7" />
+      <Sentence char_offsets="1935:2156" id="8" />
+      <Sentence char_offsets="2167:2272" id="9" />
+      <Sentence char_offsets="2283:2494" id="10" />
+      <Sentence char_offsets="2505:2601" id="11" />
+      <Sentence char_offsets="2612:2851" id="12" />
+      <Sentence char_offsets="2862:3082" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="036">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="32725" actor_name="Costa Rica" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

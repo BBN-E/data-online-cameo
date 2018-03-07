@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.0706">
+    <Sentences>
+      <Sentence char_offsets="196:339" id="0" />
+      <Sentence char_offsets="350:462" id="1" />
+      <Sentence char_offsets="473:545" id="2" />
+      <Sentence char_offsets="547:624" id="3" />
+      <Sentence char_offsets="635:811" id="4" />
+      <Sentence char_offsets="813:961" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="3637" actor_name="Dagestan" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0673">
+    <Sentences>
+      <Sentence char_offsets="174:338" id="0" />
+      <Sentence char_offsets="349:474" id="1" />
+      <Sentence char_offsets="485:732" id="2" />
+      <Sentence char_offsets="743:949" id="3" />
+      <Sentence char_offsets="951:1001" id="4" />
+      <Sentence char_offsets="1012:1129" id="5" />
+      <Sentence char_offsets="1140:1226" id="6" />
+      <Sentence char_offsets="1237:1445" id="7" />
+      <Sentence char_offsets="1456:1671" id="8" />
+      <Sentence char_offsets="1682:1814" id="9" />
+      <Sentence char_offsets="1825:2018" id="10" />
+      <Sentence char_offsets="2029:2121" id="11" />
+      <Sentence char_offsets="2132:2218" id="12" />
+      <Sentence char_offsets="2229:2350" id="13" />
+      <Sentence char_offsets="2361:2432" id="14" />
+      <Sentence char_offsets="2443:2568" id="15" />
+      <Sentence char_offsets="2579:2699" id="16" />
+      <Sentence char_offsets="2710:2905" id="17" />
+      <Sentence char_offsets="2916:2972" id="18" />
+      <Sentence char_offsets="2983:3164" id="19" />
+      <Sentence char_offsets="3175:3281" id="20" />
+      <Sentence char_offsets="3292:3506" id="21" />
+      <Sentence char_offsets="3517:3633" id="22" />
+      <Sentence char_offsets="3644:3823" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="historical" type="010">
+        <Participant actor_id="18785" actor_name="Nguyen Tan Dung" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="18867" actor_name="Nguyensinh Hung" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="current" type="010">
+        <Participant actor_id="18804" actor_name="Nguyen Van Giau" role="Source" />
+        <Participant actor_id="40643" actor_name="Vietnam" agent_id="402" agent_name="Government Affiliated Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

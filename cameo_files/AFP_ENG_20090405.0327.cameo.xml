@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0327">
+    <Sentences>
+      <Sentence char_offsets="179:353" id="0" />
+      <Sentence char_offsets="364:564" id="1" />
+      <Sentence char_offsets="575:648" id="2" />
+      <Sentence char_offsets="650:751" id="3" />
+      <Sentence char_offsets="762:861" id="4" />
+      <Sentence char_offsets="863:918" id="5" />
+      <Sentence char_offsets="929:1132" id="6" />
+      <Sentence char_offsets="1143:1336" id="7" />
+      <Sentence char_offsets="1347:1473" id="8" />
+      <Sentence char_offsets="1484:1557" id="9" />
+      <Sentence char_offsets="1568:1771" id="10" />
+      <Sentence char_offsets="1782:2010" id="11" />
+      <Sentence char_offsets="2021:2147" id="12" />
+      <Sentence char_offsets="2158:2456" id="13" />
+      <Sentence char_offsets="2467:2660" id="14" />
+      <Sentence char_offsets="2671:2798" id="15" />
+      <Sentence char_offsets="2809:2877" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="455" agent_name="Royal Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="33080" actor_name="Denmark" agent_id="455" agent_name="Royal Administration" role="Source" />
+        <Participant actor_id="15055" actor_name="Anders Fogh Rasmussen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

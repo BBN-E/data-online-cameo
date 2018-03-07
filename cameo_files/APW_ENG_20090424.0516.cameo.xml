@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0516">
+    <Sentences>
+      <Sentence char_offsets="191:386" id="0" />
+      <Sentence char_offsets="397:620" id="1" />
+      <Sentence char_offsets="631:852" id="2" />
+      <Sentence char_offsets="863:995" id="3" />
+      <Sentence char_offsets="997:1077" id="4" />
+      <Sentence char_offsets="1088:1281" id="5" />
+      <Sentence char_offsets="1292:1507" id="6" />
+      <Sentence char_offsets="1518:1657" id="7" />
+      <Sentence char_offsets="1668:1912" id="8" />
+      <Sentence char_offsets="1923:2045" id="9" />
+      <Sentence char_offsets="2056:2261" id="10" />
+      <Sentence char_offsets="2272:2412" id="11" />
+      <Sentence char_offsets="2423:2563" id="12" />
+      <Sentence char_offsets="2574:2826" id="13" />
+      <Sentence char_offsets="2837:3094" id="14" />
+      <Sentence char_offsets="3105:3191" id="15" />
+      <Sentence char_offsets="3193:3321" id="16" />
+      <Sentence char_offsets="3332:3407" id="17" />
+      <Sentence char_offsets="3418:3526" id="18" />
+      <Sentence char_offsets="3537:3728" id="19" />
+      <Sentence char_offsets="3739:3805" id="20" />
+      <Sentence char_offsets="3807:3976" id="21" />
+      <Sentence char_offsets="3978:4144" id="22" />
+      <Sentence char_offsets="4155:4299" id="23" />
+      <Sentence char_offsets="4301:4367" id="24" />
+      <Sentence char_offsets="4378:4492" id="25" />
+      <Sentence char_offsets="4494:4561" id="26" />
+      <Sentence char_offsets="4572:4807" id="27" />
+      <Sentence char_offsets="4818:5033" id="28" />
+      <Sentence char_offsets="5044:5049" id="29" />
+      <Sentence char_offsets="5060:5124" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="historical" type="042">
+        <Participant actor_id="50678" actor_name="Bill Richardson" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="historical" type="043">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="50678" actor_name="Bill Richardson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

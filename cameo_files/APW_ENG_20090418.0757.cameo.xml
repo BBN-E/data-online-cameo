@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0757">
+    <Sentences>
+      <Sentence char_offsets="183:394" id="0" />
+      <Sentence char_offsets="405:537" id="1" />
+      <Sentence char_offsets="548:606" id="2" />
+      <Sentence char_offsets="608:817" id="3" />
+      <Sentence char_offsets="819:873" id="4" />
+      <Sentence char_offsets="884:1012" id="5" />
+      <Sentence char_offsets="1023:1156" id="6" />
+      <Sentence char_offsets="1167:1389" id="7" />
+      <Sentence char_offsets="1400:1438" id="8" />
+      <Sentence char_offsets="1449:1655" id="9" />
+      <Sentence char_offsets="1657:1726" id="10" />
+      <Sentence char_offsets="1737:1836" id="11" />
+      <Sentence char_offsets="1838:1989" id="12" />
+      <Sentence char_offsets="1991:2074" id="13" />
+      <Sentence char_offsets="2085:2208" id="14" />
+      <Sentence char_offsets="2210:2362" id="15" />
+      <Sentence char_offsets="2364:2426" id="16" />
+      <Sentence char_offsets="2437:2597" id="17" />
+      <Sentence char_offsets="2599:2729" id="18" />
+      <Sentence char_offsets="2731:2823" id="19" />
+      <Sentence char_offsets="2834:2977" id="20" />
+      <Sentence char_offsets="2979:3124" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="ongoing" type="0354">
+        <Participant actor_id="32385" actor_name="Cuba" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32385" actor_name="Cuba" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="32385" actor_name="Cuba" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.1263">
+    <Sentences>
+      <Sentence char_offsets="179:388" id="0" />
+      <Sentence char_offsets="399:560" id="1" />
+      <Sentence char_offsets="571:819" id="2" />
+      <Sentence char_offsets="830:901" id="3" />
+      <Sentence char_offsets="903:1129" id="4" />
+      <Sentence char_offsets="1140:1290" id="5" />
+      <Sentence char_offsets="1292:1390" id="6" />
+      <Sentence char_offsets="1401:1615" id="7" />
+      <Sentence char_offsets="1626:1885" id="8" />
+      <Sentence char_offsets="1896:2130" id="9" />
+      <Sentence char_offsets="2141:2262" id="10" />
+      <Sentence char_offsets="2273:2485" id="11" />
+      <Sentence char_offsets="2496:2695" id="12" />
+      <Sentence char_offsets="2706:2908" id="13" />
+      <Sentence char_offsets="2919:3072" id="14" />
+      <Sentence char_offsets="3083:3217" id="15" />
+      <Sentence char_offsets="3219:3418" id="16" />
+      <Sentence char_offsets="3429:3609" id="17" />
+      <Sentence char_offsets="3611:3739" id="18" />
+      <Sentence char_offsets="3750:3983" id="19" />
+      <Sentence char_offsets="3994:4059" id="20" />
+      <Sentence char_offsets="4061:4247" id="21" />
+      <Sentence char_offsets="4258:4436" id="22" />
+      <Sentence char_offsets="4447:4585" id="23" />
+      <Sentence char_offsets="4596:4748" id="24" />
+      <Sentence char_offsets="4750:4837" id="25" />
+      <Sentence char_offsets="4848:5011" id="26" />
+      <Sentence char_offsets="5022:5225" id="27" />
+      <Sentence char_offsets="5236:5469" id="28" />
+      <Sentence char_offsets="5480:5719" id="29" />
+      <Sentence char_offsets="5730:5823" id="30" />
+      <Sentence char_offsets="5825:5905" id="31" />
+      <Sentence char_offsets="5907:6047" id="32" />
+      <Sentence char_offsets="6058:6109" id="33" />
+      <Sentence char_offsets="6111:6233" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="32" tense="neutral" type="0356">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="14590" actor_name="Benjamin Netanyahu" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

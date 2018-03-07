@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0668">
+    <Sentences>
+      <Sentence char_offsets="188:351" id="0" />
+      <Sentence char_offsets="362:571" id="1" />
+      <Sentence char_offsets="582:705" id="2" />
+      <Sentence char_offsets="716:869" id="3" />
+      <Sentence char_offsets="880:984" id="4" />
+      <Sentence char_offsets="995:1143" id="5" />
+      <Sentence char_offsets="1154:1237" id="6" />
+      <Sentence char_offsets="1248:1365" id="7" />
+      <Sentence char_offsets="1367:1422" id="8" />
+      <Sentence char_offsets="1433:1584" id="9" />
+      <Sentence char_offsets="1595:1747" id="10" />
+      <Sentence char_offsets="1758:1943" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="193">
+        <Participant actor_id="32631" actor_name="China" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="193">
+        <Participant actor_id="32631" actor_name="China" agent_id="690" agent_name="Attacker" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

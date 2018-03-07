@@ -1,0 +1,101 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.1269">
+    <Sentences>
+      <Sentence char_offsets="166:332" id="0" />
+      <Sentence char_offsets="334:436" id="1" />
+      <Sentence char_offsets="447:631" id="2" />
+      <Sentence char_offsets="642:823" id="3" />
+      <Sentence char_offsets="834:1044" id="4" />
+      <Sentence char_offsets="1046:1279" id="5" />
+      <Sentence char_offsets="1290:1366" id="6" />
+      <Sentence char_offsets="1377:1520" id="7" />
+      <Sentence char_offsets="1522:1645" id="8" />
+      <Sentence char_offsets="1656:1863" id="9" />
+      <Sentence char_offsets="1874:2029" id="10" />
+      <Sentence char_offsets="2040:2229" id="11" />
+      <Sentence char_offsets="2240:2344" id="12" />
+      <Sentence char_offsets="2355:2534" id="13" />
+      <Sentence char_offsets="2545:2667" id="14" />
+      <Sentence char_offsets="2669:2791" id="15" />
+      <Sentence char_offsets="2793:2827" id="16" />
+      <Sentence char_offsets="2838:2974" id="17" />
+      <Sentence char_offsets="2985:3118" id="18" />
+      <Sentence char_offsets="3129:3263" id="19" />
+      <Sentence char_offsets="3265:3386" id="20" />
+      <Sentence char_offsets="3397:3537" id="21" />
+      <Sentence char_offsets="3548:3617" id="22" />
+      <Sentence char_offsets="3628:3780" id="23" />
+      <Sentence char_offsets="3782:3867" id="24" />
+      <Sentence char_offsets="3878:3983" id="25" />
+      <Sentence char_offsets="3985:4171" id="26" />
+      <Sentence char_offsets="4173:4223" id="27" />
+      <Sentence char_offsets="4234:4390" id="28" />
+      <Sentence char_offsets="4392:4439" id="29" />
+      <Sentence char_offsets="4441:4498" id="30" />
+      <Sentence char_offsets="4509:4620" id="31" />
+      <Sentence char_offsets="4622:4721" id="32" />
+      <Sentence char_offsets="4732:4897" id="33" />
+      <Sentence char_offsets="4908:5018" id="34" />
+      <Sentence char_offsets="5020:5147" id="35" />
+      <Sentence char_offsets="5149:5257" id="36" />
+      <Sentence char_offsets="5268:5273" id="37" />
+      <Sentence char_offsets="5284:5495" id="38" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Source" />
+        <Participant actor_id="33821" actor_name="Ted Kennedy" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="017">
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Source" />
+        <Participant actor_id="33821" actor_name="Ted Kennedy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="33371" actor_name="Peter Robinson" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="25" tense="neutral" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="25" tense="neutral" type="042">
+        <Participant actor_id="31863" actor_name="Ireland" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="040">
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="33371" actor_name="Peter Robinson" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="25" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="25" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

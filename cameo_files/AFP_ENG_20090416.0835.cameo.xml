@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0835">
+    <Sentences>
+      <Sentence char_offsets="188:377" id="0" />
+      <Sentence char_offsets="388:625" id="1" />
+      <Sentence char_offsets="636:809" id="2" />
+      <Sentence char_offsets="820:1026" id="3" />
+      <Sentence char_offsets="1037:1204" id="4" />
+      <Sentence char_offsets="1215:1371" id="5" />
+      <Sentence char_offsets="1382:1471" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="12288" actor_name="Abdullah II of Jordan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

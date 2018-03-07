@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.1436">
+    <Sentences>
+      <Sentence char_offsets="183:471" id="0" />
+      <Sentence char_offsets="482:798" id="1" />
+      <Sentence char_offsets="809:1036" id="2" />
+      <Sentence char_offsets="1047:1373" id="3" />
+      <Sentence char_offsets="1384:1482" id="4" />
+      <Sentence char_offsets="1493:1661" id="5" />
+      <Sentence char_offsets="1663:1732" id="6" />
+      <Sentence char_offsets="1743:1891" id="7" />
+      <Sentence char_offsets="1902:2143" id="8" />
+      <Sentence char_offsets="2154:2452" id="9" />
+      <Sentence char_offsets="2463:2617" id="10" />
+      <Sentence char_offsets="2628:2708" id="11" />
+      <Sentence char_offsets="2710:2905" id="12" />
+      <Sentence char_offsets="2916:3120" id="13" />
+      <Sentence char_offsets="3131:3355" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="0331">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="238660" actor_name="Chrysler" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

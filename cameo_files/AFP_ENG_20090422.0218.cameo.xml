@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0218">
+    <Sentences>
+      <Sentence char_offsets="180:359" id="0" />
+      <Sentence char_offsets="370:583" id="1" />
+      <Sentence char_offsets="594:788" id="2" />
+      <Sentence char_offsets="799:907" id="3" />
+      <Sentence char_offsets="918:1112" id="4" />
+      <Sentence char_offsets="1123:1260" id="5" />
+      <Sentence char_offsets="1271:1500" id="6" />
+      <Sentence char_offsets="1511:1740" id="7" />
+      <Sentence char_offsets="1751:1834" id="8" />
+      <Sentence char_offsets="1845:1984" id="9" />
+      <Sentence char_offsets="1995:2170" id="10" />
+      <Sentence char_offsets="2181:2331" id="11" />
+      <Sentence char_offsets="2342:2495" id="12" />
+      <Sentence char_offsets="2506:2608" id="13" />
+      <Sentence char_offsets="2619:2780" id="14" />
+      <Sentence char_offsets="2782:2833" id="15" />
+      <Sentence char_offsets="2844:3008" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="051">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="052">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

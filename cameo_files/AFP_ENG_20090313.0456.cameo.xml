@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090313.0456">
+    <Sentences>
+      <Sentence char_offsets="179:374" id="0" />
+      <Sentence char_offsets="385:612" id="1" />
+      <Sentence char_offsets="623:837" id="2" />
+      <Sentence char_offsets="848:1060" id="3" />
+      <Sentence char_offsets="1071:1189" id="4" />
+      <Sentence char_offsets="1200:1405" id="5" />
+      <Sentence char_offsets="1416:1487" id="6" />
+      <Sentence char_offsets="1498:1703" id="7" />
+      <Sentence char_offsets="1714:1898" id="8" />
+      <Sentence char_offsets="1909:2138" id="9" />
+      <Sentence char_offsets="2149:2319" id="10" />
+      <Sentence char_offsets="2330:2508" id="11" />
+      <Sentence char_offsets="2519:2578" id="12" />
+      <Sentence char_offsets="2589:2797" id="13" />
+      <Sentence char_offsets="2808:3009" id="14" />
+      <Sentence char_offsets="3020:3238" id="15" />
+      <Sentence char_offsets="3249:3473" id="16" />
+      <Sentence char_offsets="3484:3578" id="17" />
+      <Sentence char_offsets="3589:3816" id="18" />
+      <Sentence char_offsets="3827:4049" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="historical" type="010">
+        <Participant actor_id="30701" actor_name="France" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="current" type="040">
+        <Participant actor_id="30701" actor_name="France" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="current" type="0841">
+        <Participant actor_id="30701" actor_name="France" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="current" type="040">
+        <Participant actor_id="30701" actor_name="France" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="327" agent_name="Labor Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

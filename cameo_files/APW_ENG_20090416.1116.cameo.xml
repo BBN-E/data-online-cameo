@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.1116">
+    <Sentences>
+      <Sentence char_offsets="195:364" id="0" />
+      <Sentence char_offsets="366:442" id="1" />
+      <Sentence char_offsets="453:550" id="2" />
+      <Sentence char_offsets="561:754" id="3" />
+      <Sentence char_offsets="756:781" id="4" />
+      <Sentence char_offsets="792:1069" id="5" />
+      <Sentence char_offsets="1080:1154" id="6" />
+      <Sentence char_offsets="1165:1366" id="7" />
+      <Sentence char_offsets="1377:1497" id="8" />
+      <Sentence char_offsets="1508:1627" id="9" />
+      <Sentence char_offsets="1638:1686" id="10" />
+      <Sentence char_offsets="1697:1821" id="11" />
+      <Sentence char_offsets="1823:1956" id="12" />
+      <Sentence char_offsets="1961:2058" id="13" />
+      <Sentence char_offsets="2069:2326" id="14" />
+      <Sentence char_offsets="2337:2415" id="15" />
+      <Sentence char_offsets="2417:2589" id="16" />
+      <Sentence char_offsets="2600:2747" id="17" />
+      <Sentence char_offsets="2749:2798" id="18" />
+      <Sentence char_offsets="2809:2973" id="19" />
+      <Sentence char_offsets="2984:3196" id="20" />
+      <Sentence char_offsets="3207:3355" id="21" />
+      <Sentence char_offsets="3357:3429" id="22" />
+      <Sentence char_offsets="3440:3445" id="23" />
+      <Sentence char_offsets="3456:3466" id="24" />
+      <Sentence char_offsets="3477:3510" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="53110" actor_name="Soeharto" role="Source" />
+        <Participant actor_id="679" actor_name="Time Warner Inc." role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="53110" actor_name="Soeharto" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="679" actor_name="Time Warner Inc." role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="051">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="679" actor_name="Time Warner Inc." role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="081">
+        <Participant actor_id="31182" actor_name="Indonesia" role="Source" />
+        <Participant actor_id="679" actor_name="Time Warner Inc." role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="115">
+        <Participant actor_id="53110" actor_name="Soeharto" role="Source" />
+        <Participant actor_id="679" actor_name="Time Warner Inc." role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="173">
+        <Participant actor_id="53110" actor_name="Soeharto" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="69" agent_name="Party Member" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

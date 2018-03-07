@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0358">
+    <Sentences>
+      <Sentence char_offsets="179:361" id="0" />
+      <Sentence char_offsets="372:627" id="1" />
+      <Sentence char_offsets="638:788" id="2" />
+      <Sentence char_offsets="799:1075" id="3" />
+      <Sentence char_offsets="1086:1245" id="4" />
+      <Sentence char_offsets="1256:1347" id="5" />
+      <Sentence char_offsets="1358:1475" id="6" />
+      <Sentence char_offsets="1486:1632" id="7" />
+      <Sentence char_offsets="1634:1711" id="8" />
+      <Sentence char_offsets="1722:1798" id="9" />
+      <Sentence char_offsets="1809:2089" id="10" />
+      <Sentence char_offsets="2100:2238" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="190">
+        <Participant actor_id="215328" actor_name="Continuity Irish Republican Army" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0135">
+    <Sentences>
+      <Sentence char_offsets="176:354" id="0" />
+      <Sentence char_offsets="365:444" id="1" />
+      <Sentence char_offsets="446:632" id="2" />
+      <Sentence char_offsets="643:854" id="3" />
+      <Sentence char_offsets="865:934" id="4" />
+      <Sentence char_offsets="945:1081" id="5" />
+      <Sentence char_offsets="1083:1152" id="6" />
+      <Sentence char_offsets="1163:1246" id="7" />
+      <Sentence char_offsets="1257:1411" id="8" />
+      <Sentence char_offsets="1422:1610" id="9" />
+      <Sentence char_offsets="1621:1803" id="10" />
+      <Sentence char_offsets="1814:1928" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="32437" actor_name="Cyprus" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="42695" actor_name="Markos Kyprianou" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="current" type="044">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="42695" actor_name="Markos Kyprianou" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="current" type="044">
+        <Participant actor_id="42695" actor_name="Markos Kyprianou" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="20854" actor_name="Mehmet Ali Talat" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

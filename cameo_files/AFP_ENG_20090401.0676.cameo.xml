@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0676">
+    <Sentences>
+      <Sentence char_offsets="183:357" id="0" />
+      <Sentence char_offsets="368:586" id="1" />
+      <Sentence char_offsets="597:803" id="2" />
+      <Sentence char_offsets="814:844" id="3" />
+      <Sentence char_offsets="846:884" id="4" />
+      <Sentence char_offsets="886:908" id="5" />
+      <Sentence char_offsets="910:991" id="6" />
+      <Sentence char_offsets="993:1024" id="7" />
+      <Sentence char_offsets="1035:1200" id="8" />
+      <Sentence char_offsets="1211:1440" id="9" />
+      <Sentence char_offsets="1451:1631" id="10" />
+      <Sentence char_offsets="1642:1793" id="11" />
+      <Sentence char_offsets="1804:2013" id="12" />
+      <Sentence char_offsets="2024:2216" id="13" />
+      <Sentence char_offsets="2227:2312" id="14" />
+      <Sentence char_offsets="2323:2569" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="090">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="141">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="449" agent_name="Activist" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="current" type="141">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="449" agent_name="Activist" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

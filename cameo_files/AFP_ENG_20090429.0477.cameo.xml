@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0477">
+    <Sentences>
+      <Sentence char_offsets="181:374" id="0" />
+      <Sentence char_offsets="385:594" id="1" />
+      <Sentence char_offsets="605:698" id="2" />
+      <Sentence char_offsets="709:872" id="3" />
+      <Sentence char_offsets="883:958" id="4" />
+      <Sentence char_offsets="960:1085" id="5" />
+      <Sentence char_offsets="1096:1293" id="6" />
+      <Sentence char_offsets="1304:1390" id="7" />
+      <Sentence char_offsets="1401:1530" id="8" />
+      <Sentence char_offsets="1541:1794" id="9" />
+      <Sentence char_offsets="1805:1998" id="10" />
+      <Sentence char_offsets="2009:2198" id="11" />
+      <Sentence char_offsets="2209:2406" id="12" />
+      <Sentence char_offsets="2417:2581" id="13" />
+      <Sentence char_offsets="2592:2823" id="14" />
+      <Sentence char_offsets="2834:3056" id="15" />
+      <Sentence char_offsets="3067:3244" id="16" />
+      <Sentence char_offsets="3255:3446" id="17" />
+      <Sentence char_offsets="3457:3570" id="18" />
+      <Sentence char_offsets="3581:3801" id="19" />
+      <Sentence char_offsets="3812:3958" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="current" type="042">
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="current" type="042">
+        <Participant actor_id="14880" actor_name="David Miliband" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="120">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="12" tense="current" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="current" type="043">
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Source" />
+        <Participant actor_id="14880" actor_name="David Miliband" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

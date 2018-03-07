@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0171">
+    <Sentences>
+      <Sentence char_offsets="179:337" id="0" />
+      <Sentence char_offsets="348:551" id="1" />
+      <Sentence char_offsets="562:780" id="2" />
+      <Sentence char_offsets="791:996" id="3" />
+      <Sentence char_offsets="1007:1115" id="4" />
+      <Sentence char_offsets="1117:1162" id="5" />
+      <Sentence char_offsets="1173:1439" id="6" />
+      <Sentence char_offsets="1450:1592" id="7" />
+      <Sentence char_offsets="1603:1734" id="8" />
+      <Sentence char_offsets="1745:1863" id="9" />
+      <Sentence char_offsets="1874:2064" id="10" />
+      <Sentence char_offsets="2075:2235" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="053">
+        <Participant actor_id="26696" actor_name="Northern Ireland" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="26696" actor_name="Northern Ireland" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="26696" actor_name="Northern Ireland" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" agent_id="324" agent_name="Dissident" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="14692" actor_name="Brian Cowen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.0864">
+    <Sentences>
+      <Sentence char_offsets="188:421" id="0" />
+      <Sentence char_offsets="432:686" id="1" />
+      <Sentence char_offsets="697:945" id="2" />
+      <Sentence char_offsets="956:1148" id="3" />
+      <Sentence char_offsets="1159:1334" id="4" />
+      <Sentence char_offsets="1345:1398" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="34826" actor_name="David Petraeus" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="493" agent_name="Insurgent" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="34826" actor_name="David Petraeus" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="34826" actor_name="David Petraeus" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

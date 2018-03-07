@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090409.0207">
+    <Sentences>
+      <Sentence char_offsets="120:318" id="0" />
+      <Sentence char_offsets="329:467" id="1" />
+      <Sentence char_offsets="469:566" id="2" />
+      <Sentence char_offsets="577:693" id="3" />
+      <Sentence char_offsets="695:837" id="4" />
+      <Sentence char_offsets="848:998" id="5" />
+      <Sentence char_offsets="1000:1097" id="6" />
+      <Sentence char_offsets="1108:1237" id="7" />
+      <Sentence char_offsets="1239:1359" id="8" />
+      <Sentence char_offsets="1370:1506" id="9" />
+      <Sentence char_offsets="1508:1612" id="10" />
+      <Sentence char_offsets="1623:1821" id="11" />
+      <Sentence char_offsets="1823:1885" id="12" />
+      <Sentence char_offsets="1896:2080" id="13" />
+      <Sentence char_offsets="2082:2197" id="14" />
+      <Sentence char_offsets="2208:2318" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

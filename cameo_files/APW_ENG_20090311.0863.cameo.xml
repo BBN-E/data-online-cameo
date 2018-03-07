@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.0863">
+    <Sentences>
+      <Sentence char_offsets="177:400" id="0" />
+      <Sentence char_offsets="411:613" id="1" />
+      <Sentence char_offsets="624:830" id="2" />
+      <Sentence char_offsets="841:983" id="3" />
+      <Sentence char_offsets="994:1223" id="4" />
+      <Sentence char_offsets="1225:1301" id="5" />
+      <Sentence char_offsets="1312:1513" id="6" />
+      <Sentence char_offsets="1515:1575" id="7" />
+      <Sentence char_offsets="1586:1756" id="8" />
+      <Sentence char_offsets="1767:1927" id="9" />
+      <Sentence char_offsets="1929:2014" id="10" />
+      <Sentence char_offsets="2025:2190" id="11" />
+      <Sentence char_offsets="2201:2308" id="12" />
+      <Sentence char_offsets="2310:2395" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="9328" actor_name="Baltasar Garz&#243;n" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="48" agent_name="Member of the Judiciary" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="173">
+        <Participant actor_id="9328" actor_name="Baltasar Garz&#243;n" role="Source" />
+        <Participant actor_id="28082" actor_name="Augusto Pinochet" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0565">
+    <Sentences>
+      <Sentence char_offsets="176:354" id="0" />
+      <Sentence char_offsets="365:450" id="1" />
+      <Sentence char_offsets="461:549" id="2" />
+      <Sentence char_offsets="551:613" id="3" />
+      <Sentence char_offsets="615:647" id="4" />
+      <Sentence char_offsets="658:891" id="5" />
+      <Sentence char_offsets="902:998" id="6" />
+      <Sentence char_offsets="1009:1129" id="7" />
+      <Sentence char_offsets="1140:1294" id="8" />
+      <Sentence char_offsets="1305:1385" id="9" />
+      <Sentence char_offsets="1396:1552" id="10" />
+      <Sentence char_offsets="1563:1747" id="11" />
+      <Sentence char_offsets="1758:1910" id="12" />
+      <Sentence char_offsets="1921:2100" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="16892" actor_name="Arthur Mutambara" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="16892" actor_name="Arthur Mutambara" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="16892" actor_name="Arthur Mutambara" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

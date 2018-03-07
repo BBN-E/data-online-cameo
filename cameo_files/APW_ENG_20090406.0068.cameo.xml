@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090406.0068">
+    <Sentences>
+      <Sentence char_offsets="186:431" id="0" />
+      <Sentence char_offsets="442:706" id="1" />
+      <Sentence char_offsets="717:941" id="2" />
+      <Sentence char_offsets="943:990" id="3" />
+      <Sentence char_offsets="1001:1091" id="4" />
+      <Sentence char_offsets="1093:1210" id="5" />
+      <Sentence char_offsets="1221:1276" id="6" />
+      <Sentence char_offsets="1278:1378" id="7" />
+      <Sentence char_offsets="1389:1464" id="8" />
+      <Sentence char_offsets="1475:1533" id="9" />
+      <Sentence char_offsets="1535:1563" id="10" />
+      <Sentence char_offsets="1574:1692" id="11" />
+      <Sentence char_offsets="1694:1816" id="12" />
+      <Sentence char_offsets="1827:2025" id="13" />
+      <Sentence char_offsets="2027:2093" id="14" />
+      <Sentence char_offsets="2104:2350" id="15" />
+      <Sentence char_offsets="2361:2468" id="16" />
+      <Sentence char_offsets="2479:2559" id="17" />
+      <Sentence char_offsets="2570:2783" id="18" />
+      <Sentence char_offsets="2794:3015" id="19" />
+      <Sentence char_offsets="3026:3165" id="20" />
+      <Sentence char_offsets="3167:3287" id="21" />
+      <Sentence char_offsets="3298:3371" id="22" />
+      <Sentence char_offsets="3382:3438" id="23" />
+      <Sentence char_offsets="3440:3563" id="24" />
+      <Sentence char_offsets="3574:3579" id="25" />
+      <Sentence char_offsets="3590:3706" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="12687" actor_name="Hakimullah Mehsud" role="Source" />
+        <Participant actor_id="31818" actor_name="Tehrik-i-Taliban Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="100">
+        <Participant actor_id="27284" actor_name="Baitullah Mehsud" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="112">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="neutral" type="138">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="138">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="15" tense="neutral" type="190">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="20" tense="neutral" type="190">
+        <Participant actor_id="31818" actor_name="Tehrik-i-Taliban Pakistan" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

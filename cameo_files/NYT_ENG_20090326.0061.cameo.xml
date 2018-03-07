@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090326.0061">
+    <Sentences>
+      <Sentence char_offsets="115:142" id="0" />
+      <Sentence char_offsets="144:172" id="1" />
+      <Sentence char_offsets="183:395" id="2" />
+      <Sentence char_offsets="397:495" id="3" />
+      <Sentence char_offsets="506:559" id="4" />
+      <Sentence char_offsets="561:609" id="5" />
+      <Sentence char_offsets="611:728" id="6" />
+      <Sentence char_offsets="739:845" id="7" />
+      <Sentence char_offsets="847:1041" id="8" />
+      <Sentence char_offsets="1052:1129" id="9" />
+      <Sentence char_offsets="1140:1278" id="10" />
+      <Sentence char_offsets="1289:1385" id="11" />
+      <Sentence char_offsets="1396:1467" id="12" />
+      <Sentence char_offsets="1469:1657" id="13" />
+      <Sentence char_offsets="1668:1737" id="14" />
+      <Sentence char_offsets="1739:1819" id="15" />
+      <Sentence char_offsets="1821:1947" id="16" />
+      <Sentence char_offsets="1958:2059" id="17" />
+      <Sentence char_offsets="2070:2220" id="18" />
+      <Sentence char_offsets="2231:2341" id="19" />
+      <Sentence char_offsets="2343:2434" id="20" />
+      <Sentence char_offsets="2445:2489" id="21" />
+      <Sentence char_offsets="2491:2611" id="22" />
+      <Sentence char_offsets="2613:2829" id="23" />
+      <Sentence char_offsets="2831:2970" id="24" />
+      <Sentence char_offsets="2981:3032" id="25" />
+      <Sentence char_offsets="3034:3092" id="26" />
+      <Sentence char_offsets="3103:3230" id="27" />
+      <Sentence char_offsets="3232:3385" id="28" />
+      <Sentence char_offsets="3396:3598" id="29" />
+      <Sentence char_offsets="3609:3641" id="30" />
+      <Sentence char_offsets="3643:3729" id="31" />
+      <Sentence char_offsets="3731:3863" id="32" />
+      <Sentence char_offsets="3874:3950" id="33" />
+      <Sentence char_offsets="3952:4011" id="34" />
+      <Sentence char_offsets="4022:4090" id="35" />
+      <Sentence char_offsets="4092:4172" id="36" />
+      <Sentence char_offsets="4183:4290" id="37" />
+      <Sentence char_offsets="4292:4350" id="38" />
+      <Sentence char_offsets="4361:4411" id="39" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="historical" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="366" agent_name="Industry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="32" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="neutral" type="053">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="28" tense="neutral" type="053">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="15" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

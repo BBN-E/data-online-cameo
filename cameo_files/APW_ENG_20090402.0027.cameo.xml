@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0027">
+    <Sentences>
+      <Sentence char_offsets="187:348" id="0" />
+      <Sentence char_offsets="359:607" id="1" />
+      <Sentence char_offsets="618:768" id="2" />
+      <Sentence char_offsets="779:914" id="3" />
+      <Sentence char_offsets="925:1166" id="4" />
+      <Sentence char_offsets="1168:1323" id="5" />
+      <Sentence char_offsets="1334:1569" id="6" />
+      <Sentence char_offsets="1580:1618" id="7" />
+      <Sentence char_offsets="1620:1679" id="8" />
+      <Sentence char_offsets="1681:1720" id="9" />
+      <Sentence char_offsets="1722:1782" id="10" />
+      <Sentence char_offsets="1793:1910" id="11" />
+      <Sentence char_offsets="1921:2040" id="12" />
+      <Sentence char_offsets="2042:2115" id="13" />
+      <Sentence char_offsets="2126:2240" id="14" />
+      <Sentence char_offsets="2251:2382" id="15" />
+      <Sentence char_offsets="2384:2544" id="16" />
+      <Sentence char_offsets="2555:2607" id="17" />
+      <Sentence char_offsets="2618:2654" id="18" />
+      <Sentence char_offsets="2656:2867" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="160">
+        <Participant actor_id="49129" actor_name="United States Senate" role="Source" />
+        <Participant actor_id="47959" actor_name="Rod Blagojevich" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="173">
+        <Participant actor_id="49129" actor_name="United States Senate" role="Source" />
+        <Participant actor_id="47959" actor_name="Rod Blagojevich" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

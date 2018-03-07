@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.0078">
+    <Sentences>
+      <Sentence char_offsets="175:389" id="0" />
+      <Sentence char_offsets="400:606" id="1" />
+      <Sentence char_offsets="617:827" id="2" />
+      <Sentence char_offsets="838:934" id="3" />
+      <Sentence char_offsets="936:1093" id="4" />
+      <Sentence char_offsets="1104:1295" id="5" />
+      <Sentence char_offsets="1306:1387" id="6" />
+      <Sentence char_offsets="1398:1516" id="7" />
+      <Sentence char_offsets="1527:1626" id="8" />
+      <Sentence char_offsets="1628:1728" id="9" />
+      <Sentence char_offsets="1730:1773" id="10" />
+      <Sentence char_offsets="1784:1864" id="11" />
+      <Sentence char_offsets="1866:2091" id="12" />
+      <Sentence char_offsets="2102:2312" id="13" />
+      <Sentence char_offsets="2323:2406" id="14" />
+      <Sentence char_offsets="2417:2535" id="15" />
+      <Sentence char_offsets="2537:2622" id="16" />
+      <Sentence char_offsets="2633:2862" id="17" />
+      <Sentence char_offsets="2873:2931" id="18" />
+      <Sentence char_offsets="2942:3047" id="19" />
+      <Sentence char_offsets="3049:3120" id="20" />
+      <Sentence char_offsets="3122:3181" id="21" />
+      <Sentence char_offsets="3192:3298" id="22" />
+      <Sentence char_offsets="3309:3441" id="23" />
+      <Sentence char_offsets="3452:3595" id="24" />
+      <Sentence char_offsets="3606:3703" id="25" />
+      <Sentence char_offsets="3714:3838" id="26" />
+      <Sentence char_offsets="3840:4057" id="27" />
+      <Sentence char_offsets="4068:4181" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="25783" actor_name="International Olympic Committee" role="Source" />
+        <Participant actor_id="25809" actor_name="Jacques Rogge" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

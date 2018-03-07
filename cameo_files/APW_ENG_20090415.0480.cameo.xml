@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.0480">
+    <Sentences>
+      <Sentence char_offsets="193:320" id="0" />
+      <Sentence char_offsets="331:556" id="1" />
+      <Sentence char_offsets="567:613" id="2" />
+      <Sentence char_offsets="615:712" id="3" />
+      <Sentence char_offsets="723:779" id="4" />
+      <Sentence char_offsets="790:957" id="5" />
+      <Sentence char_offsets="968:1167" id="6" />
+      <Sentence char_offsets="1178:1269" id="7" />
+      <Sentence char_offsets="1280:1491" id="8" />
+      <Sentence char_offsets="1502:1721" id="9" />
+      <Sentence char_offsets="1732:1830" id="10" />
+      <Sentence char_offsets="1841:1844" id="11" />
+      <Sentence char_offsets="1855:1932" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="historical" type="010">
+        <Participant actor_id="39753" actor_name="Syria" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="072">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" agent_id="629" agent_name="Alleged Militants" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="072">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" agent_id="621" agent_name="Military Judge" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="historical" type="173">
+        <Participant actor_id="31538" actor_name="Jordan" role="Source" />
+        <Participant actor_id="31716" actor_name="Hamas" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="8" tense="historical" type="138">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="8" tense="historical" type="138">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="31538" actor_name="Jordan" agent_id="174" agent_name="Intelligence Officer" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

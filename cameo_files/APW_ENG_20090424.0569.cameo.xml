@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0569">
+    <Sentences>
+      <Sentence char_offsets="176:365" id="0" />
+      <Sentence char_offsets="376:553" id="1" />
+      <Sentence char_offsets="564:790" id="2" />
+      <Sentence char_offsets="792:964" id="3" />
+      <Sentence char_offsets="975:1053" id="4" />
+      <Sentence char_offsets="1055:1147" id="5" />
+      <Sentence char_offsets="1158:1267" id="6" />
+      <Sentence char_offsets="1278:1447" id="7" />
+      <Sentence char_offsets="1458:1590" id="8" />
+      <Sentence char_offsets="1601:1676" id="9" />
+      <Sentence char_offsets="1678:1791" id="10" />
+      <Sentence char_offsets="1793:1862" id="11" />
+      <Sentence char_offsets="1873:1967" id="12" />
+      <Sentence char_offsets="1969:2108" id="13" />
+      <Sentence char_offsets="2119:2229" id="14" />
+      <Sentence char_offsets="2240:2451" id="15" />
+      <Sentence char_offsets="2462:2467" id="16" />
+      <Sentence char_offsets="2478:2546" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="historical" type="141">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

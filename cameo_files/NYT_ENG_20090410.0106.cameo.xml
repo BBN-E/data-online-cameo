@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090410.0106">
+    <Sentences>
+      <Sentence char_offsets="111:207" id="0" />
+      <Sentence char_offsets="218:284" id="1" />
+      <Sentence char_offsets="295:318" id="2" />
+      <Sentence char_offsets="329:427" id="3" />
+      <Sentence char_offsets="438:560" id="4" />
+      <Sentence char_offsets="562:681" id="5" />
+      <Sentence char_offsets="692:794" id="6" />
+      <Sentence char_offsets="796:882" id="7" />
+      <Sentence char_offsets="884:1075" id="8" />
+      <Sentence char_offsets="1086:1256" id="9" />
+      <Sentence char_offsets="1258:1384" id="10" />
+      <Sentence char_offsets="1386:1404" id="11" />
+      <Sentence char_offsets="1415:1611" id="12" />
+      <Sentence char_offsets="1613:1746" id="13" />
+      <Sentence char_offsets="1757:1939" id="14" />
+      <Sentence char_offsets="1941:2085" id="15" />
+      <Sentence char_offsets="2087:2220" id="16" />
+      <Sentence char_offsets="2231:2492" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="180">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="190">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

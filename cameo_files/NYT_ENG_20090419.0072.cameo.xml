@@ -1,0 +1,90 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090419.0072">
+    <Sentences>
+      <Sentence char_offsets="182:401" id="0" />
+      <Sentence char_offsets="412:569" id="1" />
+      <Sentence char_offsets="571:686" id="2" />
+      <Sentence char_offsets="697:900" id="3" />
+      <Sentence char_offsets="902:1026" id="4" />
+      <Sentence char_offsets="1037:1194" id="5" />
+      <Sentence char_offsets="1205:1414" id="6" />
+      <Sentence char_offsets="1425:1603" id="7" />
+      <Sentence char_offsets="1614:1761" id="8" />
+      <Sentence char_offsets="1763:1917" id="9" />
+      <Sentence char_offsets="1928:2116" id="10" />
+      <Sentence char_offsets="2127:2276" id="11" />
+      <Sentence char_offsets="2278:2427" id="12" />
+      <Sentence char_offsets="2438:2604" id="13" />
+      <Sentence char_offsets="2615:2852" id="14" />
+      <Sentence char_offsets="2863:3001" id="15" />
+      <Sentence char_offsets="3003:3132" id="16" />
+      <Sentence char_offsets="3143:3268" id="17" />
+      <Sentence char_offsets="3270:3429" id="18" />
+      <Sentence char_offsets="3440:3554" id="19" />
+      <Sentence char_offsets="3556:3596" id="20" />
+      <Sentence char_offsets="3598:3789" id="21" />
+      <Sentence char_offsets="3800:3851" id="22" />
+      <Sentence char_offsets="3862:3961" id="23" />
+      <Sentence char_offsets="3963:4125" id="24" />
+      <Sentence char_offsets="4136:4373" id="25" />
+      <Sentence char_offsets="4384:4474" id="26" />
+      <Sentence char_offsets="4476:4514" id="27" />
+      <Sentence char_offsets="4516:4585" id="28" />
+      <Sentence char_offsets="4596:4667" id="29" />
+      <Sentence char_offsets="4678:4848" id="30" />
+      <Sentence char_offsets="4859:4978" id="31" />
+      <Sentence char_offsets="4980:5028" id="32" />
+      <Sentence char_offsets="5039:5143" id="33" />
+      <Sentence char_offsets="5145:5233" id="34" />
+      <Sentence char_offsets="5244:5341" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="012">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="020">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="30034" actor_name="Saeed Mortazavi" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="current" type="042">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="23" tense="historical" type="042">
+        <Participant actor_id="23399" actor_name="Hossein Derakhshan" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="5" tense="neutral" type="053">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="10" tense="current" type="043">
+        <Participant actor_id="32622" actor_name="Switzerland" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="23" tense="historical" type="043">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="23399" actor_name="Hossein Derakhshan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

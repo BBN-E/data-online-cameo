@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0992">
+    <Sentences>
+      <Sentence char_offsets="193:372" id="0" />
+      <Sentence char_offsets="383:507" id="1" />
+      <Sentence char_offsets="518:611" id="2" />
+      <Sentence char_offsets="622:827" id="3" />
+      <Sentence char_offsets="829:857" id="4" />
+      <Sentence char_offsets="868:1001" id="5" />
+      <Sentence char_offsets="1012:1121" id="6" />
+      <Sentence char_offsets="1123:1300" id="7" />
+      <Sentence char_offsets="1311:1499" id="8" />
+      <Sentence char_offsets="1501:1608" id="9" />
+      <Sentence char_offsets="1619:1727" id="10" />
+      <Sentence char_offsets="1729:1945" id="11" />
+      <Sentence char_offsets="1956:2076" id="12" />
+      <Sentence char_offsets="2087:2206" id="13" />
+      <Sentence char_offsets="2208:2354" id="14" />
+      <Sentence char_offsets="2365:2582" id="15" />
+      <Sentence char_offsets="2593:2860" id="16" />
+      <Sentence char_offsets="2862:3081" id="17" />
+      <Sentence char_offsets="3092:3266" id="18" />
+      <Sentence char_offsets="3277:3282" id="19" />
+      <Sentence char_offsets="3293:3355" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="190">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="493" agent_name="Insurgent" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="190">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="493" agent_name="Insurgent" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="180">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="493" agent_name="Insurgent" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0552">
+    <Sentences>
+      <Sentence char_offsets="195:451" id="0" />
+      <Sentence char_offsets="462:565" id="1" />
+      <Sentence char_offsets="567:633" id="2" />
+      <Sentence char_offsets="644:857" id="3" />
+      <Sentence char_offsets="868:988" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="32252" actor_name="Bosnia and Herzegovina" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="19997" actor_name="Momcilo Krajisnik" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="174">
+        <Participant actor_id="32252" actor_name="Bosnia and Herzegovina" role="Source" />
+        <Participant actor_id="32252" actor_name="Bosnia and Herzegovina" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,19 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0166">
+    <Sentences>
+      <Sentence char_offsets="202:396" id="0" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="040">
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

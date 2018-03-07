@@ -1,0 +1,70 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0274">
+    <Sentences>
+      <Sentence char_offsets="171:355" id="0" />
+      <Sentence char_offsets="366:598" id="1" />
+      <Sentence char_offsets="609:824" id="2" />
+      <Sentence char_offsets="835:884" id="3" />
+      <Sentence char_offsets="886:910" id="4" />
+      <Sentence char_offsets="912:1002" id="5" />
+      <Sentence char_offsets="1013:1179" id="6" />
+      <Sentence char_offsets="1190:1400" id="7" />
+      <Sentence char_offsets="1411:1529" id="8" />
+      <Sentence char_offsets="1540:1678" id="9" />
+      <Sentence char_offsets="1689:1875" id="10" />
+      <Sentence char_offsets="1886:2110" id="11" />
+      <Sentence char_offsets="2121:2184" id="12" />
+      <Sentence char_offsets="2186:2234" id="13" />
+      <Sentence char_offsets="2236:2317" id="14" />
+      <Sentence char_offsets="2328:2447" id="15" />
+      <Sentence char_offsets="2458:2652" id="16" />
+      <Sentence char_offsets="2663:2874" id="17" />
+      <Sentence char_offsets="2885:3053" id="18" />
+      <Sentence char_offsets="3064:3183" id="19" />
+      <Sentence char_offsets="3194:3281" id="20" />
+      <Sentence char_offsets="3283:3373" id="21" />
+      <Sentence char_offsets="3384:3514" id="22" />
+      <Sentence char_offsets="3525:3673" id="23" />
+      <Sentence char_offsets="3684:3787" id="24" />
+      <Sentence char_offsets="3789:3880" id="25" />
+      <Sentence char_offsets="3891:4040" id="26" />
+      <Sentence char_offsets="4051:4193" id="27" />
+      <Sentence char_offsets="4204:4353" id="28" />
+      <Sentence char_offsets="4364:4556" id="29" />
+      <Sentence char_offsets="4567:4678" id="30" />
+      <Sentence char_offsets="4680:4780" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="016">
+        <Participant actor_id="35032" actor_name="Romania" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="29" tense="neutral" type="050">
+        <Participant actor_id="27587" actor_name="Communist Party of the Republic of Moldova" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="051">
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Source" />
+        <Participant actor_id="41151" actor_name="Ukraine" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="051">
+        <Participant actor_id="36630" actor_name="Moldova" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="112">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="2" tense="neutral" type="112">
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="139">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0108">
+    <Sentences>
+      <Sentence char_offsets="171:305" id="0" />
+      <Sentence char_offsets="316:538" id="1" />
+      <Sentence char_offsets="549:711" id="2" />
+      <Sentence char_offsets="722:847" id="3" />
+      <Sentence char_offsets="849:939" id="4" />
+      <Sentence char_offsets="950:1048" id="5" />
+      <Sentence char_offsets="1059:1249" id="6" />
+      <Sentence char_offsets="1260:1324" id="7" />
+      <Sentence char_offsets="1326:1383" id="8" />
+      <Sentence char_offsets="1394:1511" id="9" />
+      <Sentence char_offsets="1522:1572" id="10" />
+      <Sentence char_offsets="1574:1683" id="11" />
+      <Sentence char_offsets="1694:1814" id="12" />
+      <Sentence char_offsets="1825:1881" id="13" />
+      <Sentence char_offsets="1892:2054" id="14" />
+      <Sentence char_offsets="2065:2240" id="15" />
+      <Sentence char_offsets="2251:2466" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="111">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="8987" actor_name="Movement for the Emancipation of the Niger Delta" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="190">
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="37071" actor_name="Nigeria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

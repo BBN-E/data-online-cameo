@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.0509">
+    <Sentences>
+      <Sentence char_offsets="186:398" id="0" />
+      <Sentence char_offsets="409:576" id="1" />
+      <Sentence char_offsets="578:706" id="2" />
+      <Sentence char_offsets="717:789" id="3" />
+      <Sentence char_offsets="791:928" id="4" />
+      <Sentence char_offsets="939:1156" id="5" />
+      <Sentence char_offsets="1158:1302" id="6" />
+      <Sentence char_offsets="1313:1339" id="7" />
+      <Sentence char_offsets="1341:1438" id="8" />
+      <Sentence char_offsets="1440:1635" id="9" />
+      <Sentence char_offsets="1646:1772" id="10" />
+      <Sentence char_offsets="1783:1948" id="11" />
+      <Sentence char_offsets="1950:2028" id="12" />
+      <Sentence char_offsets="2039:2109" id="13" />
+      <Sentence char_offsets="2111:2249" id="14" />
+      <Sentence char_offsets="2260:2354" id="15" />
+      <Sentence char_offsets="2356:2522" id="16" />
+      <Sentence char_offsets="2533:2589" id="17" />
+      <Sentence char_offsets="2600:2642" id="18" />
+      <Sentence char_offsets="2644:2661" id="19" />
+      <Sentence char_offsets="2663:2676" id="20" />
+      <Sentence char_offsets="2678:2731" id="21" />
+      <Sentence char_offsets="2733:2751" id="22" />
+      <Sentence char_offsets="2762:2879" id="23" />
+      <Sentence char_offsets="2881:3096" id="24" />
+      <Sentence char_offsets="3107:3193" id="25" />
+      <Sentence char_offsets="3195:3347" id="26" />
+      <Sentence char_offsets="3349:3420" id="27" />
+      <Sentence char_offsets="3431:3572" id="28" />
+      <Sentence char_offsets="3574:3637" id="29" />
+      <Sentence char_offsets="3648:3811" id="30" />
+      <Sentence char_offsets="3822:3860" id="31" />
+      <Sentence char_offsets="3862:3902" id="32" />
+      <Sentence char_offsets="3913:3918" id="33" />
+      <Sentence char_offsets="3929:3939" id="34" />
+      <Sentence char_offsets="3950:4006" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="239660" actor_name="Peking University" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="041">
+        <Participant actor_id="32631" actor_name="China" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="77" agent_name="Professor" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="30" tense="neutral" type="090">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="727" agent_name="Scholar" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="173">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="117988" actor_name="Liu Xiaobo" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

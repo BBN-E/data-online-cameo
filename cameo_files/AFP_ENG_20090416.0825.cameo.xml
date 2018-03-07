@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0825">
+    <Sentences>
+      <Sentence char_offsets="185:382" id="0" />
+      <Sentence char_offsets="393:634" id="1" />
+      <Sentence char_offsets="645:855" id="2" />
+      <Sentence char_offsets="866:1097" id="3" />
+      <Sentence char_offsets="1108:1198" id="4" />
+      <Sentence char_offsets="1209:1281" id="5" />
+      <Sentence char_offsets="1292:1540" id="6" />
+      <Sentence char_offsets="1551:1693" id="7" />
+      <Sentence char_offsets="1704:1907" id="8" />
+      <Sentence char_offsets="1918:2103" id="9" />
+      <Sentence char_offsets="2114:2359" id="10" />
+      <Sentence char_offsets="2370:2581" id="11" />
+      <Sentence char_offsets="2592:2814" id="12" />
+      <Sentence char_offsets="2825:3019" id="13" />
+      <Sentence char_offsets="3030:3138" id="14" />
+      <Sentence char_offsets="3149:3391" id="15" />
+      <Sentence char_offsets="3402:3532" id="16" />
+      <Sentence char_offsets="3543:3612" id="17" />
+      <Sentence char_offsets="3623:3776" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="historical" type="010">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

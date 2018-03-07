@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0089">
+    <Sentences>
+      <Sentence char_offsets="184:367" id="0" />
+      <Sentence char_offsets="378:595" id="1" />
+      <Sentence char_offsets="606:653" id="2" />
+      <Sentence char_offsets="655:742" id="3" />
+      <Sentence char_offsets="744:833" id="4" />
+      <Sentence char_offsets="844:1017" id="5" />
+      <Sentence char_offsets="1028:1223" id="6" />
+      <Sentence char_offsets="1234:1415" id="7" />
+      <Sentence char_offsets="1426:1658" id="8" />
+      <Sentence char_offsets="1669:1874" id="9" />
+      <Sentence char_offsets="1885:2018" id="10" />
+      <Sentence char_offsets="2029:2175" id="11" />
+      <Sentence char_offsets="2186:2262" id="12" />
+      <Sentence char_offsets="2264:2343" id="13" />
+      <Sentence char_offsets="2354:2506" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41289" actor_name="International Institute for Environment and Development" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

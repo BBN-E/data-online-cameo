@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0788">
+    <Sentences>
+      <Sentence char_offsets="191:344" id="0" />
+      <Sentence char_offsets="355:575" id="1" />
+      <Sentence char_offsets="586:662" id="2" />
+      <Sentence char_offsets="664:764" id="3" />
+      <Sentence char_offsets="775:884" id="4" />
+      <Sentence char_offsets="886:984" id="5" />
+      <Sentence char_offsets="995:1238" id="6" />
+      <Sentence char_offsets="1249:1361" id="7" />
+      <Sentence char_offsets="1363:1402" id="8" />
+      <Sentence char_offsets="1404:1489" id="9" />
+      <Sentence char_offsets="1500:1719" id="10" />
+      <Sentence char_offsets="1730:1872" id="11" />
+      <Sentence char_offsets="1883:2046" id="12" />
+      <Sentence char_offsets="2048:2195" id="13" />
+      <Sentence char_offsets="2206:2360" id="14" />
+      <Sentence char_offsets="2371:2431" id="15" />
+      <Sentence char_offsets="2433:2585" id="16" />
+      <Sentence char_offsets="2596:2682" id="17" />
+      <Sentence char_offsets="2693:2827" id="18" />
+      <Sentence char_offsets="2829:2922" id="19" />
+      <Sentence char_offsets="2933:3135" id="20" />
+      <Sentence char_offsets="3146:3195" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="010">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="9556" actor_name="Omar Abdirashid Ali Sharmarke" role="Source" />
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="historical" type="010">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="9556" actor_name="Omar Abdirashid Ali Sharmarke" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="9556" actor_name="Omar Abdirashid Ali Sharmarke" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="current" type="040">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="9556" actor_name="Omar Abdirashid Ali Sharmarke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

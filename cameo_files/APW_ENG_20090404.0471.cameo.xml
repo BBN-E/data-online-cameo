@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090404.0471">
+    <Sentences>
+      <Sentence char_offsets="194:430" id="0" />
+      <Sentence char_offsets="441:684" id="1" />
+      <Sentence char_offsets="686:783" id="2" />
+      <Sentence char_offsets="794:955" id="3" />
+      <Sentence char_offsets="966:1185" id="4" />
+      <Sentence char_offsets="1196:1328" id="5" />
+      <Sentence char_offsets="1339:1498" id="6" />
+      <Sentence char_offsets="1509:1582" id="7" />
+      <Sentence char_offsets="1584:1650" id="8" />
+      <Sentence char_offsets="1661:1790" id="9" />
+      <Sentence char_offsets="1792:1906" id="10" />
+      <Sentence char_offsets="1917:1988" id="11" />
+      <Sentence char_offsets="1999:2048" id="12" />
+      <Sentence char_offsets="2050:2230" id="13" />
+      <Sentence char_offsets="2241:2432" id="14" />
+      <Sentence char_offsets="2443:2578" id="15" />
+      <Sentence char_offsets="2589:2718" id="16" />
+      <Sentence char_offsets="2729:2797" id="17" />
+      <Sentence char_offsets="2808:2934" id="18" />
+      <Sentence char_offsets="2936:3009" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="9214" actor_name="Said Sadi" role="Source" />
+        <Participant actor_id="12645" actor_name="Abdelaziz Bouteflika" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="current" type="042">
+        <Participant actor_id="12645" actor_name="Abdelaziz Bouteflika" role="Source" />
+        <Participant actor_id="32779" actor_name="Algeria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="190">
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="211" agent_name="Military Personnel - Special" role="Source" />
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="493" agent_name="Insurgent" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="current" type="043">
+        <Participant actor_id="32779" actor_name="Algeria" role="Source" />
+        <Participant actor_id="12645" actor_name="Abdelaziz Bouteflika" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

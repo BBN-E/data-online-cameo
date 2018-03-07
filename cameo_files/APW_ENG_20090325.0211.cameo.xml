@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0211">
+    <Sentences>
+      <Sentence char_offsets="195:359" id="0" />
+      <Sentence char_offsets="370:514" id="1" />
+      <Sentence char_offsets="525:610" id="2" />
+      <Sentence char_offsets="612:734" id="3" />
+      <Sentence char_offsets="745:903" id="4" />
+      <Sentence char_offsets="905:951" id="5" />
+      <Sentence char_offsets="962:1140" id="6" />
+      <Sentence char_offsets="1151:1330" id="7" />
+      <Sentence char_offsets="1341:1449" id="8" />
+      <Sentence char_offsets="1460:1647" id="9" />
+      <Sentence char_offsets="1658:1764" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="12840" actor_name="John Key" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

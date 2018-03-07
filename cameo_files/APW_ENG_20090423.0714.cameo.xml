@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0714">
+    <Sentences>
+      <Sentence char_offsets="188:403" id="0" />
+      <Sentence char_offsets="414:549" id="1" />
+      <Sentence char_offsets="551:637" id="2" />
+      <Sentence char_offsets="648:688" id="3" />
+      <Sentence char_offsets="690:852" id="4" />
+      <Sentence char_offsets="863:1004" id="5" />
+      <Sentence char_offsets="1015:1121" id="6" />
+      <Sentence char_offsets="1123:1171" id="7" />
+      <Sentence char_offsets="1182:1262" id="8" />
+      <Sentence char_offsets="1264:1325" id="9" />
+      <Sentence char_offsets="1336:1464" id="10" />
+      <Sentence char_offsets="1475:1688" id="11" />
+      <Sentence char_offsets="1690:1869" id="12" />
+      <Sentence char_offsets="1880:1984" id="13" />
+      <Sentence char_offsets="1986:2110" id="14" />
+      <Sentence char_offsets="2121:2186" id="15" />
+      <Sentence char_offsets="2197:2347" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="38879" actor_name="Raytheon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="38879" actor_name="Raytheon" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

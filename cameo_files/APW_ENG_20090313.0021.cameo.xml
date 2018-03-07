@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0021">
+    <Sentences>
+      <Sentence char_offsets="185:343" id="0" />
+      <Sentence char_offsets="354:585" id="1" />
+      <Sentence char_offsets="587:676" id="2" />
+      <Sentence char_offsets="687:744" id="3" />
+      <Sentence char_offsets="755:812" id="4" />
+      <Sentence char_offsets="814:1011" id="5" />
+      <Sentence char_offsets="1022:1112" id="6" />
+      <Sentence char_offsets="1114:1219" id="7" />
+      <Sentence char_offsets="1230:1272" id="8" />
+      <Sentence char_offsets="1274:1365" id="9" />
+      <Sentence char_offsets="1376:1529" id="10" />
+      <Sentence char_offsets="1531:1712" id="11" />
+      <Sentence char_offsets="1723:1915" id="12" />
+      <Sentence char_offsets="1917:2065" id="13" />
+      <Sentence char_offsets="2076:2258" id="14" />
+      <Sentence char_offsets="2269:2403" id="15" />
+      <Sentence char_offsets="2405:2537" id="16" />
+      <Sentence char_offsets="2548:2621" id="17" />
+      <Sentence char_offsets="2623:2803" id="18" />
+      <Sentence char_offsets="2814:2880" id="19" />
+      <Sentence char_offsets="2891:2966" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="679" actor_name="Time Warner Inc." role="Source" />
+        <Participant actor_id="55861" actor_name="Google" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="013">
+        <Participant actor_id="55861" actor_name="Google" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="544" agent_name="Company - Owner or Operator" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

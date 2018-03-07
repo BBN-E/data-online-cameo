@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090328.0965">
+    <Sentences>
+      <Sentence char_offsets="195:406" id="0" />
+      <Sentence char_offsets="417:610" id="1" />
+      <Sentence char_offsets="621:708" id="2" />
+      <Sentence char_offsets="710:786" id="3" />
+      <Sentence char_offsets="797:1009" id="4" />
+      <Sentence char_offsets="1020:1187" id="5" />
+      <Sentence char_offsets="1198:1308" id="6" />
+      <Sentence char_offsets="1310:1523" id="7" />
+      <Sentence char_offsets="1534:1632" id="8" />
+      <Sentence char_offsets="1643:1778" id="9" />
+      <Sentence char_offsets="1789:1979" id="10" />
+      <Sentence char_offsets="1990:2115" id="11" />
+      <Sentence char_offsets="2117:2279" id="12" />
+      <Sentence char_offsets="2290:2425" id="13" />
+      <Sentence char_offsets="2436:2611" id="14" />
+      <Sentence char_offsets="2613:2714" id="15" />
+      <Sentence char_offsets="2725:2981" id="16" />
+      <Sentence char_offsets="2992:3076" id="17" />
+      <Sentence char_offsets="3078:3150" id="18" />
+      <Sentence char_offsets="3161:3273" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="036">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="597" agent_name="Governor" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

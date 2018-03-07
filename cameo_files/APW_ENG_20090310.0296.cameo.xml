@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.0296">
+    <Sentences>
+      <Sentence char_offsets="188:382" id="0" />
+      <Sentence char_offsets="393:525" id="1" />
+      <Sentence char_offsets="527:580" id="2" />
+      <Sentence char_offsets="591:755" id="3" />
+      <Sentence char_offsets="766:983" id="4" />
+      <Sentence char_offsets="994:1187" id="5" />
+      <Sentence char_offsets="1198:1382" id="6" />
+      <Sentence char_offsets="1393:1479" id="7" />
+      <Sentence char_offsets="1481:1577" id="8" />
+      <Sentence char_offsets="1588:1740" id="9" />
+      <Sentence char_offsets="1751:1905" id="10" />
+      <Sentence char_offsets="1907:2003" id="11" />
+      <Sentence char_offsets="2014:2089" id="12" />
+      <Sentence char_offsets="2091:2177" id="13" />
+      <Sentence char_offsets="2188:2238" id="14" />
+      <Sentence char_offsets="2249:2372" id="15" />
+      <Sentence char_offsets="2374:2476" id="16" />
+      <Sentence char_offsets="2487:2546" id="17" />
+      <Sentence char_offsets="2548:2664" id="18" />
+      <Sentence char_offsets="2675:2811" id="19" />
+      <Sentence char_offsets="2813:2884" id="20" />
+      <Sentence char_offsets="2895:2969" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="010">
+        <Participant actor_id="7258" actor_name="Supreme Petroleum Council" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

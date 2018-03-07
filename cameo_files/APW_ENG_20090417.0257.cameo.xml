@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0257">
+    <Sentences>
+      <Sentence char_offsets="179:356" id="0" />
+      <Sentence char_offsets="367:568" id="1" />
+      <Sentence char_offsets="579:728" id="2" />
+      <Sentence char_offsets="739:864" id="3" />
+      <Sentence char_offsets="866:973" id="4" />
+      <Sentence char_offsets="984:1005" id="5" />
+      <Sentence char_offsets="1007:1038" id="6" />
+      <Sentence char_offsets="1040:1146" id="7" />
+      <Sentence char_offsets="1157:1222" id="8" />
+      <Sentence char_offsets="1224:1308" id="9" />
+      <Sentence char_offsets="1319:1371" id="10" />
+      <Sentence char_offsets="1382:1535" id="11" />
+      <Sentence char_offsets="1537:1557" id="12" />
+      <Sentence char_offsets="1568:1770" id="13" />
+      <Sentence char_offsets="1781:1893" id="14" />
+      <Sentence char_offsets="1904:2062" id="15" />
+      <Sentence char_offsets="2073:2295" id="16" />
+      <Sentence char_offsets="2306:2362" id="17" />
+      <Sentence char_offsets="2364:2556" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="58902" actor_name="Avigdor Lieberman" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="046">
+        <Participant actor_id="31843" actor_name="Israel" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="046">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

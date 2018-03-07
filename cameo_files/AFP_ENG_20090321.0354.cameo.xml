@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090321.0354">
+    <Sentences>
+      <Sentence char_offsets="189:365" id="0" />
+      <Sentence char_offsets="376:460" id="1" />
+      <Sentence char_offsets="471:602" id="2" />
+      <Sentence char_offsets="613:737" id="3" />
+      <Sentence char_offsets="748:850" id="4" />
+      <Sentence char_offsets="861:1025" id="5" />
+      <Sentence char_offsets="1036:1175" id="6" />
+      <Sentence char_offsets="1186:1283" id="7" />
+      <Sentence char_offsets="1285:1398" id="8" />
+      <Sentence char_offsets="1409:1550" id="9" />
+      <Sentence char_offsets="1552:1594" id="10" />
+      <Sentence char_offsets="1605:1794" id="11" />
+      <Sentence char_offsets="1805:1965" id="12" />
+      <Sentence char_offsets="1976:2118" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="historical" type="112">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="historical" type="1123">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="historical" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="ongoing" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="6" tense="ongoing" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

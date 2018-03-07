@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0077">
+    <Sentences>
+      <Sentence char_offsets="193:370" id="0" />
+      <Sentence char_offsets="381:590" id="1" />
+      <Sentence char_offsets="601:716" id="2" />
+      <Sentence char_offsets="718:782" id="3" />
+      <Sentence char_offsets="793:993" id="4" />
+      <Sentence char_offsets="1004:1134" id="5" />
+      <Sentence char_offsets="1136:1175" id="6" />
+      <Sentence char_offsets="1186:1379" id="7" />
+      <Sentence char_offsets="1390:1590" id="8" />
+      <Sentence char_offsets="1601:1817" id="9" />
+      <Sentence char_offsets="1828:2020" id="10" />
+      <Sentence char_offsets="2031:2159" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="649" agent_name="Ministry" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="26179" actor_name="Assembly of First Nations" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="41" agent_name="Archbishop" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="051">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="historical" type="055">
+        <Participant actor_id="32098" actor_name="Canada" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="26179" actor_name="Assembly of First Nations" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="10" tense="neutral" type="040">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="41" agent_name="Archbishop" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

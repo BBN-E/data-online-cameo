@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090320.1327">
+    <Sentences>
+      <Sentence char_offsets="190:410" id="0" />
+      <Sentence char_offsets="421:585" id="1" />
+      <Sentence char_offsets="587:717" id="2" />
+      <Sentence char_offsets="728:973" id="3" />
+      <Sentence char_offsets="984:1227" id="4" />
+      <Sentence char_offsets="1238:1376" id="5" />
+      <Sentence char_offsets="1387:1586" id="6" />
+      <Sentence char_offsets="1597:1707" id="7" />
+      <Sentence char_offsets="1718:1939" id="8" />
+      <Sentence char_offsets="1950:2195" id="9" />
+      <Sentence char_offsets="2206:2318" id="10" />
+      <Sentence char_offsets="2329:2542" id="11" />
+      <Sentence char_offsets="2553:2683" id="12" />
+      <Sentence char_offsets="2694:2843" id="13" />
+      <Sentence char_offsets="2845:2974" id="14" />
+      <Sentence char_offsets="2985:3145" id="15" />
+      <Sentence char_offsets="3147:3272" id="16" />
+      <Sentence char_offsets="3283:3472" id="17" />
+      <Sentence char_offsets="3483:3743" id="18" />
+      <Sentence char_offsets="3754:3953" id="19" />
+      <Sentence char_offsets="3964:4207" id="20" />
+      <Sentence char_offsets="4218:4398" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="111">
+        <Participant actor_id="235731" actor_name="Lisa Madigan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="611" agent_name="Regulator" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="33931" actor_name="Federal Reserve" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

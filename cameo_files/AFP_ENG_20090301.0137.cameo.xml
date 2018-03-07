@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0137">
+    <Sentences>
+      <Sentence char_offsets="202:406" id="0" />
+      <Sentence char_offsets="417:646" id="1" />
+      <Sentence char_offsets="657:849" id="2" />
+      <Sentence char_offsets="860:1028" id="3" />
+      <Sentence char_offsets="1039:1219" id="4" />
+      <Sentence char_offsets="1230:1508" id="5" />
+      <Sentence char_offsets="1519:1718" id="6" />
+      <Sentence char_offsets="1729:1954" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="7167" actor_name="LUKoil" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

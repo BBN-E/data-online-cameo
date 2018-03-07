@@ -1,0 +1,87 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090411.0091">
+    <Sentences>
+      <Sentence char_offsets="158:340" id="0" />
+      <Sentence char_offsets="342:380" id="1" />
+      <Sentence char_offsets="382:423" id="2" />
+      <Sentence char_offsets="434:455" id="3" />
+      <Sentence char_offsets="463:482" id="4" />
+      <Sentence char_offsets="490:533" id="5" />
+      <Sentence char_offsets="541:604" id="6" />
+      <Sentence char_offsets="612:675" id="7" />
+      <Sentence char_offsets="683:697" id="8" />
+      <Sentence char_offsets="708:915" id="9" />
+      <Sentence char_offsets="917:1202" id="10" />
+      <Sentence char_offsets="1204:1255" id="11" />
+      <Sentence char_offsets="1266:1546" id="12" />
+      <Sentence char_offsets="1548:1625" id="13" />
+      <Sentence char_offsets="1636:1738" id="14" />
+      <Sentence char_offsets="1749:1950" id="15" />
+      <Sentence char_offsets="1952:2436" id="16" />
+      <Sentence char_offsets="2447:2703" id="17" />
+      <Sentence char_offsets="2714:2902" id="18" />
+      <Sentence char_offsets="2904:3113" id="19" />
+      <Sentence char_offsets="3115:3288" id="20" />
+      <Sentence char_offsets="3290:3425" id="21" />
+      <Sentence char_offsets="3427:3561" id="22" />
+      <Sentence char_offsets="3572:3596" id="23" />
+      <Sentence char_offsets="3598:3793" id="24" />
+      <Sentence char_offsets="3795:3896" id="25" />
+      <Sentence char_offsets="3898:3971" id="26" />
+      <Sentence char_offsets="3982:4143" id="27" />
+      <Sentence char_offsets="4145:4309" id="28" />
+      <Sentence char_offsets="4311:4381" id="29" />
+      <Sentence char_offsets="4383:4446" id="30" />
+      <Sentence char_offsets="4457:4670" id="31" />
+      <Sentence char_offsets="4681:4791" id="32" />
+      <Sentence char_offsets="4793:4900" id="33" />
+      <Sentence char_offsets="4902:4960" id="34" />
+      <Sentence char_offsets="4962:5125" id="35" />
+      <Sentence char_offsets="5127:5271" id="36" />
+      <Sentence char_offsets="5273:5366" id="37" />
+      <Sentence char_offsets="5377:5606" id="38" />
+      <Sentence char_offsets="5617:5717" id="39" />
+      <Sentence char_offsets="5719:5885" id="40" />
+      <Sentence char_offsets="5896:6028" id="41" />
+      <Sentence char_offsets="6030:6226" id="42" />
+      <Sentence char_offsets="6237:6453" id="43" />
+      <Sentence char_offsets="6455:6586" id="44" />
+      <Sentence char_offsets="6597:6856" id="45" />
+      <Sentence char_offsets="6867:6944" id="46" />
+      <Sentence char_offsets="6955:7027" id="47" />
+      <Sentence char_offsets="7029:7137" id="48" />
+      <Sentence char_offsets="7139:7232" id="49" />
+      <Sentence char_offsets="7243:7380" id="50" />
+      <Sentence char_offsets="7382:7546" id="51" />
+      <Sentence char_offsets="7548:7596" id="52" />
+      <Sentence char_offsets="7598:7680" id="53" />
+      <Sentence char_offsets="7691:7814" id="54" />
+      <Sentence char_offsets="7825:7952" id="55" />
+      <Sentence char_offsets="7963:8182" id="56" />
+      <Sentence char_offsets="8193:8261" id="57" />
+      <Sentence char_offsets="8272:8291" id="58" />
+      <Sentence char_offsets="8302:8343" id="59" />
+      <Sentence char_offsets="8354:8401" id="60" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="50" tense="neutral" type="010">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="50" tense="neutral" type="010">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="current" type="040">
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="current" type="040">
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="418" agent_name="Combatant" role="Source" />
+        <Participant actor_id="50659" actor_name="Richard C. Holbrooke" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

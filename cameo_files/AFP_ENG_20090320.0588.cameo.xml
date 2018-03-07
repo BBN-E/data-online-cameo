@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0588">
+    <Sentences>
+      <Sentence char_offsets="196:388" id="0" />
+      <Sentence char_offsets="399:618" id="1" />
+      <Sentence char_offsets="629:759" id="2" />
+      <Sentence char_offsets="761:858" id="3" />
+      <Sentence char_offsets="869:997" id="4" />
+      <Sentence char_offsets="1008:1166" id="5" />
+      <Sentence char_offsets="1177:1324" id="6" />
+      <Sentence char_offsets="1335:1547" id="7" />
+      <Sentence char_offsets="1558:1732" id="8" />
+      <Sentence char_offsets="1743:1910" id="9" />
+      <Sentence char_offsets="1921:2009" id="10" />
+      <Sentence char_offsets="2011:2141" id="11" />
+      <Sentence char_offsets="2152:2231" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="024">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="0251">
+        <Participant actor_id="32544" actor_name="Stephen Smith" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

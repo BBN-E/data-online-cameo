@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0058">
+    <Sentences>
+      <Sentence char_offsets="188:333" id="0" />
+      <Sentence char_offsets="344:543" id="1" />
+      <Sentence char_offsets="554:648" id="2" />
+      <Sentence char_offsets="659:836" id="3" />
+      <Sentence char_offsets="847:931" id="4" />
+      <Sentence char_offsets="942:1125" id="5" />
+      <Sentence char_offsets="1136:1297" id="6" />
+      <Sentence char_offsets="1308:1466" id="7" />
+      <Sentence char_offsets="1477:1625" id="8" />
+      <Sentence char_offsets="1636:1802" id="9" />
+      <Sentence char_offsets="1813:1919" id="10" />
+      <Sentence char_offsets="1921:2023" id="11" />
+      <Sentence char_offsets="2034:2187" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="043">
+        <Participant actor_id="39577" actor_name="Thailand" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

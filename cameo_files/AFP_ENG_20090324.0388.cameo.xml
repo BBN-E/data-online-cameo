@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0388">
+    <Sentences>
+      <Sentence char_offsets="174:354" id="0" />
+      <Sentence char_offsets="365:572" id="1" />
+      <Sentence char_offsets="583:666" id="2" />
+      <Sentence char_offsets="677:832" id="3" />
+      <Sentence char_offsets="843:1019" id="4" />
+      <Sentence char_offsets="1030:1178" id="5" />
+      <Sentence char_offsets="1189:1333" id="6" />
+      <Sentence char_offsets="1344:1564" id="7" />
+      <Sentence char_offsets="1575:1676" id="8" />
+      <Sentence char_offsets="1687:1818" id="9" />
+      <Sentence char_offsets="1829:1997" id="10" />
+      <Sentence char_offsets="2008:2222" id="11" />
+      <Sentence char_offsets="2233:2408" id="12" />
+      <Sentence char_offsets="2419:2632" id="13" />
+      <Sentence char_offsets="2643:2746" id="14" />
+      <Sentence char_offsets="2757:2938" id="15" />
+      <Sentence char_offsets="2949:3153" id="16" />
+      <Sentence char_offsets="3164:3295" id="17" />
+      <Sentence char_offsets="3306:3441" id="18" />
+      <Sentence char_offsets="3452:3633" id="19" />
+      <Sentence char_offsets="3644:3787" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="012">
+        <Participant actor_id="30701" actor_name="France" agent_id="445" agent_name="Veterans" role="Source" />
+        <Participant actor_id="46232" actor_name="Herv&#233; Morin" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

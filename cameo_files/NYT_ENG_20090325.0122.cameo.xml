@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090325.0122">
+    <Sentences>
+      <Sentence char_offsets="171:478" id="0" />
+      <Sentence char_offsets="489:593" id="1" />
+      <Sentence char_offsets="595:761" id="2" />
+      <Sentence char_offsets="772:986" id="3" />
+      <Sentence char_offsets="997:1202" id="4" />
+      <Sentence char_offsets="1213:1480" id="5" />
+      <Sentence char_offsets="1482:1505" id="6" />
+      <Sentence char_offsets="1516:1656" id="7" />
+      <Sentence char_offsets="1658:1722" id="8" />
+      <Sentence char_offsets="1733:1964" id="9" />
+      <Sentence char_offsets="1966:2020" id="10" />
+      <Sentence char_offsets="2031:2168" id="11" />
+      <Sentence char_offsets="2170:2305" id="12" />
+      <Sentence char_offsets="2316:2498" id="13" />
+      <Sentence char_offsets="2509:2698" id="14" />
+      <Sentence char_offsets="2709:2771" id="15" />
+      <Sentence char_offsets="2773:2835" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="neutral" type="051">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="040">
+        <Participant actor_id="50419" actor_name="Felipe Calderon" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

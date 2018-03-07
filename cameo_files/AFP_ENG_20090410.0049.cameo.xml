@@ -1,0 +1,90 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0049">
+    <Sentences>
+      <Sentence char_offsets="180:365" id="0" />
+      <Sentence char_offsets="376:509" id="1" />
+      <Sentence char_offsets="520:641" id="2" />
+      <Sentence char_offsets="652:726" id="3" />
+      <Sentence char_offsets="728:844" id="4" />
+      <Sentence char_offsets="855:1065" id="5" />
+      <Sentence char_offsets="1076:1268" id="6" />
+      <Sentence char_offsets="1279:1471" id="7" />
+      <Sentence char_offsets="1482:1578" id="8" />
+      <Sentence char_offsets="1589:1663" id="9" />
+      <Sentence char_offsets="1665:1725" id="10" />
+      <Sentence char_offsets="1736:1900" id="11" />
+      <Sentence char_offsets="1911:2016" id="12" />
+      <Sentence char_offsets="2027:2118" id="13" />
+      <Sentence char_offsets="2129:2252" id="14" />
+      <Sentence char_offsets="2263:2470" id="15" />
+      <Sentence char_offsets="2481:2569" id="16" />
+      <Sentence char_offsets="2571:2696" id="17" />
+      <Sentence char_offsets="2707:2858" id="18" />
+      <Sentence char_offsets="2869:3062" id="19" />
+      <Sentence char_offsets="3073:3247" id="20" />
+      <Sentence char_offsets="3258:3389" id="21" />
+      <Sentence char_offsets="3400:3506" id="22" />
+      <Sentence char_offsets="3517:3737" id="23" />
+      <Sentence char_offsets="3748:3826" id="24" />
+      <Sentence char_offsets="3837:3898" id="25" />
+      <Sentence char_offsets="3900:3948" id="26" />
+      <Sentence char_offsets="3959:4128" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="9580" actor_name="Sergei Ivanovich Shmatk&#243;" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="44396" actor_name="Kommersant" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="25" tense="ongoing" type="042">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="26" tense="historical" type="042">
+        <Participant actor_id="48890" actor_name="Iyad Allawi" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="6" tense="neutral" type="051">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="23" tense="neutral" type="057">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="23" tense="neutral" type="057">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="15" tense="neutral" type="1621">
+        <Participant actor_id="36703" actor_name="Saddam Hussein" role="Source" />
+        <Participant actor_id="7167" actor_name="LUKoil" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="25" tense="ongoing" type="043">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="26" tense="historical" type="043">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="48890" actor_name="Iyad Allawi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0419">
+    <Sentences>
+      <Sentence char_offsets="175:349" id="0" />
+      <Sentence char_offsets="360:544" id="1" />
+      <Sentence char_offsets="555:695" id="2" />
+      <Sentence char_offsets="706:850" id="3" />
+      <Sentence char_offsets="861:1037" id="4" />
+      <Sentence char_offsets="1048:1106" id="5" />
+      <Sentence char_offsets="1117:1234" id="6" />
+      <Sentence char_offsets="1245:1339" id="7" />
+      <Sentence char_offsets="1350:1398" id="8" />
+      <Sentence char_offsets="1400:1442" id="9" />
+      <Sentence char_offsets="1444:1464" id="10" />
+      <Sentence char_offsets="1466:1501" id="11" />
+      <Sentence char_offsets="1512:1650" id="12" />
+      <Sentence char_offsets="1661:1751" id="13" />
+      <Sentence char_offsets="1762:1850" id="14" />
+      <Sentence char_offsets="1861:1996" id="15" />
+      <Sentence char_offsets="2007:2090" id="16" />
+      <Sentence char_offsets="2101:2248" id="17" />
+      <Sentence char_offsets="2259:2376" id="18" />
+      <Sentence char_offsets="2387:2514" id="19" />
+      <Sentence char_offsets="2525:2579" id="20" />
+      <Sentence char_offsets="2590:2778" id="21" />
+      <Sentence char_offsets="2789:2931" id="22" />
+      <Sentence char_offsets="2942:3128" id="23" />
+      <Sentence char_offsets="3139:3332" id="24" />
+      <Sentence char_offsets="3343:3534" id="25" />
+      <Sentence char_offsets="3545:3669" id="26" />
+      <Sentence char_offsets="3680:3871" id="27" />
+      <Sentence char_offsets="3882:4085" id="28" />
+      <Sentence char_offsets="4096:4311" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="24" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="112">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="26" tense="neutral" type="112">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="6" tense="current" type="040">
+        <Participant actor_id="51746" actor_name="Evin House of Detention" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="24" tense="neutral" type="040">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

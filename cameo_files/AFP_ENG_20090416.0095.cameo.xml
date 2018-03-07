@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0095">
+    <Sentences>
+      <Sentence char_offsets="178:332" id="0" />
+      <Sentence char_offsets="343:532" id="1" />
+      <Sentence char_offsets="543:669" id="2" />
+      <Sentence char_offsets="680:769" id="3" />
+      <Sentence char_offsets="780:881" id="4" />
+      <Sentence char_offsets="892:1013" id="5" />
+      <Sentence char_offsets="1024:1107" id="6" />
+      <Sentence char_offsets="1118:1224" id="7" />
+      <Sentence char_offsets="1226:1342" id="8" />
+      <Sentence char_offsets="1353:1469" id="9" />
+      <Sentence char_offsets="1480:1681" id="10" />
+      <Sentence char_offsets="1692:1808" id="11" />
+      <Sentence char_offsets="1819:1949" id="12" />
+      <Sentence char_offsets="1960:2144" id="13" />
+      <Sentence char_offsets="2155:2360" id="14" />
+      <Sentence char_offsets="2371:2531" id="15" />
+      <Sentence char_offsets="2542:2805" id="16" />
+      <Sentence char_offsets="2816:2978" id="17" />
+      <Sentence char_offsets="2989:3116" id="18" />
+      <Sentence char_offsets="3127:3278" id="19" />
+      <Sentence char_offsets="3289:3560" id="20" />
+      <Sentence char_offsets="3571:3721" id="21" />
+      <Sentence char_offsets="3732:3890" id="22" />
+      <Sentence char_offsets="3901:4036" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="036">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="40286" actor_name="World Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

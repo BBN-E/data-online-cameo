@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0377">
+    <Sentences>
+      <Sentence char_offsets="188:350" id="0" />
+      <Sentence char_offsets="361:529" id="1" />
+      <Sentence char_offsets="540:762" id="2" />
+      <Sentence char_offsets="773:1034" id="3" />
+      <Sentence char_offsets="1045:1095" id="4" />
+      <Sentence char_offsets="1097:1251" id="5" />
+      <Sentence char_offsets="1262:1405" id="6" />
+      <Sentence char_offsets="1416:1567" id="7" />
+      <Sentence char_offsets="1578:1696" id="8" />
+      <Sentence char_offsets="1707:1926" id="9" />
+      <Sentence char_offsets="1937:2070" id="10" />
+      <Sentence char_offsets="2081:2230" id="11" />
+      <Sentence char_offsets="2241:2412" id="12" />
+      <Sentence char_offsets="2423:2600" id="13" />
+      <Sentence char_offsets="2611:2676" id="14" />
+      <Sentence char_offsets="2678:2826" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="current" type="1711">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="404" agent_name="Islamic Extremist Group" role="Source" />
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="181">
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" agent_id="257" agent_name="Extremist" role="Source" />
+        <Participant actor_id="31876" actor_name="International Committee of the Red Cross" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="181">
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="10" tense="current" type="190">
+        <Participant actor_id="34096" actor_name="Philippines" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34096" actor_name="Philippines" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="historical" type="180">
+        <Participant actor_id="28840" actor_name="Abu Sayyaf" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

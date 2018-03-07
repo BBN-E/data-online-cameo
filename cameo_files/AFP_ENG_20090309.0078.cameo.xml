@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090309.0078">
+    <Sentences>
+      <Sentence char_offsets="154:187" id="0" />
+      <Sentence char_offsets="190:226" id="1" />
+      <Sentence char_offsets="229:277" id="2" />
+      <Sentence char_offsets="280:389" id="3" />
+      <Sentence char_offsets="392:523" id="4" />
+      <Sentence char_offsets="525:608" id="5" />
+      <Sentence char_offsets="611:792" id="6" />
+      <Sentence char_offsets="795:905" id="7" />
+      <Sentence char_offsets="907:942" id="8" />
+      <Sentence char_offsets="945:1109" id="9" />
+      <Sentence char_offsets="1112:1298" id="10" />
+      <Sentence char_offsets="1301:1464" id="11" />
+      <Sentence char_offsets="1467:1717" id="12" />
+      <Sentence char_offsets="1720:1915" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="7" tense="neutral" type="042">
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="32187" actor_name="Belgium" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="043">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="29507" actor_name="Joseph Robinette Biden" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

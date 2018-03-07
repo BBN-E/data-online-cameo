@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0142">
+    <Sentences>
+      <Sentence char_offsets="185:369" id="0" />
+      <Sentence char_offsets="380:596" id="1" />
+      <Sentence char_offsets="607:751" id="2" />
+      <Sentence char_offsets="762:969" id="3" />
+      <Sentence char_offsets="980:1154" id="4" />
+      <Sentence char_offsets="1165:1359" id="5" />
+      <Sentence char_offsets="1370:1568" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="55152" actor_name="Micheline Calmy-Rey" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

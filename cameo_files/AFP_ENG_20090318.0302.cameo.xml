@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090318.0302">
+    <Sentences>
+      <Sentence char_offsets="176:376" id="0" />
+      <Sentence char_offsets="387:616" id="1" />
+      <Sentence char_offsets="627:691" id="2" />
+      <Sentence char_offsets="702:839" id="3" />
+      <Sentence char_offsets="850:1058" id="4" />
+      <Sentence char_offsets="1069:1237" id="5" />
+      <Sentence char_offsets="1248:1399" id="6" />
+      <Sentence char_offsets="1410:1630" id="7" />
+      <Sentence char_offsets="1641:1782" id="8" />
+      <Sentence char_offsets="1793:1971" id="9" />
+      <Sentence char_offsets="1982:2173" id="10" />
+      <Sentence char_offsets="2184:2387" id="11" />
+      <Sentence char_offsets="2398:2580" id="12" />
+      <Sentence char_offsets="2591:2734" id="13" />
+      <Sentence char_offsets="2745:2935" id="14" />
+      <Sentence char_offsets="2946:3078" id="15" />
+      <Sentence char_offsets="3080:3181" id="16" />
+      <Sentence char_offsets="3192:3321" id="17" />
+      <Sentence char_offsets="3332:3542" id="18" />
+      <Sentence char_offsets="3553:3600" id="19" />
+      <Sentence char_offsets="3611:3799" id="20" />
+      <Sentence char_offsets="3810:3945" id="21" />
+      <Sentence char_offsets="3956:4149" id="22" />
+      <Sentence char_offsets="4160:4305" id="23" />
+      <Sentence char_offsets="4316:4473" id="24" />
+      <Sentence char_offsets="4484:4664" id="25" />
+      <Sentence char_offsets="4675:4800" id="26" />
+      <Sentence char_offsets="4811:4956" id="27" />
+      <Sentence char_offsets="4967:5164" id="28" />
+      <Sentence char_offsets="5175:5330" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="35749" actor_name="Traian Basescu" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

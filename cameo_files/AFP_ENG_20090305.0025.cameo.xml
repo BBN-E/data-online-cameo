@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0025">
+    <Sentences>
+      <Sentence char_offsets="186:382" id="0" />
+      <Sentence char_offsets="393:614" id="1" />
+      <Sentence char_offsets="625:789" id="2" />
+      <Sentence char_offsets="800:872" id="3" />
+      <Sentence char_offsets="874:963" id="4" />
+      <Sentence char_offsets="974:1231" id="5" />
+      <Sentence char_offsets="1242:1444" id="6" />
+      <Sentence char_offsets="1455:1568" id="7" />
+      <Sentence char_offsets="1579:1782" id="8" />
+      <Sentence char_offsets="1793:1881" id="9" />
+      <Sentence char_offsets="1892:2005" id="10" />
+      <Sentence char_offsets="2007:2118" id="11" />
+      <Sentence char_offsets="2129:2298" id="12" />
+      <Sentence char_offsets="2309:2469" id="13" />
+      <Sentence char_offsets="2480:2590" id="14" />
+      <Sentence char_offsets="2601:2790" id="15" />
+      <Sentence char_offsets="2801:2981" id="16" />
+      <Sentence char_offsets="2992:3091" id="17" />
+      <Sentence char_offsets="3102:3235" id="18" />
+      <Sentence char_offsets="3246:3401" id="19" />
+      <Sentence char_offsets="3412:3569" id="20" />
+      <Sentence char_offsets="3571:3686" id="21" />
+      <Sentence char_offsets="3697:3866" id="22" />
+      <Sentence char_offsets="3877:4008" id="23" />
+      <Sentence char_offsets="4010:4067" id="24" />
+      <Sentence char_offsets="4078:4344" id="25" />
+      <Sentence char_offsets="4355:4460" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="36584" actor_name="Felipe P&#233;rez Roque" role="Source" />
+        <Participant actor_id="50453" actor_name="Fidel Castro" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

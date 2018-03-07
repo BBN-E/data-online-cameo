@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090302.0713">
+    <Sentences>
+      <Sentence char_offsets="180:387" id="0" />
+      <Sentence char_offsets="398:654" id="1" />
+      <Sentence char_offsets="665:729" id="2" />
+      <Sentence char_offsets="740:900" id="3" />
+      <Sentence char_offsets="911:1044" id="4" />
+      <Sentence char_offsets="1055:1098" id="5" />
+      <Sentence char_offsets="1100:1286" id="6" />
+      <Sentence char_offsets="1288:1408" id="7" />
+      <Sentence char_offsets="1419:1576" id="8" />
+      <Sentence char_offsets="1578:1803" id="9" />
+      <Sentence char_offsets="1814:2031" id="10" />
+      <Sentence char_offsets="2033:2144" id="11" />
+      <Sentence char_offsets="2155:2380" id="12" />
+      <Sentence char_offsets="2391:2563" id="13" />
+      <Sentence char_offsets="2565:2735" id="14" />
+      <Sentence char_offsets="2746:2914" id="15" />
+      <Sentence char_offsets="2925:3114" id="16" />
+      <Sentence char_offsets="3125:3336" id="17" />
+      <Sentence char_offsets="3347:3427" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

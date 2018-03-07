@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0326">
+    <Sentences>
+      <Sentence char_offsets="179:350" id="0" />
+      <Sentence char_offsets="361:508" id="1" />
+      <Sentence char_offsets="519:651" id="2" />
+      <Sentence char_offsets="662:818" id="3" />
+      <Sentence char_offsets="829:900" id="4" />
+      <Sentence char_offsets="911:1022" id="5" />
+      <Sentence char_offsets="1024:1101" id="6" />
+      <Sentence char_offsets="1112:1163" id="7" />
+      <Sentence char_offsets="1165:1258" id="8" />
+      <Sentence char_offsets="1269:1420" id="9" />
+      <Sentence char_offsets="1431:1538" id="10" />
+      <Sentence char_offsets="1549:1709" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="25951" actor_name="Michael P. Jackson" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="25951" actor_name="Michael P. Jackson" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0937">
+    <Sentences>
+      <Sentence char_offsets="179:397" id="0" />
+      <Sentence char_offsets="408:549" id="1" />
+      <Sentence char_offsets="551:635" id="2" />
+      <Sentence char_offsets="646:854" id="3" />
+      <Sentence char_offsets="865:1051" id="4" />
+      <Sentence char_offsets="1062:1169" id="5" />
+      <Sentence char_offsets="1180:1284" id="6" />
+      <Sentence char_offsets="1286:1395" id="7" />
+      <Sentence char_offsets="1406:1625" id="8" />
+      <Sentence char_offsets="1627:1782" id="9" />
+      <Sentence char_offsets="1793:2000" id="10" />
+      <Sentence char_offsets="2011:2098" id="11" />
+      <Sentence char_offsets="2109:2329" id="12" />
+      <Sentence char_offsets="2331:2470" id="13" />
+      <Sentence char_offsets="2481:2577" id="14" />
+      <Sentence char_offsets="2588:2828" id="15" />
+      <Sentence char_offsets="2830:2936" id="16" />
+      <Sentence char_offsets="2947:3096" id="17" />
+      <Sentence char_offsets="3098:3245" id="18" />
+      <Sentence char_offsets="3247:3373" id="19" />
+      <Sentence char_offsets="3384:3487" id="20" />
+      <Sentence char_offsets="3489:3705" id="21" />
+      <Sentence char_offsets="3716:3788" id="22" />
+      <Sentence char_offsets="3799:3947" id="23" />
+      <Sentence char_offsets="3949:4054" id="24" />
+      <Sentence char_offsets="4065:4379" id="25" />
+      <Sentence char_offsets="4390:4468" id="26" />
+      <Sentence char_offsets="4470:4515" id="27" />
+      <Sentence char_offsets="4526:4535" id="28" />
+      <Sentence char_offsets="4546:4621" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Source" />
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

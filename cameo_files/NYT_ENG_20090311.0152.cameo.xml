@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090311.0152">
+    <Sentences>
+      <Sentence char_offsets="223:441" id="0" />
+      <Sentence char_offsets="452:518" id="1" />
+      <Sentence char_offsets="520:667" id="2" />
+      <Sentence char_offsets="669:746" id="3" />
+      <Sentence char_offsets="757:1072" id="4" />
+      <Sentence char_offsets="1083:1186" id="5" />
+      <Sentence char_offsets="1188:1278" id="6" />
+      <Sentence char_offsets="1280:1390" id="7" />
+      <Sentence char_offsets="1401:1526" id="8" />
+      <Sentence char_offsets="1528:1707" id="9" />
+      <Sentence char_offsets="1709:1775" id="10" />
+      <Sentence char_offsets="1777:1839" id="11" />
+      <Sentence char_offsets="1850:1931" id="12" />
+      <Sentence char_offsets="1933:2057" id="13" />
+      <Sentence char_offsets="2068:2223" id="14" />
+      <Sentence char_offsets="2234:2336" id="15" />
+      <Sentence char_offsets="2347:2589" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="40284" actor_name="Tariq Aziz" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="ongoing" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

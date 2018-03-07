@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090401.1288">
+    <Sentences>
+      <Sentence char_offsets="192:397" id="0" />
+      <Sentence char_offsets="408:565" id="1" />
+      <Sentence char_offsets="576:726" id="2" />
+      <Sentence char_offsets="728:789" id="3" />
+      <Sentence char_offsets="800:933" id="4" />
+      <Sentence char_offsets="935:1003" id="5" />
+      <Sentence char_offsets="1014:1281" id="6" />
+      <Sentence char_offsets="1292:1333" id="7" />
+      <Sentence char_offsets="1335:1421" id="8" />
+      <Sentence char_offsets="1432:1595" id="9" />
+      <Sentence char_offsets="1597:1665" id="10" />
+      <Sentence char_offsets="1676:1725" id="11" />
+      <Sentence char_offsets="1727:1780" id="12" />
+      <Sentence char_offsets="1791:1985" id="13" />
+      <Sentence char_offsets="1996:2086" id="14" />
+      <Sentence char_offsets="2088:2288" id="15" />
+      <Sentence char_offsets="2299:2411" id="16" />
+      <Sentence char_offsets="2422:2486" id="17" />
+      <Sentence char_offsets="2488:2618" id="18" />
+      <Sentence char_offsets="2620:2645" id="19" />
+      <Sentence char_offsets="2656:2777" id="20" />
+      <Sentence char_offsets="2788:2985" id="21" />
+      <Sentence char_offsets="2996:3068" id="22" />
+      <Sentence char_offsets="3070:3139" id="23" />
+      <Sentence char_offsets="3141:3259" id="24" />
+      <Sentence char_offsets="3270:3403" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="016">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="35197" actor_name="Yasir Arafat" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="112">
+        <Participant actor_id="31843" actor_name="Israel" role="Source" />
+        <Participant actor_id="35197" actor_name="Yasir Arafat" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

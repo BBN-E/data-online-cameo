@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090317.0855">
+    <Sentences>
+      <Sentence char_offsets="190:318" id="0" />
+      <Sentence char_offsets="329:506" id="1" />
+      <Sentence char_offsets="517:632" id="2" />
+      <Sentence char_offsets="634:662" id="3" />
+      <Sentence char_offsets="664:760" id="4" />
+      <Sentence char_offsets="771:864" id="5" />
+      <Sentence char_offsets="866:896" id="6" />
+      <Sentence char_offsets="907:1115" id="7" />
+      <Sentence char_offsets="1126:1223" id="8" />
+      <Sentence char_offsets="1225:1253" id="9" />
+      <Sentence char_offsets="1264:1357" id="10" />
+      <Sentence char_offsets="1368:1512" id="11" />
+      <Sentence char_offsets="1523:1663" id="12" />
+      <Sentence char_offsets="1674:1799" id="13" />
+      <Sentence char_offsets="1801:1891" id="14" />
+      <Sentence char_offsets="1902:2016" id="15" />
+      <Sentence char_offsets="2027:2192" id="16" />
+      <Sentence char_offsets="2194:2281" id="17" />
+      <Sentence char_offsets="2292:2486" id="18" />
+      <Sentence char_offsets="2488:2539" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="723" agent_name="Kidnapper" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="112">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="27526" actor_name="Umar al Bashir" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="181">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="723" agent_name="Kidnapper" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="433" agent_name="Peacekeeping Troop" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

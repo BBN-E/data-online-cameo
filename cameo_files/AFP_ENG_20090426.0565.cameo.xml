@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0565">
+    <Sentences>
+      <Sentence char_offsets="192:394" id="0" />
+      <Sentence char_offsets="405:638" id="1" />
+      <Sentence char_offsets="649:857" id="2" />
+      <Sentence char_offsets="868:1119" id="3" />
+      <Sentence char_offsets="1130:1241" id="4" />
+      <Sentence char_offsets="1252:1472" id="5" />
+      <Sentence char_offsets="1483:1552" id="6" />
+      <Sentence char_offsets="1563:1659" id="7" />
+      <Sentence char_offsets="1670:1869" id="8" />
+      <Sentence char_offsets="1880:2029" id="9" />
+      <Sentence char_offsets="2040:2251" id="10" />
+      <Sentence char_offsets="2262:2435" id="11" />
+      <Sentence char_offsets="2446:2644" id="12" />
+      <Sentence char_offsets="2655:2858" id="13" />
+      <Sentence char_offsets="2869:2988" id="14" />
+      <Sentence char_offsets="2999:3072" id="15" />
+      <Sentence char_offsets="3083:3252" id="16" />
+      <Sentence char_offsets="3263:3423" id="17" />
+      <Sentence char_offsets="3434:3620" id="18" />
+      <Sentence char_offsets="3631:3724" id="19" />
+      <Sentence char_offsets="3735:3861" id="20" />
+      <Sentence char_offsets="3872:4068" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="111">
+        <Participant actor_id="31847" actor_name="Iceland" agent_id="636" agent_name="Green Party" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="112">
+        <Participant actor_id="31847" actor_name="Iceland" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31847" actor_name="Iceland" agent_id="384" agent_name="Conservative Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

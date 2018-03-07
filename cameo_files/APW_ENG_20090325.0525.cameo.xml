@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0525">
+    <Sentences>
+      <Sentence char_offsets="186:401" id="0" />
+      <Sentence char_offsets="412:505" id="1" />
+      <Sentence char_offsets="516:651" id="2" />
+      <Sentence char_offsets="662:794" id="3" />
+      <Sentence char_offsets="805:943" id="4" />
+      <Sentence char_offsets="954:1096" id="5" />
+      <Sentence char_offsets="1098:1216" id="6" />
+      <Sentence char_offsets="1227:1324" id="7" />
+      <Sentence char_offsets="1326:1436" id="8" />
+      <Sentence char_offsets="1447:1599" id="9" />
+      <Sentence char_offsets="1610:1728" id="10" />
+      <Sentence char_offsets="1739:1851" id="11" />
+      <Sentence char_offsets="1853:1947" id="12" />
+      <Sentence char_offsets="1958:2039" id="13" />
+      <Sentence char_offsets="2050:2189" id="14" />
+      <Sentence char_offsets="2200:2329" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="38122" actor_name="The Royal Bank of Scotland Group" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="072">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="48037" actor_name="Fred Goodwin" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="180">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="48037" actor_name="Fred Goodwin" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

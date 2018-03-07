@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090317.0583">
+    <Sentences>
+      <Sentence char_offsets="170:301" id="0" />
+      <Sentence char_offsets="312:539" id="1" />
+      <Sentence char_offsets="550:762" id="2" />
+      <Sentence char_offsets="773:974" id="3" />
+      <Sentence char_offsets="985:1293" id="4" />
+      <Sentence char_offsets="1304:1361" id="5" />
+      <Sentence char_offsets="1372:1481" id="6" />
+      <Sentence char_offsets="1492:1624" id="7" />
+      <Sentence char_offsets="1635:1832" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="historical" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32648" actor_name="Democratic Republic of Congo" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="32676" actor_name="Cameroon" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="historical" type="043">
+        <Participant actor_id="32648" actor_name="Democratic Republic of Congo" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

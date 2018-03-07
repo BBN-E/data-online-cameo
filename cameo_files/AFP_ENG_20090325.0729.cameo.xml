@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090325.0729">
+    <Sentences>
+      <Sentence char_offsets="185:379" id="0" />
+      <Sentence char_offsets="390:605" id="1" />
+      <Sentence char_offsets="616:825" id="2" />
+      <Sentence char_offsets="836:963" id="3" />
+      <Sentence char_offsets="965:1010" id="4" />
+      <Sentence char_offsets="1021:1233" id="5" />
+      <Sentence char_offsets="1244:1445" id="6" />
+      <Sentence char_offsets="1456:1592" id="7" />
+      <Sentence char_offsets="1603:1865" id="8" />
+      <Sentence char_offsets="1876:2099" id="9" />
+      <Sentence char_offsets="2110:2333" id="10" />
+      <Sentence char_offsets="2344:2562" id="11" />
+      <Sentence char_offsets="2573:2753" id="12" />
+      <Sentence char_offsets="2764:2970" id="13" />
+      <Sentence char_offsets="2981:3185" id="14" />
+      <Sentence char_offsets="3196:3373" id="15" />
+      <Sentence char_offsets="3384:3573" id="16" />
+      <Sentence char_offsets="3584:3727" id="17" />
+      <Sentence char_offsets="3738:3942" id="18" />
+      <Sentence char_offsets="3953:4152" id="19" />
+      <Sentence char_offsets="4163:4250" id="20" />
+      <Sentence char_offsets="4261:4414" id="21" />
+      <Sentence char_offsets="4425:4568" id="22" />
+      <Sentence char_offsets="4579:4688" id="23" />
+      <Sentence char_offsets="4699:4767" id="24" />
+      <Sentence char_offsets="4769:4890" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36648" actor_name="Middle East" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="36648" actor_name="Middle East" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="current" type="020">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

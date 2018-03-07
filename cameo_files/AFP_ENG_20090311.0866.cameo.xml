@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0866">
+    <Sentences>
+      <Sentence char_offsets="183:371" id="0" />
+      <Sentence char_offsets="382:526" id="1" />
+      <Sentence char_offsets="537:630" id="2" />
+      <Sentence char_offsets="641:782" id="3" />
+      <Sentence char_offsets="784:865" id="4" />
+      <Sentence char_offsets="876:926" id="5" />
+      <Sentence char_offsets="928:1029" id="6" />
+      <Sentence char_offsets="1040:1171" id="7" />
+      <Sentence char_offsets="1182:1330" id="8" />
+      <Sentence char_offsets="1341:1496" id="9" />
+      <Sentence char_offsets="1507:1612" id="10" />
+      <Sentence char_offsets="1623:1715" id="11" />
+      <Sentence char_offsets="1717:1784" id="12" />
+      <Sentence char_offsets="1795:1884" id="13" />
+      <Sentence char_offsets="1895:2002" id="14" />
+      <Sentence char_offsets="2013:2152" id="15" />
+      <Sentence char_offsets="2163:2250" id="16" />
+      <Sentence char_offsets="2261:2295" id="17" />
+      <Sentence char_offsets="2297:2439" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="181">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="713" agent_name="Women" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="181">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="181">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="657" agent_name="Indigenous People" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

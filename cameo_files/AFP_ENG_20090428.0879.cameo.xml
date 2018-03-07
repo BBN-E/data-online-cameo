@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090428.0879">
+    <Sentences>
+      <Sentence char_offsets="171:182" id="0" />
+      <Sentence char_offsets="184:194" id="1" />
+      <Sentence char_offsets="197:217" id="2" />
+      <Sentence char_offsets="220:263" id="3" />
+      <Sentence char_offsets="266:291" id="4" />
+      <Sentence char_offsets="294:319" id="5" />
+      <Sentence char_offsets="322:428" id="6" />
+      <Sentence char_offsets="430:445" id="7" />
+      <Sentence char_offsets="447:458" id="8" />
+      <Sentence char_offsets="461:585" id="9" />
+      <Sentence char_offsets="587:602" id="10" />
+      <Sentence char_offsets="604:626" id="11" />
+      <Sentence char_offsets="629:806" id="12" />
+      <Sentence char_offsets="808:837" id="13" />
+      <Sentence char_offsets="839:888" id="14" />
+      <Sentence char_offsets="891:1046" id="15" />
+      <Sentence char_offsets="1048:1058" id="16" />
+      <Sentence char_offsets="1061:1160" id="17" />
+      <Sentence char_offsets="1162:1206" id="18" />
+      <Sentence char_offsets="1208:1223" id="19" />
+      <Sentence char_offsets="1225:1244" id="20" />
+      <Sentence char_offsets="1247:1305" id="21" />
+      <Sentence char_offsets="1307:1324" id="22" />
+      <Sentence char_offsets="1327:1521" id="23" />
+      <Sentence char_offsets="1523:1538" id="24" />
+      <Sentence char_offsets="1540:1552" id="25" />
+      <Sentence char_offsets="1555:1620" id="26" />
+      <Sentence char_offsets="1622:1637" id="27" />
+      <Sentence char_offsets="1639:1687" id="28" />
+      <Sentence char_offsets="1689:1723" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="neutral" type="046">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="8937" actor_name="Robert Mueller" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="23" tense="neutral" type="046">
+        <Participant actor_id="8937" actor_name="Robert Mueller" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

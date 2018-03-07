@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090413.0048">
+    <Sentences>
+      <Sentence char_offsets="177:336" id="0" />
+      <Sentence char_offsets="347:532" id="1" />
+      <Sentence char_offsets="543:727" id="2" />
+      <Sentence char_offsets="738:940" id="3" />
+      <Sentence char_offsets="951:1163" id="4" />
+      <Sentence char_offsets="1174:1373" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

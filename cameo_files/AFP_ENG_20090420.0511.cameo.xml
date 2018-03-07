@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0511">
+    <Sentences>
+      <Sentence char_offsets="179:346" id="0" />
+      <Sentence char_offsets="357:548" id="1" />
+      <Sentence char_offsets="559:781" id="2" />
+      <Sentence char_offsets="792:890" id="3" />
+      <Sentence char_offsets="892:1002" id="4" />
+      <Sentence char_offsets="1013:1219" id="5" />
+      <Sentence char_offsets="1230:1316" id="6" />
+      <Sentence char_offsets="1327:1454" id="7" />
+      <Sentence char_offsets="1456:1544" id="8" />
+      <Sentence char_offsets="1555:1721" id="9" />
+      <Sentence char_offsets="1732:1834" id="10" />
+      <Sentence char_offsets="1845:2060" id="11" />
+      <Sentence char_offsets="2071:2122" id="12" />
+      <Sentence char_offsets="2124:2281" id="13" />
+      <Sentence char_offsets="2292:2492" id="14" />
+      <Sentence char_offsets="2503:2666" id="15" />
+      <Sentence char_offsets="2677:2804" id="16" />
+      <Sentence char_offsets="2815:3030" id="17" />
+      <Sentence char_offsets="3041:3076" id="18" />
+      <Sentence char_offsets="3087:3258" id="19" />
+      <Sentence char_offsets="3269:3424" id="20" />
+      <Sentence char_offsets="3435:3606" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

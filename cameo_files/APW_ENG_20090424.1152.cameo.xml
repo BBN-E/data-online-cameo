@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.1152">
+    <Sentences>
+      <Sentence char_offsets="192:405" id="0" />
+      <Sentence char_offsets="416:533" id="1" />
+      <Sentence char_offsets="535:724" id="2" />
+      <Sentence char_offsets="735:988" id="3" />
+      <Sentence char_offsets="990:1174" id="4" />
+      <Sentence char_offsets="1185:1394" id="5" />
+      <Sentence char_offsets="1396:1468" id="6" />
+      <Sentence char_offsets="1479:1682" id="7" />
+      <Sentence char_offsets="1684:1809" id="8" />
+      <Sentence char_offsets="1820:1922" id="9" />
+      <Sentence char_offsets="1933:2131" id="10" />
+      <Sentence char_offsets="2142:2275" id="11" />
+      <Sentence char_offsets="2286:2405" id="12" />
+      <Sentence char_offsets="2407:2522" id="13" />
+      <Sentence char_offsets="2533:2651" id="14" />
+      <Sentence char_offsets="2662:2831" id="15" />
+      <Sentence char_offsets="2833:3023" id="16" />
+      <Sentence char_offsets="3034:3108" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="027">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="027">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="027">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="027">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="28828" actor_name="Armenia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="neutral" type="046">
+        <Participant actor_id="28828" actor_name="Armenia" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

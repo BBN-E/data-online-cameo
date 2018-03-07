@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0698">
+    <Sentences>
+      <Sentence char_offsets="197:377" id="0" />
+      <Sentence char_offsets="388:620" id="1" />
+      <Sentence char_offsets="631:873" id="2" />
+      <Sentence char_offsets="884:968" id="3" />
+      <Sentence char_offsets="979:1020" id="4" />
+      <Sentence char_offsets="1022:1059" id="5" />
+      <Sentence char_offsets="1070:1174" id="6" />
+      <Sentence char_offsets="1185:1356" id="7" />
+      <Sentence char_offsets="1367:1642" id="8" />
+      <Sentence char_offsets="1653:1792" id="9" />
+      <Sentence char_offsets="1803:1949" id="10" />
+      <Sentence char_offsets="1960:2108" id="11" />
+      <Sentence char_offsets="2119:2242" id="12" />
+      <Sentence char_offsets="2253:2471" id="13" />
+      <Sentence char_offsets="2482:2518" id="14" />
+      <Sentence char_offsets="2520:2593" id="15" />
+      <Sentence char_offsets="2604:2778" id="16" />
+      <Sentence char_offsets="2789:2918" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="013">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

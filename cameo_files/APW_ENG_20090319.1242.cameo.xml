@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.1242">
+    <Sentences>
+      <Sentence char_offsets="172:309" id="0" />
+      <Sentence char_offsets="320:425" id="1" />
+      <Sentence char_offsets="436:566" id="2" />
+      <Sentence char_offsets="577:702" id="3" />
+      <Sentence char_offsets="704:862" id="4" />
+      <Sentence char_offsets="873:1081" id="5" />
+      <Sentence char_offsets="1092:1245" id="6" />
+      <Sentence char_offsets="1256:1497" id="7" />
+      <Sentence char_offsets="1508:1622" id="8" />
+      <Sentence char_offsets="1633:1928" id="9" />
+      <Sentence char_offsets="1939:2046" id="10" />
+      <Sentence char_offsets="2057:2315" id="11" />
+      <Sentence char_offsets="2326:2496" id="12" />
+      <Sentence char_offsets="2507:2510" id="13" />
+      <Sentence char_offsets="2521:2598" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="current" type="010">
+        <Participant actor_id="48458" actor_name="Jose Luis Rodriguez Zapatero" role="Source" />
+        <Participant actor_id="14714" actor_name="Boris Tadic" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="32194" actor_name="Spanish National Radio" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="120">
+        <Participant actor_id="33495" actor_name="Spain" role="Source" />
+        <Participant actor_id="118238" actor_name="Kosovo" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

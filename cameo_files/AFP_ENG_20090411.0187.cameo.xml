@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090411.0187">
+    <Sentences>
+      <Sentence char_offsets="152:189" id="0" />
+      <Sentence char_offsets="192:202" id="1" />
+      <Sentence char_offsets="205:401" id="2" />
+      <Sentence char_offsets="404:434" id="3" />
+      <Sentence char_offsets="437:629" id="4" />
+      <Sentence char_offsets="632:657" id="5" />
+      <Sentence char_offsets="660:798" id="6" />
+      <Sentence char_offsets="801:824" id="7" />
+      <Sentence char_offsets="827:997" id="8" />
+      <Sentence char_offsets="1000:1029" id="9" />
+      <Sentence char_offsets="1032:1036" id="10" />
+      <Sentence char_offsets="1039:1221" id="11" />
+      <Sentence char_offsets="1224:1258" id="12" />
+      <Sentence char_offsets="1261:1460" id="13" />
+      <Sentence char_offsets="1463:1476" id="14" />
+      <Sentence char_offsets="1479:1606" id="15" />
+      <Sentence char_offsets="1609:1628" id="16" />
+      <Sentence char_offsets="1631:1822" id="17" />
+      <Sentence char_offsets="1825:1852" id="18" />
+      <Sentence char_offsets="1855:2041" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="107">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="13" tense="neutral" type="141">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="48212" actor_name="Mikhail Saakashvili" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

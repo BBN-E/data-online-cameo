@@ -1,0 +1,16 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090326.0502">
+    <Sentences>
+      <Sentence char_offsets="196:378" id="0" />
+      <Sentence char_offsets="389:698" id="1" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

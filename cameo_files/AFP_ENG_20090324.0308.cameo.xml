@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0308">
+    <Sentences>
+      <Sentence char_offsets="189:377" id="0" />
+      <Sentence char_offsets="388:566" id="1" />
+      <Sentence char_offsets="577:730" id="2" />
+      <Sentence char_offsets="741:883" id="3" />
+      <Sentence char_offsets="894:1031" id="4" />
+      <Sentence char_offsets="1033:1109" id="5" />
+      <Sentence char_offsets="1120:1346" id="6" />
+      <Sentence char_offsets="1357:1583" id="7" />
+      <Sentence char_offsets="1594:1733" id="8" />
+      <Sentence char_offsets="1744:1849" id="9" />
+      <Sentence char_offsets="1860:1978" id="10" />
+      <Sentence char_offsets="1989:2078" id="11" />
+      <Sentence char_offsets="2089:2250" id="12" />
+      <Sentence char_offsets="2261:2318" id="13" />
+      <Sentence char_offsets="2320:2351" id="14" />
+      <Sentence char_offsets="2362:2400" id="15" />
+      <Sentence char_offsets="2402:2575" id="16" />
+      <Sentence char_offsets="2586:2684" id="17" />
+      <Sentence char_offsets="2695:2912" id="18" />
+      <Sentence char_offsets="2923:3142" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="714" agent_name="Children" role="Source" />
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="193">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="215328" actor_name="Continuity Irish Republican Army" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

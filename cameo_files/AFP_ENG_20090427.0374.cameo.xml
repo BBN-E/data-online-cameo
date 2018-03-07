@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0374">
+    <Sentences>
+      <Sentence char_offsets="187:378" id="0" />
+      <Sentence char_offsets="389:464" id="1" />
+      <Sentence char_offsets="475:659" id="2" />
+      <Sentence char_offsets="670:889" id="3" />
+      <Sentence char_offsets="900:1050" id="4" />
+      <Sentence char_offsets="1061:1160" id="5" />
+      <Sentence char_offsets="1171:1289" id="6" />
+      <Sentence char_offsets="1291:1355" id="7" />
+      <Sentence char_offsets="1366:1568" id="8" />
+      <Sentence char_offsets="1579:1713" id="9" />
+      <Sentence char_offsets="1724:1863" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="010">
+        <Participant actor_id="36605" actor_name="Mexico" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="36605" actor_name="Mexico" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="042">
+        <Participant actor_id="37184" actor_name="Norway" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="33080" actor_name="Denmark" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="8" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="33080" actor_name="Denmark" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

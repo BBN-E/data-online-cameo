@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.0378">
+    <Sentences>
+      <Sentence char_offsets="197:428" id="0" />
+      <Sentence char_offsets="439:677" id="1" />
+      <Sentence char_offsets="688:834" id="2" />
+      <Sentence char_offsets="845:1012" id="3" />
+      <Sentence char_offsets="1023:1184" id="4" />
+      <Sentence char_offsets="1195:1435" id="5" />
+      <Sentence char_offsets="1446:1619" id="6" />
+      <Sentence char_offsets="1630:1847" id="7" />
+      <Sentence char_offsets="1858:2046" id="8" />
+      <Sentence char_offsets="2057:2162" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="6204" actor_name="Derek Sikua" role="Source" />
+        <Participant actor_id="29564" actor_name="Desmond Tutu" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="historical" type="042">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="433" agent_name="Peacekeeping Troop" role="Source" />
+        <Participant actor_id="40139" actor_name="Solomon Islands" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="070">
+        <Participant actor_id="29564" actor_name="Desmond Tutu" role="Source" />
+        <Participant actor_id="40139" actor_name="Solomon Islands" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="historical" type="043">
+        <Participant actor_id="40139" actor_name="Solomon Islands" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="433" agent_name="Peacekeeping Troop" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

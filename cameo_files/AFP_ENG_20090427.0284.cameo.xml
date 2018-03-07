@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090427.0284">
+    <Sentences>
+      <Sentence char_offsets="200:374" id="0" />
+      <Sentence char_offsets="385:590" id="1" />
+      <Sentence char_offsets="601:782" id="2" />
+      <Sentence char_offsets="793:890" id="3" />
+      <Sentence char_offsets="901:1071" id="4" />
+      <Sentence char_offsets="1082:1183" id="5" />
+      <Sentence char_offsets="1194:1368" id="6" />
+      <Sentence char_offsets="1379:1495" id="7" />
+      <Sentence char_offsets="1506:1657" id="8" />
+      <Sentence char_offsets="1668:1780" id="9" />
+      <Sentence char_offsets="1791:1947" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="057">
+        <Participant actor_id="45495" actor_name="Eskom" role="Source" />
+        <Participant actor_id="28861" actor_name="African Development Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="historical" type="071">
+        <Participant actor_id="28861" actor_name="African Development Bank" role="Source" />
+        <Participant actor_id="45495" actor_name="Eskom" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

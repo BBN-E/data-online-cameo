@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0186">
+    <Sentences>
+      <Sentence char_offsets="175:367" id="0" />
+      <Sentence char_offsets="378:609" id="1" />
+      <Sentence char_offsets="620:826" id="2" />
+      <Sentence char_offsets="837:876" id="3" />
+      <Sentence char_offsets="878:963" id="4" />
+      <Sentence char_offsets="974:1100" id="5" />
+      <Sentence char_offsets="1111:1226" id="6" />
+      <Sentence char_offsets="1237:1393" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

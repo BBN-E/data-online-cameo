@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090312.0082">
+    <Sentences>
+      <Sentence char_offsets="180:335" id="0" />
+      <Sentence char_offsets="346:575" id="1" />
+      <Sentence char_offsets="586:696" id="2" />
+      <Sentence char_offsets="698:772" id="3" />
+      <Sentence char_offsets="774:835" id="4" />
+      <Sentence char_offsets="837:869" id="5" />
+      <Sentence char_offsets="880:1047" id="6" />
+      <Sentence char_offsets="1049:1152" id="7" />
+      <Sentence char_offsets="1154:1200" id="8" />
+      <Sentence char_offsets="1211:1415" id="9" />
+      <Sentence char_offsets="1426:1516" id="10" />
+      <Sentence char_offsets="1527:1670" id="11" />
+      <Sentence char_offsets="1681:1820" id="12" />
+      <Sentence char_offsets="1822:1923" id="13" />
+      <Sentence char_offsets="1934:2092" id="14" />
+      <Sentence char_offsets="2103:2284" id="15" />
+      <Sentence char_offsets="2295:2360" id="16" />
+      <Sentence char_offsets="2371:2522" id="17" />
+      <Sentence char_offsets="2524:2624" id="18" />
+      <Sentence char_offsets="2635:2750" id="19" />
+      <Sentence char_offsets="2761:2988" id="20" />
+      <Sentence char_offsets="2990:3087" id="21" />
+      <Sentence char_offsets="3098:3222" id="22" />
+      <Sentence char_offsets="3224:3302" id="23" />
+      <Sentence char_offsets="3304:3372" id="24" />
+      <Sentence char_offsets="3383:3455" id="25" />
+      <Sentence char_offsets="3457:3588" id="26" />
+      <Sentence char_offsets="3599:3789" id="27" />
+      <Sentence char_offsets="3800:3819" id="28" />
+      <Sentence char_offsets="3821:3844" id="29" />
+      <Sentence char_offsets="3846:3897" id="30" />
+      <Sentence char_offsets="3908:4025" id="31" />
+      <Sentence char_offsets="4027:4099" id="32" />
+      <Sentence char_offsets="4101:4154" id="33" />
+      <Sentence char_offsets="4165:4388" id="34" />
+      <Sentence char_offsets="4399:4522" id="35" />
+      <Sentence char_offsets="4524:4584" id="36" />
+      <Sentence char_offsets="4595:4728" id="37" />
+      <Sentence char_offsets="4739:4896" id="38" />
+      <Sentence char_offsets="4907:5093" id="39" />
+      <Sentence char_offsets="5095:5210" id="40" />
+      <Sentence char_offsets="5221:5286" id="41" />
+      <Sentence char_offsets="5288:5408" id="42" />
+      <Sentence char_offsets="5419:5611" id="43" />
+      <Sentence char_offsets="5622:5721" id="44" />
+      <Sentence char_offsets="5723:5864" id="45" />
+      <Sentence char_offsets="5866:5933" id="46" />
+      <Sentence char_offsets="5944:6194" id="47" />
+      <Sentence char_offsets="6205:6410" id="48" />
+      <Sentence char_offsets="6412:6447" id="49" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="020">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="39" tense="neutral" type="100">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="141">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="48" tense="neutral" type="145">
+        <Participant actor_id="32631" actor_name="China" agent_id="724" agent_name="Men" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="45" tense="neutral" type="182">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

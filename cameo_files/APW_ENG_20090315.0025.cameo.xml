@@ -1,0 +1,52 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0025">
+    <Sentences>
+      <Sentence char_offsets="194:459" id="0" />
+      <Sentence char_offsets="470:576" id="1" />
+      <Sentence char_offsets="587:790" id="2" />
+      <Sentence char_offsets="801:1087" id="3" />
+      <Sentence char_offsets="1098:1257" id="4" />
+      <Sentence char_offsets="1259:1412" id="5" />
+      <Sentence char_offsets="1423:1619" id="6" />
+      <Sentence char_offsets="1630:1816" id="7" />
+      <Sentence char_offsets="1827:2044" id="8" />
+      <Sentence char_offsets="2055:2149" id="9" />
+      <Sentence char_offsets="2160:2250" id="10" />
+      <Sentence char_offsets="2261:2477" id="11" />
+      <Sentence char_offsets="2479:2518" id="12" />
+      <Sentence char_offsets="2529:2779" id="13" />
+      <Sentence char_offsets="2790:2951" id="14" />
+      <Sentence char_offsets="2953:3034" id="15" />
+      <Sentence char_offsets="3045:3128" id="16" />
+      <Sentence char_offsets="3139:3306" id="17" />
+      <Sentence char_offsets="3317:3458" id="18" />
+      <Sentence char_offsets="3469:3642" id="19" />
+      <Sentence char_offsets="3653:3804" id="20" />
+      <Sentence char_offsets="3806:3917" id="21" />
+      <Sentence char_offsets="3928:4093" id="22" />
+      <Sentence char_offsets="4095:4199" id="23" />
+      <Sentence char_offsets="4210:4530" id="24" />
+      <Sentence char_offsets="4541:4771" id="25" />
+      <Sentence char_offsets="4782:5018" id="26" />
+      <Sentence char_offsets="5029:5229" id="27" />
+      <Sentence char_offsets="5240:5436" id="28" />
+      <Sentence char_offsets="5438:5580" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="030">
+        <Participant actor_id="41262" actor_name="United States" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="305" agent_name="Treasury/Finance Ministry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="030">
+        <Participant actor_id="41262" actor_name="United States" agent_id="305" agent_name="Treasury/Finance Ministry" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="402" agent_name="Government Affiliated Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

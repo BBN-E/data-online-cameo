@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0229">
+    <Sentences>
+      <Sentence char_offsets="195:411" id="0" />
+      <Sentence char_offsets="422:595" id="1" />
+      <Sentence char_offsets="597:713" id="2" />
+      <Sentence char_offsets="724:971" id="3" />
+      <Sentence char_offsets="982:1064" id="4" />
+      <Sentence char_offsets="1075:1232" id="5" />
+      <Sentence char_offsets="1243:1343" id="6" />
+      <Sentence char_offsets="1345:1471" id="7" />
+      <Sentence char_offsets="1482:1689" id="8" />
+      <Sentence char_offsets="1700:1933" id="9" />
+      <Sentence char_offsets="1944:2114" id="10" />
+      <Sentence char_offsets="2116:2260" id="11" />
+      <Sentence char_offsets="2271:2354" id="12" />
+      <Sentence char_offsets="2365:2487" id="13" />
+      <Sentence char_offsets="2489:2585" id="14" />
+      <Sentence char_offsets="2596:2822" id="15" />
+      <Sentence char_offsets="2833:2929" id="16" />
+      <Sentence char_offsets="2931:3078" id="17" />
+      <Sentence char_offsets="3089:3314" id="18" />
+      <Sentence char_offsets="3325:3443" id="19" />
+      <Sentence char_offsets="3445:3611" id="20" />
+      <Sentence char_offsets="3622:3629" id="21" />
+      <Sentence char_offsets="3640:3712" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="current" type="036">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="100">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

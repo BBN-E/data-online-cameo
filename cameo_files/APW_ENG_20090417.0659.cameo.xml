@@ -1,0 +1,69 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090417.0659">
+    <Sentences>
+      <Sentence char_offsets="185:391" id="0" />
+      <Sentence char_offsets="402:504" id="1" />
+      <Sentence char_offsets="515:717" id="2" />
+      <Sentence char_offsets="719:811" id="3" />
+      <Sentence char_offsets="822:1073" id="4" />
+      <Sentence char_offsets="1084:1207" id="5" />
+      <Sentence char_offsets="1218:1346" id="6" />
+      <Sentence char_offsets="1357:1478" id="7" />
+      <Sentence char_offsets="1489:1667" id="8" />
+      <Sentence char_offsets="1669:1774" id="9" />
+      <Sentence char_offsets="1785:2034" id="10" />
+      <Sentence char_offsets="2045:2224" id="11" />
+      <Sentence char_offsets="2235:2347" id="12" />
+      <Sentence char_offsets="2358:2515" id="13" />
+      <Sentence char_offsets="2526:2624" id="14" />
+      <Sentence char_offsets="2635:2835" id="15" />
+      <Sentence char_offsets="2846:3026" id="16" />
+      <Sentence char_offsets="3037:3143" id="17" />
+      <Sentence char_offsets="3145:3338" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="neutral" type="072">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="112">
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="130">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="11" tense="neutral" type="154">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="30435" actor_name="Georgia" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="18" tense="neutral" type="192">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="17" tense="historical" type="194">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="54873" actor_name="Republic of South Ossetia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

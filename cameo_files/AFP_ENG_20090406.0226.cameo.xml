@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0226">
+    <Sentences>
+      <Sentence char_offsets="189:381" id="0" />
+      <Sentence char_offsets="392:552" id="1" />
+      <Sentence char_offsets="563:781" id="2" />
+      <Sentence char_offsets="792:920" id="3" />
+      <Sentence char_offsets="931:1096" id="4" />
+      <Sentence char_offsets="1107:1291" id="5" />
+      <Sentence char_offsets="1302:1528" id="6" />
+      <Sentence char_offsets="1539:1627" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="34010" actor_name="Oman" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

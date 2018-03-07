@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090423.0044">
+    <Sentences>
+      <Sentence char_offsets="201:324" id="0" />
+      <Sentence char_offsets="335:520" id="1" />
+      <Sentence char_offsets="522:602" id="2" />
+      <Sentence char_offsets="613:823" id="3" />
+      <Sentence char_offsets="825:1045" id="4" />
+      <Sentence char_offsets="1056:1160" id="5" />
+      <Sentence char_offsets="1162:1325" id="6" />
+      <Sentence char_offsets="1327:1382" id="7" />
+      <Sentence char_offsets="1384:1500" id="8" />
+      <Sentence char_offsets="1511:1722" id="9" />
+      <Sentence char_offsets="1724:1808" id="10" />
+      <Sentence char_offsets="1819:2124" id="11" />
+      <Sentence char_offsets="2135:2248" id="12" />
+      <Sentence char_offsets="2250:2351" id="13" />
+      <Sentence char_offsets="2353:2521" id="14" />
+      <Sentence char_offsets="2532:2587" id="15" />
+      <Sentence char_offsets="2598:2666" id="16" />
+      <Sentence char_offsets="2668:2711" id="17" />
+      <Sentence char_offsets="2722:2974" id="18" />
+      <Sentence char_offsets="2985:3260" id="19" />
+      <Sentence char_offsets="3271:3531" id="20" />
+      <Sentence char_offsets="3542:3777" id="21" />
+      <Sentence char_offsets="3788:3987" id="22" />
+      <Sentence char_offsets="3989:4146" id="23" />
+      <Sentence char_offsets="4157:4426" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="010">
+        <Participant actor_id="17431" actor_name="Credit Suisse" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

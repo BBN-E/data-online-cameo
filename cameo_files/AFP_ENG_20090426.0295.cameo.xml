@@ -1,0 +1,73 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0295">
+    <Sentences>
+      <Sentence char_offsets="199:379" id="0" />
+      <Sentence char_offsets="390:614" id="1" />
+      <Sentence char_offsets="625:854" id="2" />
+      <Sentence char_offsets="865:882" id="3" />
+      <Sentence char_offsets="884:992" id="4" />
+      <Sentence char_offsets="1003:1040" id="5" />
+      <Sentence char_offsets="1042:1110" id="6" />
+      <Sentence char_offsets="1121:1168" id="7" />
+      <Sentence char_offsets="1170:1213" id="8" />
+      <Sentence char_offsets="1224:1442" id="9" />
+      <Sentence char_offsets="1453:1508" id="10" />
+      <Sentence char_offsets="1519:1659" id="11" />
+      <Sentence char_offsets="1670:1735" id="12" />
+      <Sentence char_offsets="1746:1955" id="13" />
+      <Sentence char_offsets="1966:2110" id="14" />
+      <Sentence char_offsets="2121:2326" id="15" />
+      <Sentence char_offsets="2337:2557" id="16" />
+      <Sentence char_offsets="2568:2699" id="17" />
+      <Sentence char_offsets="2710:2939" id="18" />
+      <Sentence char_offsets="2950:3159" id="19" />
+      <Sentence char_offsets="3170:3373" id="20" />
+      <Sentence char_offsets="3384:3609" id="21" />
+      <Sentence char_offsets="3620:3848" id="22" />
+      <Sentence char_offsets="3859:4077" id="23" />
+      <Sentence char_offsets="4088:4202" id="24" />
+      <Sentence char_offsets="4213:4382" id="25" />
+      <Sentence char_offsets="4393:4589" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="121797" actor_name="Frontier Corps" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="1721">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" agent_id="420" agent_name="Militant" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="9" tense="neutral" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="420" agent_name="Militant" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="9" tense="neutral" type="190">
+        <Participant actor_id="121797" actor_name="Frontier Corps" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="190">
+        <Participant actor_id="121797" actor_name="Frontier Corps" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="ongoing" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="13" tense="neutral" type="193">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

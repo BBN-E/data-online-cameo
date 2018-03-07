@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090418.0193">
+    <Sentences>
+      <Sentence char_offsets="190:368" id="0" />
+      <Sentence char_offsets="379:490" id="1" />
+      <Sentence char_offsets="501:672" id="2" />
+      <Sentence char_offsets="683:855" id="3" />
+      <Sentence char_offsets="866:1077" id="4" />
+      <Sentence char_offsets="1088:1249" id="5" />
+      <Sentence char_offsets="1260:1371" id="6" />
+      <Sentence char_offsets="1382:1491" id="7" />
+      <Sentence char_offsets="1502:1704" id="8" />
+      <Sentence char_offsets="1715:1842" id="9" />
+      <Sentence char_offsets="1853:1979" id="10" />
+      <Sentence char_offsets="1990:2171" id="11" />
+      <Sentence char_offsets="2182:2284" id="12" />
+      <Sentence char_offsets="2295:2382" id="13" />
+      <Sentence char_offsets="2393:2556" id="14" />
+      <Sentence char_offsets="2567:2718" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="53176" actor_name="Kent Conrad" role="Source" />
+        <Participant actor_id="38516" actor_name="BBC" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="53176" actor_name="Kent Conrad" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="31858" actor_name="Iran" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

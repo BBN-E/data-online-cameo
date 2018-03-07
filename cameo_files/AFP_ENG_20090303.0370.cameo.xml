@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0370">
+    <Sentences>
+      <Sentence char_offsets="196:380" id="0" />
+      <Sentence char_offsets="391:552" id="1" />
+      <Sentence char_offsets="563:668" id="2" />
+      <Sentence char_offsets="670:795" id="3" />
+      <Sentence char_offsets="806:1023" id="4" />
+      <Sentence char_offsets="1034:1133" id="5" />
+      <Sentence char_offsets="1144:1215" id="6" />
+      <Sentence char_offsets="1217:1327" id="7" />
+      <Sentence char_offsets="1338:1483" id="8" />
+      <Sentence char_offsets="1494:1573" id="9" />
+      <Sentence char_offsets="1584:1669" id="10" />
+      <Sentence char_offsets="1671:1754" id="11" />
+      <Sentence char_offsets="1765:1858" id="12" />
+      <Sentence char_offsets="1860:1967" id="13" />
+      <Sentence char_offsets="1978:2159" id="14" />
+      <Sentence char_offsets="2170:2277" id="15" />
+      <Sentence char_offsets="2279:2389" id="16" />
+      <Sentence char_offsets="2400:2578" id="17" />
+      <Sentence char_offsets="2589:2722" id="18" />
+      <Sentence char_offsets="2733:2786" id="19" />
+      <Sentence char_offsets="2797:2870" id="20" />
+      <Sentence char_offsets="2872:3000" id="21" />
+      <Sentence char_offsets="3011:3061" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="016">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="036">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="historical" type="042">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="historical" type="042">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="historical" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="17" tense="historical" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

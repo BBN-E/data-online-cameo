@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090428.1485">
+    <Sentences>
+      <Sentence char_offsets="192:418" id="0" />
+      <Sentence char_offsets="429:679" id="1" />
+      <Sentence char_offsets="690:852" id="2" />
+      <Sentence char_offsets="854:1071" id="3" />
+      <Sentence char_offsets="1082:1224" id="4" />
+      <Sentence char_offsets="1235:1446" id="5" />
+      <Sentence char_offsets="1457:1602" id="6" />
+      <Sentence char_offsets="1613:1840" id="7" />
+      <Sentence char_offsets="1851:1939" id="8" />
+      <Sentence char_offsets="1941:1984" id="9" />
+      <Sentence char_offsets="1995:2133" id="10" />
+      <Sentence char_offsets="2144:2190" id="11" />
+      <Sentence char_offsets="2192:2302" id="12" />
+      <Sentence char_offsets="2313:2467" id="13" />
+      <Sentence char_offsets="2469:2607" id="14" />
+      <Sentence char_offsets="2609:2656" id="15" />
+      <Sentence char_offsets="2667:2732" id="16" />
+      <Sentence char_offsets="2743:2926" id="17" />
+      <Sentence char_offsets="2928:2999" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="684" agent_name="Appeals Court" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="38428" actor_name="Department of Justice" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

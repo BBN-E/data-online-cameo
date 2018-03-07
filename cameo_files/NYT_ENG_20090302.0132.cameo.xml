@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090302.0132">
+    <Sentences>
+      <Sentence char_offsets="133:372" id="0" />
+      <Sentence char_offsets="383:610" id="1" />
+      <Sentence char_offsets="612:788" id="2" />
+      <Sentence char_offsets="799:935" id="3" />
+      <Sentence char_offsets="946:1090" id="4" />
+      <Sentence char_offsets="1092:1341" id="5" />
+      <Sentence char_offsets="1352:1605" id="6" />
+      <Sentence char_offsets="1616:1692" id="7" />
+      <Sentence char_offsets="1694:1790" id="8" />
+      <Sentence char_offsets="1801:1865" id="9" />
+      <Sentence char_offsets="1867:2144" id="10" />
+      <Sentence char_offsets="2146:2258" id="11" />
+      <Sentence char_offsets="2269:2377" id="12" />
+      <Sentence char_offsets="2379:2446" id="13" />
+      <Sentence char_offsets="2457:2654" id="14" />
+      <Sentence char_offsets="2665:2831" id="15" />
+      <Sentence char_offsets="2833:2889" id="16" />
+      <Sentence char_offsets="2900:3121" id="17" />
+      <Sentence char_offsets="3123:3246" id="18" />
+      <Sentence char_offsets="3248:3327" id="19" />
+      <Sentence char_offsets="3338:3507" id="20" />
+      <Sentence char_offsets="3518:3844" id="21" />
+      <Sentence char_offsets="3846:3975" id="22" />
+      <Sentence char_offsets="3986:4255" id="23" />
+      <Sentence char_offsets="4266:4438" id="24" />
+      <Sentence char_offsets="4449:4645" id="25" />
+      <Sentence char_offsets="4647:4715" id="26" />
+      <Sentence char_offsets="4726:4889" id="27" />
+      <Sentence char_offsets="4891:4969" id="28" />
+      <Sentence char_offsets="4980:5254" id="29" />
+      <Sentence char_offsets="5256:5401" id="30" />
+      <Sentence char_offsets="5412:5539" id="31" />
+      <Sentence char_offsets="5550:5637" id="32" />
+      <Sentence char_offsets="5639:6075" id="33" />
+      <Sentence char_offsets="6086:6190" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="33" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="366" agent_name="Industry" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" agent_id="611" agent_name="Regulator" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

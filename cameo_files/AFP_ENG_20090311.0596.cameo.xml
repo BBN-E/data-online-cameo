@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0596">
+    <Sentences>
+      <Sentence char_offsets="199:371" id="0" />
+      <Sentence char_offsets="382:591" id="1" />
+      <Sentence char_offsets="602:706" id="2" />
+      <Sentence char_offsets="717:840" id="3" />
+      <Sentence char_offsets="851:1042" id="4" />
+      <Sentence char_offsets="1053:1159" id="5" />
+      <Sentence char_offsets="1161:1255" id="6" />
+      <Sentence char_offsets="1266:1463" id="7" />
+      <Sentence char_offsets="1474:1644" id="8" />
+      <Sentence char_offsets="1655:1857" id="9" />
+      <Sentence char_offsets="1868:2029" id="10" />
+      <Sentence char_offsets="2040:2227" id="11" />
+      <Sentence char_offsets="2238:2409" id="12" />
+      <Sentence char_offsets="2420:2518" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="112">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="80" agent_name="Member of Parliament" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="173">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="173">
+        <Participant actor_id="32825" actor_name="Egypt" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

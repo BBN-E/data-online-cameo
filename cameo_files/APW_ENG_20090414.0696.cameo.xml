@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0696">
+    <Sentences>
+      <Sentence char_offsets="189:323" id="0" />
+      <Sentence char_offsets="334:516" id="1" />
+      <Sentence char_offsets="527:803" id="2" />
+      <Sentence char_offsets="814:956" id="3" />
+      <Sentence char_offsets="967:1091" id="4" />
+      <Sentence char_offsets="1102:1164" id="5" />
+      <Sentence char_offsets="1175:1335" id="6" />
+      <Sentence char_offsets="1337:1386" id="7" />
+      <Sentence char_offsets="1397:1564" id="8" />
+      <Sentence char_offsets="1566:1733" id="9" />
+      <Sentence char_offsets="1744:1964" id="10" />
+      <Sentence char_offsets="1975:2070" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="current" type="111">
+        <Participant actor_id="57875" actor_name="Vladimir Turcan" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="314" agent_name="People Associated with the Opposition" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="173">
+        <Participant actor_id="36630" actor_name="Moldova" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.1043">
+    <Sentences>
+      <Sentence char_offsets="188:407" id="0" />
+      <Sentence char_offsets="418:576" id="1" />
+      <Sentence char_offsets="578:760" id="2" />
+      <Sentence char_offsets="771:888" id="3" />
+      <Sentence char_offsets="890:951" id="4" />
+      <Sentence char_offsets="962:1127" id="5" />
+      <Sentence char_offsets="1138:1373" id="6" />
+      <Sentence char_offsets="1384:1619" id="7" />
+      <Sentence char_offsets="1630:1809" id="8" />
+      <Sentence char_offsets="1820:2027" id="9" />
+      <Sentence char_offsets="2038:2267" id="10" />
+      <Sentence char_offsets="2269:2292" id="11" />
+      <Sentence char_offsets="2303:2501" id="12" />
+      <Sentence char_offsets="2512:2573" id="13" />
+      <Sentence char_offsets="2584:2611" id="14" />
+      <Sentence char_offsets="2613:2702" id="15" />
+      <Sentence char_offsets="2704:2815" id="16" />
+      <Sentence char_offsets="2826:2954" id="17" />
+      <Sentence char_offsets="2965:3061" id="18" />
+      <Sentence char_offsets="3063:3157" id="19" />
+      <Sentence char_offsets="3168:3337" id="20" />
+      <Sentence char_offsets="3348:3393" id="21" />
+      <Sentence char_offsets="3395:3482" id="22" />
+      <Sentence char_offsets="3493:3586" id="23" />
+      <Sentence char_offsets="3597:3670" id="24" />
+      <Sentence char_offsets="3672:3706" id="25" />
+      <Sentence char_offsets="3708:3817" id="26" />
+      <Sentence char_offsets="3828:3881" id="27" />
+      <Sentence char_offsets="3892:4047" id="28" />
+      <Sentence char_offsets="4049:4082" id="29" />
+      <Sentence char_offsets="4084:4110" id="30" />
+      <Sentence char_offsets="4121:4126" id="31" />
+      <Sentence char_offsets="4137:4243" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="130">
+        <Participant actor_id="31081" actor_name="India" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="31081" actor_name="India" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

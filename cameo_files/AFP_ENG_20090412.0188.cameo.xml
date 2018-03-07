@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0188">
+    <Sentences>
+      <Sentence char_offsets="171:366" id="0" />
+      <Sentence char_offsets="377:565" id="1" />
+      <Sentence char_offsets="576:778" id="2" />
+      <Sentence char_offsets="789:963" id="3" />
+      <Sentence char_offsets="974:1137" id="4" />
+      <Sentence char_offsets="1148:1314" id="5" />
+      <Sentence char_offsets="1325:1530" id="6" />
+      <Sentence char_offsets="1541:1770" id="7" />
+      <Sentence char_offsets="1781:1897" id="8" />
+      <Sentence char_offsets="1899:1963" id="9" />
+      <Sentence char_offsets="1974:2102" id="10" />
+      <Sentence char_offsets="2113:2243" id="11" />
+      <Sentence char_offsets="2254:2466" id="12" />
+      <Sentence char_offsets="2477:2652" id="13" />
+      <Sentence char_offsets="2663:2747" id="14" />
+      <Sentence char_offsets="2758:2946" id="15" />
+      <Sentence char_offsets="2957:3140" id="16" />
+      <Sentence char_offsets="3151:3366" id="17" />
+      <Sentence char_offsets="3377:3543" id="18" />
+      <Sentence char_offsets="3554:3720" id="19" />
+      <Sentence char_offsets="3731:3862" id="20" />
+      <Sentence char_offsets="3873:4012" id="21" />
+      <Sentence char_offsets="4023:4160" id="22" />
+      <Sentence char_offsets="4171:4323" id="23" />
+      <Sentence char_offsets="4325:4381" id="24" />
+      <Sentence char_offsets="4392:4526" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="1098" actor_name="Mahinda Rajapaksa" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="56364" actor_name="The Observer" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="020">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="1772" actor_name="Tamil Tigers" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="1164" actor_name="Sarath Fonseka" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="current" type="100">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="274" agent_name="Government Forces" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="neutral" type="145">
+        <Participant actor_id="37184" actor_name="Norway" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="neutral" type="193">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="1164" actor_name="Sarath Fonseka" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

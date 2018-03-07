@@ -1,0 +1,58 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0191">
+    <Sentences>
+      <Sentence char_offsets="182:361" id="0" />
+      <Sentence char_offsets="372:540" id="1" />
+      <Sentence char_offsets="551:661" id="2" />
+      <Sentence char_offsets="672:767" id="3" />
+      <Sentence char_offsets="769:876" id="4" />
+      <Sentence char_offsets="887:986" id="5" />
+      <Sentence char_offsets="997:1070" id="6" />
+      <Sentence char_offsets="1081:1224" id="7" />
+      <Sentence char_offsets="1235:1315" id="8" />
+      <Sentence char_offsets="1317:1392" id="9" />
+      <Sentence char_offsets="1403:1614" id="10" />
+      <Sentence char_offsets="1625:1778" id="11" />
+      <Sentence char_offsets="1789:1858" id="12" />
+      <Sentence char_offsets="1869:1924" id="13" />
+      <Sentence char_offsets="1926:2101" id="14" />
+      <Sentence char_offsets="2112:2166" id="15" />
+      <Sentence char_offsets="2168:2269" id="16" />
+      <Sentence char_offsets="2280:2385" id="17" />
+      <Sentence char_offsets="2396:2613" id="18" />
+      <Sentence char_offsets="2624:2727" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="historical" type="163">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="historical" type="173">
+        <Participant actor_id="31293" actor_name="International Criminal Court" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="14" tense="neutral" type="173">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="52965" actor_name="John Kerry" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="52965" actor_name="John Kerry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

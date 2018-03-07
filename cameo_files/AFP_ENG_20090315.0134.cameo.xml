@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090315.0134">
+    <Sentences>
+      <Sentence char_offsets="188:357" id="0" />
+      <Sentence char_offsets="368:581" id="1" />
+      <Sentence char_offsets="592:724" id="2" />
+      <Sentence char_offsets="735:947" id="3" />
+      <Sentence char_offsets="958:1087" id="4" />
+      <Sentence char_offsets="1098:1221" id="5" />
+      <Sentence char_offsets="1232:1383" id="6" />
+      <Sentence char_offsets="1394:1529" id="7" />
+      <Sentence char_offsets="1540:1662" id="8" />
+      <Sentence char_offsets="1673:1783" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="48143" actor_name="Guillaume Soro" role="Source" />
+        <Participant actor_id="21216" actor_name="Blaise Compaor&#233;" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="045">
+        <Participant actor_id="32180" actor_name="Burkina Faso" role="Source" />
+        <Participant actor_id="49936" actor_name="Forces Nouvelles de C&#244;te d'Ivoire" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

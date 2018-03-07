@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090405.0034">
+    <Sentences>
+      <Sentence char_offsets="187:444" id="0" />
+      <Sentence char_offsets="455:631" id="1" />
+      <Sentence char_offsets="633:700" id="2" />
+      <Sentence char_offsets="702:744" id="3" />
+      <Sentence char_offsets="755:926" id="4" />
+      <Sentence char_offsets="937:1089" id="5" />
+      <Sentence char_offsets="1091:1241" id="6" />
+      <Sentence char_offsets="1243:1400" id="7" />
+      <Sentence char_offsets="1411:1762" id="8" />
+      <Sentence char_offsets="1773:1975" id="9" />
+      <Sentence char_offsets="1986:2018" id="10" />
+      <Sentence char_offsets="2020:2048" id="11" />
+      <Sentence char_offsets="2050:2076" id="12" />
+      <Sentence char_offsets="2087:2302" id="13" />
+      <Sentence char_offsets="2313:2440" id="14" />
+      <Sentence char_offsets="2442:2581" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="current" type="057">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="current" type="057">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

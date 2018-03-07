@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090408.0705">
+    <Sentences>
+      <Sentence char_offsets="190:427" id="0" />
+      <Sentence char_offsets="438:682" id="1" />
+      <Sentence char_offsets="693:969" id="2" />
+      <Sentence char_offsets="980:1059" id="3" />
+      <Sentence char_offsets="1061:1191" id="4" />
+      <Sentence char_offsets="1193:1280" id="5" />
+      <Sentence char_offsets="1291:1582" id="6" />
+      <Sentence char_offsets="1593:1764" id="7" />
+      <Sentence char_offsets="1766:1813" id="8" />
+      <Sentence char_offsets="1824:1945" id="9" />
+      <Sentence char_offsets="1947:2182" id="10" />
+      <Sentence char_offsets="2193:2387" id="11" />
+      <Sentence char_offsets="2389:2486" id="12" />
+      <Sentence char_offsets="2497:2630" id="13" />
+      <Sentence char_offsets="2641:2753" id="14" />
+      <Sentence char_offsets="2764:3079" id="15" />
+      <Sentence char_offsets="3090:3256" id="16" />
+      <Sentence char_offsets="3267:3460" id="17" />
+      <Sentence char_offsets="3471:3632" id="18" />
+      <Sentence char_offsets="3643:4009" id="19" />
+      <Sentence char_offsets="4020:4132" id="20" />
+      <Sentence char_offsets="4143:4219" id="21" />
+      <Sentence char_offsets="4221:4365" id="22" />
+      <Sentence char_offsets="4367:4443" id="23" />
+      <Sentence char_offsets="4454:4614" id="24" />
+      <Sentence char_offsets="4625:4887" id="25" />
+      <Sentence char_offsets="4898:4903" id="26" />
+      <Sentence char_offsets="4914:4987" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="112">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="current" type="1125">
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

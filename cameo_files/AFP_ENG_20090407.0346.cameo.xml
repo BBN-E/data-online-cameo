@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0346">
+    <Sentences>
+      <Sentence char_offsets="180:351" id="0" />
+      <Sentence char_offsets="362:529" id="1" />
+      <Sentence char_offsets="540:757" id="2" />
+      <Sentence char_offsets="768:953" id="3" />
+      <Sentence char_offsets="964:1264" id="4" />
+      <Sentence char_offsets="1275:1362" id="5" />
+      <Sentence char_offsets="1373:1470" id="6" />
+      <Sentence char_offsets="1481:1561" id="7" />
+      <Sentence char_offsets="1572:1794" id="8" />
+      <Sentence char_offsets="1805:1995" id="9" />
+      <Sentence char_offsets="2006:2260" id="10" />
+      <Sentence char_offsets="2271:2398" id="11" />
+      <Sentence char_offsets="2400:2454" id="12" />
+      <Sentence char_offsets="2465:2566" id="13" />
+      <Sentence char_offsets="2568:2669" id="14" />
+      <Sentence char_offsets="2680:2774" id="15" />
+      <Sentence char_offsets="2785:2934" id="16" />
+      <Sentence char_offsets="2945:3135" id="17" />
+      <Sentence char_offsets="3146:3201" id="18" />
+      <Sentence char_offsets="3203:3299" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="historical" type="042">
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Source" />
+        <Participant actor_id="32629" actor_name="Chile" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="141">
+        <Participant actor_id="34265" actor_name="Peru" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="15" tense="historical" type="043">
+        <Participant actor_id="32629" actor_name="Chile" role="Source" />
+        <Participant actor_id="12160" actor_name="Alberto Fujimori" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

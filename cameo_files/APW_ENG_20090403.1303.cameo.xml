@@ -1,0 +1,61 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.1303">
+    <Sentences>
+      <Sentence char_offsets="193:396" id="0" />
+      <Sentence char_offsets="407:508" id="1" />
+      <Sentence char_offsets="510:662" id="2" />
+      <Sentence char_offsets="673:896" id="3" />
+      <Sentence char_offsets="907:1048" id="4" />
+      <Sentence char_offsets="1059:1182" id="5" />
+      <Sentence char_offsets="1184:1238" id="6" />
+      <Sentence char_offsets="1249:1360" id="7" />
+      <Sentence char_offsets="1362:1393" id="8" />
+      <Sentence char_offsets="1395:1427" id="9" />
+      <Sentence char_offsets="1438:1564" id="10" />
+      <Sentence char_offsets="1575:1662" id="11" />
+      <Sentence char_offsets="1664:1684" id="12" />
+      <Sentence char_offsets="1686:1720" id="13" />
+      <Sentence char_offsets="1722:1759" id="14" />
+      <Sentence char_offsets="1770:1854" id="15" />
+      <Sentence char_offsets="1865:2024" id="16" />
+      <Sentence char_offsets="2035:2183" id="17" />
+      <Sentence char_offsets="2194:2356" id="18" />
+      <Sentence char_offsets="2367:2437" id="19" />
+      <Sentence char_offsets="2439:2482" id="20" />
+      <Sentence char_offsets="2484:2527" id="21" />
+      <Sentence char_offsets="2538:2684" id="22" />
+      <Sentence char_offsets="2686:2738" id="23" />
+      <Sentence char_offsets="2740:2783" id="24" />
+      <Sentence char_offsets="2794:2934" id="25" />
+      <Sentence char_offsets="2945:3134" id="26" />
+      <Sentence char_offsets="3145:3319" id="27" />
+      <Sentence char_offsets="3330:3450" id="28" />
+      <Sentence char_offsets="3461:3523" id="29" />
+      <Sentence char_offsets="3525:3639" id="30" />
+      <Sentence char_offsets="3641:3699" id="31" />
+      <Sentence char_offsets="3710:3997" id="32" />
+      <Sentence char_offsets="4008:4013" id="33" />
+      <Sentence char_offsets="4024:4179" id="34" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="neutral" type="012">
+        <Participant actor_id="41262" actor_name="United States" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="180">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="193">
+        <Participant actor_id="41262" actor_name="United States" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

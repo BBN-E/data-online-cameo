@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0959">
+    <Sentences>
+      <Sentence char_offsets="185:360" id="0" />
+      <Sentence char_offsets="371:608" id="1" />
+      <Sentence char_offsets="619:841" id="2" />
+      <Sentence char_offsets="852:1021" id="3" />
+      <Sentence char_offsets="1032:1206" id="4" />
+      <Sentence char_offsets="1217:1329" id="5" />
+      <Sentence char_offsets="1340:1530" id="6" />
+      <Sentence char_offsets="1541:1645" id="7" />
+      <Sentence char_offsets="1656:1821" id="8" />
+      <Sentence char_offsets="1823:1864" id="9" />
+      <Sentence char_offsets="1875:1977" id="10" />
+      <Sentence char_offsets="1988:2175" id="11" />
+      <Sentence char_offsets="2186:2339" id="12" />
+      <Sentence char_offsets="2350:2568" id="13" />
+      <Sentence char_offsets="2579:2822" id="14" />
+      <Sentence char_offsets="2833:2996" id="15" />
+      <Sentence char_offsets="3007:3116" id="16" />
+      <Sentence char_offsets="3127:3317" id="17" />
+      <Sentence char_offsets="3328:3501" id="18" />
+      <Sentence char_offsets="3512:3649" id="19" />
+      <Sentence char_offsets="3651:3708" id="20" />
+      <Sentence char_offsets="3719:3901" id="21" />
+      <Sentence char_offsets="3912:4032" id="22" />
+      <Sentence char_offsets="4043:4193" id="23" />
+      <Sentence char_offsets="4204:4416" id="24" />
+      <Sentence char_offsets="4427:4501" id="25" />
+      <Sentence char_offsets="4512:4677" id="26" />
+      <Sentence char_offsets="4688:4767" id="27" />
+      <Sentence char_offsets="4778:4844" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="33931" actor_name="Federal Reserve" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

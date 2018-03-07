@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090423.0851">
+    <Sentences>
+      <Sentence char_offsets="180:377" id="0" />
+      <Sentence char_offsets="388:471" id="1" />
+      <Sentence char_offsets="482:743" id="2" />
+      <Sentence char_offsets="754:871" id="3" />
+      <Sentence char_offsets="882:1014" id="4" />
+      <Sentence char_offsets="1025:1163" id="5" />
+      <Sentence char_offsets="1165:1210" id="6" />
+      <Sentence char_offsets="1221:1414" id="7" />
+      <Sentence char_offsets="1425:1539" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="6357" actor_name="Yonhap News Agency" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

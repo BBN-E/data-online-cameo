@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0290">
+    <Sentences>
+      <Sentence char_offsets="189:382" id="0" />
+      <Sentence char_offsets="393:670" id="1" />
+      <Sentence char_offsets="672:728" id="2" />
+      <Sentence char_offsets="739:924" id="3" />
+      <Sentence char_offsets="926:1022" id="4" />
+      <Sentence char_offsets="1033:1185" id="5" />
+      <Sentence char_offsets="1187:1277" id="6" />
+      <Sentence char_offsets="1288:1334" id="7" />
+      <Sentence char_offsets="1345:1544" id="8" />
+      <Sentence char_offsets="1546:1636" id="9" />
+      <Sentence char_offsets="1647:1859" id="10" />
+      <Sentence char_offsets="1870:1985" id="11" />
+      <Sentence char_offsets="1996:2073" id="12" />
+      <Sentence char_offsets="2075:2153" id="13" />
+      <Sentence char_offsets="2155:2265" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="073">
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="historical" type="141">
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="63" agent_name="Buddhist Monk" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="173">
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="595" agent_name="Ruling Military Government" role="Source" />
+        <Participant actor_id="36760" actor_name="Myanmar" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

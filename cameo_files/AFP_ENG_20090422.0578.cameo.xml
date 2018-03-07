@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0578">
+    <Sentences>
+      <Sentence char_offsets="179:359" id="0" />
+      <Sentence char_offsets="370:603" id="1" />
+      <Sentence char_offsets="614:729" id="2" />
+      <Sentence char_offsets="740:864" id="3" />
+      <Sentence char_offsets="875:947" id="4" />
+      <Sentence char_offsets="958:1064" id="5" />
+      <Sentence char_offsets="1075:1181" id="6" />
+      <Sentence char_offsets="1192:1249" id="7" />
+      <Sentence char_offsets="1251:1296" id="8" />
+      <Sentence char_offsets="1307:1514" id="9" />
+      <Sentence char_offsets="1525:1651" id="10" />
+      <Sentence char_offsets="1662:1789" id="11" />
+      <Sentence char_offsets="1800:1906" id="12" />
+      <Sentence char_offsets="1917:2048" id="13" />
+      <Sentence char_offsets="2059:2187" id="14" />
+      <Sentence char_offsets="2198:2317" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="36" agent_name="Rioter" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="1822">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="190">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

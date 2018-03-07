@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0342">
+    <Sentences>
+      <Sentence char_offsets="187:374" id="0" />
+      <Sentence char_offsets="385:574" id="1" />
+      <Sentence char_offsets="585:804" id="2" />
+      <Sentence char_offsets="815:837" id="3" />
+      <Sentence char_offsets="839:996" id="4" />
+      <Sentence char_offsets="1007:1111" id="5" />
+      <Sentence char_offsets="1113:1173" id="6" />
+      <Sentence char_offsets="1184:1347" id="7" />
+      <Sentence char_offsets="1358:1568" id="8" />
+      <Sentence char_offsets="1579:1720" id="9" />
+      <Sentence char_offsets="1731:1928" id="10" />
+      <Sentence char_offsets="1939:2133" id="11" />
+      <Sentence char_offsets="2144:2351" id="12" />
+      <Sentence char_offsets="2362:2559" id="13" />
+      <Sentence char_offsets="2570:2720" id="14" />
+      <Sentence char_offsets="2731:2902" id="15" />
+      <Sentence char_offsets="2913:3132" id="16" />
+      <Sentence char_offsets="3143:3285" id="17" />
+      <Sentence char_offsets="3296:3464" id="18" />
+      <Sentence char_offsets="3475:3657" id="19" />
+      <Sentence char_offsets="3668:3810" id="20" />
+      <Sentence char_offsets="3821:4080" id="21" />
+      <Sentence char_offsets="4091:4217" id="22" />
+      <Sentence char_offsets="4228:4430" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="neutral" type="010">
+        <Participant actor_id="26887" actor_name="Morgan Stanley" role="Source" />
+        <Participant actor_id="222954" actor_name="European Central Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

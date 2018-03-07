@@ -1,0 +1,64 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0534">
+    <Sentences>
+      <Sentence char_offsets="192:391" id="0" />
+      <Sentence char_offsets="402:629" id="1" />
+      <Sentence char_offsets="640:934" id="2" />
+      <Sentence char_offsets="945:1018" id="3" />
+      <Sentence char_offsets="1029:1158" id="4" />
+      <Sentence char_offsets="1169:1272" id="5" />
+      <Sentence char_offsets="1283:1377" id="6" />
+      <Sentence char_offsets="1379:1422" id="7" />
+      <Sentence char_offsets="1433:1471" id="8" />
+      <Sentence char_offsets="1482:1661" id="9" />
+      <Sentence char_offsets="1663:1719" id="10" />
+      <Sentence char_offsets="1730:1876" id="11" />
+      <Sentence char_offsets="1887:2036" id="12" />
+      <Sentence char_offsets="2047:2124" id="13" />
+      <Sentence char_offsets="2135:2168" id="14" />
+      <Sentence char_offsets="2179:2370" id="15" />
+      <Sentence char_offsets="2381:2527" id="16" />
+      <Sentence char_offsets="2538:2726" id="17" />
+      <Sentence char_offsets="2728:2867" id="18" />
+      <Sentence char_offsets="2878:3077" id="19" />
+      <Sentence char_offsets="3088:3256" id="20" />
+      <Sentence char_offsets="3258:3358" id="21" />
+      <Sentence char_offsets="3369:3450" id="22" />
+      <Sentence char_offsets="3461:3641" id="23" />
+      <Sentence char_offsets="3652:3890" id="24" />
+      <Sentence char_offsets="3892:3997" id="25" />
+      <Sentence char_offsets="4008:4227" id="26" />
+      <Sentence char_offsets="4238:4551" id="27" />
+      <Sentence char_offsets="4562:4724" id="28" />
+      <Sentence char_offsets="4735:4872" id="29" />
+      <Sentence char_offsets="4883:4955" id="30" />
+      <Sentence char_offsets="4957:5166" id="31" />
+      <Sentence char_offsets="5177:5182" id="32" />
+      <Sentence char_offsets="5193:5311" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="56792" actor_name="Yasukazu Hamada" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="current" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="current" type="036">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="111">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="14" tense="neutral" type="130">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

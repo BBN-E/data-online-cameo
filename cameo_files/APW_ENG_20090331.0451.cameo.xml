@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.0451">
+    <Sentences>
+      <Sentence char_offsets="190:468" id="0" />
+      <Sentence char_offsets="479:696" id="1" />
+      <Sentence char_offsets="707:938" id="2" />
+      <Sentence char_offsets="949:975" id="3" />
+      <Sentence char_offsets="977:989" id="4" />
+      <Sentence char_offsets="991:1114" id="5" />
+      <Sentence char_offsets="1125:1209" id="6" />
+      <Sentence char_offsets="1220:1328" id="7" />
+      <Sentence char_offsets="1330:1521" id="8" />
+      <Sentence char_offsets="1532:1629" id="9" />
+      <Sentence char_offsets="1631:1733" id="10" />
+      <Sentence char_offsets="1744:1906" id="11" />
+      <Sentence char_offsets="1908:2047" id="12" />
+      <Sentence char_offsets="2058:2109" id="13" />
+      <Sentence char_offsets="2120:2314" id="14" />
+      <Sentence char_offsets="2316:2416" id="15" />
+      <Sentence char_offsets="2427:2648" id="16" />
+      <Sentence char_offsets="2659:2840" id="17" />
+      <Sentence char_offsets="2851:2921" id="18" />
+      <Sentence char_offsets="2923:2950" id="19" />
+      <Sentence char_offsets="2952:2994" id="20" />
+      <Sentence char_offsets="2996:3077" id="21" />
+      <Sentence char_offsets="3088:3196" id="22" />
+      <Sentence char_offsets="3207:3212" id="23" />
+      <Sentence char_offsets="3223:3306" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="34753" actor_name="Qatar" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="historical" type="043">
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="current" type="051">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="28827" actor_name="Arab League" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="historical" type="042">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="38561" actor_name="Mahmoud Ahmadinejad" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="34753" actor_name="Qatar" role="Source" />
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

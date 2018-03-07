@@ -1,0 +1,82 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0914">
+    <Sentences>
+      <Sentence char_offsets="187:419" id="0" />
+      <Sentence char_offsets="430:605" id="1" />
+      <Sentence char_offsets="616:853" id="2" />
+      <Sentence char_offsets="864:1015" id="3" />
+      <Sentence char_offsets="1026:1185" id="4" />
+      <Sentence char_offsets="1187:1271" id="5" />
+      <Sentence char_offsets="1282:1372" id="6" />
+      <Sentence char_offsets="1383:1502" id="7" />
+      <Sentence char_offsets="1504:1552" id="8" />
+      <Sentence char_offsets="1563:1783" id="9" />
+      <Sentence char_offsets="1794:1921" id="10" />
+      <Sentence char_offsets="1932:2037" id="11" />
+      <Sentence char_offsets="2048:2162" id="12" />
+      <Sentence char_offsets="2164:2313" id="13" />
+      <Sentence char_offsets="2324:2548" id="14" />
+      <Sentence char_offsets="2559:2644" id="15" />
+      <Sentence char_offsets="2646:2730" id="16" />
+      <Sentence char_offsets="2741:3015" id="17" />
+      <Sentence char_offsets="3017:3086" id="18" />
+      <Sentence char_offsets="3097:3341" id="19" />
+      <Sentence char_offsets="3352:3616" id="20" />
+      <Sentence char_offsets="3618:3751" id="21" />
+      <Sentence char_offsets="3762:3932" id="22" />
+      <Sentence char_offsets="3943:4098" id="23" />
+      <Sentence char_offsets="4109:4129" id="24" />
+      <Sentence char_offsets="4131:4208" id="25" />
+      <Sentence char_offsets="4210:4345" id="26" />
+      <Sentence char_offsets="4356:4470" id="27" />
+      <Sentence char_offsets="4472:4567" id="28" />
+      <Sentence char_offsets="4578:4646" id="29" />
+      <Sentence char_offsets="4648:4713" id="30" />
+      <Sentence char_offsets="4715:4823" id="31" />
+      <Sentence char_offsets="4825:4904" id="32" />
+      <Sentence char_offsets="4915:4966" id="33" />
+      <Sentence char_offsets="4968:5047" id="34" />
+      <Sentence char_offsets="5058:5170" id="35" />
+      <Sentence char_offsets="5181:5320" id="36" />
+      <Sentence char_offsets="5331:5411" id="37" />
+      <Sentence char_offsets="5413:5526" id="38" />
+      <Sentence char_offsets="5537:5637" id="39" />
+      <Sentence char_offsets="5648:5761" id="40" />
+      <Sentence char_offsets="5763:5835" id="41" />
+      <Sentence char_offsets="5846:5966" id="42" />
+      <Sentence char_offsets="5968:6063" id="43" />
+      <Sentence char_offsets="6074:6246" id="44" />
+      <Sentence char_offsets="6248:6374" id="45" />
+      <Sentence char_offsets="6385:6533" id="46" />
+      <Sentence char_offsets="6535:6589" id="47" />
+      <Sentence char_offsets="6600:6621" id="48" />
+      <Sentence char_offsets="6623:6707" id="49" />
+      <Sentence char_offsets="6718:6723" id="50" />
+      <Sentence char_offsets="6734:6744" id="51" />
+      <Sentence char_offsets="6755:6824" id="52" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="32631" actor_name="China" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="25210" actor_name="Falun Gong" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="25210" actor_name="Falun Gong" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="111">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="historical" type="141">
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="4" sentence_id="28" tense="neutral" type="173">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

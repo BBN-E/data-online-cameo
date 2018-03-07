@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0411">
+    <Sentences>
+      <Sentence char_offsets="197:364" id="0" />
+      <Sentence char_offsets="375:623" id="1" />
+      <Sentence char_offsets="634:825" id="2" />
+      <Sentence char_offsets="827:861" id="3" />
+      <Sentence char_offsets="872:1071" id="4" />
+      <Sentence char_offsets="1082:1140" id="5" />
+      <Sentence char_offsets="1142:1188" id="6" />
+      <Sentence char_offsets="1199:1304" id="7" />
+      <Sentence char_offsets="1306:1375" id="8" />
+      <Sentence char_offsets="1386:1544" id="9" />
+      <Sentence char_offsets="1555:1668" id="10" />
+      <Sentence char_offsets="1679:1887" id="11" />
+      <Sentence char_offsets="1898:2046" id="12" />
+      <Sentence char_offsets="2057:2146" id="13" />
+      <Sentence char_offsets="2148:2176" id="14" />
+      <Sentence char_offsets="2178:2211" id="15" />
+      <Sentence char_offsets="2222:2324" id="16" />
+      <Sentence char_offsets="2335:2466" id="17" />
+      <Sentence char_offsets="2477:2600" id="18" />
+      <Sentence char_offsets="2611:2768" id="19" />
+      <Sentence char_offsets="2779:3052" id="20" />
+      <Sentence char_offsets="3063:3171" id="21" />
+      <Sentence char_offsets="3182:3308" id="22" />
+      <Sentence char_offsets="3319:3492" id="23" />
+      <Sentence char_offsets="3503:3589" id="24" />
+      <Sentence char_offsets="3591:3719" id="25" />
+      <Sentence char_offsets="3730:3878" id="26" />
+      <Sentence char_offsets="3889:4071" id="27" />
+      <Sentence char_offsets="4082:4175" id="28" />
+      <Sentence char_offsets="4186:4297" id="29" />
+      <Sentence char_offsets="4308:4378" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="050">
+        <Participant actor_id="7701" actor_name="Boeing" role="Source" />
+        <Participant actor_id="31728" actor_name="Jamaica" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

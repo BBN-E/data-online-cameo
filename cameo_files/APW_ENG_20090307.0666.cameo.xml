@@ -1,0 +1,82 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090307.0666">
+    <Sentences>
+      <Sentence char_offsets="192:385" id="0" />
+      <Sentence char_offsets="396:524" id="1" />
+      <Sentence char_offsets="526:680" id="2" />
+      <Sentence char_offsets="691:838" id="3" />
+      <Sentence char_offsets="849:907" id="4" />
+      <Sentence char_offsets="909:995" id="5" />
+      <Sentence char_offsets="997:1045" id="6" />
+      <Sentence char_offsets="1056:1180" id="7" />
+      <Sentence char_offsets="1182:1258" id="8" />
+      <Sentence char_offsets="1269:1345" id="9" />
+      <Sentence char_offsets="1347:1560" id="10" />
+      <Sentence char_offsets="1571:1814" id="11" />
+      <Sentence char_offsets="1825:2034" id="12" />
+      <Sentence char_offsets="2045:2183" id="13" />
+      <Sentence char_offsets="2194:2280" id="14" />
+      <Sentence char_offsets="2291:2468" id="15" />
+      <Sentence char_offsets="2479:2605" id="16" />
+      <Sentence char_offsets="2607:2720" id="17" />
+      <Sentence char_offsets="2731:2845" id="18" />
+      <Sentence char_offsets="2856:3020" id="19" />
+      <Sentence char_offsets="3031:3117" id="20" />
+      <Sentence char_offsets="3119:3131" id="21" />
+      <Sentence char_offsets="3133:3172" id="22" />
+      <Sentence char_offsets="3183:3387" id="23" />
+      <Sentence char_offsets="3398:3525" id="24" />
+      <Sentence char_offsets="3527:3671" id="25" />
+      <Sentence char_offsets="3682:3823" id="26" />
+      <Sentence char_offsets="3825:3938" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="1533" actor_name="Jeffrey D. Feltman" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="25" tense="neutral" type="010">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="neutral" type="010">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="013">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="23" tense="historical" type="040">
+        <Participant actor_id="52965" actor_name="John Kerry" role="Source" />
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="15" tense="historical" type="112">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="7" tense="historical" type="161">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="23" tense="historical" type="040">
+        <Participant actor_id="14621" actor_name="Bashar al-Assad" role="Source" />
+        <Participant actor_id="52965" actor_name="John Kerry" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

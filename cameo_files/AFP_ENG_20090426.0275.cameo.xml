@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090426.0275">
+    <Sentences>
+      <Sentence char_offsets="185:318" id="0" />
+      <Sentence char_offsets="329:445" id="1" />
+      <Sentence char_offsets="456:558" id="2" />
+      <Sentence char_offsets="569:736" id="3" />
+      <Sentence char_offsets="747:963" id="4" />
+      <Sentence char_offsets="974:1076" id="5" />
+      <Sentence char_offsets="1087:1224" id="6" />
+      <Sentence char_offsets="1235:1332" id="7" />
+      <Sentence char_offsets="1334:1421" id="8" />
+      <Sentence char_offsets="1432:1609" id="9" />
+      <Sentence char_offsets="1620:1837" id="10" />
+      <Sentence char_offsets="1848:1932" id="11" />
+      <Sentence char_offsets="1943:2134" id="12" />
+      <Sentence char_offsets="2145:2215" id="13" />
+      <Sentence char_offsets="2226:2405" id="14" />
+      <Sentence char_offsets="2416:2534" id="15" />
+      <Sentence char_offsets="2545:2758" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Source" />
+        <Participant actor_id="32779" actor_name="Algeria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="32779" actor_name="Algeria" role="Source" />
+        <Participant actor_id="34043" actor_name="Organization of Petroleum Exporting Countries" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

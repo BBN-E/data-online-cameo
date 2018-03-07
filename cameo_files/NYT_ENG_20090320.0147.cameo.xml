@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090320.0147">
+    <Sentences>
+      <Sentence char_offsets="141:156" id="0" />
+      <Sentence char_offsets="158:362" id="1" />
+      <Sentence char_offsets="373:455" id="2" />
+      <Sentence char_offsets="457:675" id="3" />
+      <Sentence char_offsets="686:880" id="4" />
+      <Sentence char_offsets="891:1023" id="5" />
+      <Sentence char_offsets="1025:1173" id="6" />
+      <Sentence char_offsets="1184:1400" id="7" />
+      <Sentence char_offsets="1402:1532" id="8" />
+      <Sentence char_offsets="1534:1627" id="9" />
+      <Sentence char_offsets="1638:1710" id="10" />
+      <Sentence char_offsets="1712:1850" id="11" />
+      <Sentence char_offsets="1852:2067" id="12" />
+      <Sentence char_offsets="2078:2179" id="13" />
+      <Sentence char_offsets="2181:2262" id="14" />
+      <Sentence char_offsets="2273:2403" id="15" />
+      <Sentence char_offsets="2414:2604" id="16" />
+      <Sentence char_offsets="2606:2842" id="17" />
+      <Sentence char_offsets="2844:2918" id="18" />
+      <Sentence char_offsets="2929:3115" id="19" />
+      <Sentence char_offsets="3117:3156" id="20" />
+      <Sentence char_offsets="3167:3322" id="21" />
+      <Sentence char_offsets="3324:3418" id="22" />
+      <Sentence char_offsets="3429:3578" id="23" />
+      <Sentence char_offsets="3580:3707" id="24" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="020">
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Source" />
+        <Participant actor_id="36206" actor_name="Libya" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

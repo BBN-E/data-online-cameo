@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090409.0063">
+    <Sentences>
+      <Sentence char_offsets="113:162" id="0" />
+      <Sentence char_offsets="164:286" id="1" />
+      <Sentence char_offsets="297:591" id="2" />
+      <Sentence char_offsets="593:716" id="3" />
+      <Sentence char_offsets="727:789" id="4" />
+      <Sentence char_offsets="800:883" id="5" />
+      <Sentence char_offsets="885:925" id="6" />
+      <Sentence char_offsets="927:1089" id="7" />
+      <Sentence char_offsets="1091:1309" id="8" />
+      <Sentence char_offsets="1311:1496" id="9" />
+      <Sentence char_offsets="1507:1645" id="10" />
+      <Sentence char_offsets="1656:1735" id="11" />
+      <Sentence char_offsets="1737:1889" id="12" />
+      <Sentence char_offsets="1900:2066" id="13" />
+      <Sentence char_offsets="2068:2183" id="14" />
+      <Sentence char_offsets="2194:2347" id="15" />
+      <Sentence char_offsets="2349:2483" id="16" />
+      <Sentence char_offsets="2485:2573" id="17" />
+      <Sentence char_offsets="2584:2751" id="18" />
+      <Sentence char_offsets="2762:2884" id="19" />
+      <Sentence char_offsets="2886:2969" id="20" />
+      <Sentence char_offsets="2980:3127" id="21" />
+      <Sentence char_offsets="3129:3270" id="22" />
+      <Sentence char_offsets="3272:3464" id="23" />
+      <Sentence char_offsets="3466:3696" id="24" />
+      <Sentence char_offsets="3707:3829" id="25" />
+      <Sentence char_offsets="3831:3886" id="26" />
+      <Sentence char_offsets="3897:3979" id="27" />
+      <Sentence char_offsets="3981:4176" id="28" />
+      <Sentence char_offsets="4187:4249" id="29" />
+      <Sentence char_offsets="4251:4344" id="30" />
+      <Sentence char_offsets="4355:4414" id="31" />
+      <Sentence char_offsets="4416:4469" id="32" />
+      <Sentence char_offsets="4480:4530" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="34391" actor_name="Tom Tancredo" role="Source" />
+        <Participant actor_id="16076" actor_name="Mitt Romney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

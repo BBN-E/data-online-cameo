@@ -1,0 +1,100 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0257">
+    <Sentences>
+      <Sentence char_offsets="154:165" id="0" />
+      <Sentence char_offsets="167:179" id="1" />
+      <Sentence char_offsets="182:203" id="2" />
+      <Sentence char_offsets="206:256" id="3" />
+      <Sentence char_offsets="259:294" id="4" />
+      <Sentence char_offsets="297:342" id="5" />
+      <Sentence char_offsets="345:394" id="6" />
+      <Sentence char_offsets="397:429" id="7" />
+      <Sentence char_offsets="432:439" id="8" />
+      <Sentence char_offsets="442:648" id="9" />
+      <Sentence char_offsets="651:685" id="10" />
+      <Sentence char_offsets="687:693" id="11" />
+      <Sentence char_offsets="696:725" id="12" />
+      <Sentence char_offsets="728:736" id="13" />
+      <Sentence char_offsets="739:911" id="14" />
+      <Sentence char_offsets="914:952" id="15" />
+      <Sentence char_offsets="955:961" id="16" />
+      <Sentence char_offsets="964:989" id="17" />
+      <Sentence char_offsets="992:1000" id="18" />
+      <Sentence char_offsets="1003:1204" id="19" />
+      <Sentence char_offsets="1207:1224" id="20" />
+      <Sentence char_offsets="1227:1244" id="21" />
+      <Sentence char_offsets="1247:1252" id="22" />
+      <Sentence char_offsets="1255:1441" id="23" />
+      <Sentence char_offsets="1444:1483" id="24" />
+      <Sentence char_offsets="1485:1501" id="25" />
+      <Sentence char_offsets="1504:1546" id="26" />
+      <Sentence char_offsets="1549:1555" id="27" />
+      <Sentence char_offsets="1558:1741" id="28" />
+      <Sentence char_offsets="1744:1783" id="29" />
+      <Sentence char_offsets="1785:1793" id="30" />
+      <Sentence char_offsets="1796:1832" id="31" />
+      <Sentence char_offsets="1835:1843" id="32" />
+      <Sentence char_offsets="1846:2066" id="33" />
+      <Sentence char_offsets="2069:2103" id="34" />
+      <Sentence char_offsets="2105:2116" id="35" />
+      <Sentence char_offsets="2119:2146" id="36" />
+      <Sentence char_offsets="2149:2153" id="37" />
+      <Sentence char_offsets="2156:2304" id="38" />
+      <Sentence char_offsets="2307:2338" id="39" />
+      <Sentence char_offsets="2341:2358" id="40" />
+      <Sentence char_offsets="2361:2370" id="41" />
+      <Sentence char_offsets="2373:2596" id="42" />
+      <Sentence char_offsets="2599:2616" id="43" />
+      <Sentence char_offsets="2619:2645" id="44" />
+      <Sentence char_offsets="2648:2657" id="45" />
+      <Sentence char_offsets="2660:2850" id="46" />
+      <Sentence char_offsets="2853:2870" id="47" />
+      <Sentence char_offsets="2873:2901" id="48" />
+      <Sentence char_offsets="2904:2912" id="49" />
+      <Sentence char_offsets="2915:3061" id="50" />
+      <Sentence char_offsets="3064:3081" id="51" />
+      <Sentence char_offsets="3084:3107" id="52" />
+      <Sentence char_offsets="3110:3114" id="53" />
+      <Sentence char_offsets="3117:3301" id="54" />
+      <Sentence char_offsets="3304:3340" id="55" />
+      <Sentence char_offsets="3343:3372" id="56" />
+      <Sentence char_offsets="3375:3379" id="57" />
+      <Sentence char_offsets="3382:3567" id="58" />
+      <Sentence char_offsets="3570:3600" id="59" />
+      <Sentence char_offsets="3602:3617" id="60" />
+      <Sentence char_offsets="3620:3683" id="61" />
+      <Sentence char_offsets="3686:3710" id="62" />
+      <Sentence char_offsets="3713:3729" id="63" />
+      <Sentence char_offsets="3732:3907" id="64" />
+      <Sentence char_offsets="3910:3942" id="65" />
+      <Sentence char_offsets="3944:3950" id="66" />
+      <Sentence char_offsets="3953:3997" id="67" />
+      <Sentence char_offsets="4000:4044" id="68" />
+      <Sentence char_offsets="4047:4069" id="69" />
+      <Sentence char_offsets="4072:4083" id="70" />
+      <Sentence char_offsets="4086:4202" id="71" />
+      <Sentence char_offsets="4205:4239" id="72" />
+      <Sentence char_offsets="4241:4248" id="73" />
+      <Sentence char_offsets="4251:4283" id="74" />
+      <Sentence char_offsets="4286:4296" id="75" />
+      <Sentence char_offsets="4299:4448" id="76" />
+      <Sentence char_offsets="4451:4495" id="77" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="042">
+        <Participant actor_id="35728" actor_name="Tony Blair" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="50" tense="neutral" type="120">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="57880" actor_name="Sharif Sheikh Ahmed" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="35728" actor_name="Tony Blair" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

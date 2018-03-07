@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090314.0412">
+    <Sentences>
+      <Sentence char_offsets="182:385" id="0" />
+      <Sentence char_offsets="396:606" id="1" />
+      <Sentence char_offsets="617:862" id="2" />
+      <Sentence char_offsets="873:1073" id="3" />
+      <Sentence char_offsets="1084:1302" id="4" />
+      <Sentence char_offsets="1313:1442" id="5" />
+      <Sentence char_offsets="1444:1542" id="6" />
+      <Sentence char_offsets="1553:1799" id="7" />
+      <Sentence char_offsets="1810:1966" id="8" />
+      <Sentence char_offsets="1968:1990" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="historical" type="010">
+        <Participant actor_id="12098" actor_name="Albert II" role="Source" />
+        <Participant actor_id="36682" actor_name="Monaco" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

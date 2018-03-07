@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0461">
+    <Sentences>
+      <Sentence char_offsets="189:397" id="0" />
+      <Sentence char_offsets="408:663" id="1" />
+      <Sentence char_offsets="674:840" id="2" />
+      <Sentence char_offsets="851:1100" id="3" />
+      <Sentence char_offsets="1111:1303" id="4" />
+      <Sentence char_offsets="1314:1384" id="5" />
+      <Sentence char_offsets="1395:1564" id="6" />
+      <Sentence char_offsets="1575:1636" id="7" />
+      <Sentence char_offsets="1647:1913" id="8" />
+      <Sentence char_offsets="1924:2007" id="9" />
+      <Sentence char_offsets="2018:2204" id="10" />
+      <Sentence char_offsets="2215:2291" id="11" />
+      <Sentence char_offsets="2302:2608" id="12" />
+      <Sentence char_offsets="2619:2810" id="13" />
+      <Sentence char_offsets="2821:2944" id="14" />
+      <Sentence char_offsets="2955:3110" id="15" />
+      <Sentence char_offsets="3121:3342" id="16" />
+      <Sentence char_offsets="3353:3481" id="17" />
+      <Sentence char_offsets="3483:3563" id="18" />
+      <Sentence char_offsets="3574:3604" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="15" tense="neutral" type="010">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="1711">
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39865" actor_name="Sweden" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

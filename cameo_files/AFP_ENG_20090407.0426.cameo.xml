@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090407.0426">
+    <Sentences>
+      <Sentence char_offsets="193:368" id="0" />
+      <Sentence char_offsets="379:484" id="1" />
+      <Sentence char_offsets="495:677" id="2" />
+      <Sentence char_offsets="688:890" id="3" />
+      <Sentence char_offsets="901:976" id="4" />
+      <Sentence char_offsets="987:1091" id="5" />
+      <Sentence char_offsets="1102:1252" id="6" />
+      <Sentence char_offsets="1263:1343" id="7" />
+      <Sentence char_offsets="1354:1448" id="8" />
+      <Sentence char_offsets="1450:1515" id="9" />
+      <Sentence char_offsets="1526:1684" id="10" />
+      <Sentence char_offsets="1695:1892" id="11" />
+      <Sentence char_offsets="1903:2113" id="12" />
+      <Sentence char_offsets="2124:2277" id="13" />
+      <Sentence char_offsets="2288:2406" id="14" />
+      <Sentence char_offsets="2417:2471" id="15" />
+      <Sentence char_offsets="2482:2640" id="16" />
+      <Sentence char_offsets="2651:2871" id="17" />
+      <Sentence char_offsets="2882:3023" id="18" />
+      <Sentence char_offsets="3034:3231" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="38437" actor_name="Bernard Kouchner" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="210" agent_name="Other Authorities / Officials" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="0841">
+        <Participant actor_id="30701" actor_name="France" agent_id="158" agent_name="Commando" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="154">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

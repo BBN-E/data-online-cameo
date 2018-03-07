@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090315.0540">
+    <Sentences>
+      <Sentence char_offsets="182:349" id="0" />
+      <Sentence char_offsets="360:574" id="1" />
+      <Sentence char_offsets="576:655" id="2" />
+      <Sentence char_offsets="666:835" id="3" />
+      <Sentence char_offsets="837:918" id="4" />
+      <Sentence char_offsets="929:1078" id="5" />
+      <Sentence char_offsets="1089:1323" id="6" />
+      <Sentence char_offsets="1334:1587" id="7" />
+      <Sentence char_offsets="1598:1744" id="8" />
+      <Sentence char_offsets="1755:1855" id="9" />
+      <Sentence char_offsets="1857:2021" id="10" />
+      <Sentence char_offsets="2032:2249" id="11" />
+      <Sentence char_offsets="2260:2436" id="12" />
+      <Sentence char_offsets="2447:2497" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="054">
+        <Participant actor_id="57239" actor_name="Palestine Liberation Organization" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,29 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0383">
+    <Sentences>
+      <Sentence char_offsets="176:371" id="0" />
+      <Sentence char_offsets="382:609" id="1" />
+      <Sentence char_offsets="620:836" id="2" />
+      <Sentence char_offsets="847:952" id="3" />
+      <Sentence char_offsets="954:1096" id="4" />
+      <Sentence char_offsets="1107:1238" id="5" />
+      <Sentence char_offsets="1249:1384" id="6" />
+      <Sentence char_offsets="1395:1537" id="7" />
+      <Sentence char_offsets="1548:1700" id="8" />
+      <Sentence char_offsets="1711:1854" id="9" />
+      <Sentence char_offsets="1865:1965" id="10" />
+      <Sentence char_offsets="1967:1993" id="11" />
+      <Sentence char_offsets="2004:2099" id="12" />
+      <Sentence char_offsets="2110:2216" id="13" />
+      <Sentence char_offsets="2218:2332" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="54254" actor_name="Press Trust of India" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

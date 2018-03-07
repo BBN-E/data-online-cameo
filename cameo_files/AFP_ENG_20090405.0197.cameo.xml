@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090405.0197">
+    <Sentences>
+      <Sentence char_offsets="177:340" id="0" />
+      <Sentence char_offsets="351:532" id="1" />
+      <Sentence char_offsets="543:726" id="2" />
+      <Sentence char_offsets="737:899" id="3" />
+      <Sentence char_offsets="910:1011" id="4" />
+      <Sentence char_offsets="1013:1111" id="5" />
+      <Sentence char_offsets="1122:1241" id="6" />
+      <Sentence char_offsets="1252:1356" id="7" />
+      <Sentence char_offsets="1367:1537" id="8" />
+      <Sentence char_offsets="1548:1740" id="9" />
+      <Sentence char_offsets="1751:1865" id="10" />
+      <Sentence char_offsets="1876:2015" id="11" />
+      <Sentence char_offsets="2026:2226" id="12" />
+      <Sentence char_offsets="2237:2451" id="13" />
+      <Sentence char_offsets="2462:2628" id="14" />
+      <Sentence char_offsets="2639:2758" id="15" />
+      <Sentence char_offsets="2769:2943" id="16" />
+      <Sentence char_offsets="2954:3156" id="17" />
+      <Sentence char_offsets="3167:3312" id="18" />
+      <Sentence char_offsets="3323:3476" id="19" />
+      <Sentence char_offsets="3487:3536" id="20" />
+      <Sentence char_offsets="3538:3638" id="21" />
+      <Sentence char_offsets="3649:3783" id="22" />
+      <Sentence char_offsets="3794:3876" id="23" />
+      <Sentence char_offsets="3887:3975" id="24" />
+      <Sentence char_offsets="3986:4068" id="25" />
+      <Sentence char_offsets="4079:4130" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="55772" actor_name="Nikola Gruevski" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="020">
+        <Participant actor_id="55772" actor_name="Nikola Gruevski" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="046">
+        <Participant actor_id="36776" actor_name="Macedonia" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="120">
+        <Participant actor_id="31038" actor_name="Greece" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="17" tense="neutral" type="046">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="36776" actor_name="Macedonia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

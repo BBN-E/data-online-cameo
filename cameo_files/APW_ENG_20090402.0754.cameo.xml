@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090402.0754">
+    <Sentences>
+      <Sentence char_offsets="182:282" id="0" />
+      <Sentence char_offsets="293:353" id="1" />
+      <Sentence char_offsets="355:488" id="2" />
+      <Sentence char_offsets="499:694" id="3" />
+      <Sentence char_offsets="705:789" id="4" />
+      <Sentence char_offsets="791:823" id="5" />
+      <Sentence char_offsets="834:1042" id="6" />
+      <Sentence char_offsets="1053:1116" id="7" />
+      <Sentence char_offsets="1118:1173" id="8" />
+      <Sentence char_offsets="1184:1319" id="9" />
+      <Sentence char_offsets="1321:1461" id="10" />
+      <Sentence char_offsets="1463:1557" id="11" />
+      <Sentence char_offsets="1568:1630" id="12" />
+      <Sentence char_offsets="1641:1894" id="13" />
+      <Sentence char_offsets="1905:1980" id="14" />
+      <Sentence char_offsets="1982:2124" id="15" />
+      <Sentence char_offsets="2135:2199" id="16" />
+      <Sentence char_offsets="2210:2380" id="17" />
+      <Sentence char_offsets="2391:2450" id="18" />
+      <Sentence char_offsets="2461:2586" id="19" />
+      <Sentence char_offsets="2597:2742" id="20" />
+      <Sentence char_offsets="2753:2926" id="21" />
+      <Sentence char_offsets="2937:3039" id="22" />
+      <Sentence char_offsets="3041:3204" id="23" />
+      <Sentence char_offsets="3215:3569" id="24" />
+      <Sentence char_offsets="3580:3644" id="25" />
+      <Sentence char_offsets="3646:3702" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="historical" type="042">
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="040">
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="11" tense="historical" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="13891" actor_name="Elizabeth II" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

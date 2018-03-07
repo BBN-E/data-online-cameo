@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090422.1463">
+    <Sentences>
+      <Sentence char_offsets="183:353" id="0" />
+      <Sentence char_offsets="364:465" id="1" />
+      <Sentence char_offsets="476:633" id="2" />
+      <Sentence char_offsets="635:741" id="3" />
+      <Sentence char_offsets="752:866" id="4" />
+      <Sentence char_offsets="868:943" id="5" />
+      <Sentence char_offsets="954:1031" id="6" />
+      <Sentence char_offsets="1042:1132" id="7" />
+      <Sentence char_offsets="1143:1239" id="8" />
+      <Sentence char_offsets="1250:1370" id="9" />
+      <Sentence char_offsets="1372:1509" id="10" />
+      <Sentence char_offsets="1520:1566" id="11" />
+      <Sentence char_offsets="1577:1634" id="12" />
+      <Sentence char_offsets="1636:1684" id="13" />
+      <Sentence char_offsets="1686:1748" id="14" />
+      <Sentence char_offsets="1759:1928" id="15" />
+      <Sentence char_offsets="1930:2008" id="16" />
+      <Sentence char_offsets="2019:2160" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="48756" actor_name="Apple Inc." role="Source" />
+        <Participant actor_id="238103" actor_name="Steve Jobs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

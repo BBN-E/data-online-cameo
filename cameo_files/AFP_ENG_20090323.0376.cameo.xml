@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090323.0376">
+    <Sentences>
+      <Sentence char_offsets="200:402" id="0" />
+      <Sentence char_offsets="413:493" id="1" />
+      <Sentence char_offsets="504:665" id="2" />
+      <Sentence char_offsets="676:846" id="3" />
+      <Sentence char_offsets="857:1036" id="4" />
+      <Sentence char_offsets="1047:1142" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="022">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="39010" actor_name="South Africa" role="Source" />
+        <Participant actor_id="117981" actor_name="Tenzin Gyatso" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

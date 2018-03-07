@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090315.0494">
+    <Sentences>
+      <Sentence char_offsets="204:383" id="0" />
+      <Sentence char_offsets="394:590" id="1" />
+      <Sentence char_offsets="601:710" id="2" />
+      <Sentence char_offsets="721:924" id="3" />
+      <Sentence char_offsets="935:1108" id="4" />
+      <Sentence char_offsets="1119:1320" id="5" />
+      <Sentence char_offsets="1331:1473" id="6" />
+      <Sentence char_offsets="1484:1628" id="7" />
+      <Sentence char_offsets="1639:1848" id="8" />
+      <Sentence char_offsets="1859:1921" id="9" />
+      <Sentence char_offsets="1932:2079" id="10" />
+      <Sentence char_offsets="2081:2145" id="11" />
+      <Sentence char_offsets="2156:2382" id="12" />
+      <Sentence char_offsets="2393:2610" id="13" />
+      <Sentence char_offsets="2621:2743" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="100">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="100">
+        <Participant actor_id="55840" actor_name="Nawaz Sharif" role="Source" />
+        <Participant actor_id="26501" actor_name="Asif Ali Zardari" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="153">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090406.0196">
+    <Sentences>
+      <Sentence char_offsets="179:378" id="0" />
+      <Sentence char_offsets="389:558" id="1" />
+      <Sentence char_offsets="569:739" id="2" />
+      <Sentence char_offsets="750:908" id="3" />
+      <Sentence char_offsets="919:995" id="4" />
+      <Sentence char_offsets="1006:1182" id="5" />
+      <Sentence char_offsets="1193:1338" id="6" />
+      <Sentence char_offsets="1349:1379" id="7" />
+      <Sentence char_offsets="1381:1490" id="8" />
+      <Sentence char_offsets="1501:1653" id="9" />
+      <Sentence char_offsets="1664:1848" id="10" />
+      <Sentence char_offsets="1859:1905" id="11" />
+      <Sentence char_offsets="1907:2077" id="12" />
+      <Sentence char_offsets="2088:2150" id="13" />
+      <Sentence char_offsets="2161:2373" id="14" />
+      <Sentence char_offsets="2384:2564" id="15" />
+      <Sentence char_offsets="2575:2603" id="16" />
+      <Sentence char_offsets="2605:2699" id="17" />
+      <Sentence char_offsets="2710:2927" id="18" />
+      <Sentence char_offsets="2938:3146" id="19" />
+      <Sentence char_offsets="3157:3421" id="20" />
+      <Sentence char_offsets="3432:3603" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

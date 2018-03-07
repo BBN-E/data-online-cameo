@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0457">
+    <Sentences>
+      <Sentence char_offsets="189:371" id="0" />
+      <Sentence char_offsets="382:561" id="1" />
+      <Sentence char_offsets="572:794" id="2" />
+      <Sentence char_offsets="805:955" id="3" />
+      <Sentence char_offsets="966:1108" id="4" />
+      <Sentence char_offsets="1119:1190" id="5" />
+      <Sentence char_offsets="1201:1222" id="6" />
+      <Sentence char_offsets="1224:1360" id="7" />
+      <Sentence char_offsets="1371:1468" id="8" />
+      <Sentence char_offsets="1479:1647" id="9" />
+      <Sentence char_offsets="1658:1814" id="10" />
+      <Sentence char_offsets="1825:2059" id="11" />
+      <Sentence char_offsets="2070:2226" id="12" />
+      <Sentence char_offsets="2237:2371" id="13" />
+      <Sentence char_offsets="2382:2560" id="14" />
+      <Sentence char_offsets="2571:2734" id="15" />
+      <Sentence char_offsets="2745:2988" id="16" />
+      <Sentence char_offsets="2999:3205" id="17" />
+      <Sentence char_offsets="3216:3390" id="18" />
+      <Sentence char_offsets="3401:3534" id="19" />
+      <Sentence char_offsets="3545:3696" id="20" />
+      <Sentence char_offsets="3707:3873" id="21" />
+      <Sentence char_offsets="3884:3977" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="315" agent_name="Agriculture and Irrigation Department/Ministry" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="18" tense="neutral" type="010">
+        <Participant actor_id="36204" actor_name="Lebanon" agent_id="315" agent_name="Agriculture and Irrigation Department/Ministry" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

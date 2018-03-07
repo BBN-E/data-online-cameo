@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090304.0790">
+    <Sentences>
+      <Sentence char_offsets="179:332" id="0" />
+      <Sentence char_offsets="343:559" id="1" />
+      <Sentence char_offsets="570:707" id="2" />
+      <Sentence char_offsets="718:878" id="3" />
+      <Sentence char_offsets="889:1020" id="4" />
+      <Sentence char_offsets="1031:1190" id="5" />
+      <Sentence char_offsets="1201:1344" id="6" />
+      <Sentence char_offsets="1355:1547" id="7" />
+      <Sentence char_offsets="1558:1742" id="8" />
+      <Sentence char_offsets="1753:1881" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="8937" actor_name="Robert Mueller" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="8937" actor_name="Robert Mueller" role="Source" />
+        <Participant actor_id="11687" actor_name="Rehman Malik" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="042">
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="090">
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="180">
+        <Participant actor_id="34185" actor_name="Pakistan" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="current" type="043">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="33934" actor_name="Federal Bureau of Investigation" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

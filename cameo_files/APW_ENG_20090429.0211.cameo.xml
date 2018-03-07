@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0211">
+    <Sentences>
+      <Sentence char_offsets="185:241" id="0" />
+      <Sentence char_offsets="252:401" id="1" />
+      <Sentence char_offsets="403:614" id="2" />
+      <Sentence char_offsets="625:700" id="3" />
+      <Sentence char_offsets="702:768" id="4" />
+      <Sentence char_offsets="779:1058" id="5" />
+      <Sentence char_offsets="1069:1284" id="6" />
+      <Sentence char_offsets="1295:1415" id="7" />
+      <Sentence char_offsets="1417:1538" id="8" />
+      <Sentence char_offsets="1540:1696" id="9" />
+      <Sentence char_offsets="1707:1828" id="10" />
+      <Sentence char_offsets="1830:2006" id="11" />
+      <Sentence char_offsets="2008:2101" id="12" />
+      <Sentence char_offsets="2112:2262" id="13" />
+      <Sentence char_offsets="2264:2379" id="14" />
+      <Sentence char_offsets="2390:2497" id="15" />
+      <Sentence char_offsets="2499:2638" id="16" />
+      <Sentence char_offsets="2649:2851" id="17" />
+      <Sentence char_offsets="2862:3045" id="18" />
+      <Sentence char_offsets="3047:3141" id="19" />
+      <Sentence char_offsets="3152:3302" id="20" />
+      <Sentence char_offsets="3313:3452" id="21" />
+      <Sentence char_offsets="3454:3589" id="22" />
+      <Sentence char_offsets="3600:3650" id="23" />
+      <Sentence char_offsets="3652:3808" id="24" />
+      <Sentence char_offsets="3810:3947" id="25" />
+      <Sentence char_offsets="3958:4069" id="26" />
+      <Sentence char_offsets="4080:4202" id="27" />
+      <Sentence char_offsets="4204:4293" id="28" />
+      <Sentence char_offsets="4295:4462" id="29" />
+      <Sentence char_offsets="4473:4510" id="30" />
+      <Sentence char_offsets="4512:4630" id="31" />
+      <Sentence char_offsets="4632:4814" id="32" />
+      <Sentence char_offsets="4825:5182" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="33" tense="neutral" type="010">
+        <Participant actor_id="51659" actor_name="Heidrick &amp; Struggles" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="15" tense="neutral" type="020">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="502" agent_name="Congress" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="16" tense="neutral" type="020">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

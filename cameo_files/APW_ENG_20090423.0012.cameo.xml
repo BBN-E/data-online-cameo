@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0012">
+    <Sentences>
+      <Sentence char_offsets="191:412" id="0" />
+      <Sentence char_offsets="423:633" id="1" />
+      <Sentence char_offsets="644:787" id="2" />
+      <Sentence char_offsets="789:922" id="3" />
+      <Sentence char_offsets="933:1101" id="4" />
+      <Sentence char_offsets="1103:1230" id="5" />
+      <Sentence char_offsets="1241:1286" id="6" />
+      <Sentence char_offsets="1288:1503" id="7" />
+      <Sentence char_offsets="1514:1590" id="8" />
+      <Sentence char_offsets="1592:1712" id="9" />
+      <Sentence char_offsets="1714:1832" id="10" />
+      <Sentence char_offsets="1843:2004" id="11" />
+      <Sentence char_offsets="2015:2154" id="12" />
+      <Sentence char_offsets="2165:2303" id="13" />
+      <Sentence char_offsets="2305:2513" id="14" />
+      <Sentence char_offsets="2524:2649" id="15" />
+      <Sentence char_offsets="2651:2800" id="16" />
+      <Sentence char_offsets="2811:2955" id="17" />
+      <Sentence char_offsets="2957:3053" id="18" />
+      <Sentence char_offsets="3064:3140" id="19" />
+      <Sentence char_offsets="3142:3248" id="20" />
+      <Sentence char_offsets="3250:3271" id="21" />
+      <Sentence char_offsets="3282:3389" id="22" />
+      <Sentence char_offsets="3391:3605" id="23" />
+      <Sentence char_offsets="3607:3676" id="24" />
+      <Sentence char_offsets="3687:3754" id="25" />
+      <Sentence char_offsets="3756:3922" id="26" />
+      <Sentence char_offsets="3933:4030" id="27" />
+      <Sentence char_offsets="4032:4142" id="28" />
+      <Sentence char_offsets="4144:4237" id="29" />
+      <Sentence char_offsets="4248:4413" id="30" />
+      <Sentence char_offsets="4415:4535" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="23" tense="current" type="081">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="32921" actor_name="Jacob Gedleyihlekisa Zuma" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,23 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0112">
+    <Sentences>
+      <Sentence char_offsets="190:332" id="0" />
+      <Sentence char_offsets="343:503" id="1" />
+      <Sentence char_offsets="514:619" id="2" />
+      <Sentence char_offsets="630:752" id="3" />
+      <Sentence char_offsets="763:966" id="4" />
+      <Sentence char_offsets="977:1070" id="5" />
+      <Sentence char_offsets="1081:1197" id="6" />
+      <Sentence char_offsets="1208:1310" id="7" />
+      <Sentence char_offsets="1321:1444" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

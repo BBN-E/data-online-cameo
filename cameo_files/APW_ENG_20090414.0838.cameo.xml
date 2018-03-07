@@ -1,0 +1,57 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090414.0838">
+    <Sentences>
+      <Sentence char_offsets="186:453" id="0" />
+      <Sentence char_offsets="464:650" id="1" />
+      <Sentence char_offsets="661:867" id="2" />
+      <Sentence char_offsets="878:981" id="3" />
+      <Sentence char_offsets="983:1116" id="4" />
+      <Sentence char_offsets="1118:1228" id="5" />
+      <Sentence char_offsets="1239:1311" id="6" />
+      <Sentence char_offsets="1313:1563" id="7" />
+      <Sentence char_offsets="1565:1646" id="8" />
+      <Sentence char_offsets="1657:1821" id="9" />
+      <Sentence char_offsets="1832:1913" id="10" />
+      <Sentence char_offsets="1924:2087" id="11" />
+      <Sentence char_offsets="2089:2201" id="12" />
+      <Sentence char_offsets="2203:2326" id="13" />
+      <Sentence char_offsets="2337:2556" id="14" />
+      <Sentence char_offsets="2567:2715" id="15" />
+      <Sentence char_offsets="2717:2940" id="16" />
+      <Sentence char_offsets="2951:3108" id="17" />
+      <Sentence char_offsets="3110:3238" id="18" />
+      <Sentence char_offsets="3249:3442" id="19" />
+      <Sentence char_offsets="3444:3576" id="20" />
+      <Sentence char_offsets="3587:3784" id="21" />
+      <Sentence char_offsets="3786:3901" id="22" />
+      <Sentence char_offsets="3912:4106" id="23" />
+      <Sentence char_offsets="4117:4292" id="24" />
+      <Sentence char_offsets="4303:4354" id="25" />
+      <Sentence char_offsets="4365:4574" id="26" />
+      <Sentence char_offsets="4585:4721" id="27" />
+      <Sentence char_offsets="4723:4939" id="28" />
+      <Sentence char_offsets="4950:4955" id="29" />
+      <Sentence char_offsets="4966:5033" id="30" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="24" tense="neutral" type="010">
+        <Participant actor_id="34481" actor_name="Poland" agent_id="561" agent_name="Economist" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="27" tense="historical" type="046">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="39637" actor_name="Turkey" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="27" tense="historical" type="046">
+        <Participant actor_id="39637" actor_name="Turkey" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="46212" actor_name="Dominique Strauss-Kahn" role="Source" />
+        <Participant actor_id="34481" actor_name="Poland" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

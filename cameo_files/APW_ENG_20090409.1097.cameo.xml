@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.1097">
+    <Sentences>
+      <Sentence char_offsets="193:390" id="0" />
+      <Sentence char_offsets="401:590" id="1" />
+      <Sentence char_offsets="601:718" id="2" />
+      <Sentence char_offsets="720:757" id="3" />
+      <Sentence char_offsets="768:950" id="4" />
+      <Sentence char_offsets="961:1079" id="5" />
+      <Sentence char_offsets="1090:1219" id="6" />
+      <Sentence char_offsets="1221:1302" id="7" />
+      <Sentence char_offsets="1313:1485" id="8" />
+      <Sentence char_offsets="1496:1585" id="9" />
+      <Sentence char_offsets="1587:1596" id="10" />
+      <Sentence char_offsets="1598:1630" id="11" />
+      <Sentence char_offsets="1632:1738" id="12" />
+      <Sentence char_offsets="1749:1967" id="13" />
+      <Sentence char_offsets="1969:2089" id="14" />
+      <Sentence char_offsets="2100:2310" id="15" />
+      <Sentence char_offsets="2312:2374" id="16" />
+      <Sentence char_offsets="2376:2465" id="17" />
+      <Sentence char_offsets="2476:2634" id="18" />
+      <Sentence char_offsets="2645:2810" id="19" />
+      <Sentence char_offsets="2821:2979" id="20" />
+      <Sentence char_offsets="2981:3104" id="21" />
+      <Sentence char_offsets="3115:3262" id="22" />
+      <Sentence char_offsets="3273:3474" id="23" />
+      <Sentence char_offsets="3476:3577" id="24" />
+      <Sentence char_offsets="3588:3660" id="25" />
+      <Sentence char_offsets="3662:3843" id="26" />
+      <Sentence char_offsets="3854:3907" id="27" />
+      <Sentence char_offsets="3909:4012" id="28" />
+      <Sentence char_offsets="4023:4131" id="29" />
+      <Sentence char_offsets="4133:4272" id="30" />
+      <Sentence char_offsets="4283:4399" id="31" />
+      <Sentence char_offsets="4410:4602" id="32" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="314" agent_name="People Associated with the Opposition" role="Source" />
+        <Participant actor_id="32779" actor_name="Algeria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

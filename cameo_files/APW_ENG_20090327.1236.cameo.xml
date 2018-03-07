@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090327.1236">
+    <Sentences>
+      <Sentence char_offsets="200:381" id="0" />
+      <Sentence char_offsets="392:554" id="1" />
+      <Sentence char_offsets="565:658" id="2" />
+      <Sentence char_offsets="660:796" id="3" />
+      <Sentence char_offsets="807:985" id="4" />
+      <Sentence char_offsets="987:1074" id="5" />
+      <Sentence char_offsets="1085:1149" id="6" />
+      <Sentence char_offsets="1151:1256" id="7" />
+      <Sentence char_offsets="1267:1513" id="8" />
+      <Sentence char_offsets="1524:1806" id="9" />
+      <Sentence char_offsets="1817:1876" id="10" />
+      <Sentence char_offsets="1878:2028" id="11" />
+      <Sentence char_offsets="2039:2157" id="12" />
+      <Sentence char_offsets="2159:2237" id="13" />
+      <Sentence char_offsets="2248:2388" id="14" />
+      <Sentence char_offsets="2390:2452" id="15" />
+      <Sentence char_offsets="2463:2472" id="16" />
+      <Sentence char_offsets="2483:2571" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="53566" actor_name="Ralph Gonsalves" role="Source" />
+        <Participant actor_id="24451" actor_name="Millennium Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="ongoing" type="112">
+        <Participant actor_id="41262" actor_name="United States" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

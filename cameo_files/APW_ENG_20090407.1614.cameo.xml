@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.1614">
+    <Sentences>
+      <Sentence char_offsets="195:398" id="0" />
+      <Sentence char_offsets="409:617" id="1" />
+      <Sentence char_offsets="628:706" id="2" />
+      <Sentence char_offsets="708:762" id="3" />
+      <Sentence char_offsets="773:864" id="4" />
+      <Sentence char_offsets="866:1008" id="5" />
+      <Sentence char_offsets="1019:1201" id="6" />
+      <Sentence char_offsets="1212:1337" id="7" />
+      <Sentence char_offsets="1339:1385" id="8" />
+      <Sentence char_offsets="1396:1431" id="9" />
+      <Sentence char_offsets="1442:1577" id="10" />
+      <Sentence char_offsets="1579:1638" id="11" />
+      <Sentence char_offsets="1640:1666" id="12" />
+      <Sentence char_offsets="1677:1840" id="13" />
+      <Sentence char_offsets="1842:1968" id="14" />
+      <Sentence char_offsets="1979:2098" id="15" />
+      <Sentence char_offsets="2100:2169" id="16" />
+      <Sentence char_offsets="2171:2251" id="17" />
+      <Sentence char_offsets="2262:2400" id="18" />
+      <Sentence char_offsets="2402:2529" id="19" />
+      <Sentence char_offsets="2531:2655" id="20" />
+      <Sentence char_offsets="2666:2820" id="21" />
+      <Sentence char_offsets="2822:2913" id="22" />
+      <Sentence char_offsets="2924:3041" id="23" />
+      <Sentence char_offsets="3052:3230" id="24" />
+      <Sentence char_offsets="3241:3404" id="25" />
+      <Sentence char_offsets="3406:3585" id="26" />
+      <Sentence char_offsets="3596:3798" id="27" />
+      <Sentence char_offsets="3809:4027" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="28" tense="neutral" type="010">
+        <Participant actor_id="5858" actor_name="Ban Ki Moon" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="24" tense="neutral" type="042">
+        <Participant actor_id="28216" actor_name="Susan Elizabeth Rice" role="Source" />
+        <Participant actor_id="35390" actor_name="Rwanda" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="24" tense="neutral" type="043">
+        <Participant actor_id="35390" actor_name="Rwanda" role="Source" />
+        <Participant actor_id="28216" actor_name="Susan Elizabeth Rice" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

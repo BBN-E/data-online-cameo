@@ -1,0 +1,20 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.1510">
+    <Sentences>
+      <Sentence char_offsets="184:322" id="0" />
+      <Sentence char_offsets="333:555" id="1" />
+      <Sentence char_offsets="566:636" id="2" />
+      <Sentence char_offsets="647:884" id="3" />
+      <Sentence char_offsets="895:1100" id="4" />
+      <Sentence char_offsets="1111:1241" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="036">
+        <Participant actor_id="14831" actor_name="John Hutton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

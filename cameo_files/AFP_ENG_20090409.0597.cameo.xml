@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090409.0597">
+    <Sentences>
+      <Sentence char_offsets="181:345" id="0" />
+      <Sentence char_offsets="356:539" id="1" />
+      <Sentence char_offsets="550:704" id="2" />
+      <Sentence char_offsets="715:989" id="3" />
+      <Sentence char_offsets="1000:1205" id="4" />
+      <Sentence char_offsets="1216:1353" id="5" />
+      <Sentence char_offsets="1364:1392" id="6" />
+      <Sentence char_offsets="1394:1589" id="7" />
+      <Sentence char_offsets="1600:1686" id="8" />
+      <Sentence char_offsets="1697:1702" id="9" />
+      <Sentence char_offsets="1703:1859" id="10" />
+      <Sentence char_offsets="1870:1986" id="11" />
+      <Sentence char_offsets="1997:2092" id="12" />
+      <Sentence char_offsets="2103:2225" id="13" />
+      <Sentence char_offsets="2236:2424" id="14" />
+      <Sentence char_offsets="2435:2619" id="15" />
+      <Sentence char_offsets="2630:2912" id="16" />
+      <Sentence char_offsets="2923:3076" id="17" />
+      <Sentence char_offsets="3087:3257" id="18" />
+      <Sentence char_offsets="3268:3347" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="34176" actor_name="Panama" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="34176" actor_name="Panama" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="54976" actor_name="Manuel Noriega" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="54976" actor_name="Manuel Noriega" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="historical" type="120">
+        <Participant actor_id="41262" actor_name="United States" agent_id="302" agent_name="Federal Judge" role="Source" />
+        <Participant actor_id="54976" actor_name="Manuel Noriega" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="historical" type="1213">
+        <Participant actor_id="41262" actor_name="United States" agent_id="302" agent_name="Federal Judge" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="124">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="54976" actor_name="Manuel Noriega" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="historical" type="173">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="54976" actor_name="Manuel Noriega" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="historical" type="192">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="34176" actor_name="Panama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

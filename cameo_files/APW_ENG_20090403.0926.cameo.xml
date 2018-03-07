@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090403.0926">
+    <Sentences>
+      <Sentence char_offsets="186:432" id="0" />
+      <Sentence char_offsets="443:688" id="1" />
+      <Sentence char_offsets="699:860" id="2" />
+      <Sentence char_offsets="871:1056" id="3" />
+      <Sentence char_offsets="1067:1164" id="4" />
+      <Sentence char_offsets="1166:1271" id="5" />
+      <Sentence char_offsets="1282:1477" id="6" />
+      <Sentence char_offsets="1488:1645" id="7" />
+      <Sentence char_offsets="1647:1684" id="8" />
+      <Sentence char_offsets="1695:1897" id="9" />
+      <Sentence char_offsets="1908:2021" id="10" />
+      <Sentence char_offsets="2032:2195" id="11" />
+      <Sentence char_offsets="2206:2433" id="12" />
+      <Sentence char_offsets="2444:2655" id="13" />
+      <Sentence char_offsets="2666:2825" id="14" />
+      <Sentence char_offsets="2836:3016" id="15" />
+      <Sentence char_offsets="3027:3197" id="16" />
+      <Sentence char_offsets="3208:3318" id="17" />
+      <Sentence char_offsets="3320:3423" id="18" />
+      <Sentence char_offsets="3425:3507" id="19" />
+      <Sentence char_offsets="3518:3749" id="20" />
+      <Sentence char_offsets="3760:3972" id="21" />
+      <Sentence char_offsets="3983:4161" id="22" />
+      <Sentence char_offsets="4172:4272" id="23" />
+      <Sentence char_offsets="4274:4384" id="24" />
+      <Sentence char_offsets="4395:4427" id="25" />
+      <Sentence char_offsets="4438:4443" id="26" />
+      <Sentence char_offsets="4454:4564" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="21" tense="historical" type="080">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

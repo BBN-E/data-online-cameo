@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090304.1048">
+    <Sentences>
+      <Sentence char_offsets="176:272" id="0" />
+      <Sentence char_offsets="283:416" id="1" />
+      <Sentence char_offsets="427:593" id="2" />
+      <Sentence char_offsets="595:620" id="3" />
+      <Sentence char_offsets="631:695" id="4" />
+      <Sentence char_offsets="697:773" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="036">
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Source" />
+        <Participant actor_id="15078" actor_name="Graz" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="042">
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="042">
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="043">
+        <Participant actor_id="28901" actor_name="Austria" role="Source" />
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="043">
+        <Participant actor_id="28901" actor_name="Austria" role="Source" />
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

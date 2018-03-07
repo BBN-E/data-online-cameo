@@ -1,0 +1,49 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090313.0999">
+    <Sentences>
+      <Sentence char_offsets="173:184" id="0" />
+      <Sentence char_offsets="186:458" id="1" />
+      <Sentence char_offsets="469:671" id="2" />
+      <Sentence char_offsets="682:902" id="3" />
+      <Sentence char_offsets="913:1047" id="4" />
+      <Sentence char_offsets="1049:1082" id="5" />
+      <Sentence char_offsets="1093:1297" id="6" />
+      <Sentence char_offsets="1308:1392" id="7" />
+      <Sentence char_offsets="1394:1477" id="8" />
+      <Sentence char_offsets="1488:1868" id="9" />
+      <Sentence char_offsets="1879:1996" id="10" />
+      <Sentence char_offsets="2007:2076" id="11" />
+      <Sentence char_offsets="2078:2120" id="12" />
+      <Sentence char_offsets="2131:2404" id="13" />
+      <Sentence char_offsets="2415:2585" id="14" />
+      <Sentence char_offsets="2587:2665" id="15" />
+      <Sentence char_offsets="2676:2813" id="16" />
+      <Sentence char_offsets="2815:2847" id="17" />
+      <Sentence char_offsets="2858:2950" id="18" />
+      <Sentence char_offsets="2952:3060" id="19" />
+      <Sentence char_offsets="3071:3287" id="20" />
+      <Sentence char_offsets="3298:3448" id="21" />
+      <Sentence char_offsets="3459:3635" id="22" />
+      <Sentence char_offsets="3646:3798" id="23" />
+      <Sentence char_offsets="3809:3957" id="24" />
+      <Sentence char_offsets="3968:4083" id="25" />
+      <Sentence char_offsets="4085:4263" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="20" tense="neutral" type="010">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="25934" actor_name="Jan Peter Balkenende" role="Source" />
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="37245" actor_name="Netherlands" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="25934" actor_name="Jan Peter Balkenende" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,50 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090310.1492">
+    <Sentences>
+      <Sentence char_offsets="186:356" id="0" />
+      <Sentence char_offsets="358:442" id="1" />
+      <Sentence char_offsets="453:551" id="2" />
+      <Sentence char_offsets="562:665" id="3" />
+      <Sentence char_offsets="667:745" id="4" />
+      <Sentence char_offsets="756:1003" id="5" />
+      <Sentence char_offsets="1014:1126" id="6" />
+      <Sentence char_offsets="1128:1228" id="7" />
+      <Sentence char_offsets="1230:1475" id="8" />
+      <Sentence char_offsets="1486:1560" id="9" />
+      <Sentence char_offsets="1571:1684" id="10" />
+      <Sentence char_offsets="1686:1879" id="11" />
+      <Sentence char_offsets="1890:2024" id="12" />
+      <Sentence char_offsets="2026:2154" id="13" />
+      <Sentence char_offsets="2165:2319" id="14" />
+      <Sentence char_offsets="2321:2459" id="15" />
+      <Sentence char_offsets="2470:2535" id="16" />
+      <Sentence char_offsets="2537:2606" id="17" />
+      <Sentence char_offsets="2608:2686" id="18" />
+      <Sentence char_offsets="2697:2778" id="19" />
+      <Sentence char_offsets="2780:2986" id="20" />
+      <Sentence char_offsets="2997:3073" id="21" />
+      <Sentence char_offsets="3075:3207" id="22" />
+      <Sentence char_offsets="3218:3274" id="23" />
+      <Sentence char_offsets="3276:3362" id="24" />
+      <Sentence char_offsets="3364:3540" id="25" />
+      <Sentence char_offsets="3551:3744" id="26" />
+      <Sentence char_offsets="3755:3920" id="27" />
+      <Sentence char_offsets="3922:4015" id="28" />
+      <Sentence char_offsets="4026:4150" id="29" />
+      <Sentence char_offsets="4152:4288" id="30" />
+      <Sentence char_offsets="4299:4494" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="26820" actor_name="Citigroup" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="5" tense="neutral" type="010">
+        <Participant actor_id="26820" actor_name="Citigroup" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

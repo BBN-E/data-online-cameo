@@ -1,0 +1,26 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.1124">
+    <Sentences>
+      <Sentence char_offsets="189:389" id="0" />
+      <Sentence char_offsets="400:498" id="1" />
+      <Sentence char_offsets="500:580" id="2" />
+      <Sentence char_offsets="591:775" id="3" />
+      <Sentence char_offsets="786:926" id="4" />
+      <Sentence char_offsets="928:1049" id="5" />
+      <Sentence char_offsets="1060:1289" id="6" />
+      <Sentence char_offsets="1300:1422" id="7" />
+      <Sentence char_offsets="1433:1575" id="8" />
+      <Sentence char_offsets="1586:1710" id="9" />
+      <Sentence char_offsets="1712:1853" id="10" />
+      <Sentence char_offsets="1864:2027" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="40495" actor_name="World Health Organization" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

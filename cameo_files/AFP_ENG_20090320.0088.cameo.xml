@@ -1,0 +1,27 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0088">
+    <Sentences>
+      <Sentence char_offsets="169:321" id="0" />
+      <Sentence char_offsets="332:553" id="1" />
+      <Sentence char_offsets="564:646" id="2" />
+      <Sentence char_offsets="657:764" id="3" />
+      <Sentence char_offsets="775:1000" id="4" />
+      <Sentence char_offsets="1011:1186" id="5" />
+      <Sentence char_offsets="1197:1259" id="6" />
+      <Sentence char_offsets="1261:1414" id="7" />
+      <Sentence char_offsets="1425:1620" id="8" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="114">
+        <Participant actor_id="33495" actor_name="Spain" agent_id="327" agent_name="Labor Union" role="Source" />
+        <Participant actor_id="33495" actor_name="Spain" agent_id="19" agent_name="Domestic Affairs" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

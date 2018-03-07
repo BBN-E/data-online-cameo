@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090404.0443">
+    <Sentences>
+      <Sentence char_offsets="187:356" id="0" />
+      <Sentence char_offsets="367:518" id="1" />
+      <Sentence char_offsets="529:708" id="2" />
+      <Sentence char_offsets="719:911" id="3" />
+      <Sentence char_offsets="922:979" id="4" />
+      <Sentence char_offsets="990:1075" id="5" />
+      <Sentence char_offsets="1086:1145" id="6" />
+      <Sentence char_offsets="1147:1209" id="7" />
+      <Sentence char_offsets="1220:1364" id="8" />
+      <Sentence char_offsets="1375:1602" id="9" />
+      <Sentence char_offsets="1613:1790" id="10" />
+      <Sentence char_offsets="1801:1891" id="11" />
+      <Sentence char_offsets="1902:1969" id="12" />
+      <Sentence char_offsets="1980:2069" id="13" />
+      <Sentence char_offsets="2080:2140" id="14" />
+      <Sentence char_offsets="2151:2237" id="15" />
+      <Sentence char_offsets="2248:2401" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Source" />
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="current" type="051">
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Source" />
+        <Participant actor_id="22681" actor_name="Mohammad Najib Abdul Razak" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="22679" actor_name="Mahathir Mohamad" role="Source" />
+        <Participant actor_id="22567" actor_name="Bin Ahmad Badawi" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

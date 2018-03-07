@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0405">
+    <Sentences>
+      <Sentence char_offsets="196:383" id="0" />
+      <Sentence char_offsets="394:536" id="1" />
+      <Sentence char_offsets="547:704" id="2" />
+      <Sentence char_offsets="715:886" id="3" />
+      <Sentence char_offsets="897:1063" id="4" />
+      <Sentence char_offsets="1074:1137" id="5" />
+      <Sentence char_offsets="1148:1310" id="6" />
+      <Sentence char_offsets="1321:1469" id="7" />
+      <Sentence char_offsets="1480:1657" id="8" />
+      <Sentence char_offsets="1668:1806" id="9" />
+      <Sentence char_offsets="1817:1884" id="10" />
+      <Sentence char_offsets="1895:2131" id="11" />
+      <Sentence char_offsets="2142:2265" id="12" />
+      <Sentence char_offsets="2276:2402" id="13" />
+      <Sentence char_offsets="2413:2599" id="14" />
+      <Sentence char_offsets="2610:2765" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="174">
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Source" />
+        <Participant actor_id="47782" actor_name="Roy Bennett" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

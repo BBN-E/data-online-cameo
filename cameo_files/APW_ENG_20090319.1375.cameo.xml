@@ -1,0 +1,62 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090319.1375">
+    <Sentences>
+      <Sentence char_offsets="184:396" id="0" />
+      <Sentence char_offsets="407:555" id="1" />
+      <Sentence char_offsets="557:716" id="2" />
+      <Sentence char_offsets="727:820" id="3" />
+      <Sentence char_offsets="831:1034" id="4" />
+      <Sentence char_offsets="1045:1109" id="5" />
+      <Sentence char_offsets="1111:1199" id="6" />
+      <Sentence char_offsets="1201:1253" id="7" />
+      <Sentence char_offsets="1264:1360" id="8" />
+      <Sentence char_offsets="1371:1470" id="9" />
+      <Sentence char_offsets="1472:1525" id="10" />
+      <Sentence char_offsets="1527:1612" id="11" />
+      <Sentence char_offsets="1623:1893" id="12" />
+      <Sentence char_offsets="1904:2046" id="13" />
+      <Sentence char_offsets="2057:2247" id="14" />
+      <Sentence char_offsets="2258:2410" id="15" />
+      <Sentence char_offsets="2421:2578" id="16" />
+      <Sentence char_offsets="2580:2687" id="17" />
+      <Sentence char_offsets="2689:2742" id="18" />
+      <Sentence char_offsets="2753:2838" id="19" />
+      <Sentence char_offsets="2840:2993" id="20" />
+      <Sentence char_offsets="3004:3077" id="21" />
+      <Sentence char_offsets="3079:3208" id="22" />
+      <Sentence char_offsets="3210:3278" id="23" />
+      <Sentence char_offsets="3289:3451" id="24" />
+      <Sentence char_offsets="3462:3561" id="25" />
+      <Sentence char_offsets="3572:3775" id="26" />
+      <Sentence char_offsets="3786:3933" id="27" />
+      <Sentence char_offsets="3935:4162" id="28" />
+      <Sentence char_offsets="4173:4261" id="29" />
+      <Sentence char_offsets="4263:4397" id="30" />
+      <Sentence char_offsets="4399:4453" id="31" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="55911" actor_name="Tendai Biti" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="057">
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="057">
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Source" />
+        <Participant actor_id="38612" actor_name="Zimbabwe" agent_id="580" agent_name="Opposition Supporter" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="27" tense="historical" type="057">
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Source" />
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="27" tense="historical" type="057">
+        <Participant actor_id="33286" actor_name="Morgan Tsvangirai" role="Source" />
+        <Participant actor_id="36800" actor_name="Robert Mugabe" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

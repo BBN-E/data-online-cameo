@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090421.0703">
+    <Sentences>
+      <Sentence char_offsets="198:423" id="0" />
+      <Sentence char_offsets="434:645" id="1" />
+      <Sentence char_offsets="656:807" id="2" />
+      <Sentence char_offsets="809:898" id="3" />
+      <Sentence char_offsets="909:1051" id="4" />
+      <Sentence char_offsets="1062:1248" id="5" />
+      <Sentence char_offsets="1259:1426" id="6" />
+      <Sentence char_offsets="1437:1543" id="7" />
+      <Sentence char_offsets="1545:1624" id="8" />
+      <Sentence char_offsets="1635:1847" id="9" />
+      <Sentence char_offsets="1858:1934" id="10" />
+      <Sentence char_offsets="1945:2130" id="11" />
+      <Sentence char_offsets="2132:2228" id="12" />
+      <Sentence char_offsets="2239:2336" id="13" />
+      <Sentence char_offsets="2347:2621" id="14" />
+      <Sentence char_offsets="2632:2723" id="15" />
+      <Sentence char_offsets="2725:2826" id="16" />
+      <Sentence char_offsets="2828:2945" id="17" />
+      <Sentence char_offsets="2956:3098" id="18" />
+      <Sentence char_offsets="3109:3218" id="19" />
+      <Sentence char_offsets="3229:3307" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="112">
+        <Participant actor_id="35921" actor_name="Cambodia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="15254" actor_name="Duch" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

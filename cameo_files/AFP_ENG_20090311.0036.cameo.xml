@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090311.0036">
+    <Sentences>
+      <Sentence char_offsets="177:218" id="0" />
+      <Sentence char_offsets="220:242" id="1" />
+      <Sentence char_offsets="244:340" id="2" />
+      <Sentence char_offsets="351:545" id="3" />
+      <Sentence char_offsets="556:798" id="4" />
+      <Sentence char_offsets="809:921" id="5" />
+      <Sentence char_offsets="932:991" id="6" />
+      <Sentence char_offsets="1002:1194" id="7" />
+      <Sentence char_offsets="1205:1446" id="8" />
+      <Sentence char_offsets="1457:1590" id="9" />
+      <Sentence char_offsets="1601:1762" id="10" />
+      <Sentence char_offsets="1773:1939" id="11" />
+      <Sentence char_offsets="1950:1981" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="historical" type="160">
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="32317" actor_name="Brazil" agent_id="587" agent_name="Representatives" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="32317" actor_name="Brazil" role="Source" />
+        <Participant actor_id="236693" actor_name="Prince Charles" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

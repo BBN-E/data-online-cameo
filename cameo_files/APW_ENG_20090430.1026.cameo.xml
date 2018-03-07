@@ -1,0 +1,55 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090430.1026">
+    <Sentences>
+      <Sentence char_offsets="188:389" id="0" />
+      <Sentence char_offsets="400:555" id="1" />
+      <Sentence char_offsets="566:765" id="2" />
+      <Sentence char_offsets="776:1030" id="3" />
+      <Sentence char_offsets="1041:1208" id="4" />
+      <Sentence char_offsets="1219:1343" id="5" />
+      <Sentence char_offsets="1354:1536" id="6" />
+      <Sentence char_offsets="1547:1631" id="7" />
+      <Sentence char_offsets="1642:1836" id="8" />
+      <Sentence char_offsets="1847:2074" id="9" />
+      <Sentence char_offsets="2085:2210" id="10" />
+      <Sentence char_offsets="2212:2323" id="11" />
+      <Sentence char_offsets="2334:2445" id="12" />
+      <Sentence char_offsets="2447:2582" id="13" />
+      <Sentence char_offsets="2593:2755" id="14" />
+      <Sentence char_offsets="2766:2902" id="15" />
+      <Sentence char_offsets="2913:3094" id="16" />
+      <Sentence char_offsets="3096:3262" id="17" />
+      <Sentence char_offsets="3273:3413" id="18" />
+      <Sentence char_offsets="3424:3429" id="19" />
+      <Sentence char_offsets="3440:3508" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="13601" actor_name="Dmitry Olegovich Rogozin" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="13601" actor_name="Dmitry Olegovich Rogozin" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="020">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="5" tense="neutral" type="050">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="16" tense="historical" type="173">
+        <Participant actor_id="33492" actor_name="Estonia" role="Source" />
+        <Participant actor_id="33492" actor_name="Estonia" agent_id="2" agent_name="Defense Department/Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

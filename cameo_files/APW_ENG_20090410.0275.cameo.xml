@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.0275">
+    <Sentences>
+      <Sentence char_offsets="176:370" id="0" />
+      <Sentence char_offsets="381:544" id="1" />
+      <Sentence char_offsets="546:578" id="2" />
+      <Sentence char_offsets="589:680" id="3" />
+      <Sentence char_offsets="691:794" id="4" />
+      <Sentence char_offsets="796:963" id="5" />
+      <Sentence char_offsets="974:1089" id="6" />
+      <Sentence char_offsets="1091:1124" id="7" />
+      <Sentence char_offsets="1135:1193" id="8" />
+      <Sentence char_offsets="1195:1287" id="9" />
+      <Sentence char_offsets="1298:1383" id="10" />
+      <Sentence char_offsets="1394:1553" id="11" />
+      <Sentence char_offsets="1564:1668" id="12" />
+      <Sentence char_offsets="1670:1745" id="13" />
+      <Sentence char_offsets="1756:1967" id="14" />
+      <Sentence char_offsets="1978:2103" id="15" />
+      <Sentence char_offsets="2114:2172" id="16" />
+      <Sentence char_offsets="2174:2237" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="31038" actor_name="Greece" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="193">
+        <Participant actor_id="31038" actor_name="Greece" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="12" tense="neutral" type="193">
+        <Participant actor_id="31038" actor_name="Greece" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" agent_id="640" agent_name="Employee" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="14" tense="neutral" type="193">
+        <Participant actor_id="31038" actor_name="Greece" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31038" actor_name="Greece" agent_id="601" agent_name="Student" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

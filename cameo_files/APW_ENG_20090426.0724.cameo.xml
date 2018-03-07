@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090426.0724">
+    <Sentences>
+      <Sentence char_offsets="191:356" id="0" />
+      <Sentence char_offsets="367:600" id="1" />
+      <Sentence char_offsets="611:768" id="2" />
+      <Sentence char_offsets="779:995" id="3" />
+      <Sentence char_offsets="1006:1106" id="4" />
+      <Sentence char_offsets="1108:1207" id="5" />
+      <Sentence char_offsets="1218:1461" id="6" />
+      <Sentence char_offsets="1472:1528" id="7" />
+      <Sentence char_offsets="1530:1662" id="8" />
+      <Sentence char_offsets="1673:1746" id="9" />
+      <Sentence char_offsets="1748:1903" id="10" />
+      <Sentence char_offsets="1914:2073" id="11" />
+      <Sentence char_offsets="2084:2202" id="12" />
+      <Sentence char_offsets="2204:2289" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="32825" actor_name="Egypt" agent_id="310" agent_name="Government Official" role="Source" />
+        <Participant actor_id="32825" actor_name="Egypt" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

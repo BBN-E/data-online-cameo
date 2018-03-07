@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0471">
+    <Sentences>
+      <Sentence char_offsets="193:380" id="0" />
+      <Sentence char_offsets="391:464" id="1" />
+      <Sentence char_offsets="475:621" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="170">
+        <Participant actor_id="40033" actor_name="Sudan" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="628" agent_name="Armed Rebel" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="historical" type="180">
+        <Participant actor_id="40033" actor_name="Sudan" agent_id="628" agent_name="Armed Rebel" role="Source" />
+        <Participant actor_id="40033" actor_name="Sudan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

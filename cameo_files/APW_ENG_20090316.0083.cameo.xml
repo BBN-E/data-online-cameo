@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0083">
+    <Sentences>
+      <Sentence char_offsets="192:395" id="0" />
+      <Sentence char_offsets="406:625" id="1" />
+      <Sentence char_offsets="636:841" id="2" />
+      <Sentence char_offsets="852:917" id="3" />
+      <Sentence char_offsets="919:960" id="4" />
+      <Sentence char_offsets="971:1160" id="5" />
+      <Sentence char_offsets="1171:1245" id="6" />
+      <Sentence char_offsets="1256:1449" id="7" />
+      <Sentence char_offsets="1460:1596" id="8" />
+      <Sentence char_offsets="1607:1839" id="9" />
+      <Sentence char_offsets="1850:2054" id="10" />
+      <Sentence char_offsets="2065:2135" id="11" />
+      <Sentence char_offsets="2137:2238" id="12" />
+      <Sentence char_offsets="2249:2426" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" agent_id="333" agent_name="Military Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="154">
+        <Participant actor_id="47836" actor_name="Hugo Chavez" role="Source" />
+        <Participant actor_id="40956" actor_name="Venezuela" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

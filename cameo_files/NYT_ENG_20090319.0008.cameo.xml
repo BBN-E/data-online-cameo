@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090319.0008">
+    <Sentences>
+      <Sentence char_offsets="148:339" id="0" />
+      <Sentence char_offsets="341:559" id="1" />
+      <Sentence char_offsets="570:934" id="2" />
+      <Sentence char_offsets="945:960" id="3" />
+      <Sentence char_offsets="962:1107" id="4" />
+      <Sentence char_offsets="1109:1150" id="5" />
+      <Sentence char_offsets="1152:1188" id="6" />
+      <Sentence char_offsets="1199:1387" id="7" />
+      <Sentence char_offsets="1389:1463" id="8" />
+      <Sentence char_offsets="1465:1514" id="9" />
+      <Sentence char_offsets="1525:1712" id="10" />
+      <Sentence char_offsets="1714:2022" id="11" />
+      <Sentence char_offsets="2033:2201" id="12" />
+      <Sentence char_offsets="2203:2307" id="13" />
+      <Sentence char_offsets="2318:2385" id="14" />
+      <Sentence char_offsets="2387:2549" id="15" />
+      <Sentence char_offsets="2551:2627" id="16" />
+      <Sentence char_offsets="2638:2781" id="17" />
+      <Sentence char_offsets="2783:2973" id="18" />
+      <Sentence char_offsets="2984:3183" id="19" />
+      <Sentence char_offsets="3185:3356" id="20" />
+      <Sentence char_offsets="3367:3523" id="21" />
+      <Sentence char_offsets="3525:3779" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="016">
+        <Participant actor_id="10262" actor_name="Josef Fritzl" role="Source" />
+        <Participant actor_id="28901" actor_name="Austria" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0189">
+    <Sentences>
+      <Sentence char_offsets="194:376" id="0" />
+      <Sentence char_offsets="387:593" id="1" />
+      <Sentence char_offsets="604:828" id="2" />
+      <Sentence char_offsets="839:954" id="3" />
+      <Sentence char_offsets="956:1117" id="4" />
+      <Sentence char_offsets="1128:1234" id="5" />
+      <Sentence char_offsets="1245:1304" id="6" />
+      <Sentence char_offsets="1306:1413" id="7" />
+      <Sentence char_offsets="1415:1459" id="8" />
+      <Sentence char_offsets="1470:1574" id="9" />
+      <Sentence char_offsets="1576:1657" id="10" />
+      <Sentence char_offsets="1668:1774" id="11" />
+      <Sentence char_offsets="1776:1826" id="12" />
+      <Sentence char_offsets="1837:1998" id="13" />
+      <Sentence char_offsets="2000:2086" id="14" />
+      <Sentence char_offsets="2088:2197" id="15" />
+      <Sentence char_offsets="2208:2414" id="16" />
+      <Sentence char_offsets="2425:2601" id="17" />
+      <Sentence char_offsets="2603:2725" id="18" />
+      <Sentence char_offsets="2736:2869" id="19" />
+      <Sentence char_offsets="2880:2936" id="20" />
+      <Sentence char_offsets="2938:3117" id="21" />
+      <Sentence char_offsets="3128:3248" id="22" />
+      <Sentence char_offsets="3250:3314" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="current" type="010">
+        <Participant actor_id="25556" actor_name="Muhammad al-Baradei" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="current" type="036">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="current" type="040">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="10" tense="neutral" type="042">
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="12" tense="neutral" type="111">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="13" tense="current" type="111">
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="22" tense="neutral" type="111">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="5" tense="current" type="040">
+        <Participant actor_id="34754" actor_name="Pak Ui Chun" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="35932" actor_name="South Korea" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="10" tense="neutral" type="043">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="4232" actor_name="Sergey Viktorovich Lavrov" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

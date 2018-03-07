@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090320.0126">
+    <Sentences>
+      <Sentence char_offsets="136:393" id="0" />
+      <Sentence char_offsets="404:634" id="1" />
+      <Sentence char_offsets="636:747" id="2" />
+      <Sentence char_offsets="758:931" id="3" />
+      <Sentence char_offsets="933:1154" id="4" />
+      <Sentence char_offsets="1165:1316" id="5" />
+      <Sentence char_offsets="1318:1486" id="6" />
+      <Sentence char_offsets="1497:1759" id="7" />
+      <Sentence char_offsets="1770:1997" id="8" />
+      <Sentence char_offsets="2008:2209" id="9" />
+      <Sentence char_offsets="2211:2300" id="10" />
+      <Sentence char_offsets="2311:2421" id="11" />
+      <Sentence char_offsets="2423:2650" id="12" />
+      <Sentence char_offsets="2661:2874" id="13" />
+      <Sentence char_offsets="2885:3017" id="14" />
+      <Sentence char_offsets="3019:3260" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="33931" actor_name="Federal Reserve" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="611" agent_name="Regulator" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

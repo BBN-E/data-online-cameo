@@ -1,0 +1,21 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.0487">
+    <Sentences>
+      <Sentence char_offsets="197:298" id="0" />
+      <Sentence char_offsets="309:395" id="1" />
+      <Sentence char_offsets="406:517" id="2" />
+      <Sentence char_offsets="528:613" id="3" />
+      <Sentence char_offsets="615:743" id="4" />
+      <Sentence char_offsets="754:915" id="5" />
+      <Sentence char_offsets="917:1013" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="36336" actor_name="Sri Lanka" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

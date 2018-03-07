@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090326.1081">
+    <Sentences>
+      <Sentence char_offsets="175:271" id="0" />
+      <Sentence char_offsets="282:353" id="1" />
+      <Sentence char_offsets="355:426" id="2" />
+      <Sentence char_offsets="437:602" id="3" />
+      <Sentence char_offsets="613:750" id="4" />
+      <Sentence char_offsets="761:869" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="36745" actor_name="Mongolia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="36745" actor_name="Mongolia" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="current" type="040">
+        <Participant actor_id="36745" actor_name="Mongolia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

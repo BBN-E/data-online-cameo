@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0171">
+    <Sentences>
+      <Sentence char_offsets="179:336" id="0" />
+      <Sentence char_offsets="347:525" id="1" />
+      <Sentence char_offsets="536:686" id="2" />
+      <Sentence char_offsets="697:922" id="3" />
+      <Sentence char_offsets="933:1097" id="4" />
+      <Sentence char_offsets="1108:1245" id="5" />
+      <Sentence char_offsets="1256:1451" id="6" />
+      <Sentence char_offsets="1462:1651" id="7" />
+      <Sentence char_offsets="1662:1775" id="8" />
+      <Sentence char_offsets="1786:1906" id="9" />
+      <Sentence char_offsets="1917:2028" id="10" />
+      <Sentence char_offsets="2030:2074" id="11" />
+      <Sentence char_offsets="2085:2189" id="12" />
+      <Sentence char_offsets="2200:2362" id="13" />
+      <Sentence char_offsets="2373:2472" id="14" />
+      <Sentence char_offsets="2474:2576" id="15" />
+      <Sentence char_offsets="2587:2754" id="16" />
+      <Sentence char_offsets="2765:2834" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="historical" type="051">
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Source" />
+        <Participant actor_id="36446" actor_name="Latvia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

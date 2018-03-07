@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090408.0694">
+    <Sentences>
+      <Sentence char_offsets="186:367" id="0" />
+      <Sentence char_offsets="378:591" id="1" />
+      <Sentence char_offsets="602:708" id="2" />
+      <Sentence char_offsets="719:962" id="3" />
+      <Sentence char_offsets="973:1104" id="4" />
+      <Sentence char_offsets="1115:1328" id="5" />
+      <Sentence char_offsets="1339:1526" id="6" />
+      <Sentence char_offsets="1537:1630" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="020">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="53459" actor_name="Bambang Hendarso Danuri" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="0214">
+        <Participant actor_id="29121" actor_name="Amnesty International" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

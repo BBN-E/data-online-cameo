@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.1416">
+    <Sentences>
+      <Sentence char_offsets="186:395" id="0" />
+      <Sentence char_offsets="406:535" id="1" />
+      <Sentence char_offsets="546:763" id="2" />
+      <Sentence char_offsets="765:904" id="3" />
+      <Sentence char_offsets="915:1021" id="4" />
+      <Sentence char_offsets="1023:1130" id="5" />
+      <Sentence char_offsets="1141:1242" id="6" />
+      <Sentence char_offsets="1253:1393" id="7" />
+      <Sentence char_offsets="1395:1541" id="8" />
+      <Sentence char_offsets="1552:1643" id="9" />
+      <Sentence char_offsets="1654:1795" id="10" />
+      <Sentence char_offsets="1797:2051" id="11" />
+      <Sentence char_offsets="2053:2145" id="12" />
+      <Sentence char_offsets="2156:2266" id="13" />
+      <Sentence char_offsets="2277:2359" id="14" />
+      <Sentence char_offsets="2370:2523" id="15" />
+      <Sentence char_offsets="2525:2736" id="16" />
+      <Sentence char_offsets="2747:2790" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="139">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="237573" actor_name="General Motors" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

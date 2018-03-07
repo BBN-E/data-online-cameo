@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0079">
+    <Sentences>
+      <Sentence char_offsets="203:355" id="0" />
+      <Sentence char_offsets="366:565" id="1" />
+      <Sentence char_offsets="576:789" id="2" />
+      <Sentence char_offsets="800:1024" id="3" />
+      <Sentence char_offsets="1035:1244" id="4" />
+      <Sentence char_offsets="1255:1386" id="5" />
+      <Sentence char_offsets="1397:1587" id="6" />
+      <Sentence char_offsets="1598:1757" id="7" />
+      <Sentence char_offsets="1768:1853" id="8" />
+      <Sentence char_offsets="1855:2007" id="9" />
+      <Sentence char_offsets="2018:2186" id="10" />
+      <Sentence char_offsets="2197:2345" id="11" />
+      <Sentence char_offsets="2356:2479" id="12" />
+      <Sentence char_offsets="2490:2677" id="13" />
+      <Sentence char_offsets="2688:2759" id="14" />
+      <Sentence char_offsets="2770:2892" id="15" />
+      <Sentence char_offsets="2894:2967" id="16" />
+      <Sentence char_offsets="2978:3157" id="17" />
+      <Sentence char_offsets="3168:3258" id="18" />
+      <Sentence char_offsets="3269:3496" id="19" />
+      <Sentence char_offsets="3507:3671" id="20" />
+      <Sentence char_offsets="3682:3883" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="051">
+        <Participant actor_id="237573" actor_name="General Motors" role="Source" />
+        <Participant actor_id="38615" actor_name="Department of the Treasury" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

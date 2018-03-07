@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090315.0124">
+    <Sentences>
+      <Sentence char_offsets="175:370" id="0" />
+      <Sentence char_offsets="381:531" id="1" />
+      <Sentence char_offsets="533:610" id="2" />
+      <Sentence char_offsets="621:845" id="3" />
+      <Sentence char_offsets="856:972" id="4" />
+      <Sentence char_offsets="974:1028" id="5" />
+      <Sentence char_offsets="1039:1232" id="6" />
+      <Sentence char_offsets="1243:1456" id="7" />
+      <Sentence char_offsets="1467:1627" id="8" />
+      <Sentence char_offsets="1638:1799" id="9" />
+      <Sentence char_offsets="1810:1964" id="10" />
+      <Sentence char_offsets="1975:2051" id="11" />
+      <Sentence char_offsets="2062:2231" id="12" />
+      <Sentence char_offsets="2242:2280" id="13" />
+      <Sentence char_offsets="2282:2463" id="14" />
+      <Sentence char_offsets="2474:2669" id="15" />
+      <Sentence char_offsets="2680:2904" id="16" />
+      <Sentence char_offsets="2915:3006" id="17" />
+      <Sentence char_offsets="3017:3080" id="18" />
+      <Sentence char_offsets="3091:3307" id="19" />
+      <Sentence char_offsets="3318:3527" id="20" />
+      <Sentence char_offsets="3538:3759" id="21" />
+      <Sentence char_offsets="3770:3997" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="324" agent_name="Dissident" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="current" type="010">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="22" tense="current" type="010">
+        <Participant actor_id="215226" actor_name="Martin McGuinness" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="6" tense="neutral" type="111">
+        <Participant actor_id="215398" actor_name="Irish Republican Army" role="Source" />
+        <Participant actor_id="8084" actor_name="Sinn F&#233;in" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="15" tense="neutral" type="120">
+        <Participant actor_id="26696" actor_name="Northern Ireland" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

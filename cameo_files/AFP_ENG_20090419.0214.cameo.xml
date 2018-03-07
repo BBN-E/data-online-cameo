@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090419.0214">
+    <Sentences>
+      <Sentence char_offsets="207:425" id="0" />
+      <Sentence char_offsets="436:591" id="1" />
+      <Sentence char_offsets="593:621" id="2" />
+      <Sentence char_offsets="632:806" id="3" />
+      <Sentence char_offsets="817:1045" id="4" />
+      <Sentence char_offsets="1056:1192" id="5" />
+      <Sentence char_offsets="1203:1335" id="6" />
+      <Sentence char_offsets="1346:1448" id="7" />
+      <Sentence char_offsets="1459:1526" id="8" />
+      <Sentence char_offsets="1537:1721" id="9" />
+      <Sentence char_offsets="1732:1807" id="10" />
+      <Sentence char_offsets="1809:1888" id="11" />
+      <Sentence char_offsets="1899:2056" id="12" />
+      <Sentence char_offsets="2067:2286" id="13" />
+      <Sentence char_offsets="2297:2421" id="14" />
+      <Sentence char_offsets="2432:2469" id="15" />
+      <Sentence char_offsets="2471:2491" id="16" />
+      <Sentence char_offsets="2493:2606" id="17" />
+      <Sentence char_offsets="2617:2749" id="18" />
+      <Sentence char_offsets="2760:2891" id="19" />
+      <Sentence char_offsets="2902:2972" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="current" type="010">
+        <Participant actor_id="32291" actor_name="Bolivia" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="32291" actor_name="Bolivia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="24196" actor_name="&#193;lvaro Garc&#237;a" role="Source" />
+        <Participant actor_id="31393" actor_name="Croatia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="020">
+        <Participant actor_id="50643" actor_name="Evo Morales" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="current" type="193">
+        <Participant actor_id="32291" actor_name="Bolivia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32291" actor_name="Bolivia" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

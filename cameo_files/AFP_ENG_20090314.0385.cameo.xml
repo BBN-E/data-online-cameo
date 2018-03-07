@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090314.0385">
+    <Sentences>
+      <Sentence char_offsets="197:390" id="0" />
+      <Sentence char_offsets="401:552" id="1" />
+      <Sentence char_offsets="563:739" id="2" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="101" agent_name="Army Chief of Staff" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="139">
+        <Participant actor_id="36629" actor_name="Madagascar" agent_id="314" agent_name="People Associated with the Opposition" role="Source" />
+        <Participant actor_id="22983" actor_name="Marc Ravalomanana" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,66 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090430.0609">
+    <Sentences>
+      <Sentence char_offsets="191:358" id="0" />
+      <Sentence char_offsets="369:505" id="1" />
+      <Sentence char_offsets="516:687" id="2" />
+      <Sentence char_offsets="698:797" id="3" />
+      <Sentence char_offsets="808:947" id="4" />
+      <Sentence char_offsets="958:1109" id="5" />
+      <Sentence char_offsets="1120:1295" id="6" />
+      <Sentence char_offsets="1306:1350" id="7" />
+      <Sentence char_offsets="1361:1450" id="8" />
+      <Sentence char_offsets="1461:1612" id="9" />
+      <Sentence char_offsets="1623:1734" id="10" />
+      <Sentence char_offsets="1745:1866" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="40089" actor_name="Singapore" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="28822" actor_name="United Arab Emirates" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="31850" actor_name="Italy" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="057">
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="historical" type="112">
+        <Participant actor_id="33701" actor_name="New Zealand" agent_id="611" agent_name="Regulator" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="3" tense="neutral" type="112">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="611" agent_name="Regulator" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="3" tense="neutral" type="057">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="358" agent_name="Airline" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

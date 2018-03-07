@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0268">
+    <Sentences>
+      <Sentence char_offsets="192:372" id="0" />
+      <Sentence char_offsets="383:594" id="1" />
+      <Sentence char_offsets="605:665" id="2" />
+      <Sentence char_offsets="676:851" id="3" />
+      <Sentence char_offsets="862:950" id="4" />
+      <Sentence char_offsets="961:1105" id="5" />
+      <Sentence char_offsets="1116:1219" id="6" />
+      <Sentence char_offsets="1230:1425" id="7" />
+      <Sentence char_offsets="1436:1509" id="8" />
+      <Sentence char_offsets="1511:1672" id="9" />
+      <Sentence char_offsets="1683:1800" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="current" type="042">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="051">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="3" tense="neutral" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="31843" actor_name="Israel" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="current" type="043">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,28 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090310.0701">
+    <Sentences>
+      <Sentence char_offsets="179:362" id="0" />
+      <Sentence char_offsets="373:558" id="1" />
+      <Sentence char_offsets="569:781" id="2" />
+      <Sentence char_offsets="792:932" id="3" />
+      <Sentence char_offsets="943:1147" id="4" />
+      <Sentence char_offsets="1158:1382" id="5" />
+      <Sentence char_offsets="1393:1621" id="6" />
+      <Sentence char_offsets="1632:1837" id="7" />
+      <Sentence char_offsets="1848:1992" id="8" />
+      <Sentence char_offsets="1994:2054" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="35801" actor_name="Kazakhstan" agent_id="587" agent_name="Representatives" role="Source" />
+        <Participant actor_id="35801" actor_name="Kazakhstan" agent_id="561" agent_name="Economist" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="35801" actor_name="Kazakhstan" agent_id="561" agent_name="Economist" role="Source" />
+        <Participant actor_id="35801" actor_name="Kazakhstan" agent_id="587" agent_name="Representatives" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090314.0304">
+    <Sentences>
+      <Sentence char_offsets="198:369" id="0" />
+      <Sentence char_offsets="380:622" id="1" />
+      <Sentence char_offsets="633:850" id="2" />
+      <Sentence char_offsets="852:957" id="3" />
+      <Sentence char_offsets="959:1038" id="4" />
+      <Sentence char_offsets="1049:1239" id="5" />
+      <Sentence char_offsets="1250:1357" id="6" />
+      <Sentence char_offsets="1359:1514" id="7" />
+      <Sentence char_offsets="1525:1725" id="8" />
+      <Sentence char_offsets="1727:1887" id="9" />
+      <Sentence char_offsets="1898:2079" id="10" />
+      <Sentence char_offsets="2090:2209" id="11" />
+      <Sentence char_offsets="2211:2367" id="12" />
+      <Sentence char_offsets="2378:2462" id="13" />
+      <Sentence char_offsets="2473:2653" id="14" />
+      <Sentence char_offsets="2655:2742" id="15" />
+      <Sentence char_offsets="2753:2967" id="16" />
+      <Sentence char_offsets="2978:3156" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="010">
+        <Participant actor_id="117921" actor_name="Anna Maria Bligh" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="443" agent_name="Business" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="6" tense="neutral" type="112">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="15" tense="neutral" type="130">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="17" tense="neutral" type="040">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="429" agent_name="Administration" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

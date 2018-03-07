@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090419.0070">
+    <Sentences>
+      <Sentence char_offsets="186:327" id="0" />
+      <Sentence char_offsets="329:439" id="1" />
+      <Sentence char_offsets="441:515" id="2" />
+      <Sentence char_offsets="526:581" id="3" />
+      <Sentence char_offsets="592:902" id="4" />
+      <Sentence char_offsets="913:1098" id="5" />
+      <Sentence char_offsets="1109:1171" id="6" />
+      <Sentence char_offsets="1182:1306" id="7" />
+      <Sentence char_offsets="1317:1460" id="8" />
+      <Sentence char_offsets="1462:1596" id="9" />
+      <Sentence char_offsets="1607:1938" id="10" />
+      <Sentence char_offsets="1949:1978" id="11" />
+      <Sentence char_offsets="1980:2043" id="12" />
+      <Sentence char_offsets="2045:2080" id="13" />
+      <Sentence char_offsets="2091:2128" id="14" />
+      <Sentence char_offsets="2139:2214" id="15" />
+      <Sentence char_offsets="2216:2272" id="16" />
+      <Sentence char_offsets="2283:2341" id="17" />
+      <Sentence char_offsets="2343:2430" id="18" />
+      <Sentence char_offsets="2441:2704" id="19" />
+      <Sentence char_offsets="2715:2840" id="20" />
+      <Sentence char_offsets="2842:2966" id="21" />
+      <Sentence char_offsets="2968:3090" id="22" />
+      <Sentence char_offsets="3101:3237" id="23" />
+      <Sentence char_offsets="3239:3313" id="24" />
+      <Sentence char_offsets="3315:3508" id="25" />
+      <Sentence char_offsets="3519:3582" id="26" />
+      <Sentence char_offsets="3593:3779" id="27" />
+      <Sentence char_offsets="3781:3850" id="28" />
+      <Sentence char_offsets="3861:4010" id="29" />
+      <Sentence char_offsets="4012:4167" id="30" />
+      <Sentence char_offsets="4178:4302" id="31" />
+      <Sentence char_offsets="4313:4393" id="32" />
+      <Sentence char_offsets="4395:4457" id="33" />
+      <Sentence char_offsets="4459:4509" id="34" />
+      <Sentence char_offsets="4520:4583" id="35" />
+      <Sentence char_offsets="4594:4705" id="36" />
+      <Sentence char_offsets="4716:4809" id="37" />
+      <Sentence char_offsets="4811:4883" id="38" />
+      <Sentence char_offsets="4894:5029" id="39" />
+      <Sentence char_offsets="5040:5120" id="40" />
+      <Sentence char_offsets="5122:5243" id="41" />
+      <Sentence char_offsets="5245:5364" id="42" />
+      <Sentence char_offsets="5375:5461" id="43" />
+      <Sentence char_offsets="5472:5679" id="44" />
+      <Sentence char_offsets="5690:5882" id="45" />
+      <Sentence char_offsets="5893:5975" id="46" />
+      <Sentence char_offsets="5986:6352" id="47" />
+      <Sentence char_offsets="6363:6412" id="48" />
+      <Sentence char_offsets="6414:6577" id="49" />
+      <Sentence char_offsets="6588:6647" id="50" />
+      <Sentence char_offsets="6658:6717" id="51" />
+      <Sentence char_offsets="6719:6854" id="52" />
+      <Sentence char_offsets="6865:6954" id="53" />
+      <Sentence char_offsets="6965:7006" id="54" />
+      <Sentence char_offsets="7008:7086" id="55" />
+      <Sentence char_offsets="7088:7123" id="56" />
+      <Sentence char_offsets="7125:7143" id="57" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="31" tense="neutral" type="010">
+        <Participant actor_id="29256" actor_name="Kazuo Shii" role="Source" />
+        <Participant actor_id="120860" actor_name="The Democratic Party of Japan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="36" tense="neutral" type="010">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="120860" actor_name="The Democratic Party of Japan" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="39" tense="neutral" type="010">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="120860" actor_name="The Democratic Party of Japan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="012">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="601" agent_name="Student" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

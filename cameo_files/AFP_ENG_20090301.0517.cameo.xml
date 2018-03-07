@@ -1,0 +1,40 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090301.0517">
+    <Sentences>
+      <Sentence char_offsets="196:400" id="0" />
+      <Sentence char_offsets="411:579" id="1" />
+      <Sentence char_offsets="590:742" id="2" />
+      <Sentence char_offsets="753:942" id="3" />
+      <Sentence char_offsets="953:1198" id="4" />
+      <Sentence char_offsets="1209:1219" id="5" />
+      <Sentence char_offsets="1221:1432" id="6" />
+      <Sentence char_offsets="1443:1632" id="7" />
+      <Sentence char_offsets="1643:1745" id="8" />
+      <Sentence char_offsets="1747:1804" id="9" />
+      <Sentence char_offsets="1815:1884" id="10" />
+      <Sentence char_offsets="1895:2111" id="11" />
+      <Sentence char_offsets="2122:2307" id="12" />
+      <Sentence char_offsets="2318:2405" id="13" />
+      <Sentence char_offsets="2416:2593" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="210" agent_name="Other Authorities / Officials" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="103" agent_name="Medical Personnel" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="046">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="141">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="046">
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="37019" actor_name="Malaysia" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

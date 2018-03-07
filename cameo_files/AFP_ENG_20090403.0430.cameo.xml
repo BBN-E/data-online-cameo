@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090403.0430">
+    <Sentences>
+      <Sentence char_offsets="190:379" id="0" />
+      <Sentence char_offsets="390:528" id="1" />
+      <Sentence char_offsets="539:780" id="2" />
+      <Sentence char_offsets="791:965" id="3" />
+      <Sentence char_offsets="976:1150" id="4" />
+      <Sentence char_offsets="1161:1318" id="5" />
+      <Sentence char_offsets="1329:1534" id="6" />
+      <Sentence char_offsets="1545:1622" id="7" />
+      <Sentence char_offsets="1624:1740" id="8" />
+      <Sentence char_offsets="1751:1947" id="9" />
+      <Sentence char_offsets="1958:2095" id="10" />
+      <Sentence char_offsets="2106:2286" id="11" />
+      <Sentence char_offsets="2297:2526" id="12" />
+      <Sentence char_offsets="2537:2689" id="13" />
+      <Sentence char_offsets="2700:2858" id="14" />
+      <Sentence char_offsets="2869:3009" id="15" />
+      <Sentence char_offsets="3020:3178" id="16" />
+      <Sentence char_offsets="3180:3210" id="17" />
+      <Sentence char_offsets="3221:3359" id="18" />
+      <Sentence char_offsets="3370:3469" id="19" />
+      <Sentence char_offsets="3471:3527" id="20" />
+      <Sentence char_offsets="3538:3764" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="48949" actor_name="Jean-Claude Juncker" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="402" agent_name="Government Affiliated Bank" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="48949" actor_name="Jean-Claude Juncker" role="Source" />
+        <Participant actor_id="31863" actor_name="Ireland" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

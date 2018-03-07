@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090411.0260">
+    <Sentences>
+      <Sentence char_offsets="192:395" id="0" />
+      <Sentence char_offsets="406:551" id="1" />
+      <Sentence char_offsets="562:698" id="2" />
+      <Sentence char_offsets="700:818" id="3" />
+      <Sentence char_offsets="829:1000" id="4" />
+      <Sentence char_offsets="1002:1206" id="5" />
+      <Sentence char_offsets="1217:1302" id="6" />
+      <Sentence char_offsets="1313:1476" id="7" />
+      <Sentence char_offsets="1487:1613" id="8" />
+      <Sentence char_offsets="1624:1778" id="9" />
+      <Sentence char_offsets="1789:1890" id="10" />
+      <Sentence char_offsets="1892:1925" id="11" />
+      <Sentence char_offsets="1936:2092" id="12" />
+      <Sentence char_offsets="2094:2190" id="13" />
+      <Sentence char_offsets="2201:2311" id="14" />
+      <Sentence char_offsets="2313:2400" id="15" />
+      <Sentence char_offsets="2411:2553" id="16" />
+      <Sentence char_offsets="2564:2716" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="100">
+        <Participant actor_id="19402" actor_name="National United Front for Democracy Against Dictatorship" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="19445" actor_name="Abhisit Vejjajiva" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

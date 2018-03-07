@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090318.0117">
+    <Sentences>
+      <Sentence char_offsets="170:457" id="0" />
+      <Sentence char_offsets="468:710" id="1" />
+      <Sentence char_offsets="721:864" id="2" />
+      <Sentence char_offsets="866:1065" id="3" />
+      <Sentence char_offsets="1076:1303" id="4" />
+      <Sentence char_offsets="1305:1615" id="5" />
+      <Sentence char_offsets="1626:1772" id="6" />
+      <Sentence char_offsets="1774:1966" id="7" />
+      <Sentence char_offsets="1968:2146" id="8" />
+      <Sentence char_offsets="2148:2295" id="9" />
+      <Sentence char_offsets="2297:2562" id="10" />
+      <Sentence char_offsets="2573:2821" id="11" />
+      <Sentence char_offsets="2823:2982" id="12" />
+      <Sentence char_offsets="2993:3212" id="13" />
+      <Sentence char_offsets="3223:3275" id="14" />
+      <Sentence char_offsets="3286:3701" id="15" />
+      <Sentence char_offsets="3712:4038" id="16" />
+      <Sentence char_offsets="4049:4143" id="17" />
+      <Sentence char_offsets="4145:4391" id="18" />
+      <Sentence char_offsets="4402:4500" id="19" />
+      <Sentence char_offsets="4502:4670" id="20" />
+      <Sentence char_offsets="4672:4770" id="21" />
+      <Sentence char_offsets="4781:4929" id="22" />
+      <Sentence char_offsets="4931:5135" id="23" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="18" tense="neutral" type="020">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="neutral" type="020">
+        <Participant actor_id="50602" actor_name="Robert M. Gates" role="Source" />
+        <Participant actor_id="120661" actor_name="Douglas M. Fraser" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090324.0161">
+    <Sentences>
+      <Sentence char_offsets="180:428" id="0" />
+      <Sentence char_offsets="439:584" id="1" />
+      <Sentence char_offsets="586:780" id="2" />
+      <Sentence char_offsets="791:955" id="3" />
+      <Sentence char_offsets="957:1085" id="4" />
+      <Sentence char_offsets="1096:1241" id="5" />
+      <Sentence char_offsets="1252:1373" id="6" />
+      <Sentence char_offsets="1375:1612" id="7" />
+      <Sentence char_offsets="1623:1761" id="8" />
+      <Sentence char_offsets="1763:1884" id="9" />
+      <Sentence char_offsets="1895:2039" id="10" />
+      <Sentence char_offsets="2041:2167" id="11" />
+      <Sentence char_offsets="2178:2303" id="12" />
+      <Sentence char_offsets="2305:2437" id="13" />
+      <Sentence char_offsets="2448:2540" id="14" />
+      <Sentence char_offsets="2551:2744" id="15" />
+      <Sentence char_offsets="2755:2893" id="16" />
+      <Sentence char_offsets="2895:2997" id="17" />
+      <Sentence char_offsets="3008:3013" id="18" />
+      <Sentence char_offsets="3024:3079" id="19" />
+      <Sentence char_offsets="3090:3153" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="current" type="020">
+        <Participant actor_id="25004" actor_name="Wen Jiabao" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

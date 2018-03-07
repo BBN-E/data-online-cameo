@@ -1,0 +1,38 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090326.0203">
+    <Sentences>
+      <Sentence char_offsets="164:247" id="0" />
+      <Sentence char_offsets="249:467" id="1" />
+      <Sentence char_offsets="478:626" id="2" />
+      <Sentence char_offsets="628:686" id="3" />
+      <Sentence char_offsets="688:881" id="4" />
+      <Sentence char_offsets="883:1003" id="5" />
+      <Sentence char_offsets="1005:1239" id="6" />
+      <Sentence char_offsets="1250:1355" id="7" />
+      <Sentence char_offsets="1357:1535" id="8" />
+      <Sentence char_offsets="1546:1693" id="9" />
+      <Sentence char_offsets="1704:1799" id="10" />
+      <Sentence char_offsets="1801:1915" id="11" />
+      <Sentence char_offsets="1917:1975" id="12" />
+      <Sentence char_offsets="1986:2097" id="13" />
+      <Sentence char_offsets="2099:2200" id="14" />
+      <Sentence char_offsets="2211:2275" id="15" />
+      <Sentence char_offsets="2286:2409" id="16" />
+      <Sentence char_offsets="2411:2457" id="17" />
+      <Sentence char_offsets="2459:2529" id="18" />
+      <Sentence char_offsets="2540:2625" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="31858" actor_name="Iran" role="Source" />
+        <Participant actor_id="39753" actor_name="Syria" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="050">
+        <Participant actor_id="39753" actor_name="Syria" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

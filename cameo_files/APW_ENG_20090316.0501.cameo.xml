@@ -1,0 +1,53 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.0501">
+    <Sentences>
+      <Sentence char_offsets="194:427" id="0" />
+      <Sentence char_offsets="438:659" id="1" />
+      <Sentence char_offsets="670:968" id="2" />
+      <Sentence char_offsets="979:1260" id="3" />
+      <Sentence char_offsets="1271:1532" id="4" />
+      <Sentence char_offsets="1543:1744" id="5" />
+      <Sentence char_offsets="1755:1876" id="6" />
+      <Sentence char_offsets="1878:2036" id="7" />
+      <Sentence char_offsets="2047:2259" id="8" />
+      <Sentence char_offsets="2270:2375" id="9" />
+      <Sentence char_offsets="2386:2552" id="10" />
+      <Sentence char_offsets="2563:2736" id="11" />
+      <Sentence char_offsets="2747:2921" id="12" />
+      <Sentence char_offsets="2932:3005" id="13" />
+      <Sentence char_offsets="3016:3277" id="14" />
+      <Sentence char_offsets="3288:3428" id="15" />
+      <Sentence char_offsets="3430:3604" id="16" />
+      <Sentence char_offsets="3615:3813" id="17" />
+      <Sentence char_offsets="3824:3917" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="214049" actor_name="Chen Chao-min" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="214049" actor_name="Chen Chao-min" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="130">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="130">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="194">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="39333" actor_name="Taiwan" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="39333" actor_name="Taiwan" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="214049" actor_name="Chen Chao-min" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

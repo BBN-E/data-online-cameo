@@ -1,0 +1,78 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090401.0130">
+    <Sentences>
+      <Sentence char_offsets="156:289" id="0" />
+      <Sentence char_offsets="300:542" id="1" />
+      <Sentence char_offsets="544:639" id="2" />
+      <Sentence char_offsets="650:991" id="3" />
+      <Sentence char_offsets="1002:1197" id="4" />
+      <Sentence char_offsets="1208:1403" id="5" />
+      <Sentence char_offsets="1405:1609" id="6" />
+      <Sentence char_offsets="1620:1872" id="7" />
+      <Sentence char_offsets="1883:2166" id="8" />
+      <Sentence char_offsets="2177:2308" id="9" />
+      <Sentence char_offsets="2310:2474" id="10" />
+      <Sentence char_offsets="2485:2848" id="11" />
+      <Sentence char_offsets="2859:2995" id="12" />
+      <Sentence char_offsets="2997:3111" id="13" />
+      <Sentence char_offsets="3122:3225" id="14" />
+      <Sentence char_offsets="3227:3295" id="15" />
+      <Sentence char_offsets="3306:3421" id="16" />
+      <Sentence char_offsets="3432:3738" id="17" />
+      <Sentence char_offsets="3740:3791" id="18" />
+      <Sentence char_offsets="3802:3904" id="19" />
+      <Sentence char_offsets="3915:3986" id="20" />
+      <Sentence char_offsets="3988:4183" id="21" />
+      <Sentence char_offsets="4194:4235" id="22" />
+      <Sentence char_offsets="4237:4431" id="23" />
+      <Sentence char_offsets="4442:4742" id="24" />
+      <Sentence char_offsets="4753:5034" id="25" />
+      <Sentence char_offsets="5045:5316" id="26" />
+      <Sentence char_offsets="5327:5485" id="27" />
+      <Sentence char_offsets="5496:5757" id="28" />
+      <Sentence char_offsets="5759:5822" id="29" />
+      <Sentence char_offsets="5833:5986" id="30" />
+      <Sentence char_offsets="5988:6170" id="31" />
+      <Sentence char_offsets="6181:6243" id="32" />
+      <Sentence char_offsets="6245:6450" id="33" />
+      <Sentence char_offsets="6461:6653" id="34" />
+      <Sentence char_offsets="6664:6825" id="35" />
+      <Sentence char_offsets="6827:6890" id="36" />
+      <Sentence char_offsets="6891:7158" id="37" />
+      <Sentence char_offsets="7169:7222" id="38" />
+      <Sentence char_offsets="7233:7410" id="39" />
+      <Sentence char_offsets="7421:7494" id="40" />
+      <Sentence char_offsets="7496:7716" id="41" />
+      <Sentence char_offsets="7727:7764" id="42" />
+      <Sentence char_offsets="7766:7818" id="43" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="013">
+        <Participant actor_id="25139" actor_name="Rick Scott" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="21" tense="current" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="25139" actor_name="Rick Scott" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="111">
+        <Participant actor_id="25139" actor_name="Rick Scott" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="31" tense="neutral" type="111">
+        <Participant actor_id="25139" actor_name="Rick Scott" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="719" agent_name="Healthcare Facility" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="11" tense="neutral" type="120">
+        <Participant actor_id="41262" actor_name="United States" agent_id="449" agent_name="Activist" role="Source" />
+        <Participant actor_id="25139" actor_name="Rick Scott" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="11" tense="neutral" type="127">
+        <Participant actor_id="41262" actor_name="United States" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="14563" actor_name="Bill Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

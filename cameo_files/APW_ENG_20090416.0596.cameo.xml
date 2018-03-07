@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0596">
+    <Sentences>
+      <Sentence char_offsets="201:375" id="0" />
+      <Sentence char_offsets="386:518" id="1" />
+      <Sentence char_offsets="520:592" id="2" />
+      <Sentence char_offsets="603:745" id="3" />
+      <Sentence char_offsets="756:844" id="4" />
+      <Sentence char_offsets="846:924" id="5" />
+      <Sentence char_offsets="935:1149" id="6" />
+      <Sentence char_offsets="1160:1345" id="7" />
+      <Sentence char_offsets="1356:1474" id="8" />
+      <Sentence char_offsets="1485:1620" id="9" />
+      <Sentence char_offsets="1631:1789" id="10" />
+      <Sentence char_offsets="1800:1884" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="020">
+        <Participant actor_id="146" actor_name="Thaksin Shinawatra" role="Source" />
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="current" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="7" tense="neutral" type="141">
+        <Participant actor_id="39577" actor_name="Thailand" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

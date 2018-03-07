@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090422.0788">
+    <Sentences>
+      <Sentence char_offsets="171:344" id="0" />
+      <Sentence char_offsets="355:540" id="1" />
+      <Sentence char_offsets="551:774" id="2" />
+      <Sentence char_offsets="785:961" id="3" />
+      <Sentence char_offsets="972:1190" id="4" />
+      <Sentence char_offsets="1201:1400" id="5" />
+      <Sentence char_offsets="1411:1509" id="6" />
+      <Sentence char_offsets="1520:1745" id="7" />
+      <Sentence char_offsets="1756:1907" id="8" />
+      <Sentence char_offsets="1918:2083" id="9" />
+      <Sentence char_offsets="2094:2295" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="0841">
+        <Participant actor_id="28881" actor_name="Australia" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="173">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="386" agent_name="Naval" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="193">
+        <Participant actor_id="28881" actor_name="Australia" agent_id="685" agent_name="Illegal Immigrant" role="Source" />
+        <Participant actor_id="28881" actor_name="Australia" agent_id="524" agent_name="Liberal Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

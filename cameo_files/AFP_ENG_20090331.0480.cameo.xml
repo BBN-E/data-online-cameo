@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090331.0480">
+    <Sentences>
+      <Sentence char_offsets="195:372" id="0" />
+      <Sentence char_offsets="383:569" id="1" />
+      <Sentence char_offsets="580:636" id="2" />
+      <Sentence char_offsets="647:832" id="3" />
+      <Sentence char_offsets="843:921" id="4" />
+      <Sentence char_offsets="932:1176" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="current" type="017">
+        <Participant actor_id="54490" actor_name="Laurent Gbagbo" role="Source" />
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="54490" actor_name="Laurent Gbagbo" role="Source" />
+        <Participant actor_id="32634" actor_name="Cote d'Ivoire" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

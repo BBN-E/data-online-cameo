@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090312.0785">
+    <Sentences>
+      <Sentence char_offsets="182:379" id="0" />
+      <Sentence char_offsets="390:586" id="1" />
+      <Sentence char_offsets="597:936" id="2" />
+      <Sentence char_offsets="947:1069" id="3" />
+      <Sentence char_offsets="1071:1165" id="4" />
+      <Sentence char_offsets="1176:1325" id="5" />
+      <Sentence char_offsets="1336:1503" id="6" />
+      <Sentence char_offsets="1514:1637" id="7" />
+      <Sentence char_offsets="1648:1784" id="8" />
+      <Sentence char_offsets="1795:1851" id="9" />
+      <Sentence char_offsets="1853:1968" id="10" />
+      <Sentence char_offsets="1979:2131" id="11" />
+      <Sentence char_offsets="2142:2323" id="12" />
+      <Sentence char_offsets="2334:2400" id="13" />
+      <Sentence char_offsets="2411:2540" id="14" />
+      <Sentence char_offsets="2542:2650" id="15" />
+      <Sentence char_offsets="2661:2845" id="16" />
+      <Sentence char_offsets="2856:3064" id="17" />
+      <Sentence char_offsets="3075:3208" id="18" />
+      <Sentence char_offsets="3219:3516" id="19" />
+      <Sentence char_offsets="3527:3641" id="20" />
+      <Sentence char_offsets="3652:3764" id="21" />
+      <Sentence char_offsets="3775:3915" id="22" />
+      <Sentence char_offsets="3926:4112" id="23" />
+      <Sentence char_offsets="4123:4207" id="24" />
+      <Sentence char_offsets="4218:4314" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="6357" actor_name="Yonhap News Agency" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="010">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="6357" actor_name="Yonhap News Agency" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="22" tense="current" type="064">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="335" agent_name="Foreign Affairs" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="22" tense="current" type="064">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="14" tense="neutral" type="172">
+        <Participant actor_id="34533" actor_name="North Korea" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="358" agent_name="Airline" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="19" tense="neutral" type="040">
+        <Participant actor_id="24993" actor_name="Yang Jiechi" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,47 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0708">
+    <Sentences>
+      <Sentence char_offsets="185:202" id="0" />
+      <Sentence char_offsets="204:233" id="1" />
+      <Sentence char_offsets="235:371" id="2" />
+      <Sentence char_offsets="382:545" id="3" />
+      <Sentence char_offsets="547:638" id="4" />
+      <Sentence char_offsets="649:816" id="5" />
+      <Sentence char_offsets="818:1031" id="6" />
+      <Sentence char_offsets="1042:1162" id="7" />
+      <Sentence char_offsets="1164:1306" id="8" />
+      <Sentence char_offsets="1317:1435" id="9" />
+      <Sentence char_offsets="1446:1606" id="10" />
+      <Sentence char_offsets="1617:1773" id="11" />
+      <Sentence char_offsets="1775:1951" id="12" />
+      <Sentence char_offsets="1962:2160" id="13" />
+      <Sentence char_offsets="2171:2378" id="14" />
+      <Sentence char_offsets="2380:2515" id="15" />
+      <Sentence char_offsets="2526:2687" id="16" />
+      <Sentence char_offsets="2698:2852" id="17" />
+      <Sentence char_offsets="2863:3016" id="18" />
+      <Sentence char_offsets="3027:3224" id="19" />
+      <Sentence char_offsets="3226:3368" id="20" />
+      <Sentence char_offsets="3379:3500" id="21" />
+      <Sentence char_offsets="3502:3617" id="22" />
+      <Sentence char_offsets="3628:3747" id="23" />
+      <Sentence char_offsets="3749:3837" id="24" />
+      <Sentence char_offsets="3839:3891" id="25" />
+      <Sentence char_offsets="3902:4039" id="26" />
+      <Sentence char_offsets="4050:4241" id="27" />
+      <Sentence char_offsets="4243:4397" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="26848" actor_name="Goldman Sachs" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="28" tense="current" type="010">
+        <Participant actor_id="56777" actor_name="Kaoru Yosano" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="305" agent_name="Treasury/Finance Ministry" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

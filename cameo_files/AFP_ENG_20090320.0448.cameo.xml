@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0448">
+    <Sentences>
+      <Sentence char_offsets="188:369" id="0" />
+      <Sentence char_offsets="380:615" id="1" />
+      <Sentence char_offsets="626:740" id="2" />
+      <Sentence char_offsets="751:934" id="3" />
+      <Sentence char_offsets="945:1072" id="4" />
+      <Sentence char_offsets="1083:1222" id="5" />
+      <Sentence char_offsets="1233:1360" id="6" />
+      <Sentence char_offsets="1362:1408" id="7" />
+      <Sentence char_offsets="1419:1590" id="8" />
+      <Sentence char_offsets="1601:1801" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="19" agent_name="Domestic Affairs" role="Source" />
+        <Participant actor_id="31300" actor_name="Irakli Okruashvili" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="036">
+        <Participant actor_id="30435" actor_name="Georgia" agent_id="580" agent_name="Opposition Supporter" role="Source" />
+        <Participant actor_id="30701" actor_name="France" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="6" tense="historical" type="075">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="31300" actor_name="Irakli Okruashvili" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,117 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090329.0384">
+    <Sentences>
+      <Sentence char_offsets="197:391" id="0" />
+      <Sentence char_offsets="402:534" id="1" />
+      <Sentence char_offsets="536:784" id="2" />
+      <Sentence char_offsets="795:959" id="3" />
+      <Sentence char_offsets="961:1099" id="4" />
+      <Sentence char_offsets="1110:1333" id="5" />
+      <Sentence char_offsets="1335:1444" id="6" />
+      <Sentence char_offsets="1455:1630" id="7" />
+      <Sentence char_offsets="1641:1706" id="8" />
+      <Sentence char_offsets="1708:1848" id="9" />
+      <Sentence char_offsets="1859:2083" id="10" />
+      <Sentence char_offsets="2094:2236" id="11" />
+      <Sentence char_offsets="2238:2362" id="12" />
+      <Sentence char_offsets="2373:2585" id="13" />
+      <Sentence char_offsets="2596:2781" id="14" />
+      <Sentence char_offsets="2783:2869" id="15" />
+      <Sentence char_offsets="2880:3114" id="16" />
+      <Sentence char_offsets="3125:3323" id="17" />
+      <Sentence char_offsets="3325:3422" id="18" />
+      <Sentence char_offsets="3433:3573" id="19" />
+      <Sentence char_offsets="3584:3676" id="20" />
+      <Sentence char_offsets="3687:3857" id="21" />
+      <Sentence char_offsets="3868:4042" id="22" />
+      <Sentence char_offsets="4053:4199" id="23" />
+      <Sentence char_offsets="4210:4467" id="24" />
+      <Sentence char_offsets="4478:4483" id="25" />
+      <Sentence char_offsets="4494:4565" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="3" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="56872" actor_name="National Intelligence Service" role="Source" />
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="2" agent_name="Defense Department/Ministry" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="13" tense="neutral" type="010">
+        <Participant actor_id="35932" actor_name="South Korea" agent_id="335" agent_name="Foreign Affairs" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="28848" actor_name="Sankei" role="Source" />
+        <Participant actor_id="34533" actor_name="North Korea" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="28848" actor_name="Sankei" role="Source" />
+        <Participant actor_id="31858" actor_name="Iran" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="14" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="15" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="16" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+      <Event id="17" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="18" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="19" sentence_id="13" tense="neutral" type="040">
+        <Participant actor_id="31492" actor_name="Japan" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

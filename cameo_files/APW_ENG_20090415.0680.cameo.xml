@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090415.0680">
+    <Sentences>
+      <Sentence char_offsets="193:406" id="0" />
+      <Sentence char_offsets="417:508" id="1" />
+      <Sentence char_offsets="510:627" id="2" />
+      <Sentence char_offsets="638:738" id="3" />
+      <Sentence char_offsets="740:826" id="4" />
+      <Sentence char_offsets="837:985" id="5" />
+      <Sentence char_offsets="996:1172" id="6" />
+      <Sentence char_offsets="1183:1323" id="7" />
+      <Sentence char_offsets="1325:1484" id="8" />
+      <Sentence char_offsets="1495:1660" id="9" />
+      <Sentence char_offsets="1671:1852" id="10" />
+      <Sentence char_offsets="1863:2129" id="11" />
+      <Sentence char_offsets="2140:2312" id="12" />
+      <Sentence char_offsets="2323:2473" id="13" />
+      <Sentence char_offsets="2484:2638" id="14" />
+      <Sentence char_offsets="2649:2830" id="15" />
+      <Sentence char_offsets="2841:2896" id="16" />
+      <Sentence char_offsets="2898:2958" id="17" />
+      <Sentence char_offsets="2960:3066" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="neutral" type="036">
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="333" agent_name="Military Personnel" role="Source" />
+        <Participant actor_id="35866" actor_name="Kenya" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="6" tense="neutral" type="193">
+        <Participant actor_id="40214" actor_name="Somalia" agent_id="263" agent_name="Criminal" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="277" agent_name="Transport" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

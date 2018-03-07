@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090323.0653">
+    <Sentences>
+      <Sentence char_offsets="186:421" id="0" />
+      <Sentence char_offsets="432:556" id="1" />
+      <Sentence char_offsets="558:705" id="2" />
+      <Sentence char_offsets="716:772" id="3" />
+      <Sentence char_offsets="774:954" id="4" />
+      <Sentence char_offsets="965:1051" id="5" />
+      <Sentence char_offsets="1053:1124" id="6" />
+      <Sentence char_offsets="1135:1337" id="7" />
+      <Sentence char_offsets="1348:1476" id="8" />
+      <Sentence char_offsets="1487:1577" id="9" />
+      <Sentence char_offsets="1588:1796" id="10" />
+      <Sentence char_offsets="1807:1949" id="11" />
+      <Sentence char_offsets="1960:2135" id="12" />
+      <Sentence char_offsets="2146:2353" id="13" />
+      <Sentence char_offsets="2364:2491" id="14" />
+      <Sentence char_offsets="2493:2534" id="15" />
+      <Sentence char_offsets="2545:2698" id="16" />
+      <Sentence char_offsets="2709:2895" id="17" />
+      <Sentence char_offsets="2897:2987" id="18" />
+      <Sentence char_offsets="2998:3118" id="19" />
+      <Sentence char_offsets="3129:3355" id="20" />
+      <Sentence char_offsets="3357:3451" id="21" />
+      <Sentence char_offsets="3462:3576" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="35247" actor_name="Viktor Yushchenko" role="Source" />
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="112">
+        <Participant actor_id="35247" actor_name="Viktor Yushchenko" role="Source" />
+        <Participant actor_id="35151" actor_name="Yulia Tymoshenko" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="057">
+        <Participant actor_id="48457" actor_name="Jos&#233; Manuel Dur&#227;o Barroso" role="Source" />
+        <Participant actor_id="35247" actor_name="Viktor Yushchenko" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

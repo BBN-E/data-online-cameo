@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.1066">
+    <Sentences>
+      <Sentence char_offsets="183:403" id="0" />
+      <Sentence char_offsets="414:592" id="1" />
+      <Sentence char_offsets="603:740" id="2" />
+      <Sentence char_offsets="742:819" id="3" />
+      <Sentence char_offsets="830:1010" id="4" />
+      <Sentence char_offsets="1021:1256" id="5" />
+      <Sentence char_offsets="1258:1351" id="6" />
+      <Sentence char_offsets="1362:1500" id="7" />
+      <Sentence char_offsets="1511:1666" id="8" />
+      <Sentence char_offsets="1677:1813" id="9" />
+      <Sentence char_offsets="1815:2111" id="10" />
+      <Sentence char_offsets="2113:2198" id="11" />
+      <Sentence char_offsets="2209:2383" id="12" />
+      <Sentence char_offsets="2385:2543" id="13" />
+      <Sentence char_offsets="2554:2623" id="14" />
+      <Sentence char_offsets="2625:2692" id="15" />
+      <Sentence char_offsets="2703:2859" id="16" />
+      <Sentence char_offsets="2870:3046" id="17" />
+      <Sentence char_offsets="3048:3184" id="18" />
+      <Sentence char_offsets="3195:3400" id="19" />
+      <Sentence char_offsets="3411:3630" id="20" />
+      <Sentence char_offsets="3632:3780" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="091">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="11386" actor_name="Continental Airlines" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

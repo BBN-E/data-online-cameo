@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090305.0375">
+    <Sentences>
+      <Sentence char_offsets="189:363" id="0" />
+      <Sentence char_offsets="374:553" id="1" />
+      <Sentence char_offsets="564:742" id="2" />
+      <Sentence char_offsets="753:903" id="3" />
+      <Sentence char_offsets="914:1116" id="4" />
+      <Sentence char_offsets="1127:1301" id="5" />
+      <Sentence char_offsets="1312:1475" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="010">
+        <Participant actor_id="53098" actor_name="Peace and Security Council" role="Source" />
+        <Participant actor_id="43430" actor_name="UN Security Council" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="036">
+        <Participant actor_id="53079" actor_name="African Union" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

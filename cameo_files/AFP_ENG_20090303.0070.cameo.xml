@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090303.0070">
+    <Sentences>
+      <Sentence char_offsets="182:370" id="0" />
+      <Sentence char_offsets="381:585" id="1" />
+      <Sentence char_offsets="596:658" id="2" />
+      <Sentence char_offsets="669:865" id="3" />
+      <Sentence char_offsets="876:1020" id="4" />
+      <Sentence char_offsets="1031:1237" id="5" />
+      <Sentence char_offsets="1248:1481" id="6" />
+      <Sentence char_offsets="1492:1696" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="neutral" type="190">
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" agent_id="311" agent_name="Air Force" role="Source" />
+        <Participant actor_id="34539" actor_name="Palestinian Territory, Occupied" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Source" />
+        <Participant actor_id="58901" actor_name="Tzipi Livni" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

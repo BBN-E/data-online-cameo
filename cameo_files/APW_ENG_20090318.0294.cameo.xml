@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090318.0294">
+    <Sentences>
+      <Sentence char_offsets="198:362" id="0" />
+      <Sentence char_offsets="373:617" id="1" />
+      <Sentence char_offsets="628:819" id="2" />
+      <Sentence char_offsets="821:871" id="3" />
+      <Sentence char_offsets="882:1056" id="4" />
+      <Sentence char_offsets="1067:1271" id="5" />
+      <Sentence char_offsets="1273:1422" id="6" />
+      <Sentence char_offsets="1433:1599" id="7" />
+      <Sentence char_offsets="1601:1704" id="8" />
+      <Sentence char_offsets="1715:1814" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="590" agent_name="Cleric" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="263" agent_name="Criminal" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31182" actor_name="Indonesia" agent_id="590" agent_name="Cleric" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

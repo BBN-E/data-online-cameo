@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0277">
+    <Sentences>
+      <Sentence char_offsets="183:342" id="0" />
+      <Sentence char_offsets="353:581" id="1" />
+      <Sentence char_offsets="592:815" id="2" />
+      <Sentence char_offsets="826:996" id="3" />
+      <Sentence char_offsets="1007:1237" id="4" />
+      <Sentence char_offsets="1248:1405" id="5" />
+      <Sentence char_offsets="1416:1610" id="6" />
+      <Sentence char_offsets="1621:1824" id="7" />
+      <Sentence char_offsets="1835:2049" id="8" />
+      <Sentence char_offsets="2060:2130" id="9" />
+      <Sentence char_offsets="2132:2166" id="10" />
+      <Sentence char_offsets="2177:2303" id="11" />
+      <Sentence char_offsets="2314:2487" id="12" />
+      <Sentence char_offsets="2498:2700" id="13" />
+      <Sentence char_offsets="2711:2872" id="14" />
+      <Sentence char_offsets="2883:3106" id="15" />
+      <Sentence char_offsets="3117:3240" id="16" />
+      <Sentence char_offsets="3242:3311" id="17" />
+      <Sentence char_offsets="3322:3522" id="18" />
+      <Sentence char_offsets="3533:3755" id="19" />
+      <Sentence char_offsets="3766:3928" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="020">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

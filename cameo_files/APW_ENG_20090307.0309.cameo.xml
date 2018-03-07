@@ -1,0 +1,36 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090307.0309">
+    <Sentences>
+      <Sentence char_offsets="196:419" id="0" />
+      <Sentence char_offsets="430:511" id="1" />
+      <Sentence char_offsets="513:613" id="2" />
+      <Sentence char_offsets="624:733" id="3" />
+      <Sentence char_offsets="735:974" id="4" />
+      <Sentence char_offsets="985:1081" id="5" />
+      <Sentence char_offsets="1092:1180" id="6" />
+      <Sentence char_offsets="1191:1322" id="7" />
+      <Sentence char_offsets="1324:1487" id="8" />
+      <Sentence char_offsets="1498:1746" id="9" />
+      <Sentence char_offsets="1757:1803" id="10" />
+      <Sentence char_offsets="1814:1883" id="11" />
+      <Sentence char_offsets="1894:1986" id="12" />
+      <Sentence char_offsets="1988:2079" id="13" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="238429" actor_name="Fawzi Barhum" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="3" tense="historical" type="051">
+        <Participant actor_id="55012" actor_name="Mahmoud Abbas" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="neutral" type="120">
+        <Participant actor_id="31716" actor_name="Hamas" role="Source" />
+        <Participant actor_id="36728" actor_name="Salam Fayyad" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

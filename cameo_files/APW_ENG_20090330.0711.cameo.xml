@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090330.0711">
+    <Sentences>
+      <Sentence char_offsets="184:425" id="0" />
+      <Sentence char_offsets="436:617" id="1" />
+      <Sentence char_offsets="628:671" id="2" />
+      <Sentence char_offsets="673:831" id="3" />
+      <Sentence char_offsets="842:1097" id="4" />
+      <Sentence char_offsets="1099:1163" id="5" />
+      <Sentence char_offsets="1174:1415" id="6" />
+      <Sentence char_offsets="1426:1577" id="7" />
+      <Sentence char_offsets="1588:1682" id="8" />
+      <Sentence char_offsets="1684:1727" id="9" />
+      <Sentence char_offsets="1738:1847" id="10" />
+      <Sentence char_offsets="1849:1859" id="11" />
+      <Sentence char_offsets="1861:1939" id="12" />
+      <Sentence char_offsets="1941:1981" id="13" />
+      <Sentence char_offsets="1992:2041" id="14" />
+      <Sentence char_offsets="2043:2234" id="15" />
+      <Sentence char_offsets="2245:2444" id="16" />
+      <Sentence char_offsets="2455:2617" id="17" />
+      <Sentence char_offsets="2628:2712" id="18" />
+      <Sentence char_offsets="2723:2893" id="19" />
+      <Sentence char_offsets="2904:3034" id="20" />
+      <Sentence char_offsets="3045:3181" id="21" />
+      <Sentence char_offsets="3183:3349" id="22" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="6" tense="neutral" type="010">
+        <Participant actor_id="30789" actor_name="Hong Kong" role="Source" />
+        <Participant actor_id="31455" actor_name="Grace Mugabe" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="neutral" type="111">
+        <Participant actor_id="30551" actor_name="United Kingdom" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="30789" actor_name="Hong Kong" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

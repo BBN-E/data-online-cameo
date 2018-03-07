@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090311.1348">
+    <Sentences>
+      <Sentence char_offsets="189:361" id="0" />
+      <Sentence char_offsets="372:569" id="1" />
+      <Sentence char_offsets="580:757" id="2" />
+      <Sentence char_offsets="768:882" id="3" />
+      <Sentence char_offsets="884:1025" id="4" />
+      <Sentence char_offsets="1036:1274" id="5" />
+      <Sentence char_offsets="1285:1357" id="6" />
+      <Sentence char_offsets="1359:1535" id="7" />
+      <Sentence char_offsets="1546:1777" id="8" />
+      <Sentence char_offsets="1788:1932" id="9" />
+      <Sentence char_offsets="1943:2150" id="10" />
+      <Sentence char_offsets="2161:2321" id="11" />
+      <Sentence char_offsets="2323:2443" id="12" />
+      <Sentence char_offsets="2454:2559" id="13" />
+      <Sentence char_offsets="2570:2638" id="14" />
+      <Sentence char_offsets="2640:2738" id="15" />
+      <Sentence char_offsets="2749:2931" id="16" />
+      <Sentence char_offsets="2942:3119" id="17" />
+      <Sentence char_offsets="3130:3212" id="18" />
+      <Sentence char_offsets="3223:3365" id="19" />
+      <Sentence char_offsets="3367:3408" id="20" />
+      <Sentence char_offsets="3419:3649" id="21" />
+      <Sentence char_offsets="3660:3779" id="22" />
+      <Sentence char_offsets="3781:3853" id="23" />
+      <Sentence char_offsets="3864:3958" id="24" />
+      <Sentence char_offsets="3960:4021" id="25" />
+      <Sentence char_offsets="4032:4360" id="26" />
+      <Sentence char_offsets="4371:4376" id="27" />
+      <Sentence char_offsets="4387:4476" id="28" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="43630" actor_name="Jim Flaherty" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="43630" actor_name="Jim Flaherty" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

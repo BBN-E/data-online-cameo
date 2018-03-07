@@ -1,0 +1,43 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090418.0346">
+    <Sentences>
+      <Sentence char_offsets="186:313" id="0" />
+      <Sentence char_offsets="324:480" id="1" />
+      <Sentence char_offsets="491:587" id="2" />
+      <Sentence char_offsets="589:671" id="3" />
+      <Sentence char_offsets="682:865" id="4" />
+      <Sentence char_offsets="867:966" id="5" />
+      <Sentence char_offsets="977:1125" id="6" />
+      <Sentence char_offsets="1127:1233" id="7" />
+      <Sentence char_offsets="1244:1389" id="8" />
+      <Sentence char_offsets="1391:1467" id="9" />
+      <Sentence char_offsets="1478:1669" id="10" />
+      <Sentence char_offsets="1671:1761" id="11" />
+      <Sentence char_offsets="1772:2018" id="12" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="130">
+        <Participant actor_id="35032" actor_name="Romania" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="130">
+        <Participant actor_id="35032" actor_name="Romania" agent_id="640" agent_name="Employee" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="historical" type="181">
+        <Participant actor_id="35032" actor_name="Romania" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="historical" type="190">
+        <Participant actor_id="35032" actor_name="Romania" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="724" agent_name="Men" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="193">
+        <Participant actor_id="35032" actor_name="Romania" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="35032" actor_name="Romania" agent_id="711" agent_name="Thief" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

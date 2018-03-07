@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0395">
+    <Sentences>
+      <Sentence char_offsets="197:379" id="0" />
+      <Sentence char_offsets="390:613" id="1" />
+      <Sentence char_offsets="624:849" id="2" />
+      <Sentence char_offsets="860:969" id="3" />
+      <Sentence char_offsets="980:1081" id="4" />
+      <Sentence char_offsets="1092:1264" id="5" />
+      <Sentence char_offsets="1275:1494" id="6" />
+      <Sentence char_offsets="1505:1695" id="7" />
+      <Sentence char_offsets="1706:1891" id="8" />
+      <Sentence char_offsets="1902:2097" id="9" />
+      <Sentence char_offsets="2108:2329" id="10" />
+      <Sentence char_offsets="2340:2564" id="11" />
+      <Sentence char_offsets="2575:2764" id="12" />
+      <Sentence char_offsets="2775:2951" id="13" />
+      <Sentence char_offsets="2962:3174" id="14" />
+      <Sentence char_offsets="3185:3373" id="15" />
+      <Sentence char_offsets="3384:3613" id="16" />
+      <Sentence char_offsets="3624:3852" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="010">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="233832" actor_name="Adil Abdul-Mahdi" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="429" agent_name="Administration" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="neutral" type="112">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="37205" actor_name="al-Qaeda in Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="1831">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="600" agent_name="Armed Gang" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

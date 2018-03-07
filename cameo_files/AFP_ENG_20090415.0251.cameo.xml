@@ -1,0 +1,46 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090415.0251">
+    <Sentences>
+      <Sentence char_offsets="167:350" id="0" />
+      <Sentence char_offsets="361:557" id="1" />
+      <Sentence char_offsets="568:754" id="2" />
+      <Sentence char_offsets="765:961" id="3" />
+      <Sentence char_offsets="972:1153" id="4" />
+      <Sentence char_offsets="1164:1357" id="5" />
+      <Sentence char_offsets="1368:1533" id="6" />
+      <Sentence char_offsets="1544:1713" id="7" />
+      <Sentence char_offsets="1724:1946" id="8" />
+      <Sentence char_offsets="1957:2119" id="9" />
+      <Sentence char_offsets="2130:2314" id="10" />
+      <Sentence char_offsets="2325:2444" id="11" />
+      <Sentence char_offsets="2446:2525" id="12" />
+      <Sentence char_offsets="2536:2697" id="13" />
+      <Sentence char_offsets="2708:2865" id="14" />
+      <Sentence char_offsets="2876:2924" id="15" />
+      <Sentence char_offsets="2926:3060" id="16" />
+      <Sentence char_offsets="3071:3297" id="17" />
+      <Sentence char_offsets="3308:3495" id="18" />
+      <Sentence char_offsets="3506:3701" id="19" />
+      <Sentence char_offsets="3712:3888" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="19" tense="neutral" type="010">
+        <Participant actor_id="35032" actor_name="Romania" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="108" agent_name="Rights Activist" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="17" tense="neutral" type="141">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Source" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="neutral" type="145">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="617" agent_name="Legislature" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

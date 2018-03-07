@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090325.0109">
+    <Sentences>
+      <Sentence char_offsets="183:317" id="0" />
+      <Sentence char_offsets="319:405" id="1" />
+      <Sentence char_offsets="416:467" id="2" />
+      <Sentence char_offsets="478:624" id="3" />
+      <Sentence char_offsets="635:795" id="4" />
+      <Sentence char_offsets="806:929" id="5" />
+      <Sentence char_offsets="931:1001" id="6" />
+      <Sentence char_offsets="1012:1295" id="7" />
+      <Sentence char_offsets="1306:1484" id="8" />
+      <Sentence char_offsets="1486:1562" id="9" />
+      <Sentence char_offsets="1573:1770" id="10" />
+      <Sentence char_offsets="1781:1853" id="11" />
+      <Sentence char_offsets="1855:2002" id="12" />
+      <Sentence char_offsets="2004:2036" id="13" />
+      <Sentence char_offsets="2047:2161" id="14" />
+      <Sentence char_offsets="2163:2392" id="15" />
+      <Sentence char_offsets="2403:2623" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="141">
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" agent_id="510" agent_name="Protester" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="182">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="39594" actor_name="Tibet Autonomous Region" agent_id="510" agent_name="Protester" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="8" tense="historical" type="1823">
+        <Participant actor_id="32631" actor_name="China" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32631" actor_name="China" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

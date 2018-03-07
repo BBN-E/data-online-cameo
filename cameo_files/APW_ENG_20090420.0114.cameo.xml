@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090420.0114">
+    <Sentences>
+      <Sentence char_offsets="186:373" id="0" />
+      <Sentence char_offsets="384:489" id="1" />
+      <Sentence char_offsets="491:652" id="2" />
+      <Sentence char_offsets="663:856" id="3" />
+      <Sentence char_offsets="867:1006" id="4" />
+      <Sentence char_offsets="1008:1073" id="5" />
+      <Sentence char_offsets="1084:1211" id="6" />
+      <Sentence char_offsets="1213:1280" id="7" />
+      <Sentence char_offsets="1291:1434" id="8" />
+      <Sentence char_offsets="1436:1554" id="9" />
+      <Sentence char_offsets="1565:1774" id="10" />
+      <Sentence char_offsets="1785:1981" id="11" />
+      <Sentence char_offsets="1992:2174" id="12" />
+      <Sentence char_offsets="2185:2215" id="13" />
+      <Sentence char_offsets="2217:2376" id="14" />
+      <Sentence char_offsets="2387:2569" id="15" />
+      <Sentence char_offsets="2580:2802" id="16" />
+      <Sentence char_offsets="2813:3021" id="17" />
+      <Sentence char_offsets="3023:3099" id="18" />
+      <Sentence char_offsets="3110:3304" id="19" />
+      <Sentence char_offsets="3315:3496" id="20" />
+      <Sentence char_offsets="3507:3758" id="21" />
+      <Sentence char_offsets="3769:3892" id="22" />
+      <Sentence char_offsets="3903:4004" id="23" />
+      <Sentence char_offsets="4015:4020" id="24" />
+      <Sentence char_offsets="4031:4127" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="041">
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Source" />
+        <Participant actor_id="29483" actor_name="Associated Press" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="14" tense="neutral" type="041">
+        <Participant actor_id="29483" actor_name="Associated Press" role="Source" />
+        <Participant actor_id="35257" actor_name="Mehsud Tribe (Social Group)" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

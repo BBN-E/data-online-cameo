@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.1037">
+    <Sentences>
+      <Sentence char_offsets="190:389" id="0" />
+      <Sentence char_offsets="400:599" id="1" />
+      <Sentence char_offsets="610:762" id="2" />
+      <Sentence char_offsets="773:1077" id="3" />
+      <Sentence char_offsets="1088:1286" id="4" />
+      <Sentence char_offsets="1297:1333" id="5" />
+      <Sentence char_offsets="1344:1532" id="6" />
+      <Sentence char_offsets="1543:1654" id="7" />
+      <Sentence char_offsets="1665:1835" id="8" />
+      <Sentence char_offsets="1846:2008" id="9" />
+      <Sentence char_offsets="2019:2114" id="10" />
+      <Sentence char_offsets="2116:2276" id="11" />
+      <Sentence char_offsets="2287:2423" id="12" />
+      <Sentence char_offsets="2425:2517" id="13" />
+      <Sentence char_offsets="2528:2680" id="14" />
+      <Sentence char_offsets="2682:2710" id="15" />
+      <Sentence char_offsets="2721:2867" id="16" />
+      <Sentence char_offsets="2878:3029" id="17" />
+      <Sentence char_offsets="3040:3132" id="18" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="032">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="51189" actor_name="Kathleen Sebelius" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="41262" actor_name="United States" agent_id="381" agent_name="Health Ministry/Department" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="338" agent_name="Cabinet / Council of Ministers / Advisors" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="071">
+        <Participant actor_id="41262" actor_name="United States" agent_id="103" agent_name="Medical Personnel" role="Source" />
+        <Participant actor_id="51189" actor_name="Kathleen Sebelius" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="17" tense="neutral" type="120">
+        <Participant actor_id="53674" actor_name="Arlen Specter" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="42" agent_name="Republican Party" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

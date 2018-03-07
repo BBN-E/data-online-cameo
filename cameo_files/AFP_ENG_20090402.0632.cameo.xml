@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090402.0632">
+    <Sentences>
+      <Sentence char_offsets="179:370" id="0" />
+      <Sentence char_offsets="381:569" id="1" />
+      <Sentence char_offsets="580:784" id="2" />
+      <Sentence char_offsets="795:945" id="3" />
+      <Sentence char_offsets="956:1110" id="4" />
+      <Sentence char_offsets="1121:1193" id="5" />
+      <Sentence char_offsets="1204:1254" id="6" />
+      <Sentence char_offsets="1256:1333" id="7" />
+      <Sentence char_offsets="1344:1523" id="8" />
+      <Sentence char_offsets="1525:1562" id="9" />
+      <Sentence char_offsets="1573:1726" id="10" />
+      <Sentence char_offsets="1737:1801" id="11" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="544" agent_name="Company - Owner or Operator" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="31492" actor_name="Japan" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090414.0229">
+    <Sentences>
+      <Sentence char_offsets="195:378" id="0" />
+      <Sentence char_offsets="389:609" id="1" />
+      <Sentence char_offsets="620:821" id="2" />
+      <Sentence char_offsets="832:1129" id="3" />
+      <Sentence char_offsets="1140:1239" id="4" />
+      <Sentence char_offsets="1250:1467" id="5" />
+      <Sentence char_offsets="1478:1592" id="6" />
+      <Sentence char_offsets="1603:1663" id="7" />
+      <Sentence char_offsets="1674:1827" id="8" />
+      <Sentence char_offsets="1838:1964" id="9" />
+      <Sentence char_offsets="1975:2095" id="10" />
+      <Sentence char_offsets="2106:2132" id="11" />
+      <Sentence char_offsets="2134:2175" id="12" />
+      <Sentence char_offsets="2177:2233" id="13" />
+      <Sentence char_offsets="2244:2351" id="14" />
+      <Sentence char_offsets="2362:2488" id="15" />
+      <Sentence char_offsets="2499:2735" id="16" />
+      <Sentence char_offsets="2746:2871" id="17" />
+      <Sentence char_offsets="2882:3010" id="18" />
+      <Sentence char_offsets="3012:3106" id="19" />
+      <Sentence char_offsets="3117:3374" id="20" />
+      <Sentence char_offsets="3385:3565" id="21" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="7" tense="neutral" type="020">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="current" type="033">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="20" tense="current" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31388" actor_name="Haiti" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="21" tense="neutral" type="036">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="21" tense="neutral" type="036">
+        <Participant actor_id="31388" actor_name="Haiti" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="21675" actor_name="Ren&#233; Pr&#233;val" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="20" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="33089" actor_name="Dominican Republic" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="20" tense="neutral" type="043">
+        <Participant actor_id="33089" actor_name="Dominican Republic" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

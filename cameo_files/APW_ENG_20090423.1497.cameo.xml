@@ -1,0 +1,84 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090423.1497">
+    <Sentences>
+      <Sentence char_offsets="198:389" id="0" />
+      <Sentence char_offsets="400:667" id="1" />
+      <Sentence char_offsets="678:927" id="2" />
+      <Sentence char_offsets="938:1112" id="3" />
+      <Sentence char_offsets="1123:1376" id="4" />
+      <Sentence char_offsets="1387:1467" id="5" />
+      <Sentence char_offsets="1478:1648" id="6" />
+      <Sentence char_offsets="1659:1803" id="7" />
+      <Sentence char_offsets="1805:1856" id="8" />
+      <Sentence char_offsets="1867:1927" id="9" />
+      <Sentence char_offsets="1929:1992" id="10" />
+      <Sentence char_offsets="2003:2190" id="11" />
+      <Sentence char_offsets="2201:2243" id="12" />
+      <Sentence char_offsets="2254:2390" id="13" />
+      <Sentence char_offsets="2392:2537" id="14" />
+      <Sentence char_offsets="2548:2758" id="15" />
+      <Sentence char_offsets="2760:2921" id="16" />
+      <Sentence char_offsets="2932:2977" id="17" />
+      <Sentence char_offsets="2979:3219" id="18" />
+      <Sentence char_offsets="3230:3342" id="19" />
+      <Sentence char_offsets="3344:3474" id="20" />
+      <Sentence char_offsets="3485:3787" id="21" />
+      <Sentence char_offsets="3789:3862" id="22" />
+      <Sentence char_offsets="3873:4121" id="23" />
+      <Sentence char_offsets="4123:4311" id="24" />
+      <Sentence char_offsets="4322:4428" id="25" />
+      <Sentence char_offsets="4439:4591" id="26" />
+      <Sentence char_offsets="4593:4707" id="27" />
+      <Sentence char_offsets="4718:4858" id="28" />
+      <Sentence char_offsets="4860:5121" id="29" />
+      <Sentence char_offsets="5132:5249" id="30" />
+      <Sentence char_offsets="5260:5476" id="31" />
+      <Sentence char_offsets="5478:5601" id="32" />
+      <Sentence char_offsets="5612:5789" id="33" />
+      <Sentence char_offsets="5791:5900" id="34" />
+      <Sentence char_offsets="5911:6028" id="35" />
+      <Sentence char_offsets="6030:6102" id="36" />
+      <Sentence char_offsets="6113:6239" id="37" />
+      <Sentence char_offsets="6241:6383" id="38" />
+      <Sentence char_offsets="6394:6399" id="39" />
+      <Sentence char_offsets="6410:6486" id="40" />
+      <Sentence char_offsets="6488:6526" id="41" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="677" agent_name="Attorney General" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="310" agent_name="Government Official" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="historical" type="010">
+        <Participant actor_id="6266" actor_name="Andrew Mark Cuomo" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="443" agent_name="Business" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="347" agent_name="Media Personnel" role="Source" />
+        <Participant actor_id="54282" actor_name="Henry M. Paulson" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="149" agent_name="Inspector General" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="29" tense="neutral" type="010">
+        <Participant actor_id="26780" actor_name="Bank of America" role="Source" />
+        <Participant actor_id="54282" actor_name="Henry M. Paulson" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="20" tense="neutral" type="020">
+        <Participant actor_id="26780" actor_name="Bank of America" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="25" agent_name="Bank" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="neutral" type="130">
+        <Participant actor_id="54282" actor_name="Henry M. Paulson" role="Source" />
+        <Participant actor_id="26780" actor_name="Bank of America" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="130">
+        <Participant actor_id="52646" actor_name="Ben Shalom Bernanke" role="Source" />
+        <Participant actor_id="26780" actor_name="Bank of America" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

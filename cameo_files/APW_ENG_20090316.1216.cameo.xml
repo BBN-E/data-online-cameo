@@ -1,0 +1,65 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090316.1216">
+    <Sentences>
+      <Sentence char_offsets="190:352" id="0" />
+      <Sentence char_offsets="363:471" id="1" />
+      <Sentence char_offsets="482:714" id="2" />
+      <Sentence char_offsets="725:804" id="3" />
+      <Sentence char_offsets="806:900" id="4" />
+      <Sentence char_offsets="911:1015" id="5" />
+      <Sentence char_offsets="1017:1091" id="6" />
+      <Sentence char_offsets="1093:1232" id="7" />
+      <Sentence char_offsets="1243:1445" id="8" />
+      <Sentence char_offsets="1447:1557" id="9" />
+      <Sentence char_offsets="1568:1760" id="10" />
+      <Sentence char_offsets="1762:1899" id="11" />
+      <Sentence char_offsets="1910:2061" id="12" />
+      <Sentence char_offsets="2063:2251" id="13" />
+      <Sentence char_offsets="2262:2375" id="14" />
+      <Sentence char_offsets="2386:2483" id="15" />
+      <Sentence char_offsets="2494:2591" id="16" />
+      <Sentence char_offsets="2593:2733" id="17" />
+      <Sentence char_offsets="2744:2957" id="18" />
+      <Sentence char_offsets="2968:3218" id="19" />
+      <Sentence char_offsets="3220:3406" id="20" />
+      <Sentence char_offsets="3417:3536" id="21" />
+      <Sentence char_offsets="3547:3623" id="22" />
+      <Sentence char_offsets="3625:3725" id="23" />
+      <Sentence char_offsets="3736:3876" id="24" />
+      <Sentence char_offsets="3887:3892" id="25" />
+      <Sentence char_offsets="3903:3965" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="22" tense="current" type="040">
+        <Participant actor_id="26924" actor_name="Xie Zhenhua" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="21" tense="neutral" type="042">
+        <Participant actor_id="26924" actor_name="Xie Zhenhua" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="12" tense="neutral" type="111">
+        <Participant actor_id="32631" actor_name="China" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="8" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="32631" actor_name="China" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="22" tense="current" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="209" agent_name="Envoy" role="Source" />
+        <Participant actor_id="26924" actor_name="Xie Zhenhua" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="21" tense="neutral" type="043">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="26924" actor_name="Xie Zhenhua" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

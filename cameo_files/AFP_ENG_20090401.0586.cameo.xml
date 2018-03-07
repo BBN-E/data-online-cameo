@@ -1,0 +1,25 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0586">
+    <Sentences>
+      <Sentence char_offsets="188:335" id="0" />
+      <Sentence char_offsets="346:541" id="1" />
+      <Sentence char_offsets="552:716" id="2" />
+      <Sentence char_offsets="727:859" id="3" />
+      <Sentence char_offsets="870:1025" id="4" />
+      <Sentence char_offsets="1036:1209" id="5" />
+      <Sentence char_offsets="1220:1401" id="6" />
+      <Sentence char_offsets="1412:1536" id="7" />
+      <Sentence char_offsets="1547:1661" id="8" />
+      <Sentence char_offsets="1672:1860" id="9" />
+      <Sentence char_offsets="1871:2007" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

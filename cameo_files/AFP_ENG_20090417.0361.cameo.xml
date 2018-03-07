@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090417.0361">
+    <Sentences>
+      <Sentence char_offsets="174:365" id="0" />
+      <Sentence char_offsets="376:592" id="1" />
+      <Sentence char_offsets="603:739" id="2" />
+      <Sentence char_offsets="750:967" id="3" />
+      <Sentence char_offsets="978:1114" id="4" />
+      <Sentence char_offsets="1125:1199" id="5" />
+      <Sentence char_offsets="1210:1448" id="6" />
+      <Sentence char_offsets="1459:1706" id="7" />
+      <Sentence char_offsets="1717:1808" id="8" />
+      <Sentence char_offsets="1810:1928" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32287" actor_name="Bermuda" role="Source" />
+        <Participant actor_id="37184" actor_name="Norway" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32287" actor_name="Bermuda" role="Source" />
+        <Participant actor_id="30571" actor_name="Faroe Islands" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="32287" actor_name="Bermuda" role="Source" />
+        <Participant actor_id="33701" actor_name="New Zealand" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="37184" actor_name="Norway" role="Source" />
+        <Participant actor_id="32287" actor_name="Bermuda" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="30571" actor_name="Faroe Islands" role="Source" />
+        <Participant actor_id="32287" actor_name="Bermuda" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="4" tense="neutral" type="057">
+        <Participant actor_id="33701" actor_name="New Zealand" role="Source" />
+        <Participant actor_id="32287" actor_name="Bermuda" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

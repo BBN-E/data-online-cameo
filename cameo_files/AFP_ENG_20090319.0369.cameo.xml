@@ -1,0 +1,72 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090319.0369">
+    <Sentences>
+      <Sentence char_offsets="189:381" id="0" />
+      <Sentence char_offsets="392:563" id="1" />
+      <Sentence char_offsets="574:812" id="2" />
+      <Sentence char_offsets="823:974" id="3" />
+      <Sentence char_offsets="985:1048" id="4" />
+      <Sentence char_offsets="1059:1201" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="neutral" type="012">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="012">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="2" tense="neutral" type="012">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="012">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="2" tense="neutral" type="012">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="1" tense="neutral" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="29045" actor_name="Africa" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="2" tense="current" type="042">
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Source" />
+        <Participant actor_id="32676" actor_name="Cameroon" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="30701" actor_name="France" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="37245" actor_name="Netherlands" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="32187" actor_name="Belgium" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="2" tense="neutral" type="111">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="40943" actor_name="Holy See (Vatican City State)" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="1" tense="neutral" type="043">
+        <Participant actor_id="29045" actor_name="Africa" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+      <Event id="13" sentence_id="2" tense="current" type="043">
+        <Participant actor_id="32676" actor_name="Cameroon" role="Source" />
+        <Participant actor_id="33416" actor_name="Benedict XVI" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,68 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090424.0130">
+    <Sentences>
+      <Sentence char_offsets="180:382" id="0" />
+      <Sentence char_offsets="393:510" id="1" />
+      <Sentence char_offsets="512:547" id="2" />
+      <Sentence char_offsets="558:671" id="3" />
+      <Sentence char_offsets="673:772" id="4" />
+      <Sentence char_offsets="774:849" id="5" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="4" tense="neutral" type="036">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="32525" actor_name="Germany" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="32428" actor_name="Czech Republic" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="0" tense="neutral" type="040">
+        <Participant actor_id="32525" actor_name="Germany" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="14883" actor_name="Jack Straw" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="5" tense="current" type="040">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="47071" actor_name="Monika Harms" role="Target" />
+      </Event>
+      <Event id="10" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="11" sentence_id="1" tense="neutral" type="040">
+        <Participant actor_id="14883" actor_name="Jack Straw" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="12" sentence_id="5" tense="current" type="040">
+        <Participant actor_id="47071" actor_name="Monika Harms" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

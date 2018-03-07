@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090407.1262">
+    <Sentences>
+      <Sentence char_offsets="188:408" id="0" />
+      <Sentence char_offsets="419:590" id="1" />
+      <Sentence char_offsets="601:779" id="2" />
+      <Sentence char_offsets="781:913" id="3" />
+      <Sentence char_offsets="924:989" id="4" />
+      <Sentence char_offsets="991:1123" id="5" />
+      <Sentence char_offsets="1134:1240" id="6" />
+      <Sentence char_offsets="1251:1389" id="7" />
+      <Sentence char_offsets="1400:1626" id="8" />
+      <Sentence char_offsets="1628:1704" id="9" />
+      <Sentence char_offsets="1706:1799" id="10" />
+      <Sentence char_offsets="1810:1934" id="11" />
+      <Sentence char_offsets="1936:2151" id="12" />
+      <Sentence char_offsets="2162:2335" id="13" />
+      <Sentence char_offsets="2337:2470" id="14" />
+      <Sentence char_offsets="2481:2612" id="15" />
+      <Sentence char_offsets="2614:2678" id="16" />
+      <Sentence char_offsets="2689:2899" id="17" />
+      <Sentence char_offsets="2901:2974" id="18" />
+      <Sentence char_offsets="2985:3199" id="19" />
+      <Sentence char_offsets="3201:3274" id="20" />
+      <Sentence char_offsets="3285:3658" id="21" />
+      <Sentence char_offsets="3669:3746" id="22" />
+      <Sentence char_offsets="3748:3887" id="23" />
+      <Sentence char_offsets="3898:4001" id="24" />
+      <Sentence char_offsets="4003:4226" id="25" />
+      <Sentence char_offsets="4237:4288" id="26" />
+      <Sentence char_offsets="4290:4383" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="010">
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Source" />
+        <Participant actor_id="34461" actor_name="Ted Stevens" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="16" tense="neutral" type="020">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="35527" actor_name="Eric H. Holder" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="14" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Source" />
+        <Participant actor_id="51568" actor_name="Michael Bernard Mukasey" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="22" tense="neutral" type="111">
+        <Participant actor_id="41262" actor_name="United States" agent_id="571" agent_name="Court Judge" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="73" agent_name="Lawyer/Attorney" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

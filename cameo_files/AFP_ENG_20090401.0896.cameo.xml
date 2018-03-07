@@ -1,0 +1,42 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0896">
+    <Sentences>
+      <Sentence char_offsets="179:362" id="0" />
+      <Sentence char_offsets="373:594" id="1" />
+      <Sentence char_offsets="605:762" id="2" />
+      <Sentence char_offsets="773:969" id="3" />
+      <Sentence char_offsets="980:1141" id="4" />
+      <Sentence char_offsets="1152:1332" id="5" />
+      <Sentence char_offsets="1343:1488" id="6" />
+      <Sentence char_offsets="1499:1646" id="7" />
+      <Sentence char_offsets="1657:1837" id="8" />
+      <Sentence char_offsets="1848:2056" id="9" />
+      <Sentence char_offsets="2067:2238" id="10" />
+      <Sentence char_offsets="2249:2365" id="11" />
+      <Sentence char_offsets="2376:2475" id="12" />
+      <Sentence char_offsets="2486:2670" id="13" />
+      <Sentence char_offsets="2681:2726" id="14" />
+      <Sentence char_offsets="2737:2889" id="15" />
+      <Sentence char_offsets="2900:2964" id="16" />
+      <Sentence char_offsets="2966:2998" id="17" />
+      <Sentence char_offsets="3009:3212" id="18" />
+      <Sentence char_offsets="3223:3383" id="19" />
+      <Sentence char_offsets="3394:3563" id="20" />
+      <Sentence char_offsets="3574:3721" id="21" />
+      <Sentence char_offsets="3732:3947" id="22" />
+      <Sentence char_offsets="3958:4107" id="23" />
+      <Sentence char_offsets="4118:4185" id="24" />
+      <Sentence char_offsets="4187:4312" id="25" />
+      <Sentence char_offsets="4323:4413" id="26" />
+      <Sentence char_offsets="4424:4533" id="27" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="historical" type="190">
+        <Participant actor_id="23103" actor_name="Al Qaeda" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

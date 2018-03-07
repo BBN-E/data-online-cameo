@@ -1,0 +1,39 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090410.1031">
+    <Sentences>
+      <Sentence char_offsets="191:328" id="0" />
+      <Sentence char_offsets="339:466" id="1" />
+      <Sentence char_offsets="468:560" id="2" />
+      <Sentence char_offsets="562:623" id="3" />
+      <Sentence char_offsets="634:711" id="4" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="current" type="010">
+        <Participant actor_id="44322" actor_name="Executive Office of the President" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="1" tense="current" type="041">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="12132" actor_name="Alan Garcia" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="041">
+        <Participant actor_id="12132" actor_name="Alan Garcia" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="3" tense="current" type="042">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="4" tense="neutral" type="051">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="12132" actor_name="Alan Garcia" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="3" tense="current" type="043">
+        <Participant actor_id="39629" actor_name="Trinidad and Tobago" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

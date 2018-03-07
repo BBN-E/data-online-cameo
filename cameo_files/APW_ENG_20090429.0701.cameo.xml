@@ -1,0 +1,54 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090429.0701">
+    <Sentences>
+      <Sentence char_offsets="199:418" id="0" />
+      <Sentence char_offsets="429:672" id="1" />
+      <Sentence char_offsets="683:737" id="2" />
+      <Sentence char_offsets="748:1009" id="3" />
+      <Sentence char_offsets="1020:1259" id="4" />
+      <Sentence char_offsets="1270:1357" id="5" />
+      <Sentence char_offsets="1359:1461" id="6" />
+      <Sentence char_offsets="1472:1533" id="7" />
+      <Sentence char_offsets="1544:1719" id="8" />
+      <Sentence char_offsets="1721:1781" id="9" />
+      <Sentence char_offsets="1792:1872" id="10" />
+      <Sentence char_offsets="1874:1961" id="11" />
+      <Sentence char_offsets="1972:2070" id="12" />
+      <Sentence char_offsets="2072:2125" id="13" />
+      <Sentence char_offsets="2136:2273" id="14" />
+      <Sentence char_offsets="2284:2574" id="15" />
+      <Sentence char_offsets="2585:2857" id="16" />
+      <Sentence char_offsets="2868:3009" id="17" />
+      <Sentence char_offsets="3020:3205" id="18" />
+      <Sentence char_offsets="3216:3339" id="19" />
+      <Sentence char_offsets="3350:3447" id="20" />
+      <Sentence char_offsets="3449:3580" id="21" />
+      <Sentence char_offsets="3591:3859" id="22" />
+      <Sentence char_offsets="3870:4000" id="23" />
+      <Sentence char_offsets="4011:4234" id="24" />
+      <Sentence char_offsets="4245:4423" id="25" />
+      <Sentence char_offsets="4434:4678" id="26" />
+      <Sentence char_offsets="4689:4775" id="27" />
+      <Sentence char_offsets="4786:4973" id="28" />
+      <Sentence char_offsets="4984:5053" id="29" />
+      <Sentence char_offsets="5064:5193" id="30" />
+      <Sentence char_offsets="5204:5310" id="31" />
+      <Sentence char_offsets="5321:5473" id="32" />
+      <Sentence char_offsets="5484:5666" id="33" />
+      <Sentence char_offsets="5677:5682" id="34" />
+      <Sentence char_offsets="5693:5874" id="35" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="26" tense="neutral" type="010">
+        <Participant actor_id="238048" actor_name="Liow Tiong Lai" role="Source" />
+        <Participant actor_id="40062" actor_name="Southeast Asia" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="19" tense="neutral" type="036">
+        <Participant actor_id="15361" actor_name="Hun Sen" role="Source" />
+        <Participant actor_id="40062" actor_name="Southeast Asia" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

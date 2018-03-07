@@ -1,0 +1,37 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090322.0276">
+    <Sentences>
+      <Sentence char_offsets="181:348" id="0" />
+      <Sentence char_offsets="350:397" id="1" />
+      <Sentence char_offsets="408:640" id="2" />
+      <Sentence char_offsets="651:752" id="3" />
+      <Sentence char_offsets="763:892" id="4" />
+      <Sentence char_offsets="903:1010" id="5" />
+      <Sentence char_offsets="1021:1076" id="6" />
+      <Sentence char_offsets="1078:1117" id="7" />
+      <Sentence char_offsets="1128:1260" id="8" />
+      <Sentence char_offsets="1262:1354" id="9" />
+      <Sentence char_offsets="1365:1542" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="10" tense="ongoing" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="20377" actor_name="Indian Administered Kashmir" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="10" tense="ongoing" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="20377" actor_name="Indian Administered Kashmir" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="10" tense="ongoing" type="190">
+        <Participant actor_id="34185" actor_name="Pakistan" role="Source" />
+        <Participant actor_id="31081" actor_name="India" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="10" tense="ongoing" type="190">
+        <Participant actor_id="31081" actor_name="India" role="Source" />
+        <Participant actor_id="34185" actor_name="Pakistan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

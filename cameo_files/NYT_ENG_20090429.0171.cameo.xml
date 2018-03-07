@@ -1,0 +1,45 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090429.0171">
+    <Sentences>
+      <Sentence char_offsets="151:421" id="0" />
+      <Sentence char_offsets="432:703" id="1" />
+      <Sentence char_offsets="714:1050" id="2" />
+      <Sentence char_offsets="1061:1169" id="3" />
+      <Sentence char_offsets="1171:1213" id="4" />
+      <Sentence char_offsets="1215:1272" id="5" />
+      <Sentence char_offsets="1274:1395" id="6" />
+      <Sentence char_offsets="1406:1462" id="7" />
+      <Sentence char_offsets="1473:1720" id="8" />
+      <Sentence char_offsets="1731:1839" id="9" />
+      <Sentence char_offsets="1850:1977" id="10" />
+      <Sentence char_offsets="1979:2159" id="11" />
+      <Sentence char_offsets="2170:2419" id="12" />
+      <Sentence char_offsets="2421:2571" id="13" />
+      <Sentence char_offsets="2582:2724" id="14" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="current" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Source" />
+        <Participant actor_id="38722" actor_name="Taliban" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="42985" actor_name="North Atlantic Treaty Organization" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="0" tense="neutral" type="190">
+        <Participant actor_id="38722" actor_name="Taliban" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,30 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090420.0261">
+    <Sentences>
+      <Sentence char_offsets="179:373" id="0" />
+      <Sentence char_offsets="384:574" id="1" />
+      <Sentence char_offsets="585:775" id="2" />
+      <Sentence char_offsets="786:979" id="3" />
+      <Sentence char_offsets="990:1143" id="4" />
+      <Sentence char_offsets="1154:1234" id="5" />
+      <Sentence char_offsets="1245:1407" id="6" />
+      <Sentence char_offsets="1418:1633" id="7" />
+      <Sentence char_offsets="1644:1741" id="8" />
+      <Sentence char_offsets="1752:1981" id="9" />
+      <Sentence char_offsets="1992:2170" id="10" />
+      <Sentence char_offsets="2181:2306" id="11" />
+      <Sentence char_offsets="2317:2486" id="12" />
+      <Sentence char_offsets="2497:2727" id="13" />
+      <Sentence char_offsets="2738:2875" id="14" />
+      <Sentence char_offsets="2886:3038" id="15" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="current" type="010">
+        <Participant actor_id="59182" actor_name="Brian Lenihan" role="Source" />
+        <Participant actor_id="5311" actor_name="Allied Irish Bank" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

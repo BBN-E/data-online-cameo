@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090416.0825">
+    <Sentences>
+      <Sentence char_offsets="199:419" id="0" />
+      <Sentence char_offsets="430:660" id="1" />
+      <Sentence char_offsets="662:821" id="2" />
+      <Sentence char_offsets="832:930" id="3" />
+      <Sentence char_offsets="932:1069" id="4" />
+      <Sentence char_offsets="1080:1112" id="5" />
+      <Sentence char_offsets="1114:1391" id="6" />
+      <Sentence char_offsets="1402:1508" id="7" />
+      <Sentence char_offsets="1510:1659" id="8" />
+      <Sentence char_offsets="1670:1899" id="9" />
+      <Sentence char_offsets="1910:1962" id="10" />
+      <Sentence char_offsets="1964:2040" id="11" />
+      <Sentence char_offsets="2051:2251" id="12" />
+      <Sentence char_offsets="2253:2388" id="13" />
+      <Sentence char_offsets="2399:2467" id="14" />
+      <Sentence char_offsets="2478:2635" id="15" />
+      <Sentence char_offsets="2646:2788" id="16" />
+      <Sentence char_offsets="2799:2918" id="17" />
+      <Sentence char_offsets="2920:3110" id="18" />
+      <Sentence char_offsets="3121:3300" id="19" />
+      <Sentence char_offsets="3302:3421" id="20" />
+      <Sentence char_offsets="3423:3510" id="21" />
+      <Sentence char_offsets="3521:3675" id="22" />
+      <Sentence char_offsets="3677:3788" id="23" />
+      <Sentence char_offsets="3799:3918" id="24" />
+      <Sentence char_offsets="3920:4019" id="25" />
+      <Sentence char_offsets="4030:4059" id="26" />
+      <Sentence char_offsets="4061:4136" id="27" />
+      <Sentence char_offsets="4147:4308" id="28" />
+      <Sentence char_offsets="4319:4444" id="29" />
+      <Sentence char_offsets="4455:4460" id="30" />
+      <Sentence char_offsets="4471:4481" id="31" />
+      <Sentence char_offsets="4492:4566" id="32" />
+      <Sentence char_offsets="4577:4615" id="33" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="16" tense="neutral" type="010">
+        <Participant actor_id="41262" actor_name="United States" agent_id="77" agent_name="Professor" role="Source" />
+        <Participant actor_id="29974" actor_name="New Centre" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

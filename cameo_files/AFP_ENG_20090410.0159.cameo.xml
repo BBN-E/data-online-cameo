@@ -1,0 +1,32 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090410.0159">
+    <Sentences>
+      <Sentence char_offsets="181:360" id="0" />
+      <Sentence char_offsets="371:551" id="1" />
+      <Sentence char_offsets="562:756" id="2" />
+      <Sentence char_offsets="767:858" id="3" />
+      <Sentence char_offsets="869:1064" id="4" />
+      <Sentence char_offsets="1075:1298" id="5" />
+      <Sentence char_offsets="1309:1506" id="6" />
+      <Sentence char_offsets="1517:1732" id="7" />
+      <Sentence char_offsets="1743:1883" id="8" />
+      <Sentence char_offsets="1894:2073" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="historical" type="062">
+        <Participant actor_id="41262" actor_name="United States" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="111">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="590" agent_name="Cleric" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="9" tense="historical" type="190">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="53254" actor_name="Muqtada Al-Sadr" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

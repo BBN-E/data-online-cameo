@@ -1,0 +1,35 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0035">
+    <Sentences>
+      <Sentence char_offsets="203:332" id="0" />
+      <Sentence char_offsets="343:502" id="1" />
+      <Sentence char_offsets="513:716" id="2" />
+      <Sentence char_offsets="727:833" id="3" />
+      <Sentence char_offsets="835:1014" id="4" />
+      <Sentence char_offsets="1025:1224" id="5" />
+      <Sentence char_offsets="1235:1393" id="6" />
+      <Sentence char_offsets="1404:1535" id="7" />
+      <Sentence char_offsets="1546:1739" id="8" />
+      <Sentence char_offsets="1750:1971" id="9" />
+      <Sentence char_offsets="1982:2133" id="10" />
+      <Sentence char_offsets="2144:2290" id="11" />
+      <Sentence char_offsets="2301:2472" id="12" />
+      <Sentence char_offsets="2483:2643" id="13" />
+      <Sentence char_offsets="2645:2716" id="14" />
+      <Sentence char_offsets="2727:2844" id="15" />
+      <Sentence char_offsets="2846:2906" id="16" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="180">
+        <Participant actor_id="39010" actor_name="South Africa" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="30701" actor_name="France" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

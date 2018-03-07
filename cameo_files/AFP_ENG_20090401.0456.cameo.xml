@@ -1,0 +1,44 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090401.0456">
+    <Sentences>
+      <Sentence char_offsets="166:352" id="0" />
+      <Sentence char_offsets="363:544" id="1" />
+      <Sentence char_offsets="555:701" id="2" />
+      <Sentence char_offsets="712:890" id="3" />
+      <Sentence char_offsets="901:1083" id="4" />
+      <Sentence char_offsets="1094:1321" id="5" />
+      <Sentence char_offsets="1332:1444" id="6" />
+      <Sentence char_offsets="1455:1613" id="7" />
+      <Sentence char_offsets="1624:1854" id="8" />
+      <Sentence char_offsets="1865:1926" id="9" />
+      <Sentence char_offsets="1937:1977" id="10" />
+      <Sentence char_offsets="1979:2079" id="11" />
+      <Sentence char_offsets="2090:2211" id="12" />
+      <Sentence char_offsets="2222:2386" id="13" />
+      <Sentence char_offsets="2397:2661" id="14" />
+      <Sentence char_offsets="2672:2864" id="15" />
+      <Sentence char_offsets="2875:3063" id="16" />
+      <Sentence char_offsets="3074:3270" id="17" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="0" tense="neutral" type="013">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="31105" actor_name="International" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="042">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="051">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="55801" actor_name="Nicolas Sarkozy" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="2" tense="neutral" type="043">
+        <Participant actor_id="30551" actor_name="United Kingdom" role="Source" />
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

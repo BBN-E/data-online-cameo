@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090320.0038">
+    <Sentences>
+      <Sentence char_offsets="173:407" id="0" />
+      <Sentence char_offsets="418:630" id="1" />
+      <Sentence char_offsets="641:799" id="2" />
+      <Sentence char_offsets="810:951" id="3" />
+      <Sentence char_offsets="962:1107" id="4" />
+      <Sentence char_offsets="1118:1277" id="5" />
+      <Sentence char_offsets="1288:1413" id="6" />
+      <Sentence char_offsets="1424:1542" id="7" />
+      <Sentence char_offsets="1553:1767" id="8" />
+      <Sentence char_offsets="1778:1933" id="9" />
+      <Sentence char_offsets="1944:2141" id="10" />
+      <Sentence char_offsets="2152:2343" id="11" />
+      <Sentence char_offsets="2354:2479" id="12" />
+      <Sentence char_offsets="2490:2627" id="13" />
+      <Sentence char_offsets="2638:2778" id="14" />
+      <Sentence char_offsets="2789:2958" id="15" />
+      <Sentence char_offsets="2969:3190" id="16" />
+      <Sentence char_offsets="3201:3343" id="17" />
+      <Sentence char_offsets="3354:3478" id="18" />
+      <Sentence char_offsets="3489:3700" id="19" />
+      <Sentence char_offsets="3711:3931" id="20" />
+      <Sentence char_offsets="3942:3986" id="21" />
+      <Sentence char_offsets="3997:4126" id="22" />
+      <Sentence char_offsets="4137:4356" id="23" />
+      <Sentence char_offsets="4367:4544" id="24" />
+      <Sentence char_offsets="4555:4713" id="25" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="12" tense="neutral" type="010">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="8" tense="neutral" type="0331">
+        <Participant actor_id="52850" actor_name="European Union" role="Source" />
+        <Participant actor_id="31102" actor_name="International Monetary Fund" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="20" tense="neutral" type="100">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="52850" actor_name="European Union" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

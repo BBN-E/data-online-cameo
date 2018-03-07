@@ -1,0 +1,41 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090302.0103">
+    <Sentences>
+      <Sentence char_offsets="190:368" id="0" />
+      <Sentence char_offsets="379:613" id="1" />
+      <Sentence char_offsets="624:662" id="2" />
+      <Sentence char_offsets="664:789" id="3" />
+      <Sentence char_offsets="800:930" id="4" />
+      <Sentence char_offsets="941:1160" id="5" />
+      <Sentence char_offsets="1171:1301" id="6" />
+      <Sentence char_offsets="1312:1456" id="7" />
+      <Sentence char_offsets="1467:1637" id="8" />
+      <Sentence char_offsets="1648:1756" id="9" />
+      <Sentence char_offsets="1767:1814" id="10" />
+      <Sentence char_offsets="1825:1920" id="11" />
+      <Sentence char_offsets="1922:1943" id="12" />
+      <Sentence char_offsets="1954:2148" id="13" />
+      <Sentence char_offsets="2159:2246" id="14" />
+      <Sentence char_offsets="2257:2375" id="15" />
+      <Sentence char_offsets="2386:2582" id="16" />
+      <Sentence char_offsets="2593:2757" id="17" />
+      <Sentence char_offsets="2768:2859" id="18" />
+      <Sentence char_offsets="2870:3050" id="19" />
+      <Sentence char_offsets="3061:3165" id="20" />
+      <Sentence char_offsets="3176:3330" id="21" />
+      <Sentence char_offsets="3341:3523" id="22" />
+      <Sentence char_offsets="3534:3665" id="23" />
+      <Sentence char_offsets="3676:3735" id="24" />
+      <Sentence char_offsets="3746:3933" id="25" />
+      <Sentence char_offsets="3944:3971" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="13" tense="neutral" type="051">
+        <Participant actor_id="15104" actor_name="Angela Merkel" role="Source" />
+        <Participant actor_id="19934" actor_name="Arnold Schwarzenegger" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

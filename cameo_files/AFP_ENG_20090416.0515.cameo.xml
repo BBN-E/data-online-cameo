@@ -1,0 +1,22 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0515">
+    <Sentences>
+      <Sentence char_offsets="194:357" id="0" />
+      <Sentence char_offsets="368:598" id="1" />
+      <Sentence char_offsets="609:895" id="2" />
+      <Sentence char_offsets="906:1080" id="3" />
+      <Sentence char_offsets="1091:1263" id="4" />
+      <Sentence char_offsets="1274:1496" id="5" />
+      <Sentence char_offsets="1507:1646" id="6" />
+      <Sentence char_offsets="1657:1818" id="7" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="5" tense="neutral" type="111">
+        <Participant actor_id="31392" actor_name="Human Rights Watch" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,86 @@
+<CAMEO_XML>
+
+  <Document id="NYT_ENG_20090425.0046">
+    <Sentences>
+      <Sentence char_offsets="217:391" id="0" />
+      <Sentence char_offsets="393:583" id="1" />
+      <Sentence char_offsets="594:876" id="2" />
+      <Sentence char_offsets="887:1002" id="3" />
+      <Sentence char_offsets="1004:1087" id="4" />
+      <Sentence char_offsets="1098:1255" id="5" />
+      <Sentence char_offsets="1257:1338" id="6" />
+      <Sentence char_offsets="1349:1554" id="7" />
+      <Sentence char_offsets="1565:1696" id="8" />
+      <Sentence char_offsets="1698:1820" id="9" />
+      <Sentence char_offsets="1831:2018" id="10" />
+      <Sentence char_offsets="2029:2289" id="11" />
+      <Sentence char_offsets="2291:2367" id="12" />
+      <Sentence char_offsets="2378:2507" id="13" />
+      <Sentence char_offsets="2509:2576" id="14" />
+      <Sentence char_offsets="2587:2744" id="15" />
+      <Sentence char_offsets="2746:2894" id="16" />
+      <Sentence char_offsets="2905:3093" id="17" />
+      <Sentence char_offsets="3095:3179" id="18" />
+      <Sentence char_offsets="3190:3479" id="19" />
+      <Sentence char_offsets="3490:3678" id="20" />
+      <Sentence char_offsets="3689:3808" id="21" />
+      <Sentence char_offsets="3810:3971" id="22" />
+      <Sentence char_offsets="3982:4220" id="23" />
+      <Sentence char_offsets="4222:4269" id="24" />
+      <Sentence char_offsets="4280:4436" id="25" />
+      <Sentence char_offsets="4438:4562" id="26" />
+      <Sentence char_offsets="4573:4759" id="27" />
+      <Sentence char_offsets="4770:4905" id="28" />
+      <Sentence char_offsets="4907:5070" id="29" />
+      <Sentence char_offsets="5081:5200" id="30" />
+      <Sentence char_offsets="5211:5286" id="31" />
+      <Sentence char_offsets="5288:5425" id="32" />
+      <Sentence char_offsets="5427:5486" id="33" />
+      <Sentence char_offsets="5497:5651" id="34" />
+      <Sentence char_offsets="5653:5795" id="35" />
+      <Sentence char_offsets="5806:5987" id="36" />
+      <Sentence char_offsets="5998:6068" id="37" />
+      <Sentence char_offsets="6070:6151" id="38" />
+      <Sentence char_offsets="6153:6200" id="39" />
+      <Sentence char_offsets="6211:6280" id="40" />
+      <Sentence char_offsets="6282:6528" id="41" />
+      <Sentence char_offsets="6539:6647" id="42" />
+      <Sentence char_offsets="6649:6814" id="43" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="17" tense="neutral" type="010">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="48217" actor_name="George W. Bush" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="30" tense="neutral" type="0332">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="329" agent_name="Pilgrim" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="26" tense="neutral" type="036">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="724" agent_name="Men" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="82" agent_name="Head of Government" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="3" tense="neutral" type="042">
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Source" />
+        <Participant actor_id="31853" actor_name="Iraq" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="27" tense="current" type="112">
+        <Participant actor_id="47786" actor_name="Sayyed Ali Khamenei" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="9" tense="neutral" type="040">
+        <Participant actor_id="31853" actor_name="Iraq" agent_id="82" agent_name="Head of Government" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="3" tense="neutral" type="043">
+        <Participant actor_id="31853" actor_name="Iraq" role="Source" />
+        <Participant actor_id="29508" actor_name="Hillary Clinton" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,24 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090329.0165">
+    <Sentences>
+      <Sentence char_offsets="182:383" id="0" />
+      <Sentence char_offsets="394:612" id="1" />
+      <Sentence char_offsets="623:842" id="2" />
+      <Sentence char_offsets="853:1022" id="3" />
+      <Sentence char_offsets="1033:1174" id="4" />
+      <Sentence char_offsets="1185:1401" id="5" />
+      <Sentence char_offsets="1412:1566" id="6" />
+      <Sentence char_offsets="1577:1799" id="7" />
+      <Sentence char_offsets="1810:2036" id="8" />
+      <Sentence char_offsets="2047:2256" id="9" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="010">
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="48" agent_name="Member of the Judiciary" role="Source" />
+        <Participant actor_id="29046" actor_name="Afghanistan" agent_id="347" agent_name="Media Personnel" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

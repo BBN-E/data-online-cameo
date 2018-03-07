@@ -1,0 +1,97 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090324.0078">
+    <Sentences>
+      <Sentence char_offsets="171:182" id="0" />
+      <Sentence char_offsets="184:194" id="1" />
+      <Sentence char_offsets="197:217" id="2" />
+      <Sentence char_offsets="220:265" id="3" />
+      <Sentence char_offsets="268:291" id="4" />
+      <Sentence char_offsets="294:335" id="5" />
+      <Sentence char_offsets="338:373" id="6" />
+      <Sentence char_offsets="376:457" id="7" />
+      <Sentence char_offsets="459:474" id="8" />
+      <Sentence char_offsets="476:500" id="9" />
+      <Sentence char_offsets="503:633" id="10" />
+      <Sentence char_offsets="635:654" id="11" />
+      <Sentence char_offsets="656:671" id="12" />
+      <Sentence char_offsets="673:700" id="13" />
+      <Sentence char_offsets="703:822" id="14" />
+      <Sentence char_offsets="824:839" id="15" />
+      <Sentence char_offsets="841:889" id="16" />
+      <Sentence char_offsets="892:948" id="17" />
+      <Sentence char_offsets="950:967" id="18" />
+      <Sentence char_offsets="970:1112" id="19" />
+      <Sentence char_offsets="1114:1129" id="20" />
+      <Sentence char_offsets="1131:1157" id="21" />
+      <Sentence char_offsets="1160:1324" id="22" />
+      <Sentence char_offsets="1326:1345" id="23" />
+      <Sentence char_offsets="1347:1357" id="24" />
+      <Sentence char_offsets="1359:1384" id="25" />
+      <Sentence char_offsets="1387:1440" id="26" />
+      <Sentence char_offsets="1442:1459" id="27" />
+      <Sentence char_offsets="1462:1616" id="28" />
+      <Sentence char_offsets="1618:1633" id="29" />
+      <Sentence char_offsets="1635:1657" id="30" />
+      <Sentence char_offsets="1660:1731" id="31" />
+      <Sentence char_offsets="1733:1767" id="32" />
+      <Sentence char_offsets="1769:1793" id="33" />
+      <Sentence char_offsets="1796:1931" id="34" />
+      <Sentence char_offsets="1933:1952" id="35" />
+      <Sentence char_offsets="1954:1969" id="36" />
+      <Sentence char_offsets="1971:1991" id="37" />
+      <Sentence char_offsets="1994:2064" id="38" />
+      <Sentence char_offsets="2066:2083" id="39" />
+      <Sentence char_offsets="2086:2161" id="40" />
+      <Sentence char_offsets="2163:2180" id="41" />
+      <Sentence char_offsets="2183:2275" id="42" />
+      <Sentence char_offsets="2277:2296" id="43" />
+      <Sentence char_offsets="2298:2313" id="44" />
+      <Sentence char_offsets="2316:2425" id="45" />
+      <Sentence char_offsets="2427:2444" id="46" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Source" />
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="18" agent_name="Businessperson" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="31" tense="neutral" type="040">
+        <Participant actor_id="28174" actor_name="NASA" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="38" tense="neutral" type="040">
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Source" />
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="28" tense="neutral" type="046">
+        <Participant actor_id="43427" actor_name="United Nations" role="Source" />
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Target" />
+      </Event>
+      <Event id="5" sentence_id="7" tense="neutral" type="040">
+        <Participant actor_id="57103" actor_name="Jaap de Hoop Scheffer" role="Source" />
+        <Participant actor_id="14631" actor_name="Barack Obama" role="Target" />
+      </Event>
+      <Event id="6" sentence_id="26" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="18" agent_name="Businessperson" role="Source" />
+        <Participant actor_id="2732" actor_name="Timothy Geithner" role="Target" />
+      </Event>
+      <Event id="7" sentence_id="31" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" role="Source" />
+        <Participant actor_id="28174" actor_name="NASA" role="Target" />
+      </Event>
+      <Event id="8" sentence_id="38" tense="neutral" type="040">
+        <Participant actor_id="41262" actor_name="United States" agent_id="168" agent_name="Lawmaker" role="Source" />
+        <Participant actor_id="24461" actor_name="Kevin Rudd" role="Target" />
+      </Event>
+      <Event id="9" sentence_id="28" tense="neutral" type="046">
+        <Participant actor_id="48158" actor_name="Gordon Brown" role="Source" />
+        <Participant actor_id="43427" actor_name="United Nations" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

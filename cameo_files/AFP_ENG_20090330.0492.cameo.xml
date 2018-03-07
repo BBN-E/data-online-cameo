@@ -1,0 +1,34 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090330.0492">
+    <Sentences>
+      <Sentence char_offsets="176:369" id="0" />
+      <Sentence char_offsets="380:552" id="1" />
+      <Sentence char_offsets="563:656" id="2" />
+      <Sentence char_offsets="667:874" id="3" />
+      <Sentence char_offsets="885:1107" id="4" />
+      <Sentence char_offsets="1118:1247" id="5" />
+      <Sentence char_offsets="1258:1439" id="6" />
+      <Sentence char_offsets="1450:1599" id="7" />
+      <Sentence char_offsets="1610:1827" id="8" />
+      <Sentence char_offsets="1838:1956" id="9" />
+      <Sentence char_offsets="1967:2178" id="10" />
+      <Sentence char_offsets="2189:2291" id="11" />
+      <Sentence char_offsets="2302:2520" id="12" />
+      <Sentence char_offsets="2531:2749" id="13" />
+      <Sentence char_offsets="2760:2969" id="14" />
+      <Sentence char_offsets="2980:3153" id="15" />
+      <Sentence char_offsets="3164:3384" id="16" />
+      <Sentence char_offsets="3395:3474" id="17" />
+      <Sentence char_offsets="3485:3701" id="18" />
+      <Sentence char_offsets="3712:3762" id="19" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="neutral" type="010">
+        <Participant actor_id="56777" actor_name="Kaoru Yosano" role="Source" />
+        <Participant actor_id="31492" actor_name="Japan" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

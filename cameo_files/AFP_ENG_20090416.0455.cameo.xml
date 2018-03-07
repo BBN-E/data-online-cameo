@@ -1,0 +1,51 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090416.0455">
+    <Sentences>
+      <Sentence char_offsets="184:361" id="0" />
+      <Sentence char_offsets="372:578" id="1" />
+      <Sentence char_offsets="589:811" id="2" />
+      <Sentence char_offsets="822:1024" id="3" />
+      <Sentence char_offsets="1035:1228" id="4" />
+      <Sentence char_offsets="1239:1459" id="5" />
+      <Sentence char_offsets="1470:1548" id="6" />
+      <Sentence char_offsets="1550:1663" id="7" />
+      <Sentence char_offsets="1674:1838" id="8" />
+      <Sentence char_offsets="1849:1980" id="9" />
+      <Sentence char_offsets="1991:2164" id="10" />
+      <Sentence char_offsets="2175:2347" id="11" />
+      <Sentence char_offsets="2358:2425" id="12" />
+      <Sentence char_offsets="2427:2569" id="13" />
+      <Sentence char_offsets="2580:2794" id="14" />
+      <Sentence char_offsets="2805:2986" id="15" />
+      <Sentence char_offsets="2997:3183" id="16" />
+      <Sentence char_offsets="3194:3351" id="17" />
+      <Sentence char_offsets="3362:3560" id="18" />
+      <Sentence char_offsets="3571:3782" id="19" />
+      <Sentence char_offsets="3793:3972" id="20" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="3800" actor_name="Interfax" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="9" tense="neutral" type="010">
+        <Participant actor_id="3800" actor_name="Interfax" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="27" agent_name="Law Enforcement" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="11" tense="neutral" type="010">
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="332" agent_name="Military" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="16" tense="neutral" type="111">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="108" agent_name="Rights Activist" role="Source" />
+        <Participant actor_id="3763" actor_name="Ramzan Akhmadovich Kadyrov" role="Target" />
+      </Event>
+      <Event id="4" sentence_id="16" tense="neutral" type="170">
+        <Participant actor_id="35528" actor_name="Russia" agent_id="332" agent_name="Military" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

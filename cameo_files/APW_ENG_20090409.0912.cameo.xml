@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090409.0912">
+    <Sentences>
+      <Sentence char_offsets="178:298" id="0" />
+      <Sentence char_offsets="309:356" id="1" />
+      <Sentence char_offsets="358:451" id="2" />
+      <Sentence char_offsets="462:524" id="3" />
+      <Sentence char_offsets="526:647" id="4" />
+      <Sentence char_offsets="658:798" id="5" />
+      <Sentence char_offsets="800:884" id="6" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="7195" actor_name="Dmitry Anatolyevich Medvedev" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="current" type="036">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="7338" actor_name="Vladimir Putin" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="1" tense="current" type="042">
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Source" />
+        <Participant actor_id="35528" actor_name="Russia" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="1" tense="current" type="043">
+        <Participant actor_id="35528" actor_name="Russia" role="Source" />
+        <Participant actor_id="56287" actor_name="Nuri al-Maliki" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

@@ -1,0 +1,56 @@
+<CAMEO_XML>
+
+  <Document id="APW_ENG_20090331.1469">
+    <Sentences>
+      <Sentence char_offsets="180:384" id="0" />
+      <Sentence char_offsets="395:574" id="1" />
+      <Sentence char_offsets="585:691" id="2" />
+      <Sentence char_offsets="693:893" id="3" />
+      <Sentence char_offsets="904:1137" id="4" />
+      <Sentence char_offsets="1148:1324" id="5" />
+      <Sentence char_offsets="1335:1449" id="6" />
+      <Sentence char_offsets="1460:1565" id="7" />
+      <Sentence char_offsets="1567:1636" id="8" />
+      <Sentence char_offsets="1638:1651" id="9" />
+      <Sentence char_offsets="1662:1760" id="10" />
+      <Sentence char_offsets="1771:1858" id="11" />
+      <Sentence char_offsets="1869:2049" id="12" />
+      <Sentence char_offsets="2060:2360" id="13" />
+      <Sentence char_offsets="2371:2563" id="14" />
+      <Sentence char_offsets="2574:2652" id="15" />
+      <Sentence char_offsets="2654:2722" id="16" />
+      <Sentence char_offsets="2724:2808" id="17" />
+      <Sentence char_offsets="2819:2954" id="18" />
+      <Sentence char_offsets="2956:3049" id="19" />
+      <Sentence char_offsets="3051:3066" id="20" />
+      <Sentence char_offsets="3068:3127" id="21" />
+      <Sentence char_offsets="3138:3309" id="22" />
+      <Sentence char_offsets="3311:3347" id="23" />
+      <Sentence char_offsets="3358:3445" id="24" />
+      <Sentence char_offsets="3456:3548" id="25" />
+      <Sentence char_offsets="3550:3637" id="26" />
+      <Sentence char_offsets="3639:3710" id="27" />
+      <Sentence char_offsets="3721:3866" id="28" />
+      <Sentence char_offsets="3877:4040" id="29" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="14" tense="current" type="173">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="4" tense="historical" type="190">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="236534" actor_name="Hell's Angels" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="historical" type="193">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="32098" actor_name="Canada" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+      <Event id="3" sentence_id="5" tense="historical" type="193">
+        <Participant actor_id="32098" actor_name="Canada" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="236534" actor_name="Hell's Angels" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

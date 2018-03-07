@@ -1,0 +1,33 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090429.0377">
+    <Sentences>
+      <Sentence char_offsets="178:395" id="0" />
+      <Sentence char_offsets="406:624" id="1" />
+      <Sentence char_offsets="635:832" id="2" />
+      <Sentence char_offsets="843:1047" id="3" />
+      <Sentence char_offsets="1058:1267" id="4" />
+      <Sentence char_offsets="1278:1490" id="5" />
+      <Sentence char_offsets="1501:1549" id="6" />
+      <Sentence char_offsets="1551:1674" id="7" />
+      <Sentence char_offsets="1685:1803" id="8" />
+      <Sentence char_offsets="1805:1874" id="9" />
+      <Sentence char_offsets="1885:2070" id="10" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="010">
+        <Participant actor_id="32981" actor_name="Hans-Rudolf Merz" role="Source" />
+        <Participant actor_id="32622" actor_name="Switzerland" role="Target" />
+      </Event>
+      <Event id="1" sentence_id="2" tense="neutral" type="020">
+        <Participant actor_id="32981" actor_name="Hans-Rudolf Merz" role="Source" />
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="020">
+        <Participant actor_id="32981" actor_name="Hans-Rudolf Merz" role="Source" />
+        <Participant actor_id="25006" actor_name="Organization for Economic Cooperation and Development" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>

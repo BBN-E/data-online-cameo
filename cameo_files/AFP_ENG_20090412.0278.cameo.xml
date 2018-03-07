@@ -1,0 +1,48 @@
+<CAMEO_XML>
+
+  <Document id="AFP_ENG_20090412.0278">
+    <Sentences>
+      <Sentence char_offsets="185:346" id="0" />
+      <Sentence char_offsets="357:510" id="1" />
+      <Sentence char_offsets="521:642" id="2" />
+      <Sentence char_offsets="653:751" id="3" />
+      <Sentence char_offsets="762:820" id="4" />
+      <Sentence char_offsets="822:983" id="5" />
+      <Sentence char_offsets="994:1200" id="6" />
+      <Sentence char_offsets="1211:1364" id="7" />
+      <Sentence char_offsets="1375:1520" id="8" />
+      <Sentence char_offsets="1531:1751" id="9" />
+      <Sentence char_offsets="1762:1898" id="10" />
+      <Sentence char_offsets="1909:2037" id="11" />
+      <Sentence char_offsets="2048:2176" id="12" />
+      <Sentence char_offsets="2187:2298" id="13" />
+      <Sentence char_offsets="2309:2372" id="14" />
+      <Sentence char_offsets="2374:2437" id="15" />
+      <Sentence char_offsets="2448:2556" id="16" />
+      <Sentence char_offsets="2567:2636" id="17" />
+      <Sentence char_offsets="2647:2789" id="18" />
+      <Sentence char_offsets="2800:2964" id="19" />
+      <Sentence char_offsets="2975:3135" id="20" />
+      <Sentence char_offsets="3146:3228" id="21" />
+      <Sentence char_offsets="3230:3352" id="22" />
+      <Sentence char_offsets="3354:3409" id="23" />
+      <Sentence char_offsets="3420:3512" id="24" />
+      <Sentence char_offsets="3514:3636" id="25" />
+      <Sentence char_offsets="3647:3816" id="26" />
+    </Sentences>
+    <Events>
+      <Event id="0" sentence_id="1" tense="neutral" type="141">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="510" agent_name="Protester" role="Source" />
+      </Event>
+      <Event id="1" sentence_id="0" tense="current" type="145">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Source" />
+        <Participant actor_id="25845" actor_name="Vladimir Voronin" role="Target" />
+      </Event>
+      <Event id="2" sentence_id="5" tense="neutral" type="182">
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="27" agent_name="Law Enforcement" role="Source" />
+        <Participant actor_id="36630" actor_name="Moldova" agent_id="173" agent_name="Citizen" role="Target" />
+      </Event>
+    </Events>
+  </Document>
+
+</CAMEO_XML>
